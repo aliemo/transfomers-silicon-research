@@ -12,7 +12,7 @@ BERT is a Transformer-based model. The architecture of BERT is similar to the or
 
 --- 
 
-## Initial Papers
+## Reference Papers
 
 **1. Attention Is All You Need**
 
@@ -38,5 +38,37 @@ BERT is conceptually simple and empirically powerful. It obtains new state-of-th
 improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute improvement) and SQuAD v2.0 Test F1 to 83.1 (5.1 point absolute improvement).
 </details>
 
-#
+## Important Papers
+
+**Distilling the Knowledge in a Neural Network, 2015**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1503.02531) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1503.02531.pdf)
+
+
+**Distilling Knowledge Learned in BERT for Text Generation, 2020**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs//1911.03829) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1911.03829.pdf)
+
+
+**DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter, 2019**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1910.01108) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1910.01108.pdf)
+
+**TinyBERT: Distilling BERT for Natural Language Understanding, 2020**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1909.10351) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1909.10351.pdf)
+
+**Distilling the Knowledge in a Neural Network, 2015**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1503.02531) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1503.02531.pdf)
+
+**FastBERT: a Self-distilling BERT with Adaptive Inference Time, 2020**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/2004.02178) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/2004.02178.pdf)
+
+**Distilling Task-Specific Knowledge from BERT into Simple Neural Networks, 2019**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1903.12136) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1903.12136.pdf)
+
+**Patient Knowledge Distillation for BERT Model Compression, 2019**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1908.09355) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1908.09355.pdf)
+
+**MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices, 2020**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/2004.02984) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/2004.02984.pdf)
+
+**Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding, 2019**
+[![Paper-Link](https://img.shields.io/badge/Paper-Link-blue?&style=plastic)](https://arxiv.org/abs/1904.09482) [![PDF-Download](https://img.shields.io/badge/PDF-Download-green?logoColor=red&&style=plastic&logo=adobe)](https://arxiv.org/pdf/1904.09482.pdf)
 
