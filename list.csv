@@ -1,0 +1,370 @@
+A 28nm 27.5 TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing
+A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation
+A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval
+A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks
+A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks
+A Fast Post-Training Pruning Framework for Transformers
+A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture
+A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators
+A full-stack accelerator search technique for vision applications
+A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining
+A Lite Romanian BERT:ALR-BERT
+A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications
+A microcontroller is all you need: Enabling transformer execution on low-power iot endnodes
+A multi-neural network acceleration architecture
+A power efficient neural network implementation on heterogeneous FPGA and GPU devices
+A primer in bertology: What we know about how bert works
+A Quantitative Survey of Communication Optimizations in Distributed Deep Learning
+A reconfigurable dnn training accelerator on fpga
+A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication
+A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation
+A simple and effective approach to automatic post-editing with transfer learning
+A Study on Token Pruning for ColBERT
+A white paper on neural network quantization
+A^3: Accelerating attention mechanisms in neural networks with approximation
+Abstractive text summarization for Hungarian
+Accelerated Device Placement Optimization with Contrastive Learning
+Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array
+Accelerating attention through gradient-based learned runtime pruning
+Accelerating bandwidth-bound deep learning inference with main-memory accelerators
+Accelerating Emerging Neural Workloads
+Accelerating event detection with DGCNN and FPGAS
+Accelerating framework of transformer by hardware design and model compression co-optimization
+Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method
+Accelerating Transformer Networks through Recomposing Softmax Layers
+Accelerating transformer-based deep learning models on fpgas using column balanced block pruning
+Accommodating transformer onto fpga: Coupling the balanced model compression and fpga-implementation optimization
+Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling
+Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling
+Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design
+Adapting by pruning: A case study on BERT
+Adaptive inference through early-exit networks: Design, challenges and directions
+Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA
+Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices
+Algorithm-hardware co-design of single shot detector for fast object detection on FPGAs
+AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models
+Alternative non-BERT model choices for the textual classification in low-resource languages and environments
+An algorithm–hardware co-optimized framework for accelerating n: M sparse transformers
+An Automatic and Efficient BERT Pruning for Edge AI Systems
+An Efficient Hardware Accelerator for Sparse Transformer Neural Networks
+An Efficient Transformer Inference Engine on DSP
+An empirical analysis of BERT embedding for automated essay scoring
+An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention
+An evaluation of transfer learning for classifying sales engagement emails at large scale
+An fpga-based transformer accelerator using output block stationary dataflow for object recognition applications
+An investigation on different underlying quantization schemes for pre-trained language models
+Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers
+Answer Fast: Accelerating BERT on the Tensor Streaming Processor
+Ant: Exploiting adaptive numerical data type for low-bit deep neural network quantization
+APT: The master-copy-free training method for quantised neural network on edge devices
+Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond
+Architectural Design and Implementation of Bit Error Rate Tester on FPGA
+ATT: A fault-tolerant ReRAM accelerator for attention-based neural networks
+AUBER: Automated BERT regularization
+Auto-ViT-Acc: An FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization
+Automatic Mixed-Precision Quantization Search of BERT
+Automatic Mixed-Precision Quantization Search of BERT
+AutoPunct: A BERT-based Automatic Punctuation and Capitalisation System for Spanish and Basque
+Balance Multi-Head Attention based on Software and Hardware Co-design
+BEBERT: Efficient and robust binary ensemble BERT
+BERMo: What can BERT learn from ELMo?
+BERT Compression: Data Quantization
+BERT Model for Classification of Fake News using the Cloud Processing Capacity
+BERT model optimization methods for inference: a comparative study of five alternative BERT-model implementations
+BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning
+Bertinho: Galician BERT representations
+BERTPerf: Inference Latency Predictor for BERT on ARM big.LITTLE Multi-Core Processors
+BERxiT: Early exiting for BERT with better fine-tuning and extension to regression
+Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression
+BiBERT: Accurate Fully Binarized BERT
+Bigger&Faster: Two-stage Neural Architecture Search for Quantized Transformer Models
+Binary complex neural network acceleration on fpga
+Binarybert: Pushing the limit of bert quantization
+Biomedical Named Entity Recognition at Scale
+Biomedical Named Entity Recognition in Eight Languages with Zero Code Changes
+BiT: Robustly Binarized Multi-distilled Transformer
+Block pruning for faster transformers
+Boosting Distributed Training Performance of the Unpadded BERT Model
+Capuchin: Tensor-based GPU memory management for deep learning
+CATBERT: Context-aware tiny BERT for detecting social engineering emails
+CatBERT: Context-Aware Tiny BERT for Detecting Targeted Social Engineering Emails
+Centaur: A chiplet-based, hybrid sparse-dense accelerator for personalized recommendations
+CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture
+Colbert: Efficient and effective passage search via contextualized late interaction over bert
+Combining Feature Selection Methods with BERT: An In-depth Experimental Study of Long Text Classification
+Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking
+Comparison of deep learning models and various text pre-processing techniques for the toxic comments classification
+Compressing bert: Studying the effects of weight pruning on transfer learning
+Compressing large-scale transformer-based models: A case study on bert
+Compressing Pre-trained Transformers via Low-Bit NxM Sparsity for Natural Language Understanding
+Compression of deep learning models for NLP
+Compression of Generative Pre-trained Language Models via Quantization
+CONNA: Configurable Matrix Multiplication Engine for Neural Network Acceleration
+ConveRT: Efficient and accurate conversational representations from transformers
+CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture
+Cross-modal distillation with audio–text fusion for fine-grained emotion classification using BERT and Wav2vec 2.0
+DAP-BERT: Differentiable Architecture Pruning of BERT
+Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA
+Dc-bert: Decoupling question and document for efficient contextual encoding
+Deep Compression of Pre-trained Transformer Models
+Deep learning acceleration with neuron-to-memory transformation
+DeepCuts: Single-Shot Interpretability based Pruning for BERT
+DeepSpeed: System Optimizations Enable Training Deep Learning Models with over 100 Billion Parameters
+Demystifying BERT: Implications for Accelerator Design
+Demystifying BERT: System Design Implications
+DenseBert4Ret: Deep bi-modal for image retrieval
+Designing FPGA-based modular architectures for NLP models
+Designing Scalable Computer Systems to Accelerate Heterogeneous NLP Models
+DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation
+Digit-Wise Parallelism of Additive Operations in Numeration Systems with Redundant Digits.
+DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT
+Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval
+Distilling the Knowledge of Romanian BERTs Using Multiple Teachers
+DiVIT: Algorithm and architecture co-design of differential attention in vision transformer
+DOTA: detect and omit weak attentions for scalable transformer acceleration
+Double Trouble: How to not explain a text classifier's decisions using counterfactuals synthesized by masked language models?
+DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization
+DTATrans: Leveraging Dynamic Token-based Quantization with Accuracy Compensation Mechanism for Efficient Transformer Architecture
+DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture
+Dynamic Precision Analog Computing for Neural Networks
+Dynamic-TinyBERT: Boost TinyBERT's Inference Efficiency by Dynamic Sequence Length
+EAGLE: Expedited device placement with automatic grouping for large models
+Earlybert: Efficient bert training via early-bird lottery tickets
+EBERT: Efficient BERT Inference with Dynamic Structured Pruning
+EdgeBERT: Sentence-level energy optimizations for latency-aware multi-task NLP inference
+EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers
+Effectiveness of self-supervised pre-training for asr
+Effectiveness of self-supervised pre-training for speech recognition
+Efficient algorithms and hardware for natural language processing
+Efficient algorithms for device placement of dnn graph operators
+Efficient and Large Scale Pre-Training Techniques for Japanese Natural Language Processing
+Efficient Attention Mechanism by Softmax Function with Trained Coefficient
+Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization
+Efficient transformer-based large scale language representations using hardware-friendly block structured pruning
+Efficient transformers: A survey
+Elastic Processing and Hardware Architectures for Machine Learning
+Elbert: Fast albert with confidence-window based early exit
+ELSA: Hardware-Software co-design for efficient, lightweight self-attention mechanism in neural networks
+Emerging trends: A gentle introduction to fine-tuning
+Empirical Evaluation of Post-Training Quantization Methods for Language Tasks
+Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications
+Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems
+Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators
+Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks
+Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks
+Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations
+Enabling Fast Uncertainty Estimation: Exploiting Structured Sparsity in Bayesian Transformers
+Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers
+Energy efficiency boost in the AI-infused POWER10 processor
+ENEX-FP: A BERT-Based Address Recognition Model
+Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs
+Evaluating the Impact of OCR Quality on Short Texts Classification Task
+Extending the ONNX Runtime Framework for the Processing-in-Memory Execution
+Extending the ONNX Runtime Framework for the Processing-in-Memory Execution
+Extreme Compression for Pre-trained Transformers Made Simple and Efficient
+FARM: A flexible accelerator for recurrent and memory augmented neural networks
+FARNN: FPGA-GPU Hybrid Acceleration Platform for Recurrent Neural Networks
+Fast and Accurate FSA System Using ELBERT: An Efficient and Lightweight BERT
+Fast and accurate neural CRF constituency parsing
+Fast Heterogeneous Task Mapping for Reducing Edge DNN Latency
+Fastformers: Highly efficient transformer models for natural language understanding
+fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP
+Fedaux: Leveraging unlabeled auxiliary data in federated learning
+Federated split bert for heterogeneous text classification
+FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization
+Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT
+Fine-grained sentiment classification using BERT
+Fixed-point Quantization for Vision Transformer
+FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference
+Fpga implementation of object detection accelerator based on vitis-ai
+FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results
+FPGA-based accelerator for the verification of leading-edge wireless systems
+FPGA-based bit error rate performance measurement of wireless systems
+FPGA-based design and implementation of the location attention mechanism in neural networks
+FPGA-based design and implementation of the location attention mechanism in neural networks
+FPGA-based reconfigurable adaptive FEC
+From dense to sparse: Contrastive pruning for better pre-trained language model compression
+Ftrans: energy-efficient acceleration of transformers using fpga
+Fully quantized transformer for machine translation
+Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicasting
+Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration
+Ghostbert: Generate more features with cheap operations for BERT
+GMP*: Well-Tuned Global Magnitude Pruning Can Outperform Most BERT-Pruning Methods
+Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference
+GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks
+Greedy-layer pruning: Speeding up transformer models for natural language processing
+GuardNN: secure accelerator architecture for privacy-preserving deep learning
+HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization
+Handling heavy-tailed input of transformer inference on GPUs
+Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing
+Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights
+Hardware Acceleration of Transformer Networks using FPGAs
+Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer
+Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit
+Hardware and Software Co-optimization for Windows Attention
+Hardware-friendly compression and hardware acceleration for transformer: A survey
+Hardware/Software Co-Design of Edge DNN Accelerators with TFLite
+HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU
+HoloFormer: Deep Compression of Pre-Trained Transforms via Unified Optimization of N: M Sparsity and Integer Quantization
+How Deep Learning Model Architecture and Software Stack Impacts Training Performance in the Cloud
+How to train bert with an academic budget
+I-bert: Integer-only bert quantization
+Improving accuracy and speeding up document image classification through parallel systems
+Improving Oversubscribed GPU Memory Performance in the PyTorch Framework
+Improving post training neural quantization: Layer-wise calibration and integer programming
+Improving the efficiency of transformers for resource-constrained devices
+Int-Monitor: a model triggered hardware trojan in deep learning accelerators
+INT8 Transformers for Inference Acceleration
+Integer Fine-tuning of Transformer-based Models
+Integer quantization for deep learning inference: Principles and empirical evaluation
+KAISA: An adaptive second-order optimizer framework for deep neural networks
+KDLSQ-BERT: A quantized bert combining knowledge distillation with learned step size quantization
+Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads
+Ladabert: Lightweight adaptation of bert through hybrid model compression
+Late Breaking Results: FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization
+Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling
+Learned Token Pruning in Contextualized Late Interaction over BERT
+Learning light-weight translation models from deep transformer
+Lightweight composite re-ranking for efficient keyword search with BERT
+Lightweight Transformers for Conversational AI
+Llm. int8 (): 8-bit matrix multiplication for transformers at scale
+Load What You Need: Smaller Versions of Multilingual BERT
+Look-up table based energy efficient processing in cache support for neural network acceleration
+Low-Bit Quantization of Transformer for Audio Speech Recognition
+Low-Precision Quantization Techniques for Hardware-Implementation-Friendly BERT Models
+M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA
+Magnet: A modular accelerator generator for neural networks
+Managing diameter growth and natural pruning of Parana pine, Araucaria angustifolia (Bert.) O Ktze., to produce high value timber
+Measurement approaches and implementation of a fading characterization tester for evaluating optical turbulent channels
+Minilm: Deep self-attention distillation for task-agnostic compression of pre-trained transformers
+MKQ-BERT: Quantized BERT with 4-bits Weights and Activations
+Model-Free Ber Measurement in Free Space Laser Communication Link
+Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models
+Movement pruning: Adaptive sparsity by fine-tuning
+Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error
+mrna: Enabling efficient mapping space exploration for a reconfiguration neural accelerator
+MSP: an FPGA-specific mixed-scheme, multi-precision deep neural network quantization framework
+Nas-BERT: task-agnostic and adaptive-size BERT compression with neural architecture search
+Near-Optimal Sparse Allreduce for Distributed Deep Learning
+Nebula: A Scalable and Flexible Accelerator for DNN Multi-Branch Blocks on Embedded Systems
+NEEBS: Nonexpert large-scale environment building system for deep neural network
+NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds
+NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds
+NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models
+NPE: An FPGA-based overlay processor for natural language processing
+On the Prunability of Attention Heads in Multilingual BERT
+Optimal Brain Compression: A framework for accurate post-training quantization and pruning
+Optimal clipping and magnitude-aware differentiation for improved quantization-aware training
+Parameter-efficient transfer learning with diff pruning
+Parp: Prune, adjust and re-prune for self-supervised speech recognition
+PipeBERT: High-throughput BERT Inference for ARM Big. LITTLE Multi-core Processors
+PipeBERT: High-throughput BERT Inference for ARM Big.LITTLE Multi-core Processors
+Poor man's bert: Smaller and faster transformer models
+Post-Training Quantization for Longformer with Chunkwise Quantization Granularity and Optimized Percentile
+Post-training quantization for vision transformer
+PoWER-BERT: Accelerating BERT inference via progressive word-vector elimination
+Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing
+Pre-trained bert-gru model for relation extraction
+Pre-trained Language Model with Feature Reduction and No Fine-Tuning
+Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks
+Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection
+Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption
+Proceedings of the 26th Conference of Open Innovations Association FRUCT, FRUCT 2020
+Prose: The architecture and design of a protein discovery engine
+ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning
+Prune once for all: Sparse pre-trained language models
+Pruning redundant mappings in transformer models via spectral-normalized identity prior
+PTQ4ViT: Post-Training Quantization Framework for Vision Transformers
+Q-bert: Hessian based ultra low precision quantization of bert
+Q8bert: Quantized 8bit bert
+QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization
+QuaLA-MiniLM: a Quantized Length Adaptive MiniLM
+Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection
+Rct: Resource constrained training for edge ai
+Re2PIM: A reconfigurable ReRAM-based PIM design for variable-sized vector-matrix multiplication
+ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design
+Reconfigurable performance measurement system-on-a-chip for baseband wireless algorithm design and verification
+Relation Extraction using Multiple Pre-Training Models in Biomedical Domain
+Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model
+Rethinking co-design of neural architectures and hardware accelerators
+Rethinking Network Pruning--under the Pre-train and Fine-tune Paradigm
+ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration
+Reweighted proximal pruning for large-scale language representation
+RISC-VTF: RISC-V Based Extended Instruction Set for Transformer
+RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions
+ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques
+Row-wise Accelerator for Vision Transformer
+S4: a High-sparsity, High-performance AI Accelerator
+SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences
+Sanger: A co-design framework for enabling sparse attention using reconfigurable architecture
+schuBERT: Optimizing elements of BERT
+Searching for memory-lighter architectures for OCR-augmented image captioning
+SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference
+Self-supervised learning with random-projection quantizer for speech recognition
+Semantic convolutional neural network model for safe business investment by using bert
+SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression
+Sentence-Level Sentiment Classification A Comparative Study between Deep Learning Models
+Sentiment Analysis Using Pre-Trained Language Model With No Fine-Tuning and Less Resource
+Sequence Labeling Algorithms for Punctuation Restoration in Brazilian Portuguese Texts
+Similarity Calculation Method of Siamese-CNN Judgment Document Based on TinyBERT
+Simplified tinybert: Knowledge distillation for document retrieval
+SmaQ: Smart Quantization for DNN Training by Exploiting Value Clustering
+Smoothquant: Accurate and efficient post-training quantization for large language models
+Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers
+Software and Hardware Fusion Multi-Head Attention
+Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation
+Sparse* BERT: Sparse Models are Robust
+SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity
+Spatten: Efficient sparse attention architecture with cascade token and head pruning
+SQuAT: Sharpness-and Quantization-Aware Training for BERT
+SqueezeBERT: What can computer vision teach NLP about efficient neural networks?
+Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks
+Structured Pruning Adapters
+Structured pruning of a BERT-based question answering model
+Structured pruning of large language models
+SwiftPruner: Reinforced Evolutionary Pruning for Efficient Ad Relevance
+T-OPU: An FPGA-based Overlay Processor for Natural Language Processing
+Talos: A Weighted Speedup-Aware Device Placement of Deep Learning Models
+Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers
+Ternarybert: Distillation-aware ultra-low bit bert
+Text Processor for IPC Prediction
+The lottery ticket hypothesis for pre-trained bert networks
+The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models
+Thesaurus-based word embeddings for automated biomedical literature classification
+TiC-SAT: Tightly-coupled Systolic Accelerator for Transformers
+Ticket-BERT: Labeling Incident Management Tickets with Language Models
+Tinybert: Distilling bert for natural language understanding
+TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference at the Extreme Edge
+TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge
+Topic-BERT: Detecting harmful information from social media
+TopicBERT for energy efficient document classification
+Towards efficient post-training quantization of pre-trained language models
+Tr-bert: Dynamic token reduction for accelerating bert inference
+Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models
+Training large neural networks with constant memory using a new execution algorithm
+Training with quantization noise for extreme model compression
+TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes
+Transformer Acceleration with Dynamic Sparse Attention
+TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer
+TwinBERT: Distilling Knowledge to Twin-Structured Compressed BERT Models for Large-Scale Retrieval
+Ultron-AutoML: An open-source, distributed, scalable framework for efficient hyper-parameter optimization
+Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders
+Understanding and overcoming the challenges of efficient transformer quantization
+Unsupervised path representation learning with curriculum negative sampling
+Using transfer learning approach to implement convolutional neural network model to recommend airline tickets by using online reviews
+VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer
+Varuna: Scalable, Low-cost Training of Massive Deep Learning Models
+Via: A novel vision-transformer accelerator based on fpga
+Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation
+Vis-TOP: Visual Transformer Overlay Processor
+Vitality: Unifying low-rank and sparse approximation for vision transformer acceleration with a linear taylor attention
+vq-wav2vec: Self-supervised learning of discrete speech representations
+Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference
+W2v-bert: Combining contrastive learning and masked language modeling for self-supervised speech pre-training
+Ways for board and system test to benefit from FPGA embedded instrumentation
+When bert plays the lottery, all tickets are winning
+Work-in-Progress: Utilizing latency and accuracy predictors for efficient hardware-aware NAS
+Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates
+XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion
+XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient
+ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
