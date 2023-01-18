@@ -202,3 +202,73 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA47549.2020.00035-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA47549.2020.00035)
 
+**Emerging Neural Workloads and Their Impact on Hardware**
+
+![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.23919/DATE48585.2020.9116435-sandybrown?style=flat-square)](https://doi.org/10.23919/DATE48585.2020.9116435)
+
+**Accelerated Device Placement Optimization with Contrastive Learning**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3472456.3472523-sandybrown?style=flat-square)](https://doi.org/10.1145/3472456.3472523)
+
+**Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3549937-sandybrown?style=flat-square)](https://doi.org/10.1145/3549937)
+
+**Accelerating attention through gradient-based learned runtime pruning**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3470496.3527423-sandybrown?style=flat-square)](https://doi.org/10.1145/3470496.3527423)
+
+**Accelerating bandwidth-bound deep learning inference with main-memory accelerators**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3458817.3476146-sandybrown?style=flat-square)](https://doi.org/10.1145/3458817.3476146)
+
+**Accelerating Emerging Neural Workloads**
+
+![](https://img.shields.io/badge/Purdue%20University-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.25394/pgs.17139038.v1-sandybrown?style=flat-square)](https://doi.org/10.25394/pgs.17139038.v1)
+
+**Accelerating event detection with DGCNN and FPGAS**
+
+![](https://img.shields.io/badge/MDPI-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.3390/electronics9101666-sandybrown?style=flat-square)](https://doi.org/10.3390/electronics9101666)
+
+**Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization**
+
+![](https://img.shields.io/badge/IEEE/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD51958.2021.9643586-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD51958.2021.9643586)
+
+**Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISVLSI54635.2022.00092-sandybrown?style=flat-square)](https://doi.org/10.1109/ISVLSI54635.2022.00092)
+
+**Accelerating Transformer Networks through Recomposing Softmax Layers**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/IISWC55918.2022.00018-sandybrown?style=flat-square)](https://doi.org/10.1109/IISWC55918.2022.00018)
+
+**Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISQED51717.2021.9424344-sandybrown?style=flat-square)](https://doi.org/10.1109/ISQED51717.2021.9424344)
+
+**Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3453688.3461739-sandybrown?style=flat-square)](https://doi.org/10.1145/3453688.3461739)
+
+**Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2022.3203051-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2022.3203051)
+
+**Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO56248.2022.00050-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO56248.2022.00050)
+
