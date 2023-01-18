@@ -1,0 +1,3688 @@
+2:
+  title: "A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing"
+  year: 2022
+  doi: https://doi.org/10.1109/ISSCC42614.2022.9731686
+  url: https://doi.org/10.1109/ISSCC42614.2022.9731686
+  publisher: null
+  pub: IEEE International Solid- State Circuits Conference (ISSCC)
+  pubshort: IEEE-ISSCC
+  ignore: false
+  
+3:
+  title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
+  year: 2022
+  doi: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
+  url: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
+  publisher: IEEE
+  pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
+  pubshort: IEEE-ESSCIRC
+  ignore: false
+  
+4:
+  title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
+  year: 2022
+  doi: https://doi.org/10.1109/FCCM53951.2022.9786159
+  url: https://doi.org/10.1109/FCCM53951.2022.9786159
+  publisher: IEEE
+  pub: Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+  pubshort: IEEE-FCCM
+  ignore: false
+  
+5:
+  title: "A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks"
+  year: 2022
+  doi: https://doi.org/10.1145/3564606
+  url: https://doi.org/10.1145/3564606
+  publisher: ACM
+  pub: ACM Transactions on Architecture and Code Optimization
+  pubshort: ACM-TACO
+  ignore: false
+  
+7:
+  title: "A Fast Post-Training Pruning Framework for Transformers"
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2204.09656
+  url: https://doi.org/10.48550/arXiv.2204.09656
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
+  pubshort: arXiv-CSCL
+  ignore: false
+  
+8:
+  title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
+  year: 2022
+  doi: https://doi.org/10.1109/TCAD.2021.3121264
+  url: https://doi.org/10.1109/TCAD.2021.3121264
+  publisher: IEEE
+  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  pubshort: TCAD
+  ignore: false
+  
+9:
+  title: "A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators"
+  year: 2021
+  doi: https://doi.org/10.1109/ICCAD51958.2021.9643471
+  url: https://doi.org/10.1109/ICCAD51958.2021.9643471
+  publisher: IEEE/ACM
+  pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+  pubshort: ICCAD
+  ignore: false
+  
+10:
+  title: "A Full-Stack Search Technique for Domain Optimized Deep Learning Accelerators"
+  year: 2021
+  doi: https://doi.org/10.1145/3503222.3507767
+  url: https://doi.org/10.1145/3503222.3507767
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
+  pubshort: arXiv-CSML
+  ignore: false
+  
+11:
+  title: "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining"
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530585
+  url: https://doi.org/10.1145/3489517.3530585
+  publisher: ACM/IEEE
+  pub: ACM/IEEE Design Automation Conference
+  pubshort: DAC
+  ignore: false
+  
+12:
+  title: "A Lite Romanian BERT: ALR-BERT"
+  year: 2022
+  doi: https://doi.org/10.3390/computers11040057
+  url: https://doi.org/10.3390/computers11040057
+  publisher: MDPI
+  pub: Computers
+  pubshort: null
+  ignore: false
+  
+13:
+  title: "A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications"
+  year: 2020
+  doi: https://doi.org/10.1109/ICFPT51103.2020.00014
+  url: https://doi.org/10.1109/ICFPT51103.2020.00014
+  publisher: IEEE
+  pub: International Conference on Field-Programmable Technology (ICFPT)
+  pubshort: ICFPT
+  ignore: false
+  
+14:
+  title: "A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes"
+  year: 2021
+  doi: https://doi.org/10.1109/COINS51742.2021.9524173
+  url: https://doi.org/10.1109/COINS51742.2021.9524173
+  publisher: IEEE
+  pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
+  pubshort: COINS
+  ignore: false
+  
+15:
+  title: "A Multi-Neural Network Acceleration Architecture"
+  year: 2020
+  doi: https://doi.org/10.1109/ISCA45697.2020.00081
+  url: https://doi.org/10.1109/ISCA45697.2020.00081
+  publisher: ACM/IEEE
+  pub: Annual International Symposium on Computer Architecture (ISCA)
+  pubshort: ISCA
+  ignore: false
+  
+16:
+  title: "A Power Efficient Neural Network Implementation on Heterogeneous FPGA and GPU Devices"
+  year: 2019
+  doi: https://doi.org/10.1109/IRI.2019.00040
+  url: https://doi.org/10.1109/IRI.2019.00040
+  publisher: IEEE
+  pub: International Conference on Information Reuse and Integration for Data Science (IRI)
+  pubshort: IRA
+  ignore: false
+  
+17:
+  title: "A Primer in BERTology: What We Know About How BERT Works"
+  year: 2020
+  doi: https://doi.org/10.1162/tacl_a_00349
+  url: https://doi.org/10.1162/tacl_a_00349
+  publisher: MIt%20Press
+  pub: Transactions of the Association for Computational Linguistics
+  pubshort: null
+  ignore: false
+  
+18:
+  title: "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning"
+  year: 2021
+  doi: https://doi.org/10.1109/MNET.011.2000530
+  url: https://doi.org/10.1109/MNET.011.2000530
+  publisher: IEEE
+  pub: IEEE Network
+  pubshort: null
+  ignore: false
+  
+19:
+  title: "A Reconfigurable DNN Training Accelerator on FPGA"
+  year: 2020
+  doi: https://doi.org/10.1109/SiPS50750.2020.9195234
+  url: https://doi.org/10.1109/SiPS50750.2020.9195234
+  publisher: IEEE
+  pub: IEEE Workshop on Signal Processing Systems (SiPS)
+  pubshort: SiPS
+  ignore: false
+  
+20:
+  title: "A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication"
+  year: 2022
+  doi: https://doi.org/10.1109/ISCAS48785.2022.9937531
+  url: https://doi.org/10.1109/ISCAS48785.2022.9937531
+  publisher: IEEE
+  pub: International Symposium on Circuits and Systems (ISCAS)
+  pubshort: ISCAS
+  ignore: false
+  
+21:
+  title: "A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation"
+  year: 2022
+  doi: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
+  url: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
+  publisher: IEEE
+  pub: IEEE Global Communications Conference
+  pubshort: null
+  ignore: false
+  
+22:
+  title: "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning"
+  year: 2019
+  doi: https://doi.org/10.48550/arXiv.1906.06253
+  url: https://doi.org/10.48550/arXiv.1906.06253
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
+  pubshort: null
+  ignore: false
+  
+23:
+  title: "A Study on Token Pruning for ColBERT"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2112.06540
+  url: https://doi.org/10.48550/arXiv.2112.06540
+  publisher: arXiv
+  pub: Computer Science > Information Retrieval
+  pubshort: null
+  ignore: false
+  
+24:
+  title: "A White Paper on Neural Network Quantization"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2106.08295
+  url: https://doi.org/10.48550/arXiv.2106.08295
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
+  pubshort: null
+  ignore: false
+  
+25:
+  title: "A^3: Accelerating Attention Mechanisms in Neural Networks with Approximation"
+  year: 2020
+  doi: https://doi.org/10.1109/HPCA47549.2020.00035
+  url: https://doi.org/10.1109/HPCA47549.2020.00035
+  publisher: IEEE
+  pub: International Symposium on High Performance Computer Architecture (HPCA)
+  pubshort: HPCA
+  ignore: false
+  
+26:
+  title: "Emerging Neural Workloads and Their Impact on Hardware"
+  year: 2020
+  doi: https://doi.org/10.23919/DATE48585.2020.9116435
+  url: https://doi.org/10.23919/DATE48585.2020.9116435
+  publisher: IEEE
+  pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubshort: DATE
+  
+27:
+  title: "Accelerated Device Placement Optimization with Contrastive Learning"
+  year: 2021
+  doi: https://doi.org/10.1145/3472456.3472523
+  url: https://doi.org/10.1145/3472456.3472523
+  publisher: ACM
+  pub: International Conference on Parallel Processing
+  pubshort: ICCP
+  ignore: false
+  
+28:
+  title: "Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array"
+  year: 2022
+  doi: https://doi.org/10.1145/3549937
+  url: https://doi.org/10.1145/3549937
+  publisher: ACM
+  pub: ACM Transactions on Embedded Computing Systems
+  pubshort: TECS
+  ignore: false
+  
+29:
+  title: "Accelerating attention through gradient-based learned runtime pruning"
+  year: 2022
+  doi: https://doi.org/10.1145/3470496.3527423
+  url: https://doi.org/10.1145/3470496.3527423
+  publisher: ACM
+  pub: International Symposium on Computer Architecture
+  pubshort: ISCA
+  ignore: false
+  
+30:
+  title: "Accelerating bandwidth-bound deep learning inference with main-memory accelerators"
+  year: 2021
+  doi: https://doi.org/10.1145/3458817.3476146
+  url: https://doi.org/10.1145/3458817.3476146
+  publisher: ACM
+  pub: International Conference for High Performance Computing, Networking, Storage and Analysis
+  pubshort: SC
+  ignore: false
+  
+31:
+  title: "Accelerating Emerging Neural Workloads"
+  year: 2021
+  doi: https://doi.org/10.25394/pgs.17139038.v1
+  url: https://doi.org/10.25394/pgs.17139038.v1
+  publisher: Purdue%20University
+  pub: Open Access Theses and Dissertations
+  pubshort: null
+  ignore: false
+  
+32:
+  title: "Accelerating event detection with DGCNN and FPGAS"
+  year: 2020
+  doi: https://doi.org/10.3390/electronics9101666
+  url: https://doi.org/10.3390/electronics9101666
+  publisher: MDPI
+  pub: Electronics
+  pubshort: null
+  ignore: false
+  
+33:
+  title: "Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization"
+  year: 2021
+  doi: https://doi.org/10.1109/ICCAD51958.2021.9643586
+  url: https://doi.org/10.1109/ICCAD51958.2021.9643586
+  publisher: IEEE/ACM
+  pub: International Conference On Computer Aided Design (ICCAD)
+  pubshort: ICCAD
+  ignore: false
+  
+34:
+  title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
+  year: 2022
+  doi: https://doi.org/10.1109/ISVLSI54635.2022.00092
+  url: https://doi.org/10.1109/ISVLSI54635.2022.00092
+  publisher: IEEE
+  pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  pubshort: ISVLSI
+  ignore: false
+  
+35:
+  title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
+  year: 2022
+  doi: https://doi.org/10.1109/IISWC55918.2022.00018
+  url: https://doi.org/10.1109/IISWC55918.2022.00018
+  publisher: IEEE
+  pub: International Symposium on Workload Characterization (IISWC)
+  pubshort: IIWSC
+  ignore: false
+  
+36:
+  title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column
+    Balanced Block Pruning"
+  year: 2021
+  doi: https://doi.org/10.1109/ISQED51717.2021.9424344
+  url: https://doi.org/10.1109/ISQED51717.2021.9424344
+  publisher: IEEE
+  pub: International Symposium on Quality Electronic Design (ISQED)
+  pubshort: ISQED
+  ignore: false
+  
+37:
+  title: "Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization"
+  year: 2021
+  doi: https://doi.org/10.1145/3453688.3461739
+  url: https://doi.org/10.1145/3453688.3461739
+  publisher: ACM
+  pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
+  pubshort: GLSVLSI
+  ignore: false
+  
+38:
+  title: "Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling"
+  year: 2022
+  doi: https://doi.org/10.1109/ACCESS.2022.3203051
+  url: https://doi.org/10.1109/ACCESS.2022.3203051
+  publisher: IEEE
+  pub: IEEE Access
+  pubshort: IEEE%20Access
+  ignore: false
+  
+40:
+  title: "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design"
+  year: 2022
+  doi: https://doi.org/10.1109/MICRO56248.2022.00050
+  url: https://doi.org/10.1109/MICRO56248.2022.00050
+  publisher: IEEE
+  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubshort: MICRO
+  ignore: false
+  
+41:
+  title: "Adapting by pruning: A case study on BERT"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2105.03343
+  url: https://doi.org/10.48550/arXiv.2105.03343
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
+  pubshort: null
+  ignore: false
+  
+42:
+  title: "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions"
+  year: 2021
+  doi: https://doi.org/10.1145/3469116.3470012
+  url: https://doi.org/10.1145/3469116.3470012
+  publisher: ACM
+  pub: International Workshop on Embedded and Mobile Deep Learning
+  pubshort: EMDL
+  ignore: false
+  
+43:
+  title: "Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA"
+  year: 2021
+  doi: https://doi.org/10.1109/TIP.2021.3076556
+  url: https://doi.org/10.1109/TIP.2021.3076556
+  publisher: IEEE
+  pub: IEEE Transactions on Image Processing
+  pubshort: TIP
+  ignore: false
+  
+44:
+  title: "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices"
+  year: 2021
+  doi: https://doi.org/10.1145/3477002
+  url: https://doi.org/10.1145/3477002
+  publisher: ACM
+  pub: Transactions on Embedded Computing System
+  pubshort: TECS
+  ignore: false
+  
+45:
+  title: "Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs"
+  year: 2018
+  doi: https://doi.org/10.1145/3240765.3240775
+  url: https://doi.org/10.1145/3240765.3240775
+  publisher: IEEE/ACM
+  pub: International Conference on Computer-Aided Design (ICCAD)
+  pubshort: ICCAD
+  ignore: false
+  
+46:
+  title: "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models"
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2210.03858
+  url: https://doi.org/10.48550/arXiv.2210.03858
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
+  pubshort: null
+  ignore: false
+  
+47:
+  title: "Alternative non-BERT model choices for the textual classification in low-resource languages and environments"
+  year: 2022
+  doi: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
+  url: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
+  publisher: ACL
+  pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
+  pubshort: null
+  ignore: false
+  
+48:
+  title: "An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers"
+  year: 2022
+  doi: https://doi.org/10.1109/TVLSI.2022.3197282
+  url: https://doi.org/10.1109/TVLSI.2022.3197282
+  publisher: IEEE
+  pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
+  pubshort: TCAD
+  ignore: false
+  
+49:
+  title: "An Automatic and Efficient BERT Pruning for Edge AI Systems"
+  year: 2022
+  doi: https://doi.org/10.1109/ISQED54688.2022.9806197
+  url: https://doi.org/10.1109/ISQED54688.2022.9806197
+  publisher: IEEE
+  pub: International Symposium on Quality Electronic Design (ISQED)
+  pubshort: ISQED
+  ignore: false
+  
+50:
+  title: "An Efficient Hardware Accelerator for Sparse Transformer Neural Networks"
+  year: 2022
+  doi: https://doi.org/10.1109/ISCAS48785.2022.9937659
+  url: https://doi.org/10.1109/ISCAS48785.2022.9937659
+  publisher: IEEE
+  pub: International Symposium on Circuits and Systems (ISCAS)
+  pubshort: ISCAS
+  ignore: false
+  
+51:
+  title: "An Efficient Transformer Inference Engine on DSP"
+  year: 2023
+  doi: https://doi.org/10.1007/978--3--031--22677--9_29
+  url: https://doi.org/10.1007/978-3-031-22677-9_29
+  publisher: Springer
+  pub: International Conference on Algorithms and Architectures for Parallel Processing
+  pubshort: null
+  ignore: false
+  
+52:
+  title: "An Empirical Analysis of BERT Embedding for Automated Essay Scoring"
+  year: 2020
+  doi: https://doi.org/10.14569/ijacsa.2020.0111027
+  url: https://doi.org/10.14569/ijacsa.2020.0111027
+  publisher: TheSAI
+  pub: International Journal of Advanced Computer Science and Applications
+  pubshort: IJACSA
+  ignore: false
+  
+53:
+  title: "An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention"
+  year: 2022
+  doi: https://doi.org/10.1109/JSSC.2022.3213521
+  url: https://doi.org/10.1109/JSSC.2022.3213521
+  publisher: IEEE
+  pub: Journal of Solid-State Circuits
+  pubshort: JSSC
+  ignore: false
+  
+54:
+  title: "An Evaluation of Transfer Learning for Classifying Sales Engagement Emails at Large Scale"
+  year: 2019
+  doi: https://doi.org/10.1109/CCGRID.2019.00069
+  url: https://doi.org/10.1109/CCGRID.2019.00069
+  publisher: IEEE
+  pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
+  pubshort: CCGRID
+  ignore: false
+  
+55:
+  title: "An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications"
+  year: 2022
+  doi: https://doi.org/10.1109/TCSII.2022.3196055
+  url: https://doi.org/10.1109/TCSII.2022.3196055
+  publisher: IEEE
+  pub: 'Transactions on Circuits and Systems II: Express Briefs'
+  pubshort: TCSII
+  ignore: false
+  
+56:
+  title: "An investigation on different underlying quantization schemes for pre-trained language models"
+  year: 2020
+  doi: https://doi.org/10.1007/978--3--030--60450--9_29
+  url: https://doi.org/10.1007/978--3--030--60450--9_29
+  publisher: Springer
+  pub: International Conference on Natural Language Processing and Chinese Computing
+  pubshort: null
+  ignore: false
+  url: https://doi.org/10.1007/978-3-030-60450-9_29
+57:
+  title: "Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers"
+  year: 2022
+  doi: https://doi.org/10.1109/ISCAS48785.2022.9937292
+  url: https://doi.org/10.1109/ISCAS48785.2022.9937292
+  publisher: IEEE
+  pub: International Symposium on Circuits and Systems (ISCAS)
+  pubshort: ISCAS
+  ignore: false
+  
+58:
+  title: "Answer Fast: Accelerating BERT on the Tensor Streaming Processor"
+  year: 2022
+  doi: https://doi.org/10.1109/ASAP54787.2022.00022
+  url: https://doi.org/10.1109/ASAP54787.2022.00022
+  publisher: IEEE
+  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubshort: ASAP
+  ignore: false
+  
+59:
+  title: "ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization"
+  year: 2022
+  doi: https://doi.org/10.1109/MICRO56248.2022.00095
+  url: https://doi.org/10.1109/MICRO56248.2022.00095
+  publisher: IEEE
+  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubshort: MICRO
+  ignore: false
+  
+60:
+  title: "APT: The master-copy-free training method for quantised neural network on edge devices"
+  year: 2022
+  doi: https://doi.org/10.1016/j.jpdc.2022.04.005
+  url: https://doi.org/10.1016/j.jpdc.2022.04.005
+  publisher: Elsevier
+  pub: Journal of Parallel and Distributed Computing
+  pubshort: JPDC
+  ignore: false
+  
+61:
+  title: "Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+62:
+  title: "Architectural Design and Implementation of Bit Error Rate Tester on FPGA"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+63:
+  title: "ATT: A fault-tolerant ReRAM accelerator for attention-based neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+64:
+  title: "AUBER: Automated BERT regularization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+65:
+  title: "Auto-ViT-Acc: An FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+66:
+  title: "Automatic Mixed-Precision Quantization Search of BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+67:
+  title: "Automatic Mixed-Precision Quantization Search of BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+68:
+  title: "AutoPunct: A BERT-based Automatic Punctuation and Capitalisation System for Spanish and Basque"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+69:
+  title: "Balance Multi-Head Attention based on Software and Hardware Co-design"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+70:
+  title: "BEBERT: Efficient and robust binary ensemble BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+71:
+  title: "BERMo: What can BERT learn from ELMo?"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+72:
+  title: "BERT Compression: Data Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+73:
+  title: "BERT Model for Classification of Fake News using the Cloud Processing Capacity"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+74:
+  title: "BERT model optimization methods for inference: a comparative study of five alternative BERT-model implementations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+75:
+  title: "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+76:
+  title: "Bertinho: Galician BERT representations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+77:
+  title: "BERTPerf: Inference Latency Predictor for BERT on ARM big.LITTLE Multi-Core Processors"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+78:
+  title: "BERxiT: Early exiting for BERT with better fine-tuning and extension to regression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+79:
+  title: "Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+80:
+  title: "BiBERT: Accurate Fully Binarized BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+81:
+  title: "Bigger&Faster: Two-stage Neural Architecture Search for Quantized Transformer Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+82:
+  title: "Binary complex neural network acceleration on fpga"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+83:
+  title: "Binarybert: Pushing the limit of bert quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+84:
+  title: "Biomedical Named Entity Recognition at Scale"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+85:
+  title: "Biomedical Named Entity Recognition in Eight Languages with Zero Code Changes"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+86:
+  title: "BiT: Robustly Binarized Multi-distilled Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+87:
+  title: "Block pruning for faster transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+88:
+  title: "Boosting Distributed Training Performance of the Unpadded BERT Model"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+89:
+  title: "Capuchin: Tensor-based GPU memory management for deep learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+90:
+  title: "CATBERT: Context-aware tiny BERT for detecting social engineering emails"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+91:
+  title: "CatBERT: Context-Aware Tiny BERT for Detecting Targeted Social Engineering Emails"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+92:
+  title: "Centaur: A chiplet-based, hybrid sparse-dense accelerator for personalized recommendations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+93:
+  title: "CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+94:
+  title: "Colbert: Efficient and effective passage search via contextualized late interaction over bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+95:
+  title: "Combining Feature Selection Methods with BERT: An In-depth Experimental Study of Long Text Classification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+96:
+  title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+97:
+  title: "Comparison of deep learning models and various text pre-processing techniques for the toxic comments classification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+98:
+  title: "Compressing bert: Studying the effects of weight pruning on transfer learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+99:
+  title: "Compressing large-scale transformer-based models: A case study on bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+100:
+  title: "Compressing Pre-trained Transformers via Low-Bit NxM Sparsity for Natural Language Understanding"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+101:
+  title: "Compression of deep learning models for NLP"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+102:
+  title: "Compression of Generative Pre-trained Language Models via Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+103:
+  title: "CONNA: Configurable Matrix Multiplication Engine for Neural Network Acceleration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+104:
+  title: "ConveRT: Efficient and accurate conversational representations from transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+105:
+  title: "CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+106:
+  title: "Cross-modal distillation with audio–text fusion for fine-grained emotion classification using BERT and Wav2vec 2.0"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+107:
+  title: "DAP-BERT: Differentiable Architecture Pruning of BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+108:
+  title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+109:
+  title: "Dc-bert: Decoupling question and document for efficient contextual encoding"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+110:
+  title: "Deep Compression of Pre-trained Transformer Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+111:
+  title: "Deep learning acceleration with neuron-to-memory transformation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+112:
+  title: "DeepCuts: Single-Shot Interpretability based Pruning for BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+113:
+  title: "DeepSpeed: System Optimizations Enable Training Deep Learning Models with over 100 Billion Parameters"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+114:
+  title: "Demystifying BERT: Implications for Accelerator Design"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+115:
+  title: "Demystifying BERT: System Design Implications"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+116:
+  title: "DenseBert4Ret: Deep bi-modal for image retrieval"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+117:
+  title: "Designing FPGA-based modular architectures for NLP models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+118:
+  title: "Designing Scalable Computer Systems to Accelerate Heterogeneous NLP Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+119:
+  title: "DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+120:
+  title: "Digit-Wise Parallelism of Additive Operations in Numeration Systems with Redundant Digits."
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+121:
+  title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+122:
+  title: "Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+123:
+  title: "Distilling the Knowledge of Romanian BERTs Using Multiple Teachers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+124:
+  title: "DiVIT: Algorithm and architecture co-design of differential attention in vision transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+125:
+  title: "DOTA: detect and omit weak attentions for scalable transformer acceleration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+126:
+  title: "Double Trouble: How to not explain a text classifier's decisions using counterfactuals synthesized by masked language models?"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+127:
+  title: "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+128:
+  title: "DTATrans: Leveraging Dynamic Token-based Quantization with Accuracy Compensation Mechanism for Efficient Transformer Architectur"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+129:
+  title: "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+130:
+  title: "Dynamic Precision Analog Computing for Neural Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+131:
+  title: "Dynamic-TinyBERT: Boost TinyBERT's Inference Efficiency by Dynamic Sequence Length"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+132:
+  title: "EAGLE: Expedited device placement with automatic grouping for large models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+133:
+  title: "Earlybert: Efficient bert training via early-bird lottery tickets"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+134:
+  title: "EBERT: Efficient BERT Inference with Dynamic Structured Pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+135:
+  title: "EdgeBERT: Sentence-level energy optimizations for latency-aware multi-task NLP inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+136:
+  title: "EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+137:
+  title: "Effectiveness of self-supervised pre-training for asr"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+138:
+  title: "Effectiveness of self-supervised pre-training for speech recognition"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+139:
+  title: "Efficient algorithms and hardware for natural language processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+140:
+  title: "Efficient algorithms for device placement of dnn graph operators"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+141:
+  title: "Efficient and Large Scale Pre-Training Techniques for Japanese Natural Language Processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+142:
+  title: "Efficient Attention Mechanism by Softmax Function with Trained Coefficient"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+143:
+  title: "Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+144:
+  title: "Efficient transformer-based large scale language representations using hardware-friendly block structured pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+145:
+  title: "Efficient transformers: A survey"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+146:
+  title: "Elastic Processing and Hardware Architectures for Machine Learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+147:
+  title: "Elbert: Fast albert with confidence-window based early exit"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+148:
+  title: "ELSA: Hardware-Software co-design for efficient, lightweight self-attention mechanism in neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+149:
+  title: "Emerging trends: A gentle introduction to fine-tuning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+150:
+  title: "Empirical Evaluation of Post-Training Quantization Methods for Language Tasks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+151:
+  title: "Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+152:
+  title: "Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+153:
+  title: "Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+154:
+  title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+155:
+  title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+156:
+  title: "Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+157:
+  title: "Enabling Fast Uncertainty Estimation: Exploiting Structured Sparsity in Bayesian Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+158:
+  title: "Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+159:
+  title: "Energy efficiency boost in the AI-infused POWER10 processor"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+160:
+  title: "ENEX-FP: A BERT-Based Address Recognition Model"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+161:
+  title: "Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+162:
+  title: "Evaluating the Impact of OCR Quality on Short Texts Classification Task"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+163:
+  title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+164:
+  title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+165:
+  title: "Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+166:
+  title: "FARM: A flexible accelerator for recurrent and memory augmented neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+167:
+  title: "FARNN: FPGA-GPU Hybrid Acceleration Platform for Recurrent Neural Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+168:
+  title: "Fast and Accurate FSA System Using ELBERT: An Efficient and Lightweight BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+169:
+  title: "Fast and accurate neural CRF constituency parsing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+170:
+  title: "Fast Heterogeneous Task Mapping for Reducing Edge DNN Latency"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+171:
+  title: "Fastformers: Highly efficient transformer models for natural language understanding"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+172:
+  title: "fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+173:
+  title: "Fedaux: Leveraging unlabeled auxiliary data in federated learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+174:
+  title: "Federated split bert for heterogeneous text classification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+175:
+  title: "FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+176:
+  title: "Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+177:
+  title: "Fine-grained sentiment classification using BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+178:
+  title: "Fixed-point Quantization for Vision Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+179:
+  title: "FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+180:
+  title: "Fpga implementation of object detection accelerator based on vitis-ai"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+181:
+  title: "FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+182:
+  title: "FPGA-based accelerator for the verification of leading-edge wireless systems"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+183:
+  title: "FPGA-based bit error rate performance measurement of wireless systems"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+184:
+  title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+185:
+  title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+186:
+  title: "FPGA-based reconfigurable adaptive FEC"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+187:
+  title: "From dense to sparse: Contrastive pruning for better pre-trained language model compression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+188:
+  title: "Ftrans: energy-efficient acceleration of transformers using fpga"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+189:
+  title: "Fully quantized transformer for machine translation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+190:
+  title: "Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicastin"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+191:
+  title: "Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+192:
+  title: "Ghostbert: Generate more features with cheap operations for BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+193:
+  title: "GMP*: Well-Tuned Global Magnitude Pruning Can Outperform Most BERT-Pruning Methods"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+194:
+  title: "Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+195:
+  title: "GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+196:
+  title: "Greedy-layer pruning: Speeding up transformer models for natural language processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+197:
+  title: "GuardNN: secure accelerator architecture for privacy-preserving deep learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+198:
+  title: "HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+199:
+  title: "Handling heavy-tailed input of transformer inference on GPUs"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+200:
+  title: "Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+201:
+  title: "Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+202:
+  title: "Hardware Acceleration of Transformer Networks using FPGAs"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+203:
+  title: "Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+204:
+  title: "Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+205:
+  title: "Hardware and Software Co-optimization for Windows Attention"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+206:
+  title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+207:
+  title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+208:
+  title: "HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+209:
+  title: "HoloFormer: Deep Compression of Pre-Trained Transforms via Unified Optimization of N: M Sparsity and Integer Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+210:
+  title: "How Deep Learning Model Architecture and Software Stack Impacts Training Performance in the Cloud"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+211:
+  title: "How to train bert with an academic budget"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+212:
+  title: "I-bert: Integer-only bert quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+213:
+  title: "Improving accuracy and speeding up document image classification through parallel systems"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+214:
+  title: "Improving Oversubscribed GPU Memory Performance in the PyTorch Framework"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+215:
+  title: "Improving post training neural quantization: Layer-wise calibration and integer programming"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+216:
+  title: "Improving the efficiency of transformers for resource-constrained devices"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+217:
+  title: "Int-Monitor: a model triggered hardware trojan in deep learning accelerators"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+218:
+  title: "INT8 Transformers for Inference Acceleration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+219:
+  title: "Integer Fine-tuning of Transformer-based Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+220:
+  title: "Integer quantization for deep learning inference: Principles and empirical evaluation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+221:
+  title: "KAISA: An adaptive second-order optimizer framework for deep neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+222:
+  title: "KDLSQ-BERT: A quantized bert combining knowledge distillation with learned step size quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+223:
+  title: "Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+224:
+  title: "Ladabert: Lightweight adaptation of bert through hybrid model compression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+225:
+  title: "Late Breaking Results: FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+226:
+  title: "Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+227:
+  title: "Learned Token Pruning in Contextualized Late Interaction over BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+228:
+  title: "Learning light-weight translation models from deep transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+229:
+  title: "Lightweight composite re-ranking for efficient keyword search with BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+230:
+  title: "Lightweight Transformers for Conversational AI"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+231:
+  title: "Llm. int8 (): 8-bit matrix multiplication for transformers at scale"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+232:
+  title: "Load What You Need: Smaller Versions of Multilingual BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+233:
+  title: "Look-up table based energy efficient processing in cache support for neural network acceleration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+234:
+  title: "Low-Bit Quantization of Transformer for Audio Speech Recognition"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+235:
+  title: "Low-Precision Quantization Techniques for Hardware-Implementation-Friendly BERT Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+236:
+  title: "M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+237:
+  title: "Magnet: A modular accelerator generator for neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+238:
+  title: "Managing diameter growth and natural pruning of Parana pine, Araucaria angustifolia (Bert.) O Ktze., to produce high value timbe"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+239:
+  title: "Measurement approaches and implementation of a fading characterization tester for evaluating optical turbulent channels"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+240:
+  title: "Minilm: Deep self-attention distillation for task-agnostic compression of pre-trained transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+241:
+  title: "MKQ-BERT: Quantized BERT with 4-bits Weights and Activations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+242:
+  title: "Model-Free Ber Measurement in Free Space Laser Communication Link"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+243:
+  title: "Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+244:
+  title: "Movement pruning: Adaptive sparsity by fine-tuning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+245:
+  title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+246:
+  title: "mrna: Enabling efficient mapping space exploration for a reconfiguration neural accelerator"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+247:
+  title: "MSP: an FPGA-specific mixed-scheme, multi-precision deep neural network quantization framework"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+248:
+  title: "Nas-BERT: task-agnostic and adaptive-size BERT compression with neural architecture search"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+249:
+  title: "Near-Optimal Sparse Allreduce for Distributed Deep Learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+250:
+  title: "Nebula: A Scalable and Flexible Accelerator for DNN Multi-Branch Blocks on Embedded Systems"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+251:
+  title: "NEEBS: Nonexpert large-scale environment building system for deep neural network"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+252:
+  title: "NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+253:
+  title: "NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+254:
+  title: "NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+255:
+  title: "NPE: An FPGA-based overlay processor for natural language processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+256:
+  title: "On the Prunability of Attention Heads in Multilingual BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+257:
+  title: "Optimal Brain Compression: A framework for accurate post-training quantization and pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+258:
+  title: "Optimal clipping and magnitude-aware differentiation for improved quantization-aware training"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+259:
+  title: "Parameter-efficient transfer learning with diff pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+260:
+  title: "Parp: Prune, adjust and re-prune for self-supervised speech recognition"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+261:
+  title: "PipeBERT: High-throughput BERT Inference for ARM Big. LITTLE Multi-core Processors"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+262:
+  title: "PipeBERT: High-throughput BERT Inference for ARM Big.LITTLE Multi-core Processors"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+263:
+  title: "Poor man's bert: Smaller and faster transformer models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+264:
+  title: "Post-Training Quantization for Longformer with Chunkwise Quantization Granularity and Optimized Percentile"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+265:
+  title: "Post-training quantization for vision transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+266:
+  title: "PoWER-BERT: Accelerating BERT inference via progressive word-vector elimination"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+267:
+  title: "Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+268:
+  title: "Pre-trained bert-gru model for relation extraction"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+269:
+  title: "Pre-trained Language Model with Feature Reduction and No Fine-Tuning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+270:
+  title: "Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+271:
+  title: "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+272:
+  title: "Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+273:
+  title: "Proceedings of the 26th Conference of Open Innovations Association FRUCT, FRUCT 2020"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+274:
+  title: "Prose: The architecture and design of a protein discovery engine"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+275:
+  title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+276:
+  title: "Prune once for all: Sparse pre-trained language models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+277:
+  title: "Pruning redundant mappings in transformer models via spectral-normalized identity prior"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+278:
+  title: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+279:
+  title: "Q-bert: Hessian based ultra low precision quantization of bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+280:
+  title: "Q8bert: Quantized 8bit bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+281:
+  title: "QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+282:
+  title: "QuaLA-MiniLM: a Quantized Length Adaptive MiniLM"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+283:
+  title: "Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+284:
+  title: "Rct: Resource constrained training for edge ai"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+285:
+  title: "Re2PIM: A reconfigurable ReRAM-based PIM design for variable-sized vector-matrix multiplication"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+286:
+  title: "ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+287:
+  title: "Reconfigurable performance measurement system-on-a-chip for baseband wireless algorithm design and verification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+288:
+  title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+289:
+  title: "Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+290:
+  title: "Rethinking co-design of neural architectures and hardware accelerators"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+291:
+  title: "Rethinking Network Pruning--under the Pre-train and Fine-tune Paradigm"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+292:
+  title: "ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+293:
+  title: "Reweighted proximal pruning for large-scale language representation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+294:
+  title: "RISC-VTF: RISC-V Based Extended Instruction Set for Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+295:
+  title: "RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+296:
+  title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+297:
+  title: "Row-wise Accelerator for Vision Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+298:
+  title: "S4: a High-sparsity, High-performance AI Accelerator"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+299:
+  title: "SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+300:
+  title: "Sanger: A co-design framework for enabling sparse attention using reconfigurable architecture"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+301:
+  title: "schuBERT: Optimizing elements of BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+302:
+  title: "Searching for memory-lighter architectures for OCR-augmented image captioning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+303:
+  title: "SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+304:
+  title: "Self-supervised learning with random-projection quantizer for speech recognition"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+305:
+  title: "Semantic convolutional neural network model for safe business investment by using bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+306:
+  title: "SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+307:
+  title: "Sentence-Level Sentiment Classification A Comparative Study between Deep Learning Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+308:
+  title: "Sentiment Analysis Using Pre-Trained Language Model With No Fine-Tuning and Less Resource"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+309:
+  title: "Sequence Labeling Algorithms for Punctuation Restoration in Brazilian Portuguese Texts"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+310:
+  title: "Similarity Calculation Method of Siamese-CNN Judgment Document Based on TinyBERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+311:
+  title: "Simplified tinybert: Knowledge distillation for document retrieval"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+312:
+  title: "SmaQ: Smart Quantization for DNN Training by Exploiting Value Clustering"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+313:
+  title: "Smoothquant: Accurate and efficient post-training quantization for large language models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+314:
+  title: "Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+315:
+  title: "Software and Hardware Fusion Multi-Head Attention"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+316:
+  title: "Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+317:
+  title: "Sparse* BERT: Sparse Models are Robust"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+318:
+  title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+319:
+  title: "Spatten: Efficient sparse attention architecture with cascade token and head pruning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+320:
+  title: "SQuAT: Sharpness-and Quantization-Aware Training for BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+321:
+  title: "SqueezeBERT: What can computer vision teach NLP about efficient neural networks?"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+322:
+  title: "Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+323:
+  title: "Structured Pruning Adapters"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+324:
+  title: "Structured pruning of a BERT-based question answering model"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+325:
+  title: "Structured pruning of large language models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+326:
+  title: "SwiftPruner: Reinforced Evolutionary Pruning for Efficient Ad Relevance"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+327:
+  title: "T-OPU: An FPGA-based Overlay Processor for Natural Language Processing"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+328:
+  title: "Talos: A Weighted Speedup-Aware Device Placement of Deep Learning Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+329:
+  title: "Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+330:
+  title: "Ternarybert: Distillation-aware ultra-low bit bert"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+331:
+  title: "Text Processor for IPC Prediction"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+332:
+  title: "The lottery ticket hypothesis for pre-trained bert networks"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+333:
+  title: "The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+334:
+  title: "Thesaurus-based word embeddings for automated biomedical literature classification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+335:
+  title: "TiC-SAT: Tightly-coupled Systolic Accelerator for Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+336:
+  title: "Ticket-BERT: Labeling Incident Management Tickets with Language Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+337:
+  title: "Tinybert: Distilling bert for natural language understanding"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+338:
+  title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+339:
+  title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+340:
+  title: "Topic-BERT: Detecting harmful information from social media"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+341:
+  title: "TopicBERT for energy efficient document classification"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+342:
+  title: "Towards efficient post-training quantization of pre-trained language models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+343:
+  title: "Tr-bert: Dynamic token reduction for accelerating bert inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+344:
+  title: "Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+345:
+  title: "Training large neural networks with constant memory using a new execution algorithm"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+346:
+  title: "Training with quantization noise for extreme model compression"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+347:
+  title: "TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+348:
+  title: "Transformer Acceleration with Dynamic Sparse Attention"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+349:
+  title: "TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+350:
+  title: "TwinBERT: Distilling Knowledge to Twin-Structured Compressed BERT Models for Large-Scale Retrieval"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+351:
+  title: "Ultron-AutoML: An open-source, distributed, scalable framework for efficient hyper-parameter optimization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+352:
+  title: "Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+353:
+  title: "Understanding and overcoming the challenges of efficient transformer quantization"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+354:
+  title: "Unsupervised path representation learning with curriculum negative sampling"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+355:
+  title: "Using transfer learning approach to implement convolutional neural network model to recommend airline tickets by using online re"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+356:
+  title: "VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+357:
+  title: "Varuna: Scalable, Low-cost Training of Massive Deep Learning Models"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+358:
+  title: "Via: A novel vision-transformer accelerator based on fpga"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+359:
+  title: "Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+360:
+  title: "Vis-TOP: Visual Transformer Overlay Processor"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+361:
+  title: "Vitality: Unifying low-rank and sparse approximation for vision transformer acceleration with a linear taylor attention"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+362:
+  title: "vq-wav2vec: Self-supervised learning of discrete speech representations"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+363:
+  title: "Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+364:
+  title: "W2v-bert: Combining contrastive learning and masked language modeling for self-supervised speech pre-training"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+365:
+  title: "Ways for board and system test to benefit from FPGA embedded instrumentation"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+366:
+  title: "When bert plays the lottery, all tickets are winning"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+367:
+  title: "Work-in-Progress: Utilizing latency and accuracy predictors for efficient hardware-aware NAS"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+368:
+  title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+369:
+  title: "XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+370:
+  title: "XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+371:
+  title: "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+
+  ignore: no
+
+
+  
+  ignore: no
+
+  

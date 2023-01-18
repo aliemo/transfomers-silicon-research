@@ -307,7 +307,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACL-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-http://dx.doi.org/10.18653/v1/2022.deeplo--1.20-sandybrown?style=flat-square)](http://dx.doi.org/10.18653/v1/2022.deeplo--1.20)
 
-**An Algorithm–Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers**
+**An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers**
 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TVLSI.2022.3197282-sandybrown?style=flat-square)](https://doi.org/10.1109/TVLSI.2022.3197282)
@@ -325,7 +325,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **An Efficient Transformer Inference Engine on DSP**
 
 ![](https://img.shields.io/badge/Springer-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--22677--9--29-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-22677-9_29)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--22677--9_29-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-22677-9_29)
 
 **An Empirical Analysis of BERT Embedding for Automated Essay Scoring**
 
