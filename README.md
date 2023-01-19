@@ -372,3 +372,173 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Elsevier-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.jpdc.2022.04.005-sandybrown?style=flat-square)](https://doi.org/10.1016/j.jpdc.2022.04.005)
 
+**Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HCS52781.2021.9567191-sandybrown?style=flat-square)](https://doi.org/10.1109/HCS52781.2021.9567191)
+
+**ATT: A Fault-Tolerant ReRAM Accelerator for Attention-based Neural Networks**
+
+![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCD50377.2020.00047-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCD50377.2020.00047)
+
+**AUBER: Automated BERT regularization**
+
+![](https://img.shields.io/badge/PlosOne-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1371/journal.pone.0253241-sandybrown?style=flat-square)](https://doi.org/10.1371/journal.pone.0253241)
+
+**Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2208.05163-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2208.05163)
+
+**Automatic Mixed-Precision Quantization Search of BERT**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.24963/ijcai.2021/472-sandybrown?style=flat-square)](https://doi.org/10.24963/ijcai.2021/472)
+
+**Balance Multi-Head Attention based on Software and Hardware Co-design**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/CSCloud--EdgeCom54986.2022.00018-sandybrown?style=flat-square)](https://doi.org/10.1109/CSCloud-EdgeCom54986.2022.00018)
+
+**BEBERT: Efficient and robust binary ensemble BERT**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2210.15976-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2210.15976)
+
+**BERMo: What can BERT learn from ELMo?**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2110.15802-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2110.15802)
+
+**BERT Model for Classification of Fake News using the Cloud Processing Capacity**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/R10--HTC53172.2021.9641632-sandybrown?style=flat-square)](https://doi.org/10.1109/R10-HTC53172.2021.9641632)
+
+**BERT model optimization methods for inference: a comparative study of five alternative BERT-model implementations**
+
+![](https://img.shields.io/badge/LUT%20University-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://urn.fi/URN:NBN:fi--fe2022121270782-sandybrown?style=flat-square)](https://urn.fi/URN:NBN:fi-fe2022121270782)
+
+**BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2211.05610-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2211.05610)
+
+**Bertinho: Galician BERT representations**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2103.13799-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2103.13799)
+
+**BERTPerf: Inference Latency Predictor for BERT on ARM big.LITTLE Multi-Core Processors**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SiPS55645.2022.9919203-sandybrown?style=flat-square)](https://doi.org/10.1109/SiPS55645.2022.9919203)
+
+**BERxiT: Early exiting for BERT with better fine-tuning and extension to regression**
+
+![](https://img.shields.io/badge/ACL-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-http://dx.doi.org/10.18653/v1/2021.--eacl--main.8-sandybrown?style=flat-square)](http://dx.doi.org/10.18653/v1/2021.eacl-main.8)
+
+**Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2109.03228-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2109.03228)
+
+**BiBERT: Accurate Fully Binarized BERT**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2203.06390-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2203.06390)
+
+**Bigger&Faster: Two-stage Neural Architecture Search for Quantized Transformer Models**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2209.12127-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2209.12127)
+
+**Binary Complex Neural Network Acceleration on FPGA : (Invited Paper)**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASAP52443.2021.00021-sandybrown?style=flat-square)](https://doi.org/10.1109/ASAP52443.2021.00021)
+
+**Binarybert: Pushing the limit of bert quantization**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2012.15701-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2012.15701)
+
+**Biomedical Named Entity Recognition at Scale**
+
+![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--68763--2_48-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-68763-2_48)
+
+**BiT: Robustly Binarized Multi-distilled Transformer**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2205.13016-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2205.13016)
+
+**Block pruning for faster transformers**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2109.04838-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2109.04838)
+
+**Boosting Distributed Training Performance of the Unpadded BERT Model**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2208.08124-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2208.08124)
+
+**Capuchin: Tensor-based GPU Memory Management for Deep Learning**
+
+![](https://img.shields.io/badge/ACM-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3373376.3378505-sandybrown?style=flat-square)](https://doi.org/10.1145/3373376.3378505)
+
+**CATBERT: Context-Aware Tiny BERT for Detecting Social Engineering Emails**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2010.03484-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2010.03484)
+
+**CatBERT: Context-Aware Tiny BERT for Detecting Targeted Social Engineering Emails**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2010.03484-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2010.03484)
+
+**CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture**
+
+![](https://img.shields.io/badge/arXiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2301.02359-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2301.02359)
+
+**ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT**
+
+![](https://img.shields.io/badge/ACM-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3397271.3401075-sandybrown?style=flat-square)](https://doi.org/10.1145/3397271.3401075)
+
+**Combining Feature Selection Methods with BERT: An In-depth Experimental Study of Long Text Classification**
+
+![](https://img.shields.io/badge/Springer-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--67537--0_34-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-67537-0_34)
+
+**Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2203.15328-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2203.15328)
+
+**Comparison of Deep Learning Models and Various Text Pre-Processing Techniques for the Toxic Comments Classification**
+
+![](https://img.shields.io/badge/MDPI-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.3390/app10238631-sandybrown?style=flat-square)](https://doi.org/10.3390/app10238631)
+
+**Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2002.08307-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2002.08307)
+
+**Compressing Large-Scale Transformer-Based Models: A Case Study on BERT**
+
+![](https://img.shields.io/badge/MIT%20Press-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1162/tacl_a_00413-sandybrown?style=flat-square)](https://doi.org/10.1162/tacl_a_00413)
+
+**Compressing Pre-trained Transformers via Low-Bit NxM Sparsity for Natural Language Understanding**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2206.15014-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2206.15014)
+
