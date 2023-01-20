@@ -542,3 +542,63 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2206.15014-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2206.15014)
 
+**Compression of Generative Pre-trained Language Models via Quantization**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2203.10705-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2203.10705)
+
+**CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2210.06696-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2210.06696)
+
+**DAP-BERT: Differentiable Architecture Pruning of BERT**
+
+![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3-030--92185--9_30-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-92185-9_30)
+
+**Deep Learning Acceleration with Neuron-to-Memory Transformation**
+
+![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA47549.2020.00011-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA47549.2020.00011)
+
+**Demystifying BERT: Implications for Accelerator Design**
+
+![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2104.08335-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2104.08335)
+
+**Demystifying BERT: System Design Implications**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/IISWC55918.2022.00033-sandybrown?style=flat-square)](https://doi.org/10.1109/IISWC55918.2022.00033)
+
+**DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO56248.2022.00051-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO56248.2022.00051)
+
+**DiVIT: Algorithm and architecture co-design of differential attention in vision transformer**
+
+![](https://img.shields.io/badge/Elsevier-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.sysarc.2022.102520-sandybrown?style=flat-square)](https://doi.org/10.1016/j.sysarc.2022.102520)
+
+**DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3503222.3507738-sandybrown?style=flat-square)](https://doi.org/10.1145/3503222.3507738)
+
+**DTATrans: Leveraging Dynamic Token-Based Quantization With Accuracy Compensation Mechanism for Efficient Transformer Architecture**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2022.3181541-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2022.3181541)
+
+**DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.23919/DATE54114.2022.9774692-sandybrown?style=flat-square)](https://doi.org/10.23919/DATE54114.2022.9774692)
+
+**Dynamic Precision Analog Computing for Neural Networks**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/JSTQE.2022.3218019-sandybrown?style=flat-square)](https://doi.org/10.1109/JSTQE.2022.3218019)
+

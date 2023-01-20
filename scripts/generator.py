@@ -6,33 +6,6 @@ import os
 import argparse
 
 
-# for k, v in data.items():
-#     data[k]['url'] = " "
-#     title = data[k]['title']
-#     data[k]['title'] = f'"{title}"'
-
-
-# with open('papers2.yaml', 'w') as f:
-#     yaml.safe_dump(data,f,indent=2, sort_keys=False)
-
-# data = [(v['year'],v) for k, v in data.items()]
-
-# data.sort(key=lambda x:x[0])
-# print(data)
-
-# years = [2018, 2019, 2020, 2021, 2022, 2023]
-
-# for d in data:
-#     paper=d[1]
-#     print(f'**{paper["title"]}**')
-#     print()
-#     print(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
-#     print(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
-    
-#     print()
-
-
-
 
 def write_md(data, outf):
     if outf == 'stdout':
@@ -64,10 +37,14 @@ def read_yaml(inpf):
 
     for k, p in content.items():
         if p['year'] is not None:
-            data[k]=p
-
+            print(k)
+            if p['ignore'] == False:
+                data[k]=p
+    
     return data
 
+def sort_by_year(data):
+    return sorted(data, key=lambda x: x['year'], reverse=True)
 def main():
 
     
