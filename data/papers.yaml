@@ -1022,23 +1022,13 @@
   pubshort: ASPLOS
   ignore: no
 
-126:
-  title: "Double Trouble: How to not explain a text classifier's decisions using counterfactuals synthesized by masked language models?"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
 127:
   title: "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2203.11239
+  url: https://doi.org/10.48550/arXiv.2203.11239
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
 
@@ -1074,601 +1064,364 @@
 
 131:
   title: "Dynamic-TinyBERT: Boost TinyBERT's Inference Efficiency by Dynamic Sequence Length"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2111.09645
+  url: https://doi.org/10.48550/arXiv.2111.09645
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
 
 132:
-  title: "EAGLE: Expedited device placement with automatic grouping for large models"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models"
+  year: 2021
+  doi: https://doi.org/10.1109/IPDPS49936.2021.00068
+  url: https://doi.org/10.1109/IPDPS49936.2021.00068
+  publisher: IEEE
+  pub: International Parallel and Distributed Processing Symposium (IPDPS)
+  pubshort: IPDPS
   ignore: no
 
 133:
   title: "Earlybert: Efficient bert training via early-bird lottery tickets"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2101.00063
+  url: https://doi.org/10.48550/arXiv.2101.00063
+  publisher: arXiv 
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: yes
 
 134:
   title: "EBERT: Efficient BERT Inference with Dynamic Structured Pruning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: http://dx.doi.org/10.18653/v1/2021.findings--acl.425
+  url: http://dx.doi.org/10.18653/v1/2021.findings-acl.425
+  publisher: ACL
+  pub: ACL Findings
   pubshort: 
   ignore: no
 
 135:
-  title: "EdgeBERT: Sentence-level energy optimizations for latency-aware multi-task NLP inference"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "EdgeBERT: Sentence-Level Energy Optimizations for Latency-Aware Multi-Task NLP Inference"
+  year: 2021
+  doi: https://doi.org/10.1145/3466752.3480095
+  url: https://doi.org/10.1145/3466752.3480095
+  publisher: IEEE/ACM
+  pub: IEEE/ACM International Symposium on Microarchitecture
+  pubshort: MICRO
   ignore: no
 
 136:
   title: "EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-137:
-  title: "Effectiveness of self-supervised pre-training for asr"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-138:
-  title: "Effectiveness of self-supervised pre-training for speech recognition"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.3390/electronics11213550
+  url: https://doi.org/10.3390/electronics11213550
+  publisher: MDPI
+  pub: Electronics
   pubshort: 
   ignore: no
 
 139:
   title: "Efficient algorithms and hardware for natural language processing"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://hdl.handle.net/1721.1/127440
+  url: https://hdl.handle.net/1721.1/127440
+  publisher: MIT
+  pub: MIT Master's Thesis
   pubshort: 
   ignore: no
 
-140:
-  title: "Efficient algorithms for device placement of dnn graph operators"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-141:
-  title: "Efficient and Large Scale Pre-Training Techniques for Japanese Natural Language Processing"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-142:
-  title: "Efficient Attention Mechanism by Softmax Function with Trained Coefficient"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
 
 143:
   title: "Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2210.17170v1
+  url: https://arxiv.org/abs/2210.17170v1
+  publisher: arXiv 
+  pub: Computer Science > Information Retrieval
   pubshort: 
-  ignore: no
+  ignore: yes
 
 144:
   title: "Efficient transformer-based large scale language representations using hardware-friendly block structured pruning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-145:
-  title: "Efficient transformers: A survey"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2009.08065
+  url: https://doi.org/10.48550/arXiv.2009.08065
+  publisher:  arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
 
 146:
   title: "Elastic Processing and Hardware Architectures for Machine Learning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: 3e9f91ca96ba3320587da2bbec561a2b/
+  url: https://www.proquest.com/openview/3e9f91ca96ba3320587da2bbec561a2b/
+  publisher: ProQuest
+  pub: UC Santa Barbara Ph.D. Dissertation
   pubshort: 
   ignore: no
 
-147:
-  title: "Elbert: Fast albert with confidence-window based early exit"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+
 
 148:
   title: "ELSA: Hardware-Software co-design for efficient, lightweight self-attention mechanism in neural networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-149:
-  title: "Emerging trends: A gentle introduction to fine-tuning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/ISCA52012.2021.00060
+  url: https://doi.org/10.1109/ISCA52012.2021.00060
+  publisher: IEEE
+  pub: International Symposium on Computer Architecture (ISCA)
+  pubshort: ISCA
   ignore: no
 
 150:
   title: "Empirical Evaluation of Post-Training Quantization Methods for Language Tasks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2210.16621
+  url: https://doi.org/10.48550/arXiv.2210.16621
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: yes
 
 151:
   title: "Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2212.02687
+  url: https://doi.org/10.48550/arXiv.2212.02687
+  publisher: arXiv
+  pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
   ignore: no
 
 152:
   title: "Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/HPCA53966.2022.00018
+  url: https://doi.org/10.1109/HPCA53966.2022.00018
+  publisher: IEEE
+  pub: International Symposium on High-Performance Computer Architecture (HPCA)
+  pubshort: HPCA
   ignore: no
 
 153:
   title: "Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-154:
-  title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1145/3447818.3460371
+  url: https://doi.org/10.1145/3447818.3460371
+  publisher: ACM
+  pub: Proceedings of the ACM International Conference on Supercomputing
+  pubshort: ICS
   ignore: no
 
 155:
   title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/AICAS54282.2022.9869924
+  url: https://doi.org/10.1109/AICAS54282.2022.9869924
+  publisher: IEEE
+  pub: International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+  pubshort: AICAS
   ignore: no
 
 156:
   title: "Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530451
+  url: https://doi.org/10.1145/3489517.3530451
+  publisher: ACM
+  pub: ACM/IEEE Design Automation Conference (DAC)
+  pubshort: DAC
   ignore: no
 
 157:
   title: "Enabling Fast Uncertainty Estimation: Exploiting Structured Sparsity in Bayesian Transformers"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530451
+  url: https://spiral.imperial.ac.uk/bitstream/10044/1/96226/2/dac22hf3_final_bayesatt.pdf
+  publisher: ACM
+  pub: ACM/IEEE Design Automation Conference (DAC)
+  pubshort: DAC
   ignore: no
 
 158:
   title: "Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1109/TC.2021.3128266
+  url: https://doi.org/10.1109/TC.2021.3128266
+  publisher: IEEE
+  pub: IEEE Transactions on Computers
   pubshort: 
-  ignore: no
+  ignore: check
 
 159:
   title: "Energy efficiency boost in the AI-infused POWER10 processor"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/ISCA52012.2021.00012
+  url: https://doi.org/10.1109/ISCA52012.2021.00012
+  publisher: IEEE
+  pub: International Symposium on Computer Architecture (ISCA)
+  pubshort: ISCA
   ignore: no
 
 160:
   title: "ENEX-FP: A BERT-Based Address Recognition Model"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2023
+  doi: https://doi.org/10.3390/electronics12010209
+  url: https://doi.org/10.3390/electronics12010209
+  publisher: MDPI
+  pub: Electronics
   pubshort: 
-  ignore: no
+  ignore: yes
 
 161:
   title: "Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-162:
-  title: "Evaluating the Impact of OCR Quality on Short Texts Classification Task"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-163:
-  title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1007/978--3--030--99736--6_18
+  url: https://doi.org/10.1007/978-3-030-99736-6_18
+  publisher: Springer
+  pub: European Conference on Information Retrieval (ECIR)
+  pubshort: ECIR
   ignore: no
 
 164:
   title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/ICEIC54506.2022.9748444
+  url: https://doi.org/10.1109/ICEIC54506.2022.9748444
+  publisher: IEEE
+  pub: International Conference on Electronics, Information, and Communication (ICEIC)
+  pubshort: ICEIC
   ignore: no
 
 165:
   title: "Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2206.01859
+  url: https://doi.org/10.48550/arXiv.2206.01859
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: check
 
 166:
   title: "FARM: A flexible accelerator for recurrent and memory augmented neural networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-167:
-  title: "FARNN: FPGA-GPU Hybrid Acceleration Platform for Recurrent Neural Networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-168:
-  title: "Fast and Accurate FSA System Using ELBERT: An Efficient and Lightweight BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-169:
-  title: "Fast and accurate neural CRF constituency parsing"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.1007/s11265--020--01555--w
+  url: https://doi.org/10.1007/s11265-020-01555-w
+  publisher: Springer
+  pub: Journal of Signal Processing Systems
   pubshort: 
   ignore: no
 
 170:
   title: "Fast Heterogeneous Task Mapping for Reducing Edge DNN Latency"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1109/ASAP54787.2022.00020
+  url: https://doi.org/10.1109/ASAP54787.2022.00020
   publisher: 
-  pub: 
-  pubshort: 
+  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubshort: ASAP
   ignore: no
 
 171:
   title: "Fastformers: Highly efficient transformer models for natural language understanding"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-172:
-  title: "fastHan: A BERT-based Multi-Task Toolkit for Chinese NLP"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-173:
-  title: "Fedaux: Leveraging unlabeled auxiliary data in federated learning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-174:
-  title: "Federated split bert for heterogeneous text classification"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2010.13382
+  url: https://doi.org/10.48550/arXiv.2010.13382
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
 
 175:
   title: "FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3490422.3502364
+  url: https://doi.org/10.1145/3490422.3502364
+  publisher: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  pub: ACM/SIGDA
+  pubshort: FPGA
   ignore: no
 
 176:
   title: "Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2203.09055
+  url: https://doi.org/10.48550/arXiv.2203.09055
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
-
-177:
-  title: "Fine-grained sentiment classification using BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  ignore: check
 
 178:
   title: "Fixed-point Quantization for Vision Transformer"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/CAC53003.2021.9728246
+  url: https://doi.org/10.1109/CAC53003.2021.9728246
+  publisher: IEEE 
+  pub: China Automation Congress (CAC)
+  pubshort: CAS
   ignore: no
 
 179:
   title: "FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-180:
-  title: "Fpga implementation of object detection accelerator based on vitis-ai"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/ASAP52443.2021.00046
+  url: https://doi.org/10.1109/ASAP52443.2021.00046
+  publisher: IEEE
+  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubshort: ASAP
   ignore: no
 
 181:
   title: "FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-182:
-  title: "FPGA-based accelerator for the verification of leading-edge wireless systems"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-183:
-  title: "FPGA-based bit error rate performance measurement of wireless systems"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530618
+  url: https://doi.org/10.1145/3489517.3530618
+  publisher: ACM/IEEE
+  pub: ACM/IEEE Design Automation Conference
   pubshort: 
   ignore: no
 
 184:
   title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-185:
-  title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-186:
-  title: "FPGA-based reconfigurable adaptive FEC"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.3233/JIFS--212273
+  url: https://doi.org/10.3233/JIFS-212273
+  publisher: "IOS%20Press"
+  pub: Journal of Intelligent & Fuzzy Systems
   pubshort: 
   ignore: no
 
 187:
   title: "From dense to sparse: Contrastive pruning for better pre-trained language model compression"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1609/aaai.v36i10.21408
+  url: https://doi.org/10.1609/aaai.v36i10.21408
+  publisher: AAAI
+  pub: AAAI Technical Track on Speech and Natural Language Processing
   pubshort: 
-  ignore: no
+  ignore: check
 
 188:
-  title: "Ftrans: energy-efficient acceleration of transformers using fpga"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-189:
-  title: "Fully quantized transformer for machine translation"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "FTRANS: energy-efficient acceleration of transformers using FPGA"
+  year: 2020
+  doi: https://doi.org/10.1145/3370748.3406567
+  url: https://doi.org/10.1145/3370748.3406567
+  publisher: ACM/IEEE
+  pub: ACM/IEEE International Symposium on Low Power Electronics and Design
+  pubshort: ISLPED
   ignore: no
 
 190:
   title: "Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicastin"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/TC.2022.3207134
+  url: https://doi.org/10.1109/TC.2022.3207134
+  publisher: IEEE
+  pub: IEEE Transactions on Computers
   pubshort: 
   ignore: no
 
@@ -3520,3 +3273,12 @@
   pub: 
   pubshort: 
   ignore: yes
+  147:
+  title: "Elbert: Fast albert with confidence-window based early exit"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
