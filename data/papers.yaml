@@ -6,7 +6,7 @@
   publisher: null
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubshort: IEEE-ISSCC
-  ignore: false
+  ignore: no
   
 3:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
@@ -16,7 +16,7 @@
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
   pubshort: IEEE-ESSCIRC
-  ignore: false
+  ignore: no
   
 4:
   title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
@@ -26,7 +26,7 @@
   publisher: IEEE
   pub: Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
   pubshort: IEEE-FCCM
-  ignore: false
+  ignore: no
   
 5:
   title: "A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks"
@@ -36,7 +36,7 @@
   publisher: ACM
   pub: ACM Transactions on Architecture and Code Optimization
   pubshort: ACM-TACO
-  ignore: false
+  ignore: no
   
 7:
   title: "A Fast Post-Training Pruning Framework for Transformers"
@@ -46,7 +46,7 @@
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: arXiv-CSCL
-  ignore: false
+  ignore: no
   
 8:
   title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
@@ -56,7 +56,7 @@
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   pubshort: TCAD
-  ignore: false
+  ignore: no
   
 9:
   title: "A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators"
@@ -66,7 +66,7 @@
   publisher: IEEE/ACM
   pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
-  ignore: false
+  ignore: no
   
 10:
   title: "A Full-Stack Search Technique for Domain Optimized Deep Learning Accelerators"
@@ -76,7 +76,7 @@
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: arXiv-CSML
-  ignore: false
+  ignore: no
   
 11:
   title: "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining"
@@ -86,7 +86,7 @@
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubshort: DAC
-  ignore: false
+  ignore: no
   
 12:
   title: "A Lite Romanian BERT: ALR-BERT"
@@ -96,7 +96,7 @@
   publisher: MDPI
   pub: Computers
   pubshort: null
-  ignore: false
+  ignore: no
   
 13:
   title: "A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications"
@@ -106,7 +106,7 @@
   publisher: IEEE
   pub: International Conference on Field-Programmable Technology (ICFPT)
   pubshort: ICFPT
-  ignore: false
+  ignore: no
   
 14:
   title: "A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes"
@@ -116,7 +116,7 @@
   publisher: IEEE
   pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
   pubshort: COINS
-  ignore: false
+  ignore: no
   
 15:
   title: "A Multi-Neural Network Acceleration Architecture"
@@ -126,7 +126,7 @@
   publisher: ACM/IEEE
   pub: Annual International Symposium on Computer Architecture (ISCA)
   pubshort: ISCA
-  ignore: false
+  ignore: no
   
 16:
   title: "A Power Efficient Neural Network Implementation on Heterogeneous FPGA and GPU Devices"
@@ -136,7 +136,7 @@
   publisher: IEEE
   pub: International Conference on Information Reuse and Integration for Data Science (IRI)
   pubshort: IRA
-  ignore: false
+  ignore: no
   
 17:
   title: "A Primer in BERTology: What We Know About How BERT Works"
@@ -146,7 +146,7 @@
   publisher: MIt%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubshort: null
-  ignore: false
+  ignore: no
   
 18:
   title: "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning"
@@ -156,7 +156,7 @@
   publisher: IEEE
   pub: IEEE Network
   pubshort: null
-  ignore: false
+  ignore: no
   
 19:
   title: "A Reconfigurable DNN Training Accelerator on FPGA"
@@ -166,7 +166,7 @@
   publisher: IEEE
   pub: IEEE Workshop on Signal Processing Systems (SiPS)
   pubshort: SiPS
-  ignore: false
+  ignore: no
   
 20:
   title: "A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication"
@@ -176,7 +176,7 @@
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
-  ignore: false
+  ignore: no
   
 21:
   title: "A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation"
@@ -186,7 +186,7 @@
   publisher: IEEE
   pub: IEEE Global Communications Conference
   pubshort: null
-  ignore: false
+  ignore: no
   
 22:
   title: "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning"
@@ -196,7 +196,7 @@
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: null
-  ignore: false
+  ignore: no
   
 23:
   title: "A Study on Token Pruning for ColBERT"
@@ -206,7 +206,7 @@
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubshort: null
-  ignore: false
+  ignore: no
   
 24:
   title: "A White Paper on Neural Network Quantization"
@@ -216,7 +216,7 @@
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
-  ignore: false
+  ignore: no
   
 25:
   title: "A^3: Accelerating Attention Mechanisms in Neural Networks with Approximation"
@@ -226,7 +226,7 @@
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubshort: HPCA
-  ignore: false
+  ignore: no
   
 26:
   title: "Emerging Neural Workloads and Their Impact on Hardware"
@@ -236,6 +236,7 @@
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubshort: DATE
+  ignore: no
   
 27:
   title: "Accelerated Device Placement Optimization with Contrastive Learning"
@@ -245,7 +246,7 @@
   publisher: ACM
   pub: International Conference on Parallel Processing
   pubshort: ICCP
-  ignore: false
+  ignore: no
   
 28:
   title: "Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array"
@@ -255,7 +256,7 @@
   publisher: ACM
   pub: ACM Transactions on Embedded Computing Systems
   pubshort: TECS
-  ignore: false
+  ignore: no
   
 29:
   title: "Accelerating attention through gradient-based learned runtime pruning"
@@ -265,7 +266,7 @@
   publisher: ACM
   pub: International Symposium on Computer Architecture
   pubshort: ISCA
-  ignore: false
+  ignore: no
   
 30:
   title: "Accelerating bandwidth-bound deep learning inference with main-memory accelerators"
@@ -275,7 +276,7 @@
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
   pubshort: SC
-  ignore: false
+  ignore: no
   
 31:
   title: "Accelerating Emerging Neural Workloads"
@@ -285,7 +286,7 @@
   publisher: Purdue%20University
   pub: Open Access Theses and Dissertations
   pubshort: null
-  ignore: false
+  ignore: no
   
 32:
   title: "Accelerating event detection with DGCNN and FPGAS"
@@ -295,7 +296,7 @@
   publisher: MDPI
   pub: Electronics
   pubshort: null
-  ignore: false
+  ignore: no
   
 33:
   title: "Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization"
@@ -305,7 +306,7 @@
   publisher: IEEE/ACM
   pub: International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
-  ignore: false
+  ignore: no
   
 34:
   title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
@@ -315,7 +316,7 @@
   publisher: IEEE
   pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
   pubshort: ISVLSI
-  ignore: false
+  ignore: no
   
 35:
   title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
@@ -325,7 +326,7 @@
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
   pubshort: IIWSC
-  ignore: false
+  ignore: no
   
 36:
   title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column
@@ -336,7 +337,7 @@
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubshort: ISQED
-  ignore: false
+  ignore: no
   
 37:
   title: "Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization"
@@ -346,7 +347,7 @@
   publisher: ACM
   pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
   pubshort: GLSVLSI
-  ignore: false
+  ignore: no
   
 38:
   title: "Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling"
@@ -356,7 +357,7 @@
   publisher: IEEE
   pub: IEEE Access
   pubshort: IEEE%20Access
-  ignore: false
+  ignore: no
   
 40:
   title: "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design"
@@ -366,7 +367,7 @@
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
-  ignore: false
+  ignore: no
   
 41:
   title: "Adapting by pruning: A case study on BERT"
@@ -376,7 +377,7 @@
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
-  ignore: false
+  ignore: no
   
 42:
   title: "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions"
@@ -386,7 +387,7 @@
   publisher: ACM
   pub: International Workshop on Embedded and Mobile Deep Learning
   pubshort: EMDL
-  ignore: false
+  ignore: no
   
 43:
   title: "Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA"
@@ -396,7 +397,7 @@
   publisher: IEEE
   pub: IEEE Transactions on Image Processing
   pubshort: TIP
-  ignore: false
+  ignore: no
   
 44:
   title: "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices"
@@ -406,7 +407,7 @@
   publisher: ACM
   pub: Transactions on Embedded Computing System
   pubshort: TECS
-  ignore: false
+  ignore: no
   
 45:
   title: "Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs"
@@ -416,7 +417,7 @@
   publisher: IEEE/ACM
   pub: International Conference on Computer-Aided Design (ICCAD)
   pubshort: ICCAD
-  ignore: false
+  ignore: no
   
 46:
   title: "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models"
@@ -426,7 +427,7 @@
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
-  ignore: false
+  ignore: no
   
 47:
   title: "Alternative non-BERT model choices for the textual classification in low-resource languages and environments"
@@ -436,7 +437,7 @@
   publisher: ACL
   pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
   pubshort: null
-  ignore: false
+  ignore: no
   
 48:
   title: "An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers"
@@ -446,7 +447,7 @@
   publisher: IEEE
   pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
   pubshort: TCAD
-  ignore: false
+  ignore: no
   
 49:
   title: "An Automatic and Efficient BERT Pruning for Edge AI Systems"
@@ -456,7 +457,7 @@
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubshort: ISQED
-  ignore: false
+  ignore: no
   
 50:
   title: "An Efficient Hardware Accelerator for Sparse Transformer Neural Networks"
@@ -466,7 +467,7 @@
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
-  ignore: false
+  ignore: no
   
 51:
   title: "An Efficient Transformer Inference Engine on DSP"
@@ -476,7 +477,7 @@
   publisher: Springer
   pub: International Conference on Algorithms and Architectures for Parallel Processing
   pubshort: null
-  ignore: false
+  ignore: no
   
 52:
   title: "An Empirical Analysis of BERT Embedding for Automated Essay Scoring"
@@ -486,7 +487,7 @@
   publisher: TheSAI
   pub: International Journal of Advanced Computer Science and Applications
   pubshort: IJACSA
-  ignore: false
+  ignore: no
   
 53:
   title: "An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention"
@@ -496,7 +497,7 @@
   publisher: IEEE
   pub: Journal of Solid-State Circuits
   pubshort: JSSC
-  ignore: false
+  ignore: no
   
 54:
   title: "An Evaluation of Transfer Learning for Classifying Sales Engagement Emails at Large Scale"
@@ -506,7 +507,7 @@
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
   pubshort: CCGRID
-  ignore: false
+  ignore: no
   
 55:
   title: "An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications"
@@ -516,7 +517,7 @@
   publisher: IEEE
   pub: 'Transactions on Circuits and Systems II: Express Briefs'
   pubshort: TCSII
-  ignore: false
+  ignore: no
   
 56:
   title: "An investigation on different underlying quantization schemes for pre-trained language models"
@@ -526,7 +527,7 @@
   publisher: Springer
   pub: International Conference on Natural Language Processing and Chinese Computing
   pubshort: null
-  ignore: false
+  ignore: no
   url: https://doi.org/10.1007/978-3-030-60450-9_29
 57:
   title: "Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers"
@@ -536,7 +537,7 @@
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
-  ignore: false
+  ignore: no
   
 58:
   title: "Answer Fast: Accelerating BERT on the Tensor Streaming Processor"
@@ -546,7 +547,7 @@
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubshort: ASAP
-  ignore: false
+  ignore: no
   
 59:
   title: "ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization"
@@ -556,7 +557,7 @@
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
-  ignore: false
+  ignore: no
   
 60:
   title: "APT: The master-copy-free training method for quantised neural network on edge devices"
@@ -566,7 +567,7 @@
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
   pubshort: JPDC
-  ignore: false
+  ignore: no
   
 61:
   title: "Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond"
@@ -912,252 +913,113 @@
 
 101:
   title: "Compression of deep learning models for NLP"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  year: 2020
+  doi: https://doi.org/10.1145/3340531.3412171
+  url: https://doi.org/10.1145/3340531.3412171
+  publisher: ACM
+  pub: ACM International Conference on Information & Knowledge Managemen
+  pubshort: CIKM
+  ignore: yes
 
 102:
   title: "Compression of Generative Pre-trained Language Models via Quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2203.10705
+  url: https://doi.org/10.48550/arXiv.2203.10705
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
 
 103:
   title: "CONNA: Configurable Matrix Multiplication Engine for Neural Network Acceleration"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.3390/electronics11152373
+  url: https://doi.org/10.3390/electronics11152373
+  publisher: MDPI 
+  pub: Electronics
   pubshort: 
-  ignore: no
-
-104:
-  title: "ConveRT: Efficient and accurate conversational representations from transformers"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  ignore: yes
 
 105:
   title: "CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2210.06696
+  url: https://doi.org/10.48550/arXiv.2210.06696
+  publisher: arXiv
+  pub: Computer Science > Hardware Architecture
   pubshort: 
   ignore: no
 
-106:
-  title: "Cross-modal distillation with audio–text fusion for fine-grained emotion classification using BERT and Wav2vec 2.0"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
 
 107:
   title: "DAP-BERT: Differentiable Architecture Pruning of BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-108:
-  title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-109:
-  title: "Dc-bert: Decoupling question and document for efficient contextual encoding"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-110:
-  title: "Deep Compression of Pre-trained Transformer Models"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1007/978--3-030--92185--9_30
+  url: https://doi.org/10.1007/978-3-030-92185-9_30
+  publisher: Springer 
+  pub: International Conference on Neural Information Processing
   pubshort: 
   ignore: no
 
 111:
-  title: "Deep learning acceleration with neuron-to-memory transformation"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-112:
-  title: "DeepCuts: Single-Shot Interpretability based Pruning for BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-113:
-  title: "DeepSpeed: System Optimizations Enable Training Deep Learning Models with over 100 Billion Parameters"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "Deep Learning Acceleration with Neuron-to-Memory Transformation"
+  year: 2020
+  doi: https://doi.org/10.1109/HPCA47549.2020.00011
+  url: https://doi.org/10.1109/HPCA47549.2020.00011
+  publisher: IEEE
+  pub: International Symposium on High Performance Computer Architecture (HPCA)
+  pubshort: HPCA
   ignore: no
 
 114:
   title: "Demystifying BERT: Implications for Accelerator Design"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2104.08335
+  url: https://doi.org/10.48550/arXiv.2104.08335
+  publisher: arXiv
+  pub: Computer Science > Hardware Architecture
   pubshort: 
   ignore: no
 
 115:
   title: "Demystifying BERT: System Design Implications"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-116:
-  title: "DenseBert4Ret: Deep bi-modal for image retrieval"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-117:
-  title: "Designing FPGA-based modular architectures for NLP models"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-118:
-  title: "Designing Scalable Computer Systems to Accelerate Heterogeneous NLP Models"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/IISWC55918.2022.00033
+  url: https://doi.org/10.1109/IISWC55918.2022.00033
+  publisher: IEEE
+  pub: International Symposium on Workload Characterization (IISWC)
   pubshort: 
   ignore: no
 
 119:
   title: "DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-120:
-  title: "Digit-Wise Parallelism of Additive Operations in Numeration Systems with Redundant Digits."
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-121:
-  title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-122:
-  title: "Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-123:
-  title: "Distilling the Knowledge of Romanian BERTs Using Multiple Teachers"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/MICRO56248.2022.00051
+  url: https://doi.org/10.1109/MICRO56248.2022.00051
+  publisher: IEEE
+  pub: International Symposium on Microarchitecture (MICRO)
+  pubshort: MICRO
   ignore: no
 
 124:
   title: "DiVIT: Algorithm and architecture co-design of differential attention in vision transformer"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1016/j.sysarc.2022.102520
+  url: https://doi.org/10.1016/j.sysarc.2022.102520
+  publisher: Elsevier 
+  pub: Journal of Systems Architecture
   pubshort: 
   ignore: no
 
 125:
-  title: "DOTA: detect and omit weak attentions for scalable transformer acceleration"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration"
+  year: 2022
+  doi: https://doi.org/10.1145/3503222.3507738
+  url: https://doi.org/10.1145/3503222.3507738
+  publisher: ACM
+  pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  pubshort: ASPLOS
   ignore: no
 
 126:
@@ -1181,32 +1043,32 @@
   ignore: no
 
 128:
-  title: "DTATrans: Leveraging Dynamic Token-based Quantization with Accuracy Compensation Mechanism for Efficient Transformer Architectur"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "DTATrans: Leveraging Dynamic Token-Based Quantization With Accuracy Compensation Mechanism for Efficient Transformer Architecture"
+  year: 2023
+  doi: https://doi.org/10.1109/TCAD.2022.3181541
+  url: https://doi.org/10.1109/TCAD.2022.3181541
+  publisher: IEEE
+  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
+  pubshort: TCAD
   ignore: no
 
 129:
   title: "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.23919/DATE54114.2022.9774692
+  url: https://doi.org/10.23919/DATE54114.2022.9774692
+  publisher: IEEE
+  pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubshort: DATE
   ignore: no
 
 130:
   title: "Dynamic Precision Analog Computing for Neural Networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/JSTQE.2022.3218019
+  url: https://doi.org/10.1109/JSTQE.2022.3218019
+  publisher: IEEE 
+  pub: IEEE Journal of Selected Topics in Quantum Electronics
   pubshort: 
   ignore: no
 
@@ -3629,3 +3491,32 @@
   pub: 
   pubshort: 
   ignore: no
+
+121:
+  title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: yes
+
+122:
+  title: "Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: yes
+108:
+  title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: yes
