@@ -238,6 +238,11 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACM/IEEE-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3370748.3406567-sandybrown?style=flat-square)](https://doi.org/10.1145/3370748.3406567)
 
+**Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer**
+
+![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SOCC49529.2020.9524802-sandybrown?style=flat-square)](https://doi.org/10.1109/SOCC49529.2020.9524802)
+
 ---
 ### 2021
 **A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators**
@@ -435,18 +440,28 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASAP52443.2021.00046-sandybrown?style=flat-square)](https://doi.org/10.1109/ASAP52443.2021.00046)
 
+**Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/DAC18074.2021.9586216-sandybrown?style=flat-square)](https://doi.org/10.1109/DAC18074.2021.9586216)
+
+**Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference**
+
+![](https://img.shields.io/badge/IEEE/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO50266.2020.00071-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO50266.2020.00071)
+
+**Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.23919/DATE51398.2021.9474043-sandybrown?style=flat-square)](https://doi.org/10.23919/DATE51398.2021.9474043)
+
+**Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/JPROC.2021.3098483-sandybrown?style=flat-square)](https://doi.org/10.1109/JPROC.2021.3098483)
+
 ---
 ### 2022
-**A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing**
-
-![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42614.2022.9731686-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42614.2022.9731686)
-
-**A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation**
-
-![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ESSCIRC55480.2022.9911343-sandybrown?style=flat-square)](https://doi.org/10.1109/ESSCIRC55480.2022.9911343)
-
 **A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval**
 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
@@ -729,7 +744,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 **FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization**
 
-![](https://img.shields.io/badge/ACM/SIGDA International Symposium on Field-Programmable Gate Arrays-2022-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/ACM/SIGDA-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3490422.3502364-sandybrown?style=flat-square)](https://doi.org/10.1145/3490422.3502364)
 
 **FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results**
@@ -747,6 +762,36 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TC.2022.3207134-sandybrown?style=flat-square)](https://doi.org/10.1109/TC.2022.3207134)
 
+**Greedy-layer pruning: Speeding up transformer models for natural language processing**
+
+![](https://img.shields.io/badge/Elsevier-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.patrec.2022.03.023-sandybrown?style=flat-square)](https://doi.org/10.1016/j.patrec.2022.03.023)
+
+**GuardNN: secure accelerator architecture for privacy-preserving deep learning**
+
+![](https://img.shields.io/badge/ACM/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3489517.3530439-sandybrown?style=flat-square)](https://doi.org/10.1145/3489517.3530439)
+
+**Handling heavy-tailed input of transformer inference on GPUs**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3524059.3532372-sandybrown?style=flat-square)](https://doi.org/10.1145/3524059.3532372)
+
+**Hardware Acceleration of Transformer Networks using FPGAs**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/PACET56979.2022.9976354-sandybrown?style=flat-square)](https://doi.org/10.1109/PACET56979.2022.9976354)
+
+**Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit**
+
+![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--10989--8_55-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-10989-8_55)
+
+**Hardware and Software Co-optimization for Windows Attention**
+
+![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--10989--8_52-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-10989-8_52)
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -763,5 +808,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2022.3181541-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2022.3181541)
+
+**HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/LCA.2022.3233832-sandybrown?style=flat-square)](https://doi.org/10.1109/LCA.2022.3233832)
 
 ---

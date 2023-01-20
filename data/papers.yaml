@@ -6,7 +6,7 @@
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubshort: ISSCC
-  ignore: no
+  ignore: yes
   
 3:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
@@ -16,7 +16,7 @@
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
   pubshort: IEEE-ESSCIRC
-  ignore: no
+  ignore: yes
   
 4:
   title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
@@ -1340,8 +1340,8 @@
   year: 2022
   doi: https://doi.org/10.1145/3490422.3502364
   url: https://doi.org/10.1145/3490422.3502364
-  publisher: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
-  pub: ACM/SIGDA
+  publisher: ACM/SIGDA
+  pub: International Symposium on Field-Programmable Gate Arrays
   pubshort: FPGA
   ignore: no
 
@@ -1427,172 +1427,122 @@
 
 191:
   title: "Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-192:
-  title: "Ghostbert: Generate more features with cheap operations for BERT"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-193:
-  title: "GMP*: Well-Tuned Global Magnitude Pruning Can Outperform Most BERT-Pruning Methods"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/DAC18074.2021.9586216
+  url: https://doi.org/10.1109/DAC18074.2021.9586216
+  publisher: IEEE
+  pub: ACM/IEEE Design Automation Conference (DAC)
+  pubshort: DAC
   ignore: no
 
 194:
   title: "Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-195:
-  title: "GradTS: A Gradient-Based Automatic Auxiliary Task Selection Method Based on Transformer Networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/MICRO50266.2020.00071
+  url: https://doi.org/10.1109/MICRO50266.2020.00071
+  publisher: IEEE/ACM
+  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubshort: MICRO
   ignore: no
 
 196:
   title: "Greedy-layer pruning: Speeding up transformer models for natural language processing"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1016/j.patrec.2022.03.023
+  url: https://doi.org/10.1016/j.patrec.2022.03.023
+  publisher: Elsevier 
+  pub: Pattern Recognition Letters
   pubshort: 
   ignore: no
 
 197:
   title: "GuardNN: secure accelerator architecture for privacy-preserving deep learning"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530439
+  url: https://doi.org/10.1145/3489517.3530439
+  publisher: ACM/IEEE
+  pub: ACM/IEEE Design Automation Conference
+  pubshort: DAC
   ignore: no
 
 198:
   title: "HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2023
+  doi: https://doi.org/10.1109/LCA.2022.3233832
+  url: https://doi.org/10.1109/LCA.2022.3233832
+  publisher: IEEE
+  pub: IEEE Computer Architecture Letters 
   pubshort: 
   ignore: no
 
 199:
   title: "Handling heavy-tailed input of transformer inference on GPUs"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3524059.3532372
+  url: https://doi.org/10.1145/3524059.3532372
+  publisher: ACM 
+  pub: ACM International Conference on Supercomputing (ICS)
+  pubshort: ICS
   ignore: no
 
 200:
   title: "Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.23919/DATE51398.2021.9474043
+  url: https://doi.org/10.23919/DATE51398.2021.9474043
+  publisher: IEEE
+  pub:  Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubshort: DATE
   ignore: no
 
 201:
   title: "Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1109/JPROC.2021.3098483
+  url: https://doi.org/10.1109/JPROC.2021.3098483
+  publisher: IEEE 
+  pub: Proceedings of the IEEE
   pubshort: 
   ignore: no
 
 202:
   title: "Hardware Acceleration of Transformer Networks using FPGAs"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/PACET56979.2022.9976354
+  url: https://doi.org/10.1109/PACET56979.2022.9976354
+  publisher: IEEE
+  pub: Panhellenic Conference on Electronics & Telecommunications (PACET)
   pubshort: 
   ignore: no
 
 203:
   title: "Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2020
+  doi: https://doi.org/10.1109/SOCC49529.2020.9524802
+  url: https://doi.org/10.1109/SOCC49529.2020.9524802
+  publisher: IEEE
+  pub: International System-on-Chip Conference (SOCC)
+  pubshort: DOCC
   ignore: no
 
 204:
   title: "Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1007/978--3--031--10989--8_55
+  url: https://doi.org/10.1007/978-3-031-10989-8_55
+  publisher: Springer
+  pub: International Conference on Knowledge Science, Engineering and Management
+  pubshort: KSEM
   ignore: no
 
 205:
   title: "Hardware and Software Co-optimization for Windows Attention"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1007/978--3--031--10989--8_52
+  url: https://doi.org/10.1007/978-3-031-10989-8_52
   publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-206:
-  title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-207:
-  title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  pub: International Conference on Knowledge Science, Engineering and Management
+  pubshort: KSEM
   ignore: no
 
 208:
@@ -3282,3 +3232,33 @@
   pub: 
   pubshort: 
   ignore: no
+
+192:
+  title: "Ghostbert: Generate more features with cheap operations for BERT"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: 
+206:
+  title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
+  year: 
+  doi: 
+  url: 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+
+  207:
+  title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
+  year: 2022
+  doi: https://doi.org/10.1007/978--3--030--87208--8_5
+  url: https://https://eprints.gla.ac.uk/280378/
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: todo
