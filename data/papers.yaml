@@ -1,4 +1,4 @@
-2:
+1:
   title: "A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing"
   year: 2022
   doi: https://doi.org/10.1109/ISSCC42614.2022.9731686
@@ -6,9 +6,10 @@
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubshort: ISSCC
-  ignore: yes
+  ignore: no
+  silicon: yes
   
-3:
+2:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
   year: 2022
   doi: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
@@ -16,19 +17,21 @@
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
   pubshort: IEEE-ESSCIRC
-  ignore: yes
+  ignore: no
+  silicon: yes
   
-4:
+3:
   title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
   year: 2022
   doi: https://doi.org/10.1109/FCCM53951.2022.9786159
   url: https://doi.org/10.1109/FCCM53951.2022.9786159
   publisher: IEEE
-  pub: Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+  pub: International Symposium on Field-Programmable Custom Computing Machines (FCCM)
   pubshort: IEEE-FCCM
   ignore: no
+  silicon: yes
   
-5:
+4:
   title: "A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks"
   year: 2022
   doi: https://doi.org/10.1145/3564606
@@ -38,7 +41,7 @@
   pubshort: ACM-TACO
   ignore: no
   
-7:
+5:
   title: "A Fast Post-Training Pruning Framework for Transformers"
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2204.09656
@@ -46,9 +49,9 @@
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: arXiv-CSCL
-  ignore: no
+  ignore: check
   
-8:
+6:
   title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
   year: 2022
   doi: https://doi.org/10.1109/TCAD.2021.3121264
@@ -57,8 +60,9 @@
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   pubshort: TCAD
   ignore: no
+  silicon: yes
   
-9:
+7:
   title: "A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators"
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643471
@@ -67,18 +71,20 @@
   pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
   ignore: no
+  silicon: yes
   
-10:
+8:
   title: "A Full-Stack Search Technique for Domain Optimized Deep Learning Accelerators"
   year: 2021
   doi: https://doi.org/10.1145/3503222.3507767
   url: https://doi.org/10.1145/3503222.3507767
   publisher: arXiv
   pub: Computer Science > Machine Learning
-  pubshort: arXiv-CSML
+  pubshort:
   ignore: no
+  silicon: yes
   
-11:
+9:
   title: "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining"
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530585
@@ -87,8 +93,9 @@
   pub: ACM/IEEE Design Automation Conference
   pubshort: DAC
   ignore: no
+  silicon: yes
   
-12:
+10:
   title: "A Lite Romanian BERT: ALR-BERT"
   year: 2022
   doi: https://doi.org/10.3390/computers11040057
@@ -96,9 +103,10 @@
   publisher: MDPI
   pub: Computers
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: no
   
-13:
+11:
   title: "A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications"
   year: 2020
   doi: https://doi.org/10.1109/ICFPT51103.2020.00014
@@ -107,8 +115,9 @@
   pub: International Conference on Field-Programmable Technology (ICFPT)
   pubshort: ICFPT
   ignore: no
+  silicon: yes
   
-14:
+12:
   title: "A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes"
   year: 2021
   doi: https://doi.org/10.1109/COINS51742.2021.9524173
@@ -117,8 +126,9 @@
   pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
   pubshort: COINS
   ignore: no
+  silicon: yes
   
-15:
+13:
   title: "A Multi-Neural Network Acceleration Architecture"
   year: 2020
   doi: https://doi.org/10.1109/ISCA45697.2020.00081
@@ -126,9 +136,10 @@
   publisher: ACM/IEEE
   pub: Annual International Symposium on Computer Architecture (ISCA)
   pubshort: ISCA
-  ignore: no
+  ignore: check
+  silicon: yes
   
-16:
+14:
   title: "A Power Efficient Neural Network Implementation on Heterogeneous FPGA and GPU Devices"
   year: 2019
   doi: https://doi.org/10.1109/IRI.2019.00040
@@ -136,9 +147,10 @@
   publisher: IEEE
   pub: International Conference on Information Reuse and Integration for Data Science (IRI)
   pubshort: IRA
-  ignore: no
+  ignore: check
+  silicon: yes
   
-17:
+15:
   title: "A Primer in BERTology: What We Know About How BERT Works"
   year: 2020
   doi: https://doi.org/10.1162/tacl_a_00349
@@ -146,9 +158,10 @@
   publisher: MIt%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
-18:
+16:
   title: "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning"
   year: 2021
   doi: https://doi.org/10.1109/MNET.011.2000530
@@ -156,9 +169,10 @@
   publisher: IEEE
   pub: IEEE Network
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
-19:
+17:
   title: "A Reconfigurable DNN Training Accelerator on FPGA"
   year: 2020
   doi: https://doi.org/10.1109/SiPS50750.2020.9195234
@@ -166,9 +180,10 @@
   publisher: IEEE
   pub: IEEE Workshop on Signal Processing Systems (SiPS)
   pubshort: SiPS
-  ignore: no
+  ignore: check
+  silicon: check
   
-20:
+18:
   title: "A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication"
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937531
@@ -177,8 +192,9 @@
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
   ignore: no
+  silicon: yes
   
-21:
+19:
   title: "A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation"
   year: 2022
   doi: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
@@ -187,8 +203,9 @@
   pub: IEEE Global Communications Conference
   pubshort: null
   ignore: no
+  silicon: yes
   
-22:
+20:
   title: "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning"
   year: 2019
   doi: https://doi.org/10.48550/arXiv.1906.06253
@@ -196,9 +213,10 @@
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
-23:
+21:
   title: "A Study on Token Pruning for ColBERT"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2112.06540
@@ -206,9 +224,10 @@
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
-24:
+22:
   title: "A White Paper on Neural Network Quantization"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2106.08295
@@ -216,9 +235,10 @@
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
-25:
+23:
   title: "A^3: Accelerating Attention Mechanisms in Neural Networks with Approximation"
   year: 2020
   doi: https://doi.org/10.1109/HPCA47549.2020.00035
@@ -227,8 +247,9 @@
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubshort: HPCA
   ignore: no
+  silicon: yes
   
-26:
+24:
   title: "Emerging Neural Workloads and Their Impact on Hardware"
   year: 2020
   doi: https://doi.org/10.23919/DATE48585.2020.9116435
@@ -236,9 +257,10 @@
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubshort: DATE
-  ignore: no
+  ignore: check
+  silicon: check
   
-27:
+25:
   title: "Accelerated Device Placement Optimization with Contrastive Learning"
   year: 2021
   doi: https://doi.org/10.1145/3472456.3472523
@@ -247,8 +269,9 @@
   pub: International Conference on Parallel Processing
   pubshort: ICCP
   ignore: no
+  silicon: yes
   
-28:
+26:
   title: "Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array"
   year: 2022
   doi: https://doi.org/10.1145/3549937
@@ -257,8 +280,9 @@
   pub: ACM Transactions on Embedded Computing Systems
   pubshort: TECS
   ignore: no
+  silicon: yes
   
-29:
+27:
   title: "Accelerating attention through gradient-based learned runtime pruning"
   year: 2022
   doi: https://doi.org/10.1145/3470496.3527423
@@ -267,8 +291,9 @@
   pub: International Symposium on Computer Architecture
   pubshort: ISCA
   ignore: no
+  silicon: yes
   
-30:
+28:
   title: "Accelerating bandwidth-bound deep learning inference with main-memory accelerators"
   year: 2021
   doi: https://doi.org/10.1145/3458817.3476146
@@ -277,8 +302,9 @@
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
   pubshort: SC
   ignore: no
+  silicon: yes
   
-31:
+29:
   title: "Accelerating Emerging Neural Workloads"
   year: 2021
   doi: https://doi.org/10.25394/pgs.17139038.v1
@@ -287,8 +313,9 @@
   pub: Open Access Theses and Dissertations
   pubshort: null
   ignore: no
+  silicon: yes
   
-32:
+30:
   title: "Accelerating event detection with DGCNN and FPGAS"
   year: 2020
   doi: https://doi.org/10.3390/electronics9101666
@@ -297,8 +324,9 @@
   pub: Electronics
   pubshort: null
   ignore: no
+  silicon: yes
   
-33:
+31:
   title: "Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization"
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643586
@@ -307,6 +335,7 @@
   pub: International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
   ignore: no
+  silicon: yes
   
 34:
   title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
@@ -317,6 +346,7 @@
   pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
   pubshort: ISVLSI
   ignore: no
+  silicon: yes
   
 35:
   title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
@@ -329,15 +359,14 @@
   ignore: no
   
 36:
-  title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column
-    Balanced Block Pruning"
+  title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning"
   year: 2021
   doi: https://doi.org/10.1109/ISQED51717.2021.9424344
   url: https://doi.org/10.1109/ISQED51717.2021.9424344
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubshort: ISQED
-  ignore: no
+  ignore: yes
   
 37:
   title: "Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization"
