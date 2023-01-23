@@ -3,6 +3,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ISSCC42614.2022.9731686
   url: https://doi.org/10.1109/ISSCC42614.2022.9731686
+  pdf: no 
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubshort: ISSCC
@@ -14,6 +15,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
   url: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
+  pdf: no 
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
   pubshort: IEEE-ESSCIRC
@@ -25,6 +27,7 @@
   year: 2022
   doi: https://doi.org/10.1109/FCCM53951.2022.9786159
   url: https://doi.org/10.1109/FCCM53951.2022.9786159
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Field-Programmable Custom Computing Machines (FCCM)
   pubshort: IEEE-FCCM
@@ -36,6 +39,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3564606
   url: https://doi.org/10.1145/3564606
+  pdf: no 
   publisher: ACM
   pub: ACM Transactions on Architecture and Code Optimization
   pubshort: ACM-TACO
@@ -46,6 +50,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2204.09656
   url: https://doi.org/10.48550/arXiv.2204.09656
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: arXiv-CSCL
@@ -56,6 +61,7 @@
   year: 2022
   doi: https://doi.org/10.1109/TCAD.2021.3121264
   url: https://doi.org/10.1109/TCAD.2021.3121264
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   pubshort: TCAD
@@ -67,6 +73,7 @@
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643471
   url: https://doi.org/10.1109/ICCAD51958.2021.9643471
+  pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
@@ -78,6 +85,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3503222.3507767
   url: https://doi.org/10.1145/3503222.3507767
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort:
@@ -89,6 +97,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530585
   url: https://doi.org/10.1145/3489517.3530585
+  pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubshort: DAC
@@ -100,6 +109,7 @@
   year: 2022
   doi: https://doi.org/10.3390/computers11040057
   url: https://doi.org/10.3390/computers11040057
+  pdf: no 
   publisher: MDPI
   pub: Computers
   pubshort: null
@@ -111,6 +121,7 @@
   year: 2020
   doi: https://doi.org/10.1109/ICFPT51103.2020.00014
   url: https://doi.org/10.1109/ICFPT51103.2020.00014
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Field-Programmable Technology (ICFPT)
   pubshort: ICFPT
@@ -122,6 +133,7 @@
   year: 2021
   doi: https://doi.org/10.1109/COINS51742.2021.9524173
   url: https://doi.org/10.1109/COINS51742.2021.9524173
+  pdf: no 
   publisher: IEEE
   pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
   pubshort: COINS
@@ -133,6 +145,7 @@
   year: 2020
   doi: https://doi.org/10.1109/ISCA45697.2020.00081
   url: https://doi.org/10.1109/ISCA45697.2020.00081
+  pdf: no 
   publisher: ACM/IEEE
   pub: Annual International Symposium on Computer Architecture (ISCA)
   pubshort: ISCA
@@ -144,6 +157,7 @@
   year: 2019
   doi: https://doi.org/10.1109/IRI.2019.00040
   url: https://doi.org/10.1109/IRI.2019.00040
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Information Reuse and Integration for Data Science (IRI)
   pubshort: IRA
@@ -155,6 +169,7 @@
   year: 2020
   doi: https://doi.org/10.1162/tacl_a_00349
   url: https://doi.org/10.1162/tacl_a_00349
+  pdf: no 
   publisher: MIt%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubshort: null
@@ -166,6 +181,7 @@
   year: 2021
   doi: https://doi.org/10.1109/MNET.011.2000530
   url: https://doi.org/10.1109/MNET.011.2000530
+  pdf: no 
   publisher: IEEE
   pub: IEEE Network
   pubshort: null
@@ -177,6 +193,7 @@
   year: 2020
   doi: https://doi.org/10.1109/SiPS50750.2020.9195234
   url: https://doi.org/10.1109/SiPS50750.2020.9195234
+  pdf: no 
   publisher: IEEE
   pub: IEEE Workshop on Signal Processing Systems (SiPS)
   pubshort: SiPS
@@ -188,6 +205,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937531
   url: https://doi.org/10.1109/ISCAS48785.2022.9937531
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
@@ -199,6 +217,7 @@
   year: 2022
   doi: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
   url: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
+  pdf: no 
   publisher: IEEE
   pub: IEEE Global Communications Conference
   pubshort: null
@@ -210,6 +229,7 @@
   year: 2019
   doi: https://doi.org/10.48550/arXiv.1906.06253
   url: https://doi.org/10.48550/arXiv.1906.06253
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: null
@@ -221,6 +241,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2112.06540
   url: https://doi.org/10.48550/arXiv.2112.06540
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubshort: null
@@ -232,6 +253,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2106.08295
   url: https://doi.org/10.48550/arXiv.2106.08295
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
@@ -243,6 +265,7 @@
   year: 2020
   doi: https://doi.org/10.1109/HPCA47549.2020.00035
   url: https://doi.org/10.1109/HPCA47549.2020.00035
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubshort: HPCA
@@ -254,6 +277,7 @@
   year: 2020
   doi: https://doi.org/10.23919/DATE48585.2020.9116435
   url: https://doi.org/10.23919/DATE48585.2020.9116435
+  pdf: no 
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubshort: DATE
@@ -265,6 +289,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3472456.3472523
   url: https://doi.org/10.1145/3472456.3472523
+  pdf: no 
   publisher: ACM
   pub: International Conference on Parallel Processing
   pubshort: ICCP
@@ -276,6 +301,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3549937
   url: https://doi.org/10.1145/3549937
+  pdf: no 
   publisher: ACM
   pub: ACM Transactions on Embedded Computing Systems
   pubshort: TECS
@@ -287,6 +313,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3470496.3527423
   url: https://doi.org/10.1145/3470496.3527423
+  pdf: no 
   publisher: ACM
   pub: International Symposium on Computer Architecture
   pubshort: ISCA
@@ -298,6 +325,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3458817.3476146
   url: https://doi.org/10.1145/3458817.3476146
+  pdf: no 
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
   pubshort: SC
@@ -309,6 +337,7 @@
   year: 2021
   doi: https://doi.org/10.25394/pgs.17139038.v1
   url: https://doi.org/10.25394/pgs.17139038.v1
+  pdf: no 
   publisher: Purdue%20University
   pub: Open Access Theses and Dissertations
   pubshort: null
@@ -320,6 +349,7 @@
   year: 2020
   doi: https://doi.org/10.3390/electronics9101666
   url: https://doi.org/10.3390/electronics9101666
+  pdf: no 
   publisher: MDPI
   pub: Electronics
   pubshort: null
@@ -331,88 +361,103 @@
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643586
   url: https://doi.org/10.1109/ICCAD51958.2021.9643586
+  pdf: no 
   publisher: IEEE/ACM
   pub: International Conference On Computer Aided Design (ICCAD)
   pubshort: ICCAD
   ignore: no
   silicon: yes
   
-34:
+32:
   title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
   year: 2022
   doi: https://doi.org/10.1109/ISVLSI54635.2022.00092
   url: https://doi.org/10.1109/ISVLSI54635.2022.00092
+  pdf: no 
   publisher: IEEE
   pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
   pubshort: ISVLSI
   ignore: no
   silicon: yes
   
-35:
+33:
   title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
   year: 2022
   doi: https://doi.org/10.1109/IISWC55918.2022.00018
   url: https://doi.org/10.1109/IISWC55918.2022.00018
+  pdf: no http://scale.snu.ac.kr/papers/2022-11-Conference-IISWC-Softmax-recomposition.pdf
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
   pubshort: IIWSC
   ignore: no
-  
-36:
+  silicon: yes
+
+34:
   title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning"
   year: 2021
   doi: https://doi.org/10.1109/ISQED51717.2021.9424344
   url: https://doi.org/10.1109/ISQED51717.2021.9424344
+  pdf: https://wangshusen.github.io/papers/ISQED2021.pdf
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubshort: ISQED
-  ignore: yes
-  
-37:
+  ignore: no
+  silicon: yes
+
+35:
   title: "Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization"
   year: 2021
   doi: https://doi.org/10.1145/3453688.3461739
   url: https://doi.org/10.1145/3453688.3461739
+  pdf: no
   publisher: ACM
   pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
   pubshort: GLSVLSI
   ignore: no
+  silicon: yes
   
-38:
+36:
   title: "Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling"
   year: 2022
   doi: https://doi.org/10.1109/ACCESS.2022.3203051
   url: https://doi.org/10.1109/ACCESS.2022.3203051
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9870805
   publisher: IEEE
   pub: IEEE Access
   pubshort: IEEE%20Access
   ignore: no
+  silicon: yes
   
 40:
   title: "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design"
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00050
   url: https://doi.org/10.1109/MICRO56248.2022.00050
+  pdf: https://arxiv.org/pdf/2209.09570.pdf
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
   ignore: no
+  silicon: yes
   
 41:
   title: "Adapting by pruning: A case study on BERT"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2105.03343
   url: https://doi.org/10.48550/arXiv.2105.03343
+  pdf: https://arxiv.org/pdf/2105.03343.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
-  ignore: no
+  ignore: check
+  silicon: check
   
 42:
   title: "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions"
   year: 2021
   doi: https://doi.org/10.1145/3469116.3470012
   url: https://doi.org/10.1145/3469116.3470012
+  pdf: no 
   publisher: ACM
   pub: International Workshop on Embedded and Mobile Deep Learning
   pubshort: EMDL
@@ -423,6 +468,7 @@
   year: 2021
   doi: https://doi.org/10.1109/TIP.2021.3076556
   url: https://doi.org/10.1109/TIP.2021.3076556
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Image Processing
   pubshort: TIP
@@ -433,6 +479,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3477002
   url: https://doi.org/10.1145/3477002
+  pdf: no 
   publisher: ACM
   pub: Transactions on Embedded Computing System
   pubshort: TECS
@@ -443,6 +490,7 @@
   year: 2018
   doi: https://doi.org/10.1145/3240765.3240775
   url: https://doi.org/10.1145/3240765.3240775
+  pdf: no 
   publisher: IEEE/ACM
   pub: International Conference on Computer-Aided Design (ICCAD)
   pubshort: ICCAD
@@ -453,6 +501,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.03858
   url: https://doi.org/10.48550/arXiv.2210.03858
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: null
@@ -463,6 +512,7 @@
   year: 2022
   doi: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
   url: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
+  pdf: no 
   publisher: ACL
   pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
   pubshort: null
@@ -473,6 +523,7 @@
   year: 2022
   doi: https://doi.org/10.1109/TVLSI.2022.3197282
   url: https://doi.org/10.1109/TVLSI.2022.3197282
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
   pubshort: TCAD
@@ -483,6 +534,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ISQED54688.2022.9806197
   url: https://doi.org/10.1109/ISQED54688.2022.9806197
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubshort: ISQED
@@ -493,6 +545,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937659
   url: https://doi.org/10.1109/ISCAS48785.2022.9937659
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
@@ -503,6 +556,7 @@
   year: 2023
   doi: https://doi.org/10.1007/978--3--031--22677--9_29
   url: https://doi.org/10.1007/978-3-031-22677-9_29
+  pdf: no 
   publisher: Springer
   pub: International Conference on Algorithms and Architectures for Parallel Processing
   pubshort: null
@@ -513,6 +567,7 @@
   year: 2020
   doi: https://doi.org/10.14569/ijacsa.2020.0111027
   url: https://doi.org/10.14569/ijacsa.2020.0111027
+  pdf: no 
   publisher: TheSAI
   pub: International Journal of Advanced Computer Science and Applications
   pubshort: IJACSA
@@ -523,6 +578,7 @@
   year: 2022
   doi: https://doi.org/10.1109/JSSC.2022.3213521
   url: https://doi.org/10.1109/JSSC.2022.3213521
+  pdf: no 
   publisher: IEEE
   pub: Journal of Solid-State Circuits
   pubshort: JSSC
@@ -533,6 +589,7 @@
   year: 2019
   doi: https://doi.org/10.1109/CCGRID.2019.00069
   url: https://doi.org/10.1109/CCGRID.2019.00069
+  pdf: no 
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
   pubshort: CCGRID
@@ -543,6 +600,7 @@
   year: 2022
   doi: https://doi.org/10.1109/TCSII.2022.3196055
   url: https://doi.org/10.1109/TCSII.2022.3196055
+  pdf: no 
   publisher: IEEE
   pub: 'Transactions on Circuits and Systems II: Express Briefs'
   pubshort: TCSII
@@ -553,6 +611,7 @@
   year: 2020
   doi: https://doi.org/10.1007/978--3--030--60450--9_29
   url: https://doi.org/10.1007/978--3--030--60450--9_29
+  pdf: no 
   publisher: Springer
   pub: International Conference on Natural Language Processing and Chinese Computing
   pubshort: null
@@ -563,6 +622,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937292
   url: https://doi.org/10.1109/ISCAS48785.2022.9937292
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
@@ -573,6 +633,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ASAP54787.2022.00022
   url: https://doi.org/10.1109/ASAP54787.2022.00022
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubshort: ASAP
@@ -583,6 +644,7 @@
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00095
   url: https://doi.org/10.1109/MICRO56248.2022.00095
+  pdf: no 
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
@@ -593,6 +655,7 @@
   year: 2022
   doi: https://doi.org/10.1016/j.jpdc.2022.04.005
   url: https://doi.org/10.1016/j.jpdc.2022.04.005
+  pdf: no 
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
   pubshort: JPDC
@@ -603,6 +666,7 @@
   year: 2021
   doi: https://doi.org/10.1109/HCS52781.2021.9567191
   url: https://doi.org/10.1109/HCS52781.2021.9567191
+  pdf: no 
   publisher: IEEE
   pub: IEEE Hot Chips 33 Symposium (HCS)
   pubshort: HCS
@@ -614,6 +678,7 @@
   year: 2020
   doi: https://doi.org/10.1109/ICCD50377.2020.00047
   url: https://doi.org/10.1109/ICCD50377.2020.00047
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Computer Design (ICCD)
   pubshort: ICCD
@@ -624,6 +689,7 @@
   year: 2021
   doi: https://doi.org/10.1371/journal.pone.0253241
   url: https://doi.org/10.1371/journal.pone.0253241
+  pdf: no 
   publisher: PlosOne
   pub: Plos one
   pubshort: 
@@ -634,6 +700,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2208.05163
   url: https://doi.org/10.48550/arXiv.2208.05163
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
@@ -644,6 +711,7 @@
   year: 2021
   doi: https://doi.org/10.24963/ijcai.2021/472
   url: https://doi.org/10.24963/ijcai.2021/472
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -654,6 +722,7 @@
   year: 2022
   doi: https://doi.org/10.1109/CSCloud--EdgeCom54986.2022.00018
   url: https://doi.org/10.1109/CSCloud-EdgeCom54986.2022.00018
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Edge Computing and Scalable Cloud (EdgeCom)
   pubshort: EdgeCom
@@ -664,6 +733,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.15976
   url: https://doi.org/10.48550/arXiv.2210.15976
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -674,6 +744,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2110.15802
   url: https://doi.org/10.48550/arXiv.2110.15802
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -685,6 +756,7 @@
   year: 2021
   doi: https://doi.org/10.1109/R10--HTC53172.2021.9641632
   url: https://doi.org/10.1109/R10-HTC53172.2021.9641632
+  pdf: no 
   publisher: IEEE
   pub: IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)
   pubshort: 
@@ -695,6 +767,7 @@
   year: 2022
   doi: https://urn.fi/URN:NBN:fi--fe2022121270782
   url: https://urn.fi/URN:NBN:fi-fe2022121270782
+  pdf: no 
   publisher: LUT%20University
   pub: School of Engineering Science, Tuotantotalous
   pubshort: 
@@ -705,6 +778,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2211.05610
   url: https://doi.org/10.48550/arXiv.2211.05610
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -715,6 +789,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2103.13799
   url: https://doi.org/10.48550/arXiv.2103.13799
+  pdf: no 
   publisher: arXiv 
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -725,6 +800,7 @@
   year: 2022
   doi: https://doi.org/10.1109/SiPS55645.2022.9919203
   url: https://doi.org/10.1109/SiPS55645.2022.9919203
+  pdf: no 
   publisher: IEEE
   pub:  IEEE Workshop on Signal Processing Systems (SiPS)
   pubshort: SiPS
@@ -735,6 +811,7 @@
   year: 2021
   doi: http://dx.doi.org/10.18653/v1/2021.--eacl--main.8
   url: http://dx.doi.org/10.18653/v1/2021.eacl-main.8
+  pdf: no 
   publisher: ACL
   pub: Association%20for%20Computational%20Linguistics
   pubshort: 
@@ -745,6 +822,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2109.03228
   url: https://doi.org/10.48550/arXiv.2109.03228
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -755,6 +833,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.06390
   url: https://doi.org/10.48550/arXiv.2203.06390
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -765,6 +844,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2209.12127
   url: https://doi.org/10.48550/arXiv.2209.12127
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: 
@@ -775,6 +855,7 @@
   year: 2021
   doi: https://doi.org/10.1109/ASAP52443.2021.00021
   url: https://doi.org/10.1109/ASAP52443.2021.00021
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubshort: ASAP
@@ -785,6 +866,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2012.15701
   url: https://doi.org/10.48550/arXiv.2012.15701
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -795,6 +877,7 @@
   year: 2021
   doi: https://doi.org/10.1007/978--3--030--68763--2_48
   url: https://doi.org/10.1007/978-3-030-68763-2_48
+  pdf: no 
   publisher: Springer
   pub: International Conference on Pattern Recognition
   pubshort: ICPR
@@ -805,6 +888,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2205.13016
   url: https://doi.org/10.48550/arXiv.2205.13016
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: 
@@ -815,6 +899,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2109.04838
   url: https://doi.org/10.48550/arXiv.2109.04838
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubshort: 
@@ -825,6 +910,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2208.08124
   url: https://doi.org/10.48550/arXiv.2208.08124
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Distributed, Parallel, and Cluster Computing
   pubshort: 
@@ -835,6 +921,7 @@
   year: 2020
   doi: https://doi.org/10.1145/3373376.3378505
   url: https://doi.org/10.1145/3373376.3378505
+  pdf: no 
   publisher: ACM
   pub: International Conference on Architectural Support for Programming Languages and Operating Systems
   pubshort: ASPLOS
@@ -845,6 +932,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
   pubshort: 
@@ -855,6 +943,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
   pubshort: 
@@ -865,6 +954,7 @@
   year: 2023
   doi: https://doi.org/10.48550/arXiv.2301.02359
   url: https://doi.org/10.48550/arXiv.2301.02359
+  pdf: no 
   publisher: arXiv 
   pub: Computer Science > Hardware Architecture
   pubshort: 
@@ -875,6 +965,7 @@
   year: 2020
   doi: https://doi.org/10.1145/3397271.3401075
   url: https://doi.org/10.1145/3397271.3401075
+  pdf: no 
   publisher: ACM
   pub: International ACM SIGIR Conference on Research and Development in Information Retrieval
   pubshort: SIGIR
@@ -885,6 +976,7 @@
   year: 2020
   doi: https://doi.org/10.1007/978--3--030--67537--0_34
   url: https://doi.org/10.1007/978-3-030-67537-0_34
+  pdf: no 
   publisher: Springer
   pub: "International Conference on Collaborative Computing: Networking, Applications and Worksharing"
   pubshort: 
@@ -895,6 +987,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.15328
   url: https://doi.org/10.48550/arXiv.2203.15328
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubshort: 
@@ -905,6 +998,7 @@
   year: 2020
   doi: https://doi.org/10.3390/app10238631
   url: https://doi.org/10.3390/app10238631
+  pdf: no 
   publisher: MDPI
   pub: "Natural Language Processing: Emerging Neural Approaches and Applications"
   pubshort: 
@@ -915,6 +1009,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2002.08307
   url: https://doi.org/10.48550/arXiv.2002.08307
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -925,6 +1020,7 @@
   year: 2021
   doi: https://doi.org/10.1162/tacl_a_00413
   url: https://doi.org/10.1162/tacl_a_00413
+  pdf: no 
   publisher: MIT%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubshort: 
@@ -935,6 +1031,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2206.15014
   url: https://doi.org/10.48550/arXiv.2206.15014
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -945,6 +1042,7 @@
   year: 2020
   doi: https://doi.org/10.1145/3340531.3412171
   url: https://doi.org/10.1145/3340531.3412171
+  pdf: no 
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Managemen
   pubshort: CIKM
@@ -955,6 +1053,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.10705
   url: https://doi.org/10.48550/arXiv.2203.10705
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -965,6 +1064,7 @@
   year: 2022
   doi: https://doi.org/10.3390/electronics11152373
   url: https://doi.org/10.3390/electronics11152373
+  pdf: no 
   publisher: MDPI 
   pub: Electronics
   pubshort: 
@@ -975,6 +1075,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.06696
   url: https://doi.org/10.48550/arXiv.2210.06696
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
   pubshort: 
@@ -984,8 +1085,9 @@
 107:
   title: "DAP-BERT: Differentiable Architecture Pruning of BERT"
   year: 2021
-  doi: https://doi.org/10.1007/978--3-030--92185--9_30
+  doi: https://doi.org/10.1007/978--3--030--92185--9_30
   url: https://doi.org/10.1007/978-3-030-92185-9_30
+  pdf: no 
   publisher: Springer 
   pub: International Conference on Neural Information Processing
   pubshort: 
@@ -996,6 +1098,7 @@
   year: 2020
   doi: https://doi.org/10.1109/HPCA47549.2020.00011
   url: https://doi.org/10.1109/HPCA47549.2020.00011
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubshort: HPCA
@@ -1006,6 +1109,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2104.08335
   url: https://doi.org/10.48550/arXiv.2104.08335
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
   pubshort: 
@@ -1016,6 +1120,7 @@
   year: 2022
   doi: https://doi.org/10.1109/IISWC55918.2022.00033
   url: https://doi.org/10.1109/IISWC55918.2022.00033
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
   pubshort: 
@@ -1026,6 +1131,7 @@
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00051
   url: https://doi.org/10.1109/MICRO56248.2022.00051
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
@@ -1036,6 +1142,7 @@
   year: 2022
   doi: https://doi.org/10.1016/j.sysarc.2022.102520
   url: https://doi.org/10.1016/j.sysarc.2022.102520
+  pdf: no 
   publisher: Elsevier 
   pub: Journal of Systems Architecture
   pubshort: 
@@ -1046,6 +1153,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3503222.3507738
   url: https://doi.org/10.1145/3503222.3507738
+  pdf: no 
   publisher: ACM
   pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
   pubshort: ASPLOS
@@ -1056,6 +1164,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.11239
   url: https://doi.org/10.48550/arXiv.2203.11239
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1066,6 +1175,7 @@
   year: 2023
   doi: https://doi.org/10.1109/TCAD.2022.3181541
   url: https://doi.org/10.1109/TCAD.2022.3181541
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
   pubshort: TCAD
@@ -1076,6 +1186,7 @@
   year: 2022
   doi: https://doi.org/10.23919/DATE54114.2022.9774692
   url: https://doi.org/10.23919/DATE54114.2022.9774692
+  pdf: no 
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubshort: DATE
@@ -1086,6 +1197,7 @@
   year: 2022
   doi: https://doi.org/10.1109/JSTQE.2022.3218019
   url: https://doi.org/10.1109/JSTQE.2022.3218019
+  pdf: no 
   publisher: IEEE 
   pub: IEEE Journal of Selected Topics in Quantum Electronics
   pubshort: 
@@ -1096,6 +1208,7 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2111.09645
   url: https://doi.org/10.48550/arXiv.2111.09645
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1106,6 +1219,7 @@
   year: 2021
   doi: https://doi.org/10.1109/IPDPS49936.2021.00068
   url: https://doi.org/10.1109/IPDPS49936.2021.00068
+  pdf: no 
   publisher: IEEE
   pub: International Parallel and Distributed Processing Symposium (IPDPS)
   pubshort: IPDPS
@@ -1116,6 +1230,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2101.00063
   url: https://doi.org/10.48550/arXiv.2101.00063
+  pdf: no 
   publisher: arXiv 
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1126,6 +1241,7 @@
   year: 2021
   doi: http://dx.doi.org/10.18653/v1/2021.findings--acl.425
   url: http://dx.doi.org/10.18653/v1/2021.findings-acl.425
+  pdf: no 
   publisher: ACL
   pub: ACL Findings
   pubshort: 
@@ -1136,6 +1252,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3466752.3480095
   url: https://doi.org/10.1145/3466752.3480095
+  pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture
   pubshort: MICRO
@@ -1146,6 +1263,7 @@
   year: 2022
   doi: https://doi.org/10.3390/electronics11213550
   url: https://doi.org/10.3390/electronics11213550
+  pdf: no 
   publisher: MDPI
   pub: Electronics
   pubshort: 
@@ -1156,6 +1274,7 @@
   year: 2020
   doi: https://hdl.handle.net/1721.1/127440
   url: https://hdl.handle.net/1721.1/127440
+  pdf: no 
   publisher: MIT
   pub: MIT Master's Thesis
   pubshort: 
@@ -1167,6 +1286,7 @@
   year: 2022
   doi: https://arxiv.org/abs/2210.17170v1
   url: https://arxiv.org/abs/2210.17170v1
+  pdf: no 
   publisher: arXiv 
   pub: Computer Science > Information Retrieval
   pubshort: 
@@ -1177,6 +1297,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2009.08065
   url: https://doi.org/10.48550/arXiv.2009.08065
+  pdf: no 
   publisher:  arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1187,6 +1308,7 @@
   year: 2022
   doi: 3e9f91ca96ba3320587da2bbec561a2b/
   url: https://www.proquest.com/openview/3e9f91ca96ba3320587da2bbec561a2b/
+  pdf: no 
   publisher: ProQuest
   pub: UC Santa Barbara Ph.D. Dissertation
   pubshort: 
@@ -1199,6 +1321,7 @@
   year: 2021
   doi: https://doi.org/10.1109/ISCA52012.2021.00060
   url: https://doi.org/10.1109/ISCA52012.2021.00060
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
   pubshort: ISCA
@@ -1209,6 +1332,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.16621
   url: https://doi.org/10.48550/arXiv.2210.16621
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1219,6 +1343,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2212.02687
   url: https://doi.org/10.48550/arXiv.2212.02687
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
@@ -1229,6 +1354,7 @@
   year: 2022
   doi: https://doi.org/10.1109/HPCA53966.2022.00018
   url: https://doi.org/10.1109/HPCA53966.2022.00018
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
   pubshort: HPCA
@@ -1239,6 +1365,7 @@
   year: 2021
   doi: https://doi.org/10.1145/3447818.3460371
   url: https://doi.org/10.1145/3447818.3460371
+  pdf: no 
   publisher: ACM
   pub: Proceedings of the ACM International Conference on Supercomputing
   pubshort: ICS
@@ -1249,6 +1376,7 @@
   year: 2022
   doi: https://doi.org/10.1109/AICAS54282.2022.9869924
   url: https://doi.org/10.1109/AICAS54282.2022.9869924
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Artificial Intelligence Circuits and Systems (AICAS)
   pubshort: AICAS
@@ -1259,6 +1387,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://doi.org/10.1145/3489517.3530451
+  pdf: no 
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubshort: DAC
@@ -1269,6 +1398,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://spiral.imperial.ac.uk/bitstream/10044/1/96226/2/dac22hf3_final_bayesatt.pdf
+  pdf: no 
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubshort: DAC
@@ -1279,6 +1409,7 @@
   year: 2021
   doi: https://doi.org/10.1109/TC.2021.3128266
   url: https://doi.org/10.1109/TC.2021.3128266
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computers
   pubshort: 
@@ -1289,6 +1420,7 @@
   year: 2021
   doi: https://doi.org/10.1109/ISCA52012.2021.00012
   url: https://doi.org/10.1109/ISCA52012.2021.00012
+  pdf: no 
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
   pubshort: ISCA
@@ -1299,6 +1431,7 @@
   year: 2023
   doi: https://doi.org/10.3390/electronics12010209
   url: https://doi.org/10.3390/electronics12010209
+  pdf: no 
   publisher: MDPI
   pub: Electronics
   pubshort: 
@@ -1309,6 +1442,7 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--030--99736--6_18
   url: https://doi.org/10.1007/978-3-030-99736-6_18
+  pdf: no 
   publisher: Springer
   pub: European Conference on Information Retrieval (ECIR)
   pubshort: ECIR
@@ -1319,6 +1453,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ICEIC54506.2022.9748444
   url: https://doi.org/10.1109/ICEIC54506.2022.9748444
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Electronics, Information, and Communication (ICEIC)
   pubshort: ICEIC
@@ -1329,6 +1464,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2206.01859
   url: https://doi.org/10.48550/arXiv.2206.01859
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1339,6 +1475,7 @@
   year: 2020
   doi: https://doi.org/10.1007/s11265--020--01555--w
   url: https://doi.org/10.1007/s11265-020-01555-w
+  pdf: no 
   publisher: Springer
   pub: Journal of Signal Processing Systems
   pubshort: 
@@ -1349,6 +1486,7 @@
   year: 2022
   doi: https://doi.org/10.1109/ASAP54787.2022.00020
   url: https://doi.org/10.1109/ASAP54787.2022.00020
+  pdf: no 
   publisher: 
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubshort: ASAP
@@ -1359,6 +1497,7 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.13382
   url: https://doi.org/10.48550/arXiv.2010.13382
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1369,6 +1508,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3490422.3502364
   url: https://doi.org/10.1145/3490422.3502364
+  pdf: no 
   publisher: ACM/SIGDA
   pub: International Symposium on Field-Programmable Gate Arrays
   pubshort: FPGA
@@ -1379,6 +1519,7 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.09055
   url: https://doi.org/10.48550/arXiv.2203.09055
+  pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubshort: 
@@ -1389,6 +1530,7 @@
   year: 2021
   doi: https://doi.org/10.1109/CAC53003.2021.9728246
   url: https://doi.org/10.1109/CAC53003.2021.9728246
+  pdf: no 
   publisher: IEEE 
   pub: China Automation Congress (CAC)
   pubshort: CAS
@@ -1399,6 +1541,7 @@
   year: 2021
   doi: https://doi.org/10.1109/ASAP52443.2021.00046
   url: https://doi.org/10.1109/ASAP52443.2021.00046
+  pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubshort: ASAP
@@ -1409,6 +1552,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530618
   url: https://doi.org/10.1145/3489517.3530618
+  pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubshort: 
@@ -1419,6 +1563,7 @@
   year: 2022
   doi: https://doi.org/10.3233/JIFS--212273
   url: https://doi.org/10.3233/JIFS-212273
+  pdf: no 
   publisher: "IOS%20Press"
   pub: Journal of Intelligent & Fuzzy Systems
   pubshort: 
@@ -1429,6 +1574,7 @@
   year: 2022
   doi: https://doi.org/10.1609/aaai.v36i10.21408
   url: https://doi.org/10.1609/aaai.v36i10.21408
+  pdf: no 
   publisher: AAAI
   pub: AAAI Technical Track on Speech and Natural Language Processing
   pubshort: 
@@ -1439,6 +1585,7 @@
   year: 2020
   doi: https://doi.org/10.1145/3370748.3406567
   url: https://doi.org/10.1145/3370748.3406567
+  pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE International Symposium on Low Power Electronics and Design
   pubshort: ISLPED
@@ -1449,6 +1596,7 @@
   year: 2022
   doi: https://doi.org/10.1109/TC.2022.3207134
   url: https://doi.org/10.1109/TC.2022.3207134
+  pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computers
   pubshort: 
@@ -1459,6 +1607,7 @@
   year: 2021
   doi: https://doi.org/10.1109/DAC18074.2021.9586216
   url: https://doi.org/10.1109/DAC18074.2021.9586216
+  pdf: no 
   publisher: IEEE
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubshort: DAC
@@ -1469,6 +1618,7 @@
   year: 2021
   doi: https://doi.org/10.1109/MICRO50266.2020.00071
   url: https://doi.org/10.1109/MICRO50266.2020.00071
+  pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubshort: MICRO
@@ -1479,6 +1629,7 @@
   year: 2022
   doi: https://doi.org/10.1016/j.patrec.2022.03.023
   url: https://doi.org/10.1016/j.patrec.2022.03.023
+  pdf: no 
   publisher: Elsevier 
   pub: Pattern Recognition Letters
   pubshort: 
@@ -1489,6 +1640,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530439
   url: https://doi.org/10.1145/3489517.3530439
+  pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubshort: DAC
@@ -1499,6 +1651,7 @@
   year: 2023
   doi: https://doi.org/10.1109/LCA.2022.3233832
   url: https://doi.org/10.1109/LCA.2022.3233832
+  pdf: no 
   publisher: IEEE
   pub: IEEE Computer Architecture Letters 
   pubshort: 
@@ -1509,6 +1662,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3524059.3532372
   url: https://doi.org/10.1145/3524059.3532372
+  pdf: no 
   publisher: ACM 
   pub: ACM International Conference on Supercomputing (ICS)
   pubshort: ICS
@@ -1519,6 +1673,7 @@
   year: 2021
   doi: https://doi.org/10.23919/DATE51398.2021.9474043
   url: https://doi.org/10.23919/DATE51398.2021.9474043
+  pdf: no 
   publisher: IEEE
   pub:  Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubshort: DATE
@@ -1529,6 +1684,7 @@
   year: 2021
   doi: https://doi.org/10.1109/JPROC.2021.3098483
   url: https://doi.org/10.1109/JPROC.2021.3098483
+  pdf: no 
   publisher: IEEE 
   pub: Proceedings of the IEEE
   pubshort: 
@@ -1539,6 +1695,7 @@
   year: 2022
   doi: https://doi.org/10.1109/PACET56979.2022.9976354
   url: https://doi.org/10.1109/PACET56979.2022.9976354
+  pdf: no 
   publisher: IEEE
   pub: Panhellenic Conference on Electronics & Telecommunications (PACET)
   pubshort: 
@@ -1549,6 +1706,7 @@
   year: 2020
   doi: https://doi.org/10.1109/SOCC49529.2020.9524802
   url: https://doi.org/10.1109/SOCC49529.2020.9524802
+  pdf: no 
   publisher: IEEE
   pub: International System-on-Chip Conference (SOCC)
   pubshort: DOCC
@@ -1559,6 +1717,7 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--031--10989--8_55
   url: https://doi.org/10.1007/978-3-031-10989-8_55
+  pdf: no 
   publisher: Springer
   pub: International Conference on Knowledge Science, Engineering and Management
   pubshort: KSEM
@@ -1569,6 +1728,7 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--031--10989--8_52
   url: https://doi.org/10.1007/978-3-031-10989-8_52
+  pdf: no 
   publisher: 
   pub: International Conference on Knowledge Science, Engineering and Management
   pubshort: KSEM
@@ -1576,189 +1736,190 @@
 
 208:
   title: "HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1145/3453688.3461740
+  url: https://doi.org/10.1145/3453688.3461740
+  pdf: no
+  publisher: ACM
+  pub: Great Lakes Symposium on VLSI
+  pubshort: GLSVLSI
   ignore: no
+  silicon: yes
 
 209:
   title: "HoloFormer: Deep Compression of Pre-Trained Transforms via Unified Optimization of N: M Sparsity and Integer Quantization"
-  year: 
-  doi: 
+  year: 2021
+  doi:
   url: 
+  pdf: https://openreview.net/pdf?id=eAEcdRkcMHh
   publisher: 
   pub: 
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 210:
   title: "How Deep Learning Model Architecture and Software Stack Impacts Training Performance in the Cloud"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/978--3--030--89385--9
+  url: https://doi.org/978-3-030-89385-9
+  pdf: no 
+  publisher: Springer
+  pub: Engineering Artificially Intelligent Systems
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: no
 
 211:
-  title: "How to train bert with an academic budget"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  title: "How to Train BERT with an Academic Budget"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2104.07705
+  url: https://doi.org/10.48550/arXiv.2104.07705
+  pdf: https://arxiv.org/pdf/2104.07705.pdf 
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: yes
+  silicon: no
 
 212:
-  title: "I-bert: Integer-only bert quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  title: "I-BERT: Integer-only BERT Quantization"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2101.01321
+  url: https://proceedings.mlr.press/v139/kim21d.html
+  pdf: http://proceedings.mlr.press/v139/kim21d/kim21d.pdf 
+  publisher: PMLR
+  pub: Proceedings of Machine Learning Research
   pubshort: 
   ignore: no
+  silicon: yes
 
 213:
-  title: "Improving accuracy and speeding up document image classification through parallel systems"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  title: "Improving Accuracy and Speeding Up Document Image Classification Through Parallel Systems"
+  year: 2020
+  doi: https://doi.org/10.1007/978--3--030--50417--5_29
+  url: https://doi.org/10.1007/978-3-030-50417-5_29
+  pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302855/pdf/978-3-030-50417-5_Chapter_29.pdf
+  publisher: Springer
+  pub: International Conference on Computational Science
   pubshort: 
   ignore: no
+  silicon: yes
 
 214:
   title: "Improving Oversubscribed GPU Memory Performance in the PyTorch Framework"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1007/s10586--022--03805--x
+  url: https://doi.org/10.1007/s10586-022-03805-x
+  pdf: no 
+  publisher: Springer
+  pub: Cluster Computing
   pubshort: 
   ignore: no
+  silicon: yes
 
 215:
   title: "Improving post training neural quantization: Layer-wise calibration and integer programming"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://arxiv.org/abs/2006.10518
+  url: https://arxiv.org/abs/2006.10518
+  pdf: https://arxiv.org/pdf/2006.10518.pdf
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 216:
   title: "Improving the efficiency of transformers for resource-constrained devices"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/DSD53832.2021.00074
+  url: https://doi.org/10.1109/DSD53832.2021.00074
+  pdf: https://arxiv.org/pdf/2106.16006.pdf
+  publisher: IEEE 
+  pub: Euromicro Conference on Digital System Design (DSD)
+  pubshort: DSD
   ignore: no
-
-217:
-  title: "Int-Monitor: a model triggered hardware trojan in deep learning accelerators"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-218:
-  title: "INT8 Transformers for Inference Acceleration"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 219:
   title: "Integer Fine-tuning of Transformer-based Models"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2022 
+  doi: https://doi.org/10.48550/arXiv.2209.09815
+  url: https://doi.org/10.48550/arXiv.2209.09815
+  pdf: https://arxiv.org/pdf/2209.09815.pdf
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: no
 
 220:
   title: "Integer quantization for deep learning inference: Principles and empirical evaluation"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2004.09602
+  url: https://doi.org/10.48550/arXiv.2004.09602
+  pdf: https://arxiv.org/pdf/2004.09602.pdf
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 221:
   title: "KAISA: An adaptive second-order optimizer framework for deep neural networks"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1145/3458817.3476152
+  url: https://doi.org/10.1145/3458817.3476152
+  pdf: https://arxiv.org/pdf/2107.01739.pdf
+  publisher: ACM
+  pub: International Conference for High Performance Computing, Networking, Storage and Analysis
+  pubshort: SC21
   ignore: no
+  silicon: check
 
 222:
-  title: "KDLSQ-BERT: A quantized bert combining knowledge distillation with learned step size quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  title: "KDLSQ-BERT: A Quantized Bert Combining Knowledge Distillation with Learned Step Size Quantization"
+  year: 2021
+  doi: https://doi.org/10.48550/arXiv.2101.05938
+  url: https://doi.org/10.48550/arXiv.2101.05938
+  pdf: https://arxiv.org/pdf/2101.05938.pdf
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 223:
   title: "Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/ISSCC42613.2021.9366056
+  url: https://doi.org/10.1109/ISSCC42613.2021.9366056
+  pdf: no 
+  publisher: IEEE
+  pub: IEEE International Solid- State Circuits Conference (ISSCC)
+  pubshort: ISSCC
   ignore: no
+  silicon: yes
 
 224:
   title: "Ladabert: Lightweight adaptation of bert through hybrid model compression"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2004.04124
+  url: https://doi.org/10.48550/arXiv.2004.04124
+  pdf: https://arxiv.org/pdf/2004.04124.pdf
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
-
-225:
-  title: "Late Breaking Results: FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization"
-  year: 
-  doi: 
-  url: 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 226:
   title: "Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling"
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1769,6 +1930,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1779,6 +1941,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1789,6 +1952,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1799,6 +1963,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1809,6 +1974,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1819,6 +1985,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1829,6 +1996,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1839,6 +2007,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1849,6 +2018,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1859,6 +2029,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1869,6 +2040,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1879,6 +2051,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1889,6 +2062,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1899,6 +2073,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1909,6 +2084,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1919,6 +2095,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1929,6 +2106,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1939,6 +2117,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1949,6 +2128,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1959,6 +2139,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1969,6 +2150,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1979,6 +2161,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1989,6 +2172,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -1999,6 +2183,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2009,6 +2194,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2019,6 +2205,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2029,6 +2216,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2039,6 +2227,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2049,6 +2238,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2059,6 +2249,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2069,6 +2260,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2079,6 +2271,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2089,6 +2282,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2099,6 +2293,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2109,6 +2304,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2119,6 +2315,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2129,6 +2326,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2139,6 +2337,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2149,6 +2348,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2159,6 +2359,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2169,6 +2370,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2179,6 +2381,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2189,6 +2392,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2199,6 +2403,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2209,6 +2414,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2219,6 +2425,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2229,6 +2436,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2239,6 +2447,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2249,6 +2458,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2259,6 +2469,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2269,6 +2480,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2279,6 +2491,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2289,6 +2502,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2299,6 +2513,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2309,6 +2524,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2319,6 +2535,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2329,6 +2546,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2339,6 +2557,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2349,6 +2568,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2359,6 +2579,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2369,6 +2590,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2379,6 +2601,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2389,6 +2612,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2399,6 +2623,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2409,6 +2634,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2419,6 +2645,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2429,6 +2656,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2439,6 +2667,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2449,6 +2678,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2459,6 +2689,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2469,6 +2700,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2479,6 +2711,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2489,6 +2722,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2499,6 +2733,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2509,6 +2744,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2519,6 +2755,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2529,6 +2766,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2539,6 +2777,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2549,6 +2788,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2559,6 +2799,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2569,6 +2810,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2579,6 +2821,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2589,6 +2832,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2599,6 +2843,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2609,6 +2854,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2619,6 +2865,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2629,6 +2876,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2639,6 +2887,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2649,6 +2898,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2659,6 +2909,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2669,6 +2920,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2679,6 +2931,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2689,6 +2942,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2699,6 +2953,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2709,6 +2964,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2719,6 +2975,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2729,6 +2986,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2739,6 +2997,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2749,6 +3008,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2759,6 +3019,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2769,6 +3030,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2779,6 +3041,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2789,6 +3052,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2799,6 +3063,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2809,6 +3074,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2819,6 +3085,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2829,6 +3096,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2839,6 +3107,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2849,6 +3118,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2859,6 +3129,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2869,6 +3140,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2879,6 +3151,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2889,6 +3162,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2899,6 +3173,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2909,6 +3184,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2919,6 +3195,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2929,6 +3206,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2939,6 +3217,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2949,6 +3228,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2959,6 +3239,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2969,6 +3250,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2979,6 +3261,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2989,6 +3272,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -2999,6 +3283,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3009,6 +3294,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3019,6 +3305,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3029,6 +3316,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3039,6 +3327,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3049,6 +3338,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3059,6 +3349,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3069,6 +3360,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3079,6 +3371,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3089,6 +3382,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3099,6 +3393,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3109,6 +3404,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3119,6 +3415,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3129,6 +3426,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3139,6 +3437,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3149,6 +3448,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3159,6 +3459,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3169,6 +3470,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3179,6 +3481,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3189,6 +3492,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3199,6 +3503,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3209,6 +3514,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3219,6 +3525,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3229,6 +3536,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3239,6 +3547,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3248,6 +3557,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3257,6 +3567,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3267,6 +3578,7 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
@@ -3276,18 +3588,54 @@
   year: 
   doi: 
   url: 
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
   ignore: no
 
 
-  207:
+207:
   title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
   year: 2022
   doi: https://doi.org/10.1007/978--3--030--87208--8_5
   url: https://https://eprints.gla.ac.uk/280378/
+  pdf: no 
   publisher: 
   pub: 
   pubshort: 
   ignore: todo
+
+2008:
+  title: "Towards Fully 8-bit Integer Inference for the Transformer Model"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: todo
+
+217:
+  title: "Int-Monitor: a model triggered hardware trojan in deep learning accelerators"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: never
+  silicon: no
+
+218:
+  title: "INT8 Transformers for Inference Acceleration"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no

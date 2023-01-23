@@ -216,6 +216,21 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SOCC49529.2020.9524802-sandybrown?style=flat-square)](https://doi.org/10.1109/SOCC49529.2020.9524802)
 
+**Improving Accuracy and Speeding Up Document Image Classification Through Parallel Systems**
+
+![](https://img.shields.io/badge/Springer-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--50417--5_29-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-50417-5_29)
+
+**Improving post training neural quantization: Layer-wise calibration and integer programming**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2006.10518-sandybrown?style=flat-square)](https://arxiv.org/abs/2006.10518)
+
+**Integer quantization for deep learning inference: Principles and empirical evaluation**
+
+![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.09602-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2004.09602)
+
 ---
 ### 2021
 **A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators**
@@ -253,15 +268,15 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE/ACM-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD51958.2021.9643586-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD51958.2021.9643586)
 
+**Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISQED51717.2021.9424344-sandybrown?style=flat-square)](https://doi.org/10.1109/ISQED51717.2021.9424344)
+
 **Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization**
 
 ![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3453688.3461739-sandybrown?style=flat-square)](https://doi.org/10.1145/3453688.3461739)
-
-**Adapting by pruning: A case study on BERT**
-
-![](https://img.shields.io/badge/arXiv-2021-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2105.03343-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2105.03343)
 
 **Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions**
 
@@ -341,7 +356,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **DAP-BERT: Differentiable Architecture Pruning of BERT**
 
 ![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3-030--92185--9_30-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-92185-9_30)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--92185--9_30-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-92185-9_30)
 
 **Demystifying BERT: Implications for Accelerator Design**
 
@@ -412,6 +427,31 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/JPROC.2021.3098483-sandybrown?style=flat-square)](https://doi.org/10.1109/JPROC.2021.3098483)
+
+**HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3453688.3461740-sandybrown?style=flat-square)](https://doi.org/10.1145/3453688.3461740)
+
+**I-BERT: Integer-only BERT Quantization**
+
+![](https://img.shields.io/badge/PMLR-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2101.01321-sandybrown?style=flat-square)](https://proceedings.mlr.press/v139/kim21d.html)
+
+**Improving the efficiency of transformers for resource-constrained devices**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/DSD53832.2021.00074-sandybrown?style=flat-square)](https://doi.org/10.1109/DSD53832.2021.00074)
+
+**KAISA: An adaptive second-order optimizer framework for deep neural networks**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3458817.3476152-sandybrown?style=flat-square)](https://doi.org/10.1145/3458817.3476152)
+
+**Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42613.2021.9366056-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42613.2021.9366056)
 
 ---
 ### 2022
@@ -744,6 +784,11 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--10989--8_52-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-10989-8_52)
+
+**Improving Oversubscribed GPU Memory Performance in the PyTorch Framework**
+
+![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/s10586--022--03805--x-sandybrown?style=flat-square)](https://doi.org/10.1007/s10586-022-03805-x)
 
 ---
 ### 2023
