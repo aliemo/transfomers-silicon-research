@@ -34,6 +34,10 @@ def write_md(data, outf, signle=True, with_header=True):
 
                 print(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
                 print(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
+                
+                if paper['pdf']:
+                    print(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
+
                 print()
         else:
             with open(outf, 'w') as f:
@@ -46,6 +50,9 @@ def write_md(data, outf, signle=True, with_header=True):
                     f.write(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
                     f.write('\n')
                     f.write(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
+                    f.write('\n')
+                    if paper['pdf']:
+                        f.write(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
                     f.write('\n')
                     f.write('\n')
 
@@ -63,6 +70,9 @@ def write_md(data, outf, signle=True, with_header=True):
 
                     print(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
                     print(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
+                    if paper['pdf']:
+                        print(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
+                    print()
                     print()
                 
                 print("---")
@@ -82,6 +92,9 @@ def write_md(data, outf, signle=True, with_header=True):
                         f.write(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
                         f.write('\n')
                         f.write(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
+                        f.write('\n')
+                        if paper['pdf']:
+                            f.write(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
                         f.write('\n')
                         f.write('\n')
 
