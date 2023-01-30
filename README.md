@@ -257,6 +257,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.09602-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2004.09602)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.09602.pdf)
 
+**Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration**
+
+![](https://img.shields.io/badge/IEEE/ACM-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO50266.2020.00020-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO50266.2020.00020)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.microarch.org/micro53/papers/738300a088.pdf)
+
 ---
 ### 2021
 **A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators**
@@ -521,6 +527,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42613.2021.9366056-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42613.2021.9366056)
+
+
+**Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA51647.2021.00056-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA51647.2021.00056)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://taejunham.github.io/data/layerweaver_hpca21.pdf)
+
+**M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA**
+
+![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--89029--2_22-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-89029-2_22)
 
 
 ---
@@ -926,6 +944,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/s10586--022--03805--x-sandybrown?style=flat-square)](https://doi.org/10.1007/s10586-022-03805-x)
 
+
+**LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2208.07339-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2208.07339)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2208.07339)
+
+**Low-Precision Quantization Techniques for Hardware-Implementation-Friendly BERT Models**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISQED54688.2022.9806238-sandybrown?style=flat-square)](https://doi.org/10.1109/ISQED54688.2022.9806238)
+
+
+**MKQ-BERT: Quantized BERT with 4-bits Weights and Activations**
+
+![](https://img.shields.io/badge/arXiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2203.13483-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2203.13483)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.13483.pdf)
+
+**Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3470496.3527438-sandybrown?style=flat-square)](https://doi.org/10.1145/3470496.3527438)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.12758.pdf)
 
 ---
 ### 2023

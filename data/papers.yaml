@@ -1915,202 +1915,185 @@
   silicon: check
 
 226:
-  title: "Layerweaver: Maximizing resource utilization of neural processing units via layer-wise scheduling"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling"
+  year: 2021
+  doi: https://doi.org/10.1109/HPCA51647.2021.00056
+  url: https://doi.org/10.1109/HPCA51647.2021.00056
+  pdf: https://taejunham.github.io/data/layerweaver_hpca21.pdf
+  publisher: IEEE
+  pub: International Symposium on High-Performance Computer Architecture (HPCA)
+  pubshort: HPCA
+  ignore: No
+  silicon: yes
 
 227:
-  title: "Learned Token Pruning in Contextualized Late Interaction over BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT)"
+  year: 2022
+  doi: https://doi.org/10.1145/3477495.3531835
+  url: https://doi.org/10.1145/3477495.3531835
+  pdf: https://web.archive.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
+  publisher: ACM
+  pub: ACM SIGIR Conference on Research and Development in Information Retrieval
+  pubshort: SIGIR
+  ignore: yes
+  silicon: no
 
 228:
-  title: "Learning light-weight translation models from deep transformer"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Learning Light-Weight Translation Models from Deep Transformer"
+  year: 2021
+  doi: https://doi.org/10.1609/aaai.v35i15.17561
+  url: https://doi.org/10.1609/aaai.v35i15.17561
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/view/17561/17368
+  publisher: AAAI
+  pub: AAAI Technical Track on Speech and Natural Language Processing II
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: no
 
 229:
-  title: "Lightweight composite re-ranking for efficient keyword search with BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "Lightweight Composite Re-Ranking for Efficient Keyword Search with BERT"
+  year: 2022
+  doi: https://doi.org/10.1145/3488560.3498495
+  url: https://doi.org/10.1145/3488560.3498495
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3488560.3498495
+  publisher: ACM
+  pub: ACM International Conference on Web Search and Data Mining
+  pubshort: WSDM
+  ignore: check
+  silicon: no
 
 230:
   title: "Lightweight Transformers for Conversational AI"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: http://dx.doi.org/10.18653/v1/2022.naacl--industry.25
+  url: http://dx.doi.org/10.18653/v1/2022.naacl-industry.25
+  pdf: https://aclanthology.org/2022.naacl-industry.25.pdf
+  publisher: ACL
+  pub:  Conference of the North American Chapter of the Association for Computational Linguistics
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 231:
-  title: "Llm. int8 (): 8-bit matrix multiplication for transformers at scale"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale"
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2208.07339
+  url: https://doi.org/10.48550/arXiv.2208.07339
+  pdf: https://arxiv.org/pdf/2208.07339
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 232:
   title: "Load What You Need: Smaller Versions of Multilingual BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2010.05609
+  url: https://doi.org/10.48550/arXiv.2010.05609
+  pdf: https://arxiv.org/pdf/2010.05609.pdf
+  publisher: arXiv
+  pub: Computer Science > Computation and Language
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 233:
-  title: "Look-up table based energy efficient processing in cache support for neural network acceleration"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration"
+  year: 2020
+  doi: https://doi.org/10.1109/MICRO50266.2020.00020
+  url: https://doi.org/10.1109/MICRO50266.2020.00020
+  pdf: https://www.microarch.org/micro53/papers/738300a088.pdf
+  publisher: IEEE/ACM
+  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubshort: MICRO
   ignore: no
+  silicon: yes
 
 234:
   title: "Low-Bit Quantization of Transformer for Audio Speech Recognition"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1007/978--3--031--19032--2_12
+  url: https://doi.org/10.1007/978-3-031-19032-2_12
   pdf: no 
-  publisher: 
+  publisher: Springer
   pub: 
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 235:
   title: "Low-Precision Quantization Techniques for Hardware-Implementation-Friendly BERT Models"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1109/ISQED54688.2022.9806238
+  url: https://doi.org/10.1109/ISQED54688.2022.9806238
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: International Symposium on Quality Electronic Design (ISQED)
+  pubshort: ISQED
   ignore: no
+  silicon: yes
 
 236:
   title: "M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021 
+  doi: https://doi.org/10.1007/978--3--030--89029--2_22
+  url: https://doi.org/10.1007/978-3-030-89029-2_22
+  pdf: no
+  publisher: Springer
+  pub: Computer Graphics International Conference
   pubshort: 
   ignore: no
+  silicon: yes
 
 237:
-  title: "Magnet: A modular accelerator generator for neural networks"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-238:
-  title: "Managing diameter growth and natural pruning of Parana pine, Araucaria angustifolia (Bert.) O Ktze., to produce high value timbe"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-239:
-  title: "Measurement approaches and implementation of a fading characterization tester for evaluating optical turbulent channels"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "MAGNet: A Modular Accelerator Generator for Neural Networks"
+  # not related to BERT
+  year: 2019
+  doi: https://doi.org/10.1109/ICCAD45719.2019.8942127
+  url: https://doi.org/10.1109/ICCAD45719.2019.8942127
+  pdf: https://people.eecs.berkeley.edu/~ysshao/assets/papers/magnet2019-iccad.pdf
+  publisher: IEEE
+  pub: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  pubshort: ICCAD
+  ignore: check
+  silicon: check
 
 240:
-  title: "Minilm: Deep self-attention distillation for task-agnostic compression of pre-trained transformers"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers"
+  year: 2020
+  doi: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
+  url: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
+  pdf: https://dl.acm.org/doi/pdf/10.5555/3495724.3496209
+  publisher: ACM
+  pub: International Conference on Neural Information Processing Systems
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: check
 
 241:
   title: "MKQ-BERT: Quantized BERT with 4-bits Weights and Activations"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2203.13483
+  url: https://doi.org/10.48550/arXiv.2203.13483
+  pdf: https://arxiv.org/pdf/2203.13483.pdf
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
-
-242:
-  title: "Model-Free Ber Measurement in Free Space Laser Communication Link"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 243:
   title: "Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3470496.3527438
+  url: https://doi.org/10.1145/3470496.3527438
+  pdf: https://arxiv.org/pdf/2203.12758.pdf
+  publisher: IEEE
+  pub: International Symposium on Computer Architecture
+  pubshort: ISCA
   ignore: no
+  silicon: yes
 
 244:
   title: "Movement pruning: Adaptive sparsity by fine-tuning"
