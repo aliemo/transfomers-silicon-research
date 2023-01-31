@@ -2096,224 +2096,172 @@
   silicon: yes
 
 244:
-  title: "Movement pruning: Adaptive sparsity by fine-tuning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "Movement Pruning: Adaptive Sparsity by Fine-Tuning"
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2005.07683
+  url: https://doi.org/10.48550/arXiv.2005.07683
+  pdf: https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf
+  publisher: NeurIPS
+  pub: Advances in Neural Information Processing Systems
+  pubshort: NeurIPS
+  ignore: check
+  silicon: no
 
 245:
   title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
   year: 
   doi: 
   url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
+  publisher: IEEE/CVF
+  pub: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  pubshort: CVPR
+  ignore: check
+  silicon: check
 
 246:
-  title: "mrna: Enabling efficient mapping space exploration for a reconfiguration neural accelerator"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator"
+  year: 2019
+  doi: https://doi.org/10.1109/ISPASS.2019.00040
+  url: https://doi.org/10.1109/ISPASS.2019.00040
+  pdf: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/c/332/files/2019/02/mrna_ispass2019.pdf
+  publisher: IEEE
+  pub: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  pubshort: ISPASS
+  ignore: check
+  silicon: yes
 
 247:
   title: "MSP: an FPGA-specific mixed-scheme, multi-precision deep neural network quantization framework"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2009.07460
+  url: https://doi.org/10.48550/arXiv.2009.07460
+  pdf: https://arxiv.org/pdf/2009.07460.pdf
+  publisher: arXiv
+  pub: Computer Science > Machine Learning
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: yes
 
 248:
-  title: "Nas-BERT: task-agnostic and adaptive-size BERT compression with neural architecture search"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  title: "NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search"
+  year: 2021
+  doi: https://doi.org/10.1145/3447548.3467262
+  url: https://doi.org/10.1145/3447548.3467262
+  pdf: https://arxiv.org/pdf/2105.14444.pdf
+  publisher: ACM
+  pub:  ACM SIGKDD Conference on Knowledge Discovery & Data Mining
+  pubshort: KDD
+  ignore: check
+  silicon: check
 
 249:
   title: "Near-Optimal Sparse Allreduce for Distributed Deep Learning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3503221.3508399
+  url: https://doi.org/10.1145/3503221.3508399
+  pdf: https://arxiv.org/pdf/2201.07598.pdf
+  publisher: ACM
+  pub: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+  pubshort: PPoPP
   ignore: no
+  silicon: yes
 
 250:
   title: "Nebula: A Scalable and Flexible Accelerator for DNN Multi-Branch Blocks on Embedded Systems"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.3390/electronics11040505
+  url: https://doi.org/10.3390/electronics11040505
+  pdf: https://www.mdpi.com/2079-9292/11/4/505/pdf
+  publisher: MDPI
+  pub: Electronics
   pubshort: 
-  ignore: no
+  ignore: yes
+  silicon: yes
 
 251:
   title: "NEEBS: Nonexpert large-scale environment building system for deep neural network"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1002/cpe.7499
+  url: https://doi.org/10.1002/cpe.7499
+  pdf: no
+  publisher: Wiley
+  pub: Concurrency and Computation Practice and Experience
   pubshort: 
-  ignore: no
+  ignore: check
+  silicon: no
 
 252:
   title: "NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://carrv.github.io/2021/
+  url: https://carrv.github.io/2021/
+  pdf: https://carrv.github.io/2021/papers/CARRV2021_paper_67_Zhan.pdf
+  publisher: CARRV
+  pub: Computer Architecture Research with RISC-V
   pubshort: 
   ignore: no
-
-253:
-  title: "NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 254:
   title: "NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1109/PACT52795.2021.00013
+  url: https://doi.org/10.1109/PACT52795.2021.00013
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+  pubshort: PACCT
   ignore: no
+  silicon: yes
 
 255:
-  title: "NPE: An FPGA-based overlay processor for natural language processing"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "NPE: An FPGA-based Overlay Processor for Natural Language Processing"
+  year: 2021
+  doi: https://doi.org/10.1145/3431920.3439477
+  url: https://doi.org/10.1145/3431920.3439477
+  pdf: https://arxiv.org/pdf/2104.06535.pdf 
+  publisher: ACM/SIGDA
+  pub: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  pubshort: FPGA
   ignore: no
-
-256:
-  title: "On the Prunability of Attention Heads in Multilingual BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 257:
   title: "Optimal Brain Compression: A framework for accurate post-training quantization and pruning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.48550/arXiv.2208.11580
+  url: https://doi.org/10.48550/arXiv.2208.11580
+  pdf: https://arxiv.org/pdf/2208.11580.pdf
+  publisher: NeurIPS
+  pub: Conference on Neural Information Processing Systems
+  pubshort: NeurIPS
   ignore: no
-
-258:
-  title: "Optimal clipping and magnitude-aware differentiation for improved quantization-aware training"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-259:
-  title: "Parameter-efficient transfer learning with diff pruning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-260:
-  title: "Parp: Prune, adjust and re-prune for self-supervised speech recognition"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: no
 
 261:
-  title: "PipeBERT: High-throughput BERT Inference for ARM Big. LITTLE Multi-core Processors"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-262:
   title: "PipeBERT: High-throughput BERT Inference for ARM Big.LITTLE Multi-core Processors"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1007/s11265--022--01814--y
+  url: https://doi.org/10.1007/s11265-022-01814-y
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: Springer
+  pub: Journal of Signal Processing Systems
   pubshort: 
   ignore: no
+  silicon: yes
 
 263:
-  title: "Poor man's bert: Smaller and faster transformer models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Poor Man's BERT: Smaller and Faster Transformer Models"
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2004.03844
+  url: https://doi.org/10.48550/arXiv.2004.03844
+  pdf: https://arxiv.org/pdf/2004.03844v1
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: no
 
 264:
   title: "Post-Training Quantization for Longformer with Chunkwise Quantization Granularity and Optimized Percentile"

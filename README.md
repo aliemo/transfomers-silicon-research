@@ -263,6 +263,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO50266.2020.00020-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO50266.2020.00020)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.microarch.org/micro53/papers/738300a088.pdf)
 
+**Poor Man's BERT: Smaller and Faster Transformer Models**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.03844-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2004.03844)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.03844v1)
+
 ---
 ### 2021
 **A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators**
@@ -540,6 +546,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--89029--2_22-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-89029-2_22)
 
+
+**NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds**
+
+![](https://img.shields.io/badge/CARRV-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://carrv.github.io/2021/-sandybrown?style=flat-square)](https://carrv.github.io/2021/)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://carrv.github.io/2021/papers/CARRV2021_paper_67_Zhan.pdf)
+
+**NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/PACT52795.2021.00013-sandybrown?style=flat-square)](https://doi.org/10.1109/PACT52795.2021.00013)
+
+
+**NPE: An FPGA-based Overlay Processor for Natural Language Processing**
+
+![](https://img.shields.io/badge/ACM/SIGDA-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3431920.3439477-sandybrown?style=flat-square)](https://doi.org/10.1145/3431920.3439477)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2104.06535.pdf)
 
 ---
 ### 2022
@@ -968,6 +992,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3470496.3527438-sandybrown?style=flat-square)](https://doi.org/10.1145/3470496.3527438)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.12758.pdf)
+
+**Near-Optimal Sparse Allreduce for Distributed Deep Learning**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3503221.3508399-sandybrown?style=flat-square)](https://doi.org/10.1145/3503221.3508399)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2201.07598.pdf)
+
+**Optimal Brain Compression: A framework for accurate post-training quantization and pruning**
+
+![](https://img.shields.io/badge/NeurIPS-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2208.11580-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2208.11580)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2208.11580.pdf)
+
+**PipeBERT: High-throughput BERT Inference for ARM Big.LITTLE Multi-core Processors**
+
+![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/s11265--022--01814--y-sandybrown?style=flat-square)](https://doi.org/10.1007/s11265-022-01814-y)
+
 
 ---
 ### 2023
