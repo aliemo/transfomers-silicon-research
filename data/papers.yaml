@@ -2265,25 +2265,15 @@
 
 264:
   title: "Post-Training Quantization for Longformer with Chunkwise Quantization Granularity and Optimized Percentile"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1109/ICCCS55155.2022.9846198
+  url: https://doi.org/10.1109/ICCCS55155.2022.9846198
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: International Conference on Computer and Communication Systems (ICCCS)
+  pubshort: ICCCS
   ignore: no
-
-265:
-  title: "Post-training quantization for vision transformer"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silin: no
 
 266:
   title: "PoWER-BERT: Accelerating BERT inference via progressive word-vector elimination"
@@ -3570,3 +3560,62 @@
   pub: 
   pubshort: 
   ignore: no
+
+300: 
+  title: "ViTA: A Vision Transformer Inference Accelerator for Edge Applications"
+  year: 2023
+  doi: https://doi.org/10.48550/arXiv.2302.09108
+  url: https://doi.org/10.48550/arXiv.2302.09108
+  pdf: https://arxiv.org/pdf/2302.09108.pdf
+  publisher: Archive
+  pub: Computer Science > Hardware Architecture
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+301: 
+  title: "Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning"
+  year: 2023
+  doi: https://doi.org/10.1016/j.suscom.2023.100857
+  url: https://doi.org/10.1016/j.suscom.2023.100857
+  pdf: https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf
+  publisher: Elsevier
+  pub: "Sustainable Computing: Informatics and Systems"
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+302:
+  title: "Algorithm-Accelerator Co-design for High-Performance and Secure Deep Learning"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: check
+
+303:
+  title: "TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics"
+  year: 2023
+  doi: https://doi.org/10.48550/arXiv.2303.12914
+  url: https://doi.org/10.48550/arXiv.2303.12914
+  pdf: https://arxiv.org/pdf/2303.12914.pdf
+  publisher: Archive
+  pub: Computer Science > Machine Learning
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+304:
+  title: "TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference"
+  year: 2023
+  doi: https://doi.org/10.48550/arXiv.2303.14882
+  url: https://doi.org/10.48550/arXiv.2303.14882
+  pdf: https://arxiv.org/pdf/2303.14882
+  publisher: Archive
+  pub: Computer Science > Machine Learning
+  pubshort: 
+  ignore: no 
+  silicon: yes

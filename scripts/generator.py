@@ -135,7 +135,7 @@ def main():
 
     
     parser = argparse.ArgumentParser(description='Generate README.md')
-    parser.add_argument('-i', '--input', type=str, default='README.md', help='input yaml file')
+    parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
     args = parser.parse_args()
 
