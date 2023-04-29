@@ -1931,7 +1931,7 @@
   year: 2022
   doi: https://doi.org/10.1145/3477495.3531835
   url: https://doi.org/10.1145/3477495.3531835
-  pdf: https://web.archive.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
+  pdf: https://web.Arxiv.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
   publisher: ACM
   pub: ACM SIGIR Conference on Research and Development in Information Retrieval
   pubshort: SIGIR
@@ -2273,249 +2273,200 @@
   pub: International Conference on Computer and Communication Systems (ICCCS)
   pubshort: ICCCS
   ignore: no
-  silin: no
+  silion: no
 
 266:
-  title: "PoWER-BERT: Accelerating BERT inference via progressive word-vector elimination"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination"
+  year: 2020
+  doi: https://proceedings.mlr.press/v119/goyal20a.html
+  url: https://proceedings.mlr.press/v119/goyal20a.html
+  pdf: http://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf
+  publisher: PMLR
+  pub: Proceedings of Machine Learning Research
+  pubshort: PMLR
   ignore: no
-
-267:
-  title: "Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: no
 
 268:
   title: "Pre-trained bert-gru model for relation extraction"
-  year: 
-  doi: 
-  url: 
+  year: 2019
+  doi: https://doi.org/10.1145/3373509.3373533
+  url: https://doi.org/10.1145/3373509.3373533
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: ACM
+  pub: International Conference on Computing and Pattern Recognition
+  pubshort: ICCPR
   ignore: no
+  silicon: no
 
 269:
   title: "Pre-trained Language Model with Feature Reduction and No Fine-Tuning"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1007/978--981--19--3923--5_59
+  url: https://doi.org/10.1007/978-981-19-3923-5_59
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: Springer
+  pub: "Control, Instrumentation and Mechatronics: Theory and Practice"
   pubshort: 
   ignore: no
+  silicon: no
 
-270:
-  title: "Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
 
 271:
   title: "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1145/3459637.3482159
+  url: https://doi.org/10.1145/3459637.3482159
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: ACM
+  pub: ACM International Conference on Information & Knowledge Management
+  pubshort: CIKM
   ignore: no
+  silicon: no
 
 272:
   title: "Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2210.02574
+  url: https://arxiv.org/abs/2210.02574
+  pdf: https://arxiv.org/pdf/2210.02574.pdf
+  publisher: Arxiv
+  pub: Computation and Language
   pubshort: 
   ignore: no
-
-273:
-  title: "Proceedings of the 26th Conference of Open Innovations Association FRUCT, FRUCT 2020"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 274:
-  title: "Prose: The architecture and design of a protein discovery engine"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "ProSE: the architecture and design of a protein discovery engine"
+  year: 2022
+  doi: https://doi.org/10.1145/3503222.3507722
+  url: https://doi.org/10.1145/3503222.3507722
+  pdf: https://par.nsf.gov/servlets/purl/10394954
+  publisher: ACM
+  pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+  pubshort: ASPLOS
   ignore: no
-
-275:
-  title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-276:
-  title: "Prune once for all: Sparse pre-trained language models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 277:
-  title: "Pruning redundant mappings in transformer models via spectral-normalized identity prior"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior"
+  year: 2020
+  doi: https://arxiv.org/abs/2010.01791
+  url: https://arxiv.org/abs/2010.01791
+  pdf: https://arxiv.org/pdf/2010.01791.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: check
 
 278:
-  title: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers with Twin Uniform Quantization"
+  year: 2021
+  doi: https://arxiv.org/abs/2111.12293
+  url: https://arxiv.org/abs/2111.12293
+  pdf: https://arxiv.org/pdf/2111.12293
+  publisher: Arxiv
+  pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
   ignore: no
+  silicon: yes
 
 279:
-  title: "Q-bert: Hessian based ultra low precision quantization of bert"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT"
+  year: 2020
+  doi: https://doi.org/10.1609/aaai.v34i05.6409
+  url: https://doi.org/10.1609/aaai.v34i05.6409
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265
+  publisher: AAAI
+  pub: "AAAI Technical Track: Natural Language Processing"
   pubshort: 
   ignore: no
+  silicon: check
 
 280:
-  title: "Q8bert: Quantized 8bit bert"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "Q8BERT: Quantized 8Bit BERT"
+  year: 2019
+  doi: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
+  url: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
+  pdf: https://arxiv.org/pdf/1910.06188.pdf
+  publisher: IEEE
+  pub: Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)
+  pubshort: EMC2-NIPS
   ignore: no
+  silicon: no
 
 281:
   title: "QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2203.05740
+  url: https://arxiv.org/abs/2203.05740
+  pdf: https://arxiv.org/pdf/2203.05740
+  publisher: Arxiv
+  pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
   ignore: no
+  silicon: no
 
 282:
   title: "QuaLA-MiniLM: a Quantized Length Adaptive MiniLM"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2210.17114
+  url: https://arxiv.org/abs/2210.17114
+  pdf: https://arxiv.org/pdf/2210.17114
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: no
 
 283:
   title: "Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1109/TASLP.2021.3077119
+  url: https://doi.org/10.1109/TASLP.2021.3077119
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: IEEE 
+  pub: IEEE/ACM Transactions on Audio, Speech, and Language Processing 
   pubshort: 
   ignore: no
+  silicon: no
 
 284:
-  title: "Rct: Resource constrained training for edge ai"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "RCT: Resource Constrained Training for Edge AI"
+  year: 2022
+  doi: https://doi.org/10.1109/TNNLS.2022.3190451
+  url: https://doi.org/10.1109/TNNLS.2022.3190451
+  pdf: https://arxiv.org/pdf/2103.14493.pdf
+  publisher: IEEE
+  pub: IEEE Transactions on Neural Networks and Learning Systems 
   pubshort: 
   ignore: no
+  silicon: check
 
 285:
-  title: "Re2PIM: A reconfigurable ReRAM-based PIM design for variable-sized vector-matrix multiplication"
-  year: 
-  doi: 
-  url: 
+  title: "Re2PIM: A Reconfigurable ReRAM-Based PIM Design for Variable-Sized Vector-Matrix Multiplication"
+  year: 2021
+  doi: https://doi.org/10.1145/3453688.3461494
+  url: https://doi.org/10.1145/3453688.3461494
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: ACM
+  pub:  Proceedings on Great Lakes Symposium on VLSI
+  pubshort: GLVLSI
   ignore: no
+  silicon: yes
 
 286:
   title: "ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/TC.2022.3213177
+  url: https://doi.org/10.1109/TC.2022.3213177
+  pdf: https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf
+  publisher: IEEE
+  pub: IEEE Transactions on Computers 
+  pubshort: TC
   ignore: no
-
-287:
-  title: "Reconfigurable performance measurement system-on-a-chip for baseband wireless algorithm design and verification"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 288:
   title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
@@ -3567,7 +3518,7 @@
   doi: https://doi.org/10.48550/arXiv.2302.09108
   url: https://doi.org/10.48550/arXiv.2302.09108
   pdf: https://arxiv.org/pdf/2302.09108.pdf
-  publisher: Archive
+  publisher: Arxiv
   pub: Computer Science > Hardware Architecture
   pubshort: 
   ignore: no
@@ -3602,7 +3553,7 @@
   doi: https://doi.org/10.48550/arXiv.2303.12914
   url: https://doi.org/10.48550/arXiv.2303.12914
   pdf: https://arxiv.org/pdf/2303.12914.pdf
-  publisher: Archive
+  publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
@@ -3614,8 +3565,40 @@
   doi: https://doi.org/10.48550/arXiv.2303.14882
   url: https://doi.org/10.48550/arXiv.2303.14882
   pdf: https://arxiv.org/pdf/2303.14882
-  publisher: Archive
+  publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no 
   silicon: yes
+
+270:
+  title: "Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+275:
+  title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+276:
+  title: "Prune once for all: Sparse pre-trained language models"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no

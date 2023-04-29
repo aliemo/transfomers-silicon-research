@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2565-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2555-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -110,6 +110,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2019-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/CCGRID.2019.00069-sandybrown?style=flat-square)](https://doi.org/10.1109/CCGRID.2019.00069)
 
+
+**Pre-trained bert-gru model for relation extraction**
+
+![](https://img.shields.io/badge/ACM-2019-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3373509.3373533-sandybrown?style=flat-square)](https://doi.org/10.1145/3373509.3373533)
+
+
+**Q8BERT: Quantized 8Bit BERT**
+
+![](https://img.shields.io/badge/IEEE-2019-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/EMC2-NIPS53020.2019.00016-sandybrown?style=flat-square)](https://doi.org/10.1109/EMC2-NIPS53020.2019.00016)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.06188.pdf)
 
 ---
 ### 2020
@@ -268,6 +280,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.03844-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2004.03844)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.03844v1)
+
+**PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination**
+
+![](https://img.shields.io/badge/PMLR-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://proceedings.mlr.press/v119/goyal20a.html-sandybrown?style=flat-square)](https://proceedings.mlr.press/v119/goyal20a.html)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](http://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf)
+
+**Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2010.01791-sandybrown?style=flat-square)](https://arxiv.org/abs/2010.01791)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2010.01791.pdf)
+
+**Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT**
+
+![](https://img.shields.io/badge/AAAI-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1609/aaai.v34i05.6409-sandybrown?style=flat-square)](https://doi.org/10.1609/aaai.v34i05.6409)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265)
 
 ---
 ### 2021
@@ -564,6 +594,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACM/SIGDA-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3431920.3439477-sandybrown?style=flat-square)](https://doi.org/10.1145/3431920.3439477)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2104.06535.pdf)
+
+**Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3459637.3482159-sandybrown?style=flat-square)](https://doi.org/10.1145/3459637.3482159)
+
+
+**PTQ4ViT: Post-Training Quantization Framework for Vision Transformers with Twin Uniform Quantization**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2111.12293-sandybrown?style=flat-square)](https://arxiv.org/abs/2111.12293)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2111.12293)
+
+**Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TASLP.2021.3077119-sandybrown?style=flat-square)](https://doi.org/10.1109/TASLP.2021.3077119)
+
+
+**Re2PIM: A Reconfigurable ReRAM-Based PIM Design for Variable-Sized Vector-Matrix Multiplication**
+
+![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3453688.3461494-sandybrown?style=flat-square)](https://doi.org/10.1145/3453688.3461494)
+
 
 ---
 ### 2022
@@ -1017,6 +1071,48 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCCS55155.2022.9846198-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCCS55155.2022.9846198)
 
 
+**Pre-trained Language Model with Feature Reduction and No Fine-Tuning**
+
+![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--981--19--3923--5_59-sandybrown?style=flat-square)](https://doi.org/10.1007/978-981-19-3923-5_59)
+
+
+**Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2210.02574-sandybrown?style=flat-square)](https://arxiv.org/abs/2210.02574)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2210.02574.pdf)
+
+**ProSE: the architecture and design of a protein discovery engine**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3503222.3507722-sandybrown?style=flat-square)](https://doi.org/10.1145/3503222.3507722)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://par.nsf.gov/servlets/purl/10394954)
+
+**QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2203.05740-sandybrown?style=flat-square)](https://arxiv.org/abs/2203.05740)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.05740)
+
+**QuaLA-MiniLM: a Quantized Length Adaptive MiniLM**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2210.17114-sandybrown?style=flat-square)](https://arxiv.org/abs/2210.17114)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2210.17114)
+
+**RCT: Resource Constrained Training for Edge AI**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TNNLS.2022.3190451-sandybrown?style=flat-square)](https://doi.org/10.1109/TNNLS.2022.3190451)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2103.14493.pdf)
+
+**ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TC.2022.3213177-sandybrown?style=flat-square)](https://doi.org/10.1109/TC.2022.3213177)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf)
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -1045,7 +1141,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 **ViTA: A Vision Transformer Inference Accelerator for Edge Applications**
 
-![](https://img.shields.io/badge/Archive-2023-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2302.09108-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2302.09108)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.09108.pdf)
 
@@ -1057,13 +1153,13 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 **TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**
 
-![](https://img.shields.io/badge/Archive-2023-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.12914-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.12914)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.12914.pdf)
 
 **TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference**
 
-![](https://img.shields.io/badge/Archive-2023-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
 
