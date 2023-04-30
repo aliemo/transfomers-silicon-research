@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2555-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2565-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -298,6 +298,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/AAAI-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1609/aaai.v34i05.6409-sandybrown?style=flat-square)](https://doi.org/10.1609/aaai.v34i05.6409)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265)
+
+**ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration**
+
+![](https://img.shields.io/badge/ACM-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3400302.3415640-sandybrown?style=flat-square)](https://doi.org/10.1145/3400302.3415640)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3400302.3415640)
 
 ---
 ### 2021
@@ -618,6 +624,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACM-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3453688.3461494-sandybrown?style=flat-square)](https://doi.org/10.1145/3453688.3461494)
 
+
+**RISC-VTF: RISC-V Based Extended Instruction Set for Transformer**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SMC52423.2021.9658643-sandybrown?style=flat-square)](https://doi.org/10.1109/SMC52423.2021.9658643)
+
+
+**RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions**
+
+![](https://img.shields.io/badge/None-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-xx-sandybrown?style=flat-square)](None)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf)
 
 ---
 ### 2022
@@ -1113,6 +1131,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TC.2022.3213177-sandybrown?style=flat-square)](https://doi.org/10.1109/TC.2022.3213177)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf)
 
+**Row-wise Accelerator for Vision Transformer**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/AICAS54282.2022.9869928-sandybrown?style=flat-square)](https://doi.org/10.1109/AICAS54282.2022.9869928)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2205.03998.pdf)
+
+**S4: a High-sparsity, High-performance AI Accelerator**
+
+![](https://img.shields.io/badge/Arxive-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2207.08006-sandybrown?style=flat-square)](https://arxiv.org/abs/2207.08006)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2207.08006)
+
+**SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3489517.3530504-sandybrown?style=flat-square)](https://doi.org/10.1145/3489517.3530504)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2206.14550.pdf)
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -1145,12 +1181,6 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2302.09108-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2302.09108)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.09108.pdf)
 
-**Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
-
-![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.suscom.2023.100857-sandybrown?style=flat-square)](https://doi.org/10.1016/j.suscom.2023.100857)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf)
-
 **TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**
 
 ![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
@@ -1162,5 +1192,11 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
+
+**Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
+
+![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.suscom.2023.100857-sandybrown?style=flat-square)](https://doi.org/10.1016/j.suscom.2023.100857)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf)
 
 ---

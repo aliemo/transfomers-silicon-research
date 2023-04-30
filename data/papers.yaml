@@ -2468,170 +2468,104 @@
   ignore: no
   silicon: yes
 
-288:
-  title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-289:
-  title: "Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-290:
-  title: "Rethinking co-design of neural architectures and hardware accelerators"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-291:
-  title: "Rethinking Network Pruning--under the Pre-train and Fine-tune Paradigm"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
 
 292:
   title: "ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2020
+  doi: https://doi.org/10.1145/3400302.3415640
+  url: https://doi.org/10.1145/3400302.3415640
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3400302.3415640
+  publisher: ACM
+  pub: International Conference on Computer-Aided Design
+  pubshort: ICCAD
   ignore: no
-
-293:
-  title: "Reweighted proximal pruning for large-scale language representation"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 294:
   title: "RISC-VTF: RISC-V Based Extended Instruction Set for Transformer"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1109/SMC52423.2021.9658643
+  url: https://doi.org/10.1109/SMC52423.2021.9658643
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: IEEE International Conference on Systems, Man, and Cybernetics
+  pubshort: SMC
   ignore: no
+  silicon: yes
 
 295:
   title: "RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions"
-  year: 
-  doi: 
+  year: 2021 
+  doi: xx
   url: 
-  pdf: no 
+  pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf
   publisher: 
-  pub: 
-  pubshort: 
+  pub: IEEE/CVF International Conference on Computer Vision 
+  pubshort: ICCV
   ignore: no
+  silicon: yes
 
-296:
-  title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+
 
 297:
   title: "Row-wise Accelerator for Vision Transformer"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/AICAS54282.2022.9869928
+  url: https://doi.org/10.1109/AICAS54282.2022.9869928
+  pdf: https://arxiv.org/pdf/2205.03998.pdf
+  publisher: IEEE
+  pub: International Conference on Artificial Intelligence Circuits and Systems
+  pubshort: AICAS
   ignore: no
+  silicon: yes
 
 298:
   title: "S4: a High-sparsity, High-performance AI Accelerator"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2207.08006
+  url: https://arxiv.org/abs/2207.08006
+  pdf: https://arxiv.org/pdf/2207.08006
+  publisher: Arxive
+  pub: Computer Science > Hardware Architecture
   pubshort: 
   ignore: no
+  silicon: yes
 
 299:
   title: "SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3489517.3530504
+  url: https://doi.org/10.1145/3489517.3530504
+  pdf: https://arxiv.org/pdf/2206.14550.pdf
+  publisher: ACM
+  pub: ACM/IEEE Design Automation Conference
+  pubshort: DAC
   ignore: no
+  silicon: yes
 
 300:
-  title: "Sanger: A co-design framework for enabling sparse attention using reconfigurable architecture"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture"
+  year: 2021
+  doi: https://doi.org/10.1145/3466752.3480125
+  url: https://doi.org/10.1145/3466752.3480125
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3466752.3480125
+  publisher: IEEE/ACM
+  pub: IEEE/ACM International Symposium on Microarchitecture
+  pubshort: MICRO
   ignore: no
-
-301:
-  title: "schuBERT: Optimizing elements of BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 302:
   title: "Searching for memory-lighter architectures for OCR-augmented image captioning"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.3233/JIFS--219230
+  url: https://doi.org/10.3233/JIFS-219230
   pdf: no 
   publisher: 
-  pub: 
+  pub: Journal of Intelligent & Fuzzy Systems
   pubshort: 
   ignore: no
+  silicon: check
 
 303:
   title: "SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference"
@@ -3594,6 +3528,49 @@
 
 276:
   title: "Prune once for all: Sparse pre-trained language models"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+289:
+  title: "Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+288:
+  title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+290:
+  title: "Rethinking co-design of neural architectures and hardware accelerators"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+296:
+  title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
   year: 
   doi: 
   url: 
