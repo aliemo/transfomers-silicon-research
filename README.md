@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2565-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2555-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -120,7 +120,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **Q8BERT: Quantized 8Bit BERT**
 
 ![](https://img.shields.io/badge/IEEE-2019-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/EMC2-NIPS53020.2019.00016-sandybrown?style=flat-square)](https://doi.org/10.1109/EMC2-NIPS53020.2019.00016)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/EMC2--NIPS53020.2019.00016-sandybrown?style=flat-square)](https://doi.org/10.1109/EMC2-NIPS53020.2019.00016)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.06188.pdf)
 
 ---
@@ -304,6 +304,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACM-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3400302.3415640-sandybrown?style=flat-square)](https://doi.org/10.1145/3400302.3415640)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3400302.3415640)
+
+**SqueezeBERT: What can computer vision teach NLP about efficient neural networks?**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2006.11316-sandybrown?style=flat-square)](https://arxiv.org/abs/2006.11316)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2006.11316.pdf)
 
 ---
 ### 2021
@@ -636,6 +642,36 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/None-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-xx-sandybrown?style=flat-square)](None)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf)
+
+**Simplified TinyBERT: Knowledge Distillation for Document Retrieval**
+
+![](https://img.shields.io/badge/Springer-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--72240--1_21-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-030-72240-1_21)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2009.07531.pdf)
+
+**SmaQ: Smart Quantization for DNN Training by Exploiting Value Clustering**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/LCA.2021.3108505-sandybrown?style=flat-square)](https://doi.org/10.1109/LCA.2021.3108505)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://hparch.gatech.edu/papers/nima_2021_cal.pdf)
+
+**Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers**
+
+![](https://img.shields.io/badge/ACM/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/DAC18074.2021.9586134-sandybrown?style=flat-square)](https://doi.org/10.1109/DAC18074.2021.9586134)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2103.09301.pdf)
+
+**SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA51647.2021.00018-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA51647.2021.00018)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2012.09852.pdf)
+
+**SQuAT: Sharpness- and Quantization-Aware Training for BERT**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2210.07171-sandybrown?style=flat-square)](https://arxiv.org/abs/2210.07171)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2210.07171.pdf)
 
 ---
 ### 2022
@@ -1149,6 +1185,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3489517.3530504-sandybrown?style=flat-square)](https://doi.org/10.1145/3489517.3530504)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2206.14550.pdf)
 
+**SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression**
+
+![](https://img.shields.io/badge/PLOSONE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1371/journal.pone.0265621-sandybrown?style=flat-square)](https://doi.org/10.1371/journal.pone.0265621)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265621&type=printable)
+
+**Sentiment Analysis Using Pre-Trained Language Model With No Fine-Tuning and Less Resource**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2022.3212367-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2022.3212367)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912410)
+
+**Software and Hardware Fusion Multi-Head Attention**
+
+![](https://img.shields.io/badge/Springer-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-http://dx.doi.org/10.1007/978--3--031--10989--8_51-sandybrown?style=flat-square)](http://dx.doi.org/10.1007/978-3-031-10989-8_51)
+
+
+**Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO56248.2022.00059-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO56248.2022.00059)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2209.00606.pdf)
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -1187,16 +1247,28 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.12914-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.12914)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.12914.pdf)
 
-**TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference**
+**SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**
 
 ![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2211.10438-sandybrown?style=flat-square)](https://arxiv.org/abs/2211.10438)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2211.10438.pdf)
+
+**Sparse*BERT: Sparse Models Generalize To New tasks and Domains**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2205.12452-sandybrown?style=flat-square)](https://arxiv.org/abs/2205.12452)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2205.12452)
 
 **Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
 
 ![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.suscom.2023.100857-sandybrown?style=flat-square)](https://doi.org/10.1016/j.suscom.2023.100857)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf)
+
+**TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
 
 ---

@@ -2387,7 +2387,7 @@
 280:
   title: "Q8BERT: Quantized 8Bit BERT"
   year: 2019
-  doi: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
+  doi: https://doi.org/10.1109/EMC2--NIPS53020.2019.00016
   url: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
   pdf: https://arxiv.org/pdf/1910.06188.pdf
   publisher: IEEE
@@ -2569,212 +2569,170 @@
 
 303:
   title: "SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2023
+  doi: https://doi.org/10.1016/j.jpdc.2022.11.005
+  url: https://doi.org/10.1016/j.jpdc.2022.11.005
+  pdf: https://www.sciencedirect.com/science/article/pii/S0743731522002301/pdfft?md5=444fdc7e73724f5d9881d162bed2a735&pid=1-s2.0-S0743731522002301-main.pdf
+  publisher: Elsevier
+  pub: Journal of Parallel and Distributed Computing
+  pubshort: Elsevier
   ignore: no
-
-304:
-  title: "Self-supervised learning with random-projection quantizer for speech recognition"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-305:
-  title: "Semantic convolutional neural network model for safe business investment by using bert"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 306:
   title: "SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
+  year: 2022
+  doi: https://doi.org/10.1371/journal.pone.0265621
+  url: https://doi.org/10.1371/journal.pone.0265621
+  pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265621&type=printable
+  publisher: "PLOSONE"
   pub: 
   pubshort: 
   ignore: no
-
-307:
-  title: "Sentence-Level Sentiment Classification A Comparative Study between Deep Learning Models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: check
 
 308:
   title: "Sentiment Analysis Using Pre-Trained Language Model With No Fine-Tuning and Less Resource"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/ACCESS.2022.3212367
+  url: https://doi.org/10.1109/ACCESS.2022.3212367
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912410
+  publisher: IEEE
+  pub: IEEE Access 
   pubshort: 
   ignore: no
-
-309:
-  title: "Sequence Labeling Algorithms for Punctuation Restoration in Brazilian Portuguese Texts"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-310:
-  title: "Similarity Calculation Method of Siamese-CNN Judgment Document Based on TinyBERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 311:
-  title: "Simplified tinybert: Knowledge distillation for document retrieval"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Simplified TinyBERT: Knowledge Distillation for Document Retrieval"
+  year: 2021
+  doi: https://doi.org/10.1007/978--3--030--72240--1_21
+  url: https://doi.org/10.1007/978-3-030-72240-1_21
+  pdf: https://arxiv.org/pdf/2009.07531.pdf
+  publisher: Springer
+  pub: Advances in Information Retrieval 
   pubshort: 
   ignore: no
+  silicon: check
 
 312:
   title: "SmaQ: Smart Quantization for DNN Training by Exploiting Value Clustering"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1109/LCA.2021.3108505
+  url: https://doi.org/10.1109/LCA.2021.3108505
+  pdf: https://hparch.gatech.edu/papers/nima_2021_cal.pdf
+  publisher: IEEE
+  pub: IEEE Computer Architecture Letters
   pubshort: 
   ignore: no
+  silicon: yes
 
 313:
-  title: "Smoothquant: Accurate and efficient post-training quantization for large language models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models"
+  year: 2023
+  doi: https://arxiv.org/abs/2211.10438
+  url: https://arxiv.org/abs/2211.10438
+  pdf: https://arxiv.org/pdf/2211.10438.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language'
   pubshort: 
   ignore: no
+  silicon: yes
 
 314:
   title: "Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/DAC18074.2021.9586134
+  url: https://doi.org/10.1109/DAC18074.2021.9586134
+  pdf: https://arxiv.org/pdf/2103.09301.pdf
+  publisher: ACM/IEEE
+  pub: ACM/IEEE Design Automation Conference
+  pubshort: DAC
   ignore: no
 
 315:
   title: "Software and Hardware Fusion Multi-Head Attention"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: http://dx.doi.org/10.1007/978--3--031--10989--8_51
+  url: http://dx.doi.org/10.1007/978-3-031-10989-8_51
+  pdf: no
+  publisher: Springer
+  pub: International Conference on Knowledge Science, Engineering and Management
   pubshort: 
   ignore: no
+  silicon: yes
 
 316:
   title: "Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/MICRO56248.2022.00059
+  url: https://doi.org/10.1109/MICRO56248.2022.00059
+  pdf: https://arxiv.org/pdf/2209.00606.pdf
+  publisher: IEEE
+  pub: IEEE/ACM International Symposium on Microarchitecture
+  pubshort: MICRO
   ignore: no
+  silicon: yes
 
 317:
-  title: "Sparse* BERT: Sparse Models are Robust"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Sparse*BERT: Sparse Models Generalize To New tasks and Domains"
+  year: 2023
+  doi: https://arxiv.org/abs/2205.12452
+  url: https://arxiv.org/abs/2205.12452
+  pdf: https://arxiv.org/pdf/2205.12452
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: check
 
 318:
   title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  year: 2018
+  doi: https://doi.org/10.23919/DATE.2018.8342010
+  url: https://doi.org/10.23919/DATE.2018.8342010
+  pdf: https://doi.org/10.23919/DATE.2018.8342010
+  publisher:
+  pub: Design, Automation & Test in Europe Conference & Exhibition
+  pubshort: DATE
+  ignore: yes
+  silicon: yes
 
 319:
-  title: "Spatten: Efficient sparse attention architecture with cascade token and head pruning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning"
+  year: 2021
+  doi: https://doi.org/10.1109/HPCA51647.2021.00018
+  url: https://doi.org/10.1109/HPCA51647.2021.00018
+  pdf: https://arxiv.org/pdf/2012.09852.pdf
+  publisher: IEEE
+  pub: International Symposium on High-Performance Computer Architecture
+  pubshort: HPCA
   ignore: no
+  silicon: yes
 
 320:
-  title: "SQuAT: Sharpness-and Quantization-Aware Training for BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "SQuAT: Sharpness- and Quantization-Aware Training for BERT"
+  year: 2021
+  doi: https://arxiv.org/abs/2210.07171
+  url: https://arxiv.org/abs/2210.07171
+  pdf: https://arxiv.org/pdf/2210.07171.pdf
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 321:
   title: "SqueezeBERT: What can computer vision teach NLP about efficient neural networks?"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://arxiv.org/abs/2006.11316
+  url: https://arxiv.org/abs/2006.11316
+  pdf: https://arxiv.org/pdf/2006.11316.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: check
 
 322:
   title: "Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks"
