@@ -2736,234 +2736,147 @@
 
 322:
   title: "Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1609/aaai.v35i8.16839
+  url: https://doi.org/10.1609/aaai.v35i8.16839
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16839/16646
+  publisher: AAAI
+  pub: AAAI Technical Track on Machine Learning I
   pubshort: 
   ignore: no
-
-323:
-  title: "Structured Pruning Adapters"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: no
 
 324:
   title: "Structured pruning of a BERT-based question answering model"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2019 
+  doi: https://arxiv.org/abs/1910.06360
+  url: https://arxiv.org/abs/1910.06360
+  pdf: https://arxiv.org/pdf/1910.06360
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: no
 
 325:
   title: "Structured pruning of large language models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2019
+  doi: https://arxiv.org/abs/1910.04732
+  url: https://arxiv.org/abs/1910.04732
+  pdf: https://arxiv.org/pdf/1910.04732
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: no
 
 326:
   title: "SwiftPruner: Reinforced Evolutionary Pruning for Efficient Ad Relevance"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1145/3511808.3557139
+  url: https://doi.org/10.1145/3511808.3557139
+  pdf: https://arxiv.org/pdf/2209.00625.pdf
+  publisher: ACM
+  pub: ACM International Conference on Information & Knowledge Management
+  pubshort: CIKM
   ignore: no
+  silicon: no
 
 327:
   title: "T-OPU: An FPGA-based Overlay Processor for Natural Language Processing"
-  year: 
+  year: 2022
   doi: 
   url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  pdf: https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf
+  publisher: UCLA
+  pub: Open Access Publications from the University of California
   pubshort: 
   ignore: no
+  silicon: yes
 
 328:
   title: "Talos: A Weighted Speedup-Aware Device Placement of Deep Learning Models"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1109/ASAP52443.2021.00023
+  url: https://doi.org/10.1109/ASAP52443.2021.00023
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: International Conference on Application-specific Systems, Architectures and Processors
+  pubshort: ASAP
   ignore: no
+  silicon: yes
 
 329:
   title: "Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2023
+  doi: https://arxiv.org/abs/2302.11812
+  url: https://arxiv.org/abs/2302.11812
+  pdf: https://arxiv.org/pdf/2302.11812
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: yes
 
 330:
-  title: "Ternarybert: Distillation-aware ultra-low bit bert"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "TernaryBERT: Distillation-aware Ultra-low Bit BERT"
+  year: 2020
+  doi: https://arxiv.org/abs/2009.12812
+  url: https://arxiv.org/abs/2009.12812
+  pdf: https://arxiv.org/pdf/2009.12812
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
-
-331:
-  title: "Text Processor for IPC Prediction"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-332:
-  title: "The lottery ticket hypothesis for pre-trained bert networks"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: check
 
 333:
   title: "The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2203.07259
+  url: https://arxiv.org/abs/2203.07259
+  pdf: https://arxiv.org/pdf/2203.07259.pdf
+  publisher: Arxiv 
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
-
-334:
-  title: "Thesaurus-based word embeddings for automated biomedical literature classification"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: check
 
 335:
-  title: "TiC-SAT: Tightly-coupled Systolic Accelerator for Transformers"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "TiC-SAT: Tightly-Coupled Systolic Accelerator for Transformers"
+  year: 2023
+  doi: https://doi.org/10.1145/3566097.3567867
+  url: https://doi.org/10.1145/3566097.3567867
+  pdf: https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf
+  publisher: ACM
+  pub: Asia and South Pacific Design Automation Conference
+  pubshort: ASDAC
   ignore: no
-
-336:
-  title: "Ticket-BERT: Labeling Incident Management Tickets with Language Models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 337:
   title: "Tinybert: Distilling bert for natural language understanding"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2019
+  doi: https://arxiv.org/abs/1909.10351
+  url: https://arxiv.org/abs/1909.10351
+  pdf: https://arxiv.org/pdf/1909.10351
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
-
-338:
-  title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-339:
-  title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-340:
-  title: "Topic-BERT: Detecting harmful information from social media"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-341:
-  title: "TopicBERT for energy efficient document classification"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: check
 
 342:
   title: "Towards efficient post-training quantization of pre-trained language models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: link
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html
+  pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf
+  publisher: NeurIPS
+  pub: Advances in Neural Information Processing Systems
   pubshort: 
   ignore: no
+  silicon: no
 
 343:
   title: "Tr-bert: Dynamic token reduction for accelerating bert inference"
@@ -3529,6 +3442,38 @@
 
 296:
   title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+338:
+  title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+
+339:
+  title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+341:
+  title: "TopicBERT for energy efficient document classification"
   year: 
   doi: 
   url: 

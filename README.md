@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2555-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2576-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -122,6 +122,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2019-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/EMC2--NIPS53020.2019.00016-sandybrown?style=flat-square)](https://doi.org/10.1109/EMC2-NIPS53020.2019.00016)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.06188.pdf)
+
+**Structured pruning of a BERT-based question answering model**
+
+![](https://img.shields.io/badge/Arxiv-2019-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/1910.06360-sandybrown?style=flat-square)](https://arxiv.org/abs/1910.06360)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.06360)
+
+**Structured pruning of large language models**
+
+![](https://img.shields.io/badge/Arxiv-2019-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/1910.04732-sandybrown?style=flat-square)](https://arxiv.org/abs/1910.04732)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.04732)
+
+**Tinybert: Distilling bert for natural language understanding**
+
+![](https://img.shields.io/badge/Arxiv-2019-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/1909.10351-sandybrown?style=flat-square)](https://arxiv.org/abs/1909.10351)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1909.10351)
 
 ---
 ### 2020
@@ -310,6 +328,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2006.11316-sandybrown?style=flat-square)](https://arxiv.org/abs/2006.11316)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2006.11316.pdf)
+
+**TernaryBERT: Distillation-aware Ultra-low Bit BERT**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2009.12812-sandybrown?style=flat-square)](https://arxiv.org/abs/2009.12812)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2009.12812)
 
 ---
 ### 2021
@@ -672,6 +696,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2210.07171-sandybrown?style=flat-square)](https://arxiv.org/abs/2210.07171)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2210.07171.pdf)
+
+**Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks**
+
+![](https://img.shields.io/badge/AAAI-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1609/aaai.v35i8.16839-sandybrown?style=flat-square)](https://doi.org/10.1609/aaai.v35i8.16839)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ojs.aaai.org/index.php/AAAI/article/view/16839/16646)
+
+**Talos: A Weighted Speedup-Aware Device Placement of Deep Learning Models**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASAP52443.2021.00023-sandybrown?style=flat-square)](https://doi.org/10.1109/ASAP52443.2021.00023)
+
 
 ---
 ### 2022
@@ -1209,6 +1245,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MICRO56248.2022.00059-sandybrown?style=flat-square)](https://doi.org/10.1109/MICRO56248.2022.00059)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2209.00606.pdf)
 
+**SwiftPruner: Reinforced Evolutionary Pruning for Efficient Ad Relevance**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3511808.3557139-sandybrown?style=flat-square)](https://doi.org/10.1145/3511808.3557139)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2209.00625.pdf)
+
+**T-OPU: An FPGA-based Overlay Processor for Natural Language Processing**
+
+![](https://img.shields.io/badge/UCLA-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf)
+
+**The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2203.07259-sandybrown?style=flat-square)](https://arxiv.org/abs/2203.07259)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.07259.pdf)
+
+**Towards efficient post-training quantization of pre-trained language models**
+
+![](https://img.shields.io/badge/NeurIPS-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-link-sandybrown?style=flat-square)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf)
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -1258,6 +1318,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2205.12452-sandybrown?style=flat-square)](https://arxiv.org/abs/2205.12452)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2205.12452)
+
+**Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2302.11812-sandybrown?style=flat-square)](https://arxiv.org/abs/2302.11812)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.11812)
+
+**TiC-SAT: Tightly-Coupled Systolic Accelerator for Transformers**
+
+![](https://img.shields.io/badge/ACM-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3566097.3567867-sandybrown?style=flat-square)](https://doi.org/10.1145/3566097.3567867)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf)
 
 **Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
 
