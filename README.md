@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2576-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2579-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -334,6 +334,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2009.12812-sandybrown?style=flat-square)](https://arxiv.org/abs/2009.12812)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2009.12812)
+
+**Training Large Neural Networks with Constant Memory using a New Execution Algorithm**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2002.05645-sandybrown?style=flat-square)](https://arxiv.org/abs/2002.05645)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2002.05645.pdf)
 
 ---
 ### 2021
@@ -708,6 +714,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASAP52443.2021.00023-sandybrown?style=flat-square)](https://doi.org/10.1109/ASAP52443.2021.00023)
 
+
+**TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2105.11618-sandybrown?style=flat-square)](https://arxiv.org/abs/2105.11618)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2105.11618.pdf)
+
+**Training with Quantization Noise for Extreme Model Compression**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2004.07320-sandybrown?style=flat-square)](https://arxiv.org/abs/2004.07320)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.07320.pdf)
+
+**Transformer Acceleration with Dynamic Sparse Attention**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2110.11299-sandybrown?style=flat-square)](https://arxiv.org/abs/2110.11299)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2110.11299)
 
 ---
 ### 2022
@@ -1268,6 +1292,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/NeurIPS-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-link-sandybrown?style=flat-square)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf)
+
+**Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2205.12694-sandybrown?style=flat-square)](https://arxiv.org/abs/2205.12694)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2205.12694.pdf)
+
+**TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/JSSC.2022.3213542-sandybrown?style=flat-square)](https://doi.org/10.1109/JSSC.2022.3213542)
+
+
+**TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA53966.2022.00082-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA53966.2022.00082)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://par.nsf.gov/servlets/purl/10345536)
 
 ---
 ### 2023

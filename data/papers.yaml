@@ -2879,81 +2879,89 @@
   silicon: no
 
 343:
-  title: "Tr-bert: Dynamic token reduction for accelerating bert inference"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference"
+  year: 2021
+  doi: https://arxiv.org/abs/2105.11618
+  url: https://arxiv.org/abs/2105.11618
+  pdf: https://arxiv.org/pdf/2105.11618.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: yes
 
 344:
   title: "Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://arxiv.org/abs/2205.12694
+  url: https://arxiv.org/abs/2205.12694
+  pdf: https://arxiv.org/pdf/2205.12694.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: yes
+
 
 345:
-  title: "Training large neural networks with constant memory using a new execution algorithm"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Training Large Neural Networks with Constant Memory using a New Execution Algorithm"
+  year: 2020
+  doi: https://arxiv.org/abs/2002.05645
+  url: https://arxiv.org/abs/2002.05645
+  pdf: https://arxiv.org/pdf/2002.05645.pdf
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 346:
-  title: "Training with quantization noise for extreme model compression"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Training with Quantization Noise for Extreme Model Compression"
+  year: 2021
+  doi: https://arxiv.org/abs/2004.07320
+  url: https://arxiv.org/abs/2004.07320
+  pdf: https://arxiv.org/pdf/2004.07320.pdf
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 347:
   title: "TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/JSSC.2022.3213542
+  url: https://doi.org/10.1109/JSSC.2022.3213542
+  pdf: no
+  publisher: IEEE
+  pub: IEEE Journal of Solid-State Circuits
+  pubshort: SSC
   ignore: no
+  silicon: yes
 
 348:
   title: "Transformer Acceleration with Dynamic Sparse Attention"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://arxiv.org/abs/2110.11299
+  url: https://arxiv.org/abs/2110.11299
+  pdf: https://arxiv.org/pdf/2110.11299
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 349:
   title: "TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://doi.org/10.1109/HPCA53966.2022.00082
+  url: https://doi.org/10.1109/HPCA53966.2022.00082
+  pdf: https://par.nsf.gov/servlets/purl/10345536
+  publisher: IEEE
+  pub: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   pubshort: 
   ignore: no
+  silicon: yes
 
 350:
   title: "TwinBERT: Distilling Knowledge to Twin-Structured Compressed BERT Models for Large-Scale Retrieval"
