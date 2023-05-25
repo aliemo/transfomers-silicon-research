@@ -2963,225 +2963,102 @@
   ignore: no
   silicon: yes
 
-350:
-  title: "TwinBERT: Distilling Knowledge to Twin-Structured Compressed BERT Models for Large-Scale Retrieval"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
 351:
   title: "Ultron-AutoML: An open-source, distributed, scalable framework for efficient hyper-parameter optimization"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://doi.org/10.1109/BigData50022.2020.9378071
+  url: https://doi.org/10.1109/BigData50022.2020.9378071
+  pdf: https://ashish-gupta03.github.io/files/Ultron.pdf
+  publisher: IEEE 
+  pub: International Conference on Big Data (Big Data)
   pubshort: 
   ignore: no
-
-352:
-  title: "Understanding and Improving Knowledge Distillation for Quantization-Aware Training of Large Transformer Encoders"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 353:
-  title: "Understanding and overcoming the challenges of efficient transformer quantization"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "Understanding and Overcoming the Challenges of Efficient Transformer Quantization"
+  year: 2021
+  doi: https://arxiv.org/abs/2109.12948
+  url: https://arxiv.org/abs/2109.12948
+  pdf: https://arxiv.org/pdf/2109.12948.pdf
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
-
-354:
-  title: "Unsupervised path representation learning with curriculum negative sampling"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-355:
-  title: "Using transfer learning approach to implement convolutional neural network model to recommend airline tickets by using online re"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 356:
-  title: "VAQF: Fully Automatic Software-hardware Co-design Framework for Low-bit Vision Transformer"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer"
+  year: 2022
+  doi: https://arxiv.org/abs/2201.06618
+  url: https://arxiv.org/abs/2201.06618
+  pdf: https://arxiv.org/pdf/2201.06618.pdf
+  publisher: Arxiv
+  pub: Computer Science > Machine Learning
   pubshort: 
   ignore: no
+  silicon: yes
 
 357:
   title: "Varuna: Scalable, Low-cost Training of Massive Deep Learning Models"
-  year: 
-  doi: 
-  url: 
+  year: 2-22
+  doi: https://doi.org/10.1145/3492321.3519584
+  url: https://doi.org/10.1145/3492321.3519584
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: ACM
+  pub: Proceedings of the Seventeenth European Conference on Computer Systems
+  pubshort: EuroSys
   ignore: no
+  silicon: check
 
 358:
-  title: "Via: A novel vision-transformer accelerator based on fpga"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  title: "ViA: A Novel Vision-Transformer Accelerator Based on FPGA"
+  year: 2022
+  doi: https://doi.org/10.1109/TCAD.2022.3197489
+  url: https://doi.org/10.1109/TCAD.2022.3197489
+  pdf: 
+  publisher: IEEE
+  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  pubshort: TCAD
   ignore: no
+  silicon: yes
 
-359:
-  title: "Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
 
 360:
   title: "Vis-TOP: Visual Transformer Overlay Processor"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://arxiv.org/abs/2110.10957
+  url: https://arxiv.org/abs/2110.10957
+  pdf: https://arxiv.org/pdf/2110.10957.pdf
+  publisher: Arxiv
+  pub: Computer Science > Computer Vision and Pattern Recognition
   pubshort: 
   ignore: no
+  silicon: yes
 
 361:
-  title: "Vitality: Unifying low-rank and sparse approximation for vision transformer acceleration with a linear taylor attention"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention"
+  year: 2023
+  doi: https://doi.org/10.1109/HPCA56546.2023.10071081
+  url: https://doi.org/10.1109/HPCA56546.2023.10071081
+  pdf: https://arxiv.org/pdf/2211.05109.pdf
+  publisher: IEEE
+  pub: International Symposium on High-Performance Computer Architecture (HPCA)
   pubshort: 
   ignore: no
-
-362:
-  title: "vq-wav2vec: Self-supervised learning of discrete speech representations"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-363:
-  title: "Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-364:
-  title: "W2v-bert: Combining contrastive learning and masked language modeling for self-supervised speech pre-training"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-365:
-  title: "Ways for board and system test to benefit from FPGA embedded instrumentation"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-366:
-  title: "When bert plays the lottery, all tickets are winning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 367:
   title: "Work-in-Progress: Utilizing latency and accuracy predictors for efficient hardware-aware NAS"
   year: 
-  doi: 
-  url: 
+  doi: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
+  url: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: IEEE
+  pub: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
   pubshort: 
   ignore: no
-
-368:
-  title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-369:
-  title: "XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
+  silicon: yes
 
 370:
   title: "XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
@@ -3482,6 +3359,49 @@
   ignore: no
 341:
   title: "TopicBERT for energy efficient document classification"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+  359:
+  title: "Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+363:
+  title: "Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+368:
+  title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
+  year: 
+  doi: 
+  url: 
+  pdf: no 
+  publisher: 
+  pub: 
+  pubshort: 
+  ignore: no
+
+369:
+  title: "XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion"
   year: 
   doi: 
   url: 

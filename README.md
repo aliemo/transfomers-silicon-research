@@ -341,6 +341,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2002.05645-sandybrown?style=flat-square)](https://arxiv.org/abs/2002.05645)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2002.05645.pdf)
 
+**Ultron-AutoML: An open-source, distributed, scalable framework for efficient hyper-parameter optimization**
+
+![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/BigData50022.2020.9378071-sandybrown?style=flat-square)](https://doi.org/10.1109/BigData50022.2020.9378071)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ashish-gupta03.github.io/files/Ultron.pdf)
+
 ---
 ### 2021
 **A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators**
@@ -732,6 +738,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2110.11299-sandybrown?style=flat-square)](https://arxiv.org/abs/2110.11299)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2110.11299)
+
+**Understanding and Overcoming the Challenges of Efficient Transformer Quantization**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2109.12948-sandybrown?style=flat-square)](https://arxiv.org/abs/2109.12948)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2109.12948.pdf)
+
+**Vis-TOP: Visual Transformer Overlay Processor**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2110.10957-sandybrown?style=flat-square)](https://arxiv.org/abs/2110.10957)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2110.10957.pdf)
 
 ---
 ### 2022
@@ -1311,6 +1329,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA53966.2022.00082-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA53966.2022.00082)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://par.nsf.gov/servlets/purl/10345536)
 
+**VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer**
+
+![](https://img.shields.io/badge/Arxiv-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2201.06618-sandybrown?style=flat-square)](https://arxiv.org/abs/2201.06618)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2201.06618.pdf)
+
+**ViA: A Novel Vision-Transformer Accelerator Based on FPGA**
+
+![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2022.3197489-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2022.3197489)
+
+
 ---
 ### 2023
 **An Efficient Transformer Inference Engine on DSP**
@@ -1373,6 +1403,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3566097.3567867-sandybrown?style=flat-square)](https://doi.org/10.1145/3566097.3567867)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf)
 
+**ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA56546.2023.10071081-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA56546.2023.10071081)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2211.05109.pdf)
+
 **Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
 
 ![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
@@ -1384,5 +1420,13 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
+
+---
+### 2-22
+**Varuna: Scalable, Low-cost Training of Massive Deep Learning Models**
+
+![](https://img.shields.io/badge/ACM-2-22-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3492321.3519584-sandybrown?style=flat-square)](https://doi.org/10.1145/3492321.3519584)
+
 
 ---
