@@ -3001,7 +3001,7 @@
 
 357:
   title: "Varuna: Scalable, Low-cost Training of Massive Deep Learning Models"
-  year: 2-22
+  year: 2022
   doi: https://doi.org/10.1145/3492321.3519584
   url: https://doi.org/10.1145/3492321.3519584
   pdf: no 
@@ -3410,3 +3410,17 @@
   pub: 
   pubshort: 
   ignore: no
+
+
+# 
+369:
+  title: "Architecting High Performance Silicon Systems for Accurate and Efficient On-Chip Deep Learning"
+  year: 2023
+  doi: https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806
+  url: https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806
+  pdf: https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf
+  publisher: HarwardLibrary
+  pub: Harvard University Graduate School of Arts and Sciences
+  pubshort: 
+  ignore: no
+  silicon: yes

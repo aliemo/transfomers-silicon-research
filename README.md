@@ -1335,6 +1335,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2201.06618-sandybrown?style=flat-square)](https://arxiv.org/abs/2201.06618)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2201.06618.pdf)
 
+**Varuna: Scalable, Low-cost Training of Massive Deep Learning Models**
+
+![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3492321.3519584-sandybrown?style=flat-square)](https://doi.org/10.1145/3492321.3519584)
+
+
 **ViA: A Novel Vision-Transformer Accelerator Based on FPGA**
 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
@@ -1421,12 +1427,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.14882-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.14882)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.14882)
 
----
-### 2-22
-**Varuna: Scalable, Low-cost Training of Massive Deep Learning Models**
+**Architecting High Performance Silicon Systems for Accurate and Efficient On-Chip Deep Learning**
 
-![](https://img.shields.io/badge/ACM-2-22-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3492321.3519584-sandybrown?style=flat-square)](https://doi.org/10.1145/3492321.3519584)
+![](https://img.shields.io/badge/HarwardLibrary-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806-sandybrown?style=flat-square)](https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf)
 
-
----
+--
