@@ -3062,7 +3062,7 @@
 
 370:
   title: "XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
-  year: 
+  year: 2022
   doi: 
   url: 
   pdf: no 
@@ -3073,7 +3073,7 @@
 
 371:
   title: "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers"
-  year: 
+  year: 2022
   doi: 
   url: 
   pdf: no 
@@ -3084,10 +3084,10 @@
 
 372:
   title: "Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
+  year: 2022
+  doi: https://doi.org/10.1080/08839514.2022.2031817
+  url: https://doi.org/10.1080/08839514.2022.2031817
+  pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817 
   publisher: 
   pub: 
   pubshort: 
@@ -3095,14 +3095,15 @@
 
 121:
   title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/ICASSP43922.2022.9747490
+  url: https://doi.org/10.1109/ICASSP43922.2022.9747490
+  pdf: https://arxiv.org/pdf/2110.01900.pdf 
+  publisher: IEEE
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pubshort: ICASSP
   ignore: yes
+  silicon: wip
 
 122:
   title: "Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval"
@@ -3116,35 +3117,39 @@
   ignore: yes
 108:
   title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2022
+  doi: https://doi.org/10.1109/ISVLSI54635.2022.00082
+  url: https://doi.org/10.1109/ISVLSI54635.2022.00082
+  pdf: https://scholar.archive.org/work/hd53tmr62rhn3mxplkjzhrnvw4/access/wayback/https://publikationen.bibliothek.kit.edu/1000151937/149523013 
+  publisher: IEEE
+  pub: Computer Society Annual Symposium on VLSI 
+  pubshort: ISVLSI
   ignore: yes
-  147:
+  silicon: wip
+
+147:
   title: "Elbert: Fast albert with confidence-window based early exit"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  year: 2021
+  doi: https://doi.org/10.1109/ICASSP39728.2021.9414572
+  url: https://doi.org/10.1109/ICASSP39728.2021.9414572
+  pdf: https://arxiv.org/pdf/2107.00175.pdf 
+  publisher: IEEE
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pubshort: ICASSP
   ignore: no
+  silicon: wip
 
 192:
   title: "Ghostbert: Generate more features with cheap operations for BERT"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: http://dx.doi.org/10.18653/v1/2021.acl--long.509
+  url: http://dx.doi.org/10.18653/v1/2021.acl-long.509
+  pdf: https://aclanthology.org/2021.acl-long.509.pdf 
+  publisher: ACL
+  pub: International Joint Conference on Natural Language Processing
   pubshort: 
   ignore: 
+  silicon: wip
 206:
   title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
   year: 
@@ -3181,12 +3186,12 @@
 
 217:
   title: "Int-Monitor: a model triggered hardware trojan in deep learning accelerators"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1007/s11227--022--04759--y
+  url: https://doi.org/10.1007/s11227-022-04759-y
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: Springer
+  pub: The Journal of Supercomputing
   pubshort: 
   ignore: never
   silicon: no
@@ -3263,35 +3268,38 @@
 
 270:
   title: "Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks"
-  year: 
-  doi: 
-  url: 
+  year: 2020
+  doi: https://doi.org/10.1109/BIBM49941.2020.9313280
+  url: https://doi.org/10.1109/BIBM49941.2020.9313280
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: International Conference on Bioinformatics and Biomedicine 
+  pubshort: BIBM
   ignore: no
+  silicon: wip
 275:
   title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://doi.org/10.1109/TPAMI.2021.3095381
+  url: https://doi.org/10.1109/TPAMI.2021.3095381
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085 
+  publisher: IEEE
+  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence 
   pubshort: 
   ignore: no
+  silicon: wip
 
 276:
   title: "Prune once for all: Sparse pre-trained language models"
   year: 
   doi: 
   url: 
-  pdf: no 
+  pdf: https://arxiv.org/pdf/2111.05754.pdf 
   publisher: 
   pub: 
   pubshort: 
   ignore: no
+  silicon: wip
 289:
   title: "Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model"
   year: 
@@ -3305,79 +3313,86 @@
 
 288:
   title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2021
+  doi: https://aclanthology.org/2021.ranlp--1.60
+  url: https://aclanthology.org/2021.ranlp-1.60/
+  pdf: https://aclanthology.org/2021.ranlp-1.60.pdf
+  publisher: ACL
+  pub: Proceedings of Recent Advances in Natural Language Processing
   pubshort: 
   ignore: no
+  silicon: wip
 
 290:
   title: "Rethinking co-design of neural architectures and hardware accelerators"
   year: 
   doi: 
   url: 
-  pdf: no 
+  pdf: https://arxiv.org/pdf/2102.08619.pdf 
   publisher: 
   pub: 
   pubshort: 
   ignore: no
+  silicon: wip
 
 296:
   title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
+  year: 2021
+  doi:  https://doi.org/10.1609/aaai.v35i10.17056
+  url:  https://doi.org/10.1609/aaai.v35i10.17056
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863 
   publisher: 
   pub: 
   pubshort: 
   ignore: no
+  silicon: wip
 338:
   title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
-  year: 
-  doi: 
-  url: 
+  year: 2022
+  doi: https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830409
+  url: https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830409
   pdf: no 
-  publisher: 
-  pub: 
+  publisher: IEEE
+  pub: VLSI Technology and Circuits
   pubshort: 
   ignore: no
+  silicon: wip
 
 
 339:
   title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2023
+  doi: https://doi.org/10.1109/JSSC.2023.3236566
+  url: https://doi.org/10.1109/JSSC.2023.3236566
+  pdf: https://arxiv.org/pdf/2301.03537.pdf 
+  publisher: IEEE
+  pub:  IEEE Journal of Solid-State Circuits ( Early Access )
   pubshort: 
   ignore: no
+  silicon: wip
 341:
   title: "TopicBERT for energy efficient document classification"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
+  year: 2020
+  doi: https://doi.org/10.48550/arXiv.2010.16407
+  url: https://doi.org/10.48550/arXiv.2010.16407
+  pdf: https://arxiv.org/pdf/2010.16407.pdf 
   publisher: 
   pub: 
   pubshort: 
   ignore: no
+  silicon: wip
 
   359:
   title: "Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
+  year: 2021
+  doi: https://doi.org/10.4230/LIPIcs.ECRTS.2021.1
+  url: https://doi.org/10.4230/LIPIcs.ECRTS.2021.1
+  pdf: https://drops.dagstuhl.de/opus/volltexte/2021/13932/pdf/LIPIcs-ECRTS-2021-1.pdf 
   publisher: 
-  pub: 
+  pub:  
   pubshort: 
   ignore: no
+  silicon: wip
 
 363:
   title: "Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference"
@@ -3402,14 +3417,15 @@
 
 369:
   title: "XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion"
-  year: 
-  doi: 
-  url: 
+  year: 2021
+  doi: https://doi.org/10.1109/FCCM51124.2021.00009
+  url: https://doi.org/10.1109/FCCM51124.2021.00009
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: IEEE
+  pub: Annual International Symposium on Field-Programmable Custom Computing Machines 
+  pubshort: FCCM
   ignore: no
+  silicon: wip
 
 
 # 
