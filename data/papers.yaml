@@ -3346,6 +3346,7 @@
   pubshort: 
   ignore: no
   silicon: wip
+
 338:
   title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
   year: 2022
