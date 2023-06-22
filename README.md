@@ -4,6 +4,10 @@
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
 <center><img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
+<p align="center">
+  <img src="./data/img/BERT-on-Silicon.png" />
+</p>
+
 ## BERT Model
 
 ### Description
