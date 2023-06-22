@@ -2785,8 +2785,8 @@
 327:
   title: "T-OPU: An FPGA-based Overlay Processor for Natural Language Processing"
   year: 2022
-  doi: 
-  url: 
+  doi: https://escholarship.org/uc/item/9r46v693
+  url: https://escholarship.org/uc/item/9r46v693
   pdf: https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf
   publisher: UCLA
   pub: Open Access Publications from the University of California
@@ -3065,7 +3065,7 @@
   year: 2022
   doi: 
   url: 
-  pdf: no 
+  pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/1579d5d8edacd85ac1a86aea28bdf32d-Paper-Conference.pdf
   publisher: 
   pub: 
   pubshort: 
@@ -3081,6 +3081,7 @@
   pub: 
   pubshort: 
   ignore: no
+  
 
 372:
   title: "Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder"
@@ -3092,6 +3093,7 @@
   pub: 
   pubshort: 
   ignore: no
+  silicon: no
 
 121:
   title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
@@ -3103,18 +3105,9 @@
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
   pubshort: ICASSP
   ignore: yes
-  silicon: wip
+  silicon: no
 
-122:
-  title: "Distilling knowledge from BERT into simple fully connected neural networks for efficient vertical retrieval"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: yes
+
 108:
   title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
   year: 2022
@@ -3125,7 +3118,7 @@
   pub: Computer Society Annual Symposium on VLSI 
   pubshort: ISVLSI
   ignore: yes
-  silicon: wip
+  silicon: yes
 
 147:
   title: "Elbert: Fast albert with confidence-window based early exit"
@@ -3137,7 +3130,7 @@
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
   pubshort: ICASSP
   ignore: no
-  silicon: wip
+  silicon: no
 
 192:
   title: "Ghostbert: Generate more features with cheap operations for BERT"
@@ -3148,18 +3141,20 @@
   publisher: ACL
   pub: International Joint Conference on Natural Language Processing
   pubshort: 
-  ignore: 
-  silicon: wip
+  ignore: no
+  silicon: yes
+
 206:
   title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2022
+  doi: https://www.aimspress.com/article/doi/10.3934/era.2022192
+  url: https://www.aimspress.com/article/doi/10.3934/era.2022192
+  pdf: https://www.aimspress.com/aimspress-data/era/2022/10/PDF/era-30-10-192.pdf
+  publisher: AIMPress
+  pub: Electronic Research Archive
   pubshort: 
   ignore: no
+  silicon: yes
 
 
 207:
@@ -3168,44 +3163,23 @@
   doi: https://doi.org/10.1007/978--3--030--87208--8_5
   url: https://https://eprints.gla.ac.uk/280378/
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: todo
+  publisher: HiPEAC
+  pub: International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems 
+  pubshort: ACACES
+  ignore: no
+  silicon: yes
 
 2008:
   title: "Towards Fully 8-bit Integer Inference for the Transformer Model"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: todo
-
-217:
-  title: "Int-Monitor: a model triggered hardware trojan in deep learning accelerators"
-  year: 2022
-  doi: https://doi.org/10.1007/s11227--022--04759--y
-  url: https://doi.org/10.1007/s11227-022-04759-y
-  pdf: no 
-  publisher: Springer
-  pub: The Journal of Supercomputing
-  pubshort: 
-  ignore: never
-  silicon: no
-
-218:
-  title: "INT8 Transformers for Inference Acceleration"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  year: 2020
+  doi: https://arxiv.org/abs/2009.08034
+  url: https://arxiv.org/abs/2009.08034
+  pdf: https://arxiv.org/pdf/2009.08034.pdf
+  publisher: Arixv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
+  silicon: yes
 
 300: 
   title: "ViTA: A Vision Transformer Inference Accelerator for Edge Applications"
@@ -3231,17 +3205,6 @@
   ignore: no
   silicon: yes
 
-302:
-  title: "Algorithm-Accelerator Co-design for High-Performance and Secure Deep Learning"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: check
-
 303:
   title: "TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics"
   year: 2023
@@ -3266,17 +3229,7 @@
   ignore: no 
   silicon: yes
 
-270:
-  title: "Predicting CRISPR-Cas9 Off-target with Self-supervised Neural Networks"
-  year: 2020
-  doi: https://doi.org/10.1109/BIBM49941.2020.9313280
-  url: https://doi.org/10.1109/BIBM49941.2020.9313280
-  pdf: no 
-  publisher: IEEE
-  pub: International Conference on Bioinformatics and Biomedicine 
-  pubshort: BIBM
-  ignore: no
-  silicon: wip
+
 275:
   title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
   year: 2021
@@ -3287,53 +3240,19 @@
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence 
   pubshort: 
   ignore: no
-  silicon: wip
+  silicon: yes
 
 276:
   title: "Prune once for all: Sparse pre-trained language models"
-  year: 
-  doi: 
-  url: 
-  pdf: https://arxiv.org/pdf/2111.05754.pdf 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-  silicon: wip
-289:
-  title: "Research on Application of Named Entity Recognition of Electronic Medical Records Based on BERT-IDCNN-CRF Model"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-
-288:
-  title: "Relation Extraction using Multiple Pre-Training Models in Biomedical Domain"
   year: 2021
-  doi: https://aclanthology.org/2021.ranlp--1.60
-  url: https://aclanthology.org/2021.ranlp-1.60/
-  pdf: https://aclanthology.org/2021.ranlp-1.60.pdf
-  publisher: ACL
-  pub: Proceedings of Recent Advances in Natural Language Processing
+  doi: https://arxiv.org/abs/2111.05754
+  url: https://arxiv.org/abs/2111.05754
+  pdf: https://arxiv.org/pdf/2111.05754.pdf 
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
-  silicon: wip
-
-290:
-  title: "Rethinking co-design of neural architectures and hardware accelerators"
-  year: 
-  doi: 
-  url: 
-  pdf: https://arxiv.org/pdf/2102.08619.pdf 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-  silicon: wip
+  silicon: yes
 
 296:
   title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
@@ -3345,20 +3264,7 @@
   pub: 
   pubshort: 
   ignore: no
-  silicon: wip
-
-338:
-  title: "TinyVers: A 0.8-17 TOPS/W, 1.7 μW-20 mW, Tiny Versatile System-on-chip with State-Retentive eMRAM for Machine Learning Inference"
-  year: 2022
-  doi: https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830409
-  url: https://doi.org/10.1109/VLSITechnologyandCir46769.2022.9830409
-  pdf: no 
-  publisher: IEEE
-  pub: VLSI Technology and Circuits
-  pubshort: 
-  ignore: no
-  silicon: wip
-
+  silicon: check
 
 339:
   title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
@@ -3367,69 +3273,47 @@
   url: https://doi.org/10.1109/JSSC.2023.3236566
   pdf: https://arxiv.org/pdf/2301.03537.pdf 
   publisher: IEEE
-  pub:  IEEE Journal of Solid-State Circuits ( Early Access )
+  pub:  IEEE Journal of Solid-State Circuits
   pubshort: 
-  ignore: no
-  silicon: wip
+  ignore: ignore
+  silicon: yes
+  
 341:
   title: "TopicBERT for energy efficient document classification"
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.16407
   url: https://doi.org/10.48550/arXiv.2010.16407
   pdf: https://arxiv.org/pdf/2010.16407.pdf 
-  publisher: 
-  pub: 
-  pubshort: 
-  ignore: no
-  silicon: wip
-
-  359:
-  title: "Vicuna: A Timing-Predictable RISC-V Vector Coprocessor for Scalable Parallel Computation"
-  year: 2021
-  doi: https://doi.org/10.4230/LIPIcs.ECRTS.2021.1
-  url: https://doi.org/10.4230/LIPIcs.ECRTS.2021.1
-  pdf: https://drops.dagstuhl.de/opus/volltexte/2021/13932/pdf/LIPIcs-ECRTS-2021-1.pdf 
-  publisher: 
-  pub:  
+  publisher: Arxiv
+  pub: Computer Science > Computation and Language
   pubshort: 
   ignore: no
   silicon: wip
 
 363:
-  title: "Vs-quant: Per-vector scaled quantization for accurate low-precision neural network inference"
-  year: 
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  title: "VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference"
+  year: 2021
+  doi: https://proceedings.mlsys.org/paper_files/paper/2021
+  url: https://proceedings.mlsys.org/paper_files/paper/2021
+  pdf: https://proceedings.mlsys.org/paper_files/paper/2021/file/48a6431f04545e11919887748ec5cb52-Paper.pdf
+  publisher:  MLSys
+  pub: Proceedings of Machine Learning and Systems
   pubshort: 
   ignore: no
+  silicon: yes
+
 368:
   title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
   year: 
-  doi: 
-  url: 
+  doi: https://doi.org/10.1145/3508352.3549343
+  url: https://doi.org/10.1145/3508352.3549343
   pdf: no 
-  publisher: 
-  pub: 
-  pubshort: 
+  publisher: ACM
+  pub: International Conference on Computer-Aided Design
+  pubshort: ICCAD
   ignore: no
-
-369:
-  title: "XBERT: Xilinx Logical-Level Bitstream Embedded RAM Transfusion"
-  year: 2021
-  doi: https://doi.org/10.1109/FCCM51124.2021.00009
-  url: https://doi.org/10.1109/FCCM51124.2021.00009
-  pdf: no 
-  publisher: IEEE
-  pub: Annual International Symposium on Field-Programmable Custom Computing Machines 
-  pubshort: FCCM
-  ignore: no
-  silicon: wip
-
-
-# 
+  silicon: check
+ 
 369:
   title: "Architecting High Performance Silicon Systems for Accurate and Efficient On-Chip Deep Learning"
   year: 2023

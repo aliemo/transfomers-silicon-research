@@ -2,7 +2,7 @@
 > **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
 
 <center><img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/></center>
-<center><img src="https://img.shields.io/badge/Progress-%2579-ef6c00?labelColor=1565c0&style=flat-square"/></center>
+<center><img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 ## BERT Model
 
@@ -346,6 +346,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2020-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/BigData50022.2020.9378071-sandybrown?style=flat-square)](https://doi.org/10.1109/BigData50022.2020.9378071)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ashish-gupta03.github.io/files/Ultron.pdf)
+
+**Towards Fully 8-bit Integer Inference for the Transformer Model**
+
+![](https://img.shields.io/badge/Arixv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2009.08034-sandybrown?style=flat-square)](https://arxiv.org/abs/2009.08034)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2009.08034.pdf)
+
+**TopicBERT for energy efficient document classification**
+
+![](https://img.shields.io/badge/Arxiv-2020-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2010.16407-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2010.16407)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2010.16407.pdf)
 
 ---
 ### 2021
@@ -750,6 +762,42 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2110.10957-sandybrown?style=flat-square)](https://arxiv.org/abs/2110.10957)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2110.10957.pdf)
+
+**Elbert: Fast albert with confidence-window based early exit**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICASSP39728.2021.9414572-sandybrown?style=flat-square)](https://doi.org/10.1109/ICASSP39728.2021.9414572)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2107.00175.pdf)
+
+**Ghostbert: Generate more features with cheap operations for BERT**
+
+![](https://img.shields.io/badge/ACL-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-http://dx.doi.org/10.18653/v1/2021.acl--long.509-sandybrown?style=flat-square)](http://dx.doi.org/10.18653/v1/2021.acl-long.509)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://aclanthology.org/2021.acl-long.509.pdf)
+
+**ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning**
+
+![](https://img.shields.io/badge/IEEE-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TPAMI.2021.3095381-sandybrown?style=flat-square)](https://doi.org/10.1109/TPAMI.2021.3095381)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085)
+
+**Prune once for all: Sparse pre-trained language models**
+
+![](https://img.shields.io/badge/Arxiv-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2111.05754-sandybrown?style=flat-square)](https://arxiv.org/abs/2111.05754)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2111.05754.pdf)
+
+**ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques**
+
+![](https://img.shields.io/badge/None-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1609/aaai.v35i10.17056-sandybrown?style=flat-square)](https://doi.org/10.1609/aaai.v35i10.17056)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863)
+
+**VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference**
+
+![](https://img.shields.io/badge/MLSys-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://proceedings.mlsys.org/paper_files/paper/2021-sandybrown?style=flat-square)](https://proceedings.mlsys.org/paper_files/paper/2021)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.mlsys.org/paper_files/paper/2021/file/48a6431f04545e11919887748ec5cb52-Paper.pdf)
 
 ---
 ### 2022
@@ -1263,6 +1311,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3489517.3530504-sandybrown?style=flat-square)](https://doi.org/10.1145/3489517.3530504)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2206.14550.pdf)
 
+**Searching for memory-lighter architectures for OCR-augmented image captioning**
+
+![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.3233/JIFS--219230-sandybrown?style=flat-square)](https://doi.org/10.3233/JIFS-219230)
+
+
 **SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression**
 
 ![](https://img.shields.io/badge/PLOSONE-2022-skyblue?colorstyle=flat-square)
@@ -1296,7 +1350,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **T-OPU: An FPGA-based Overlay Processor for Natural Language Processing**
 
 ![](https://img.shields.io/badge/UCLA-2022-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://escholarship.org/uc/item/9r46v693-sandybrown?style=flat-square)](https://escholarship.org/uc/item/9r46v693)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf)
 
 **The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models**
@@ -1345,6 +1399,36 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/IEEE-2022-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2022.3197489-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2022.3197489)
+
+
+**XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient**
+
+![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.neurips.cc/paper_files/paper/2022/file/1579d5d8edacd85ac1a86aea28bdf32d-Paper-Conference.pdf)
+
+**ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers**
+
+![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
+
+
+**Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder**
+
+![](https://img.shields.io/badge/None-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1080/08839514.2022.2031817-sandybrown?style=flat-square)](https://doi.org/10.1080/08839514.2022.2031817)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817)
+
+**Hardware-friendly compression and hardware acceleration for transformer: A survey**
+
+![](https://img.shields.io/badge/AIMPress-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://www.aimspress.com/article/doi/10.3934/era.2022192-sandybrown?style=flat-square)](https://www.aimspress.com/article/doi/10.3934/era.2022192)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.aimspress.com/aimspress-data/era/2022/10/PDF/era-30-10-192.pdf)
+
+**Hardware/Software Co-Design of Edge DNN Accelerators with TFLite**
+
+![](https://img.shields.io/badge/HiPEAC-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--030--87208--8_5-sandybrown?style=flat-square)](https://https://eprints.gla.ac.uk/280378/)
 
 
 ---
@@ -1433,4 +1517,4 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806-sandybrown?style=flat-square)](https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf)
 
---
+---
