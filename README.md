@@ -8,7 +8,7 @@
   <img src="./data/img/BERT-on-Silicon.png" />
 </p>
 
-[![Goto-Papers](https://img.shields.io/badge/Goto-Papers-blue?labelColor=red&style=flat-square)](##Papers)
+[![Goto-Papers](https://img.shields.io/badge/Goto-Papers-blue?labelColor=red&style=flat-square)](#Papers)
 
 ## BERT Model
 
@@ -106,7 +106,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ---
 
 
-## Papers
+# Papers
 
 
 
