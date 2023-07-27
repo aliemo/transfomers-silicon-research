@@ -3325,3 +3325,17 @@
   pubshort: 
   ignore: no
   silicon: yes
+
+
+401:
+  title: "Hardware-efficient Softmax Approximation for Self-Attention Networks"
+  year: 2023
+  doi: https://doi.org/10.1109/ISCAS46773.2023.10181465
+  url: https://doi.org/10.1109/ISCAS46773.2023.10181465
+  pdf: no
+  publisher: HIEEE
+  pub: IEEE International Symposium on Circuits and Systems (ISCAS)
+  pubshort: ISCAS
+  ignore: no
+  silicon: yes
+

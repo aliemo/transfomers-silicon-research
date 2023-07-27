@@ -1533,4 +1533,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806-sandybrown?style=flat-square)](https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf)
 
+**Hardware-efficient Softmax Approximation for Self-Attention Networks**
+
+![](https://img.shields.io/badge/HIEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS46773.2023.10181465-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS46773.2023.10181465)
+
+
 ---
