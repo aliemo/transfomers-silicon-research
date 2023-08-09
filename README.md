@@ -1535,8 +1535,34 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 **Hardware-efficient Softmax Approximation for Self-Attention Networks**
 
-![](https://img.shields.io/badge/HIEEE-2023-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS46773.2023.10181465-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS46773.2023.10181465)
+
+
+**Fast Prototyping Next-Generation Accelerators for New ML Models using MASE: ML Accelerator System Exploration**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.15517-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.15517)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.15517.pdf)
+
+**A Scalable GPT-2 Inference Hardware Architecture on FPGA**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/IJCNN54540.2023.10191067-sandybrown?style=flat-square)](https://doi.org/10.1109/IJCNN54540.2023.10191067)
+
+
+**BL-PIM: Varying the Burst Length to Realize the All-Bank Performance and Minimize the Multi-Workload Interference for in-DRAM PIM**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2023.3300893-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3300893)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428)
+
+---
+### 202
+**Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning**
+
+![](https://img.shields.io/badge/Wiley-202-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-ISBN:9781119853893-sandybrown?style=flat-square)](https://books.google.com/books?id=rlPNEAAAQBAJ)
 
 
 ---

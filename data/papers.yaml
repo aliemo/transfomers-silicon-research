@@ -3333,9 +3333,57 @@
   doi: https://doi.org/10.1109/ISCAS46773.2023.10181465
   url: https://doi.org/10.1109/ISCAS46773.2023.10181465
   pdf: no
-  publisher: HIEEE
+  publisher: IEEE
   pub: IEEE International Symposium on Circuits and Systems (ISCAS)
   pubshort: ISCAS
   ignore: no
   silicon: yes
 
+
+402:
+  title: "Fast Prototyping Next-Generation Accelerators for New ML Models using MASE: ML Accelerator System Exploration"
+  year: 2023
+  doi: https://arxiv.org/abs/2307.15517
+  url: https://arxiv.org/abs/2307.15517
+  pdf: https://arxiv.org/pdf/2307.15517.pdf
+  publisher: Arxiv
+  pub: Computer Science > Hardware Architecture
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+403:
+  title: "Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning"
+  year: 202
+  doi: "ISBN:9781119853893"
+  url: https://books.google.com/books?id=rlPNEAAAQBAJ
+  pdf: no
+  publisher: Wiley
+  pub: IEEE Press Series on Electromagnetic Wave Theory
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+404:
+  title: "A Scalable GPT-2 Inference Hardware Architecture on FPGA"
+  year: 2023
+  doi: https://doi.org/10.1109/IJCNN54540.2023.10191067
+  url: https://doi.org/10.1109/IJCNN54540.2023.10191067
+  pdf: no
+  publisher: IEEE
+  pub: International Joint Conference on Neural Networks (IJCNN)
+  pubshort: 
+  ignore: no
+  silicon: yes
+
+405:
+  title: "BL-PIM: Varying the Burst Length to Realize the All-Bank Performance and Minimize the Multi-Workload Interference for in-DRAM PIM"
+  year: 2023
+  doi: https://doi.org/10.1109/ACCESS.2023.3300893
+  url: https://doi.org/10.1109/ACCESS.2023.3300893
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428
+  publisher: IEEE
+  pub: IEEE Access
+  pubshort: 
+  ignore: no
+  silicon: yes
