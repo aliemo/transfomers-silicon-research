@@ -3354,7 +3354,7 @@
 
 403:
   title: "Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning"
-  year: 202
+  year: 2023
   doi: "ISBN:9781119853893"
   url: https://books.google.com/books?id=rlPNEAAAQBAJ
   pdf: no
@@ -3387,3 +3387,18 @@
   pubshort: 
   ignore: no
   silicon: yes
+
+406:
+  title: "Integrated Transformers Inference Framework for Multiple Tenants on GPU"
+  year: 2023
+  doi: https://hdl.handle.net/2123/31606
+  url: https://hdl.handle.net/2123/31606
+  pdf: https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y
+  publisher:  SydneyDigital
+  pub:  Sydney Digital Theses
+  pubshort: 
+  ignore: no
+  silicon: yes
+  pubt: Thesis
+
+  

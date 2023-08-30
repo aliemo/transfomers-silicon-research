@@ -1545,6 +1545,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.15517-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.15517)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.15517.pdf)
 
+**Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning**
+
+![](https://img.shields.io/badge/Wiley-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-ISBN:9781119853893-sandybrown?style=flat-square)](https://books.google.com/books?id=rlPNEAAAQBAJ)
+
+
 **A Scalable GPT-2 Inference Hardware Architecture on FPGA**
 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
@@ -1557,12 +1563,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2023.3300893-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3300893)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428)
 
----
-### 202
-**Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning**
+**Integrated Transformers Inference Framework for Multiple Tenants on GPU**
 
-![](https://img.shields.io/badge/Wiley-202-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-ISBN:9781119853893-sandybrown?style=flat-square)](https://books.google.com/books?id=rlPNEAAAQBAJ)
-
+![](https://img.shields.io/badge/SydneyDigital-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://hdl.handle.net/2123/31606-sandybrown?style=flat-square)](https://hdl.handle.net/2123/31606)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y)
 
 ---
