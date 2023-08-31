@@ -14,8 +14,6 @@ def write_csv(data, outf, header=None):
                   'ignore','silicon','pubkey','pubname','reserved']
 
     d = {}
-    h = 'year'
-
 
     for h in header:
         d[h] = [x[h] for _,x in data.items()]
@@ -26,8 +24,7 @@ def write_csv(data, outf, header=None):
     df.to_csv(outf, index=False)
 
 
-
-def write_md(data, outf, signle=True, with_header=True):
+def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
     if with_header:
         header = ''
@@ -75,6 +72,14 @@ def write_md(data, outf, signle=True, with_header=True):
                     f.write('\n')
                     f.write('\n')
 
+                if with_footer:
+                    footer = ''
+                    with open('data/footer.txt') as ff:
+                        lines = ff.readlines()
+                        footer += ''.join(lines)
+                        f.write(footer)
+
+
     else:
         if outf == 'stdout':
             print(header)
@@ -120,6 +125,14 @@ def write_md(data, outf, signle=True, with_header=True):
                     f.write('---')
                     f.write('\n')
 
+                if with_footer:
+                    footer = ''
+                    with open('data/footer.txt') as ff:
+                        lines = ff.readlines()
+                        footer += ''.join(lines)
+                        f.write(footer)
+
+
 
 def read_yaml(inpf, ignore=False, silicon=False):
     data = {}
@@ -162,7 +175,6 @@ def sort_by_year(xdata, signle=True):
 
 def main():
 
-
     parser = argparse.ArgumentParser(description='Generate README.md')
     parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
@@ -179,6 +191,7 @@ def main():
     write_md(data_y, outf, signle=False)
     if csvf != '__nocsv__':
         write_csv(csv_data, csvf)
+
 
 if __name__ == '__main__':
     main()
