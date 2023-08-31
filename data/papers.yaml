@@ -3,423 +3,523 @@
   year: 2022
   doi: https://doi.org/10.1109/ISSCC42614.2022.9731686
   url: https://doi.org/10.1109/ISSCC42614.2022.9731686
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubtype: article
   pubshort: ISSCC
   ignore: no
   silicon: yes
-  
+
+
 2:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
   year: 2022
   doi: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
   url: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
   pubtype: article
   pubshort: IEEE-ESSCIRC
   ignore: no
   silicon: yes
-  
+
 3:
   title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
   year: 2022
   doi: https://doi.org/10.1109/FCCM53951.2022.9786159
   url: https://doi.org/10.1109/FCCM53951.2022.9786159
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Field-Programmable Custom Computing Machines (FCCM)
   pubtype: article
   pubshort: IEEE-FCCM
   ignore: no
   silicon: yes
-  
+
 4:
   title: "A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks"
   year: 2022
   doi: https://doi.org/10.1145/3564606
   url: https://doi.org/10.1145/3564606
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM Transactions on Architecture and Code Optimization
   pubtype: article
   pubshort: ACM-TACO
   ignore: no
   silicon: yes
-  
+
 5:
   title: "A Fast Post-Training Pruning Framework for Transformers"
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2204.09656
   url: https://doi.org/10.48550/arXiv.2204.09656
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
   pubshort: arXiv-CSCL
   ignore: check
   silicon: yes
-  
+
 6:
   title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
   year: 2022
   doi: https://doi.org/10.1109/TCAD.2021.3121264
   url: https://doi.org/10.1109/TCAD.2021.3121264
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   pubtype: article
   pubshort: TCAD
   ignore: no
   silicon: yes
-  
+
 7:
   title: "A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators"
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643471
   url: https://doi.org/10.1109/ICCAD51958.2021.9643471
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
   pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: yes
-  
+
 8:
   title: "A Full-Stack Search Technique for Domain Optimized Deep Learning Accelerators"
   year: 2021
   doi: https://doi.org/10.1145/3503222.3507767
   url: https://doi.org/10.1145/3503222.3507767
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
   pubshort:
   ignore: no
   silicon: yes
-  
+
 9:
   title: "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining"
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530585
   url: https://doi.org/10.1145/3489517.3530585
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubtype: article
   pubshort: DAC
   ignore: no
   silicon: yes
-  
+
 10:
   title: "A Lite Romanian BERT: ALR-BERT"
   year: 2022
   doi: https://doi.org/10.3390/computers11040057
   url: https://doi.org/10.3390/computers11040057
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: Computers
   pubtype: article
   pubshort: null
   ignore: check
   silicon: no
-  
+
 11:
   title: "A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications"
   year: 2020
   doi: https://doi.org/10.1109/ICFPT51103.2020.00014
   url: https://doi.org/10.1109/ICFPT51103.2020.00014
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Field-Programmable Technology (ICFPT)
   pubtype: article
   pubshort: ICFPT
   ignore: no
   silicon: yes
-  
+
 12:
   title: "A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes"
   year: 2021
   doi: https://doi.org/10.1109/COINS51742.2021.9524173
   url: https://doi.org/10.1109/COINS51742.2021.9524173
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
   pubtype: article
   pubshort: COINS
   ignore: no
   silicon: yes
-  
+
 13:
   title: "A Multi-Neural Network Acceleration Architecture"
   year: 2020
   doi: https://doi.org/10.1109/ISCA45697.2020.00081
   url: https://doi.org/10.1109/ISCA45697.2020.00081
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: Annual International Symposium on Computer Architecture (ISCA)
   pubtype: article
   pubshort: ISCA
   ignore: check
   silicon: yes
-  
+
 14:
   title: "A Power Efficient Neural Network Implementation on Heterogeneous FPGA and GPU Devices"
   year: 2019
   doi: https://doi.org/10.1109/IRI.2019.00040
   url: https://doi.org/10.1109/IRI.2019.00040
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Information Reuse and Integration for Data Science (IRI)
   pubtype: article
   pubshort: IRA
   ignore: check
   silicon: yes
-  
+
 15:
   title: "A Primer in BERTology: What We Know About How BERT Works"
   year: 2020
   doi: https://doi.org/10.1162/tacl_a_00349
   url: https://doi.org/10.1162/tacl_a_00349
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MIt%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 16:
   title: "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning"
   year: 2021
   doi: https://doi.org/10.1109/MNET.011.2000530
   url: https://doi.org/10.1109/MNET.011.2000530
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Network
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 17:
   title: "A Reconfigurable DNN Training Accelerator on FPGA"
   year: 2020
   doi: https://doi.org/10.1109/SiPS50750.2020.9195234
   url: https://doi.org/10.1109/SiPS50750.2020.9195234
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Workshop on Signal Processing Systems (SiPS)
   pubtype: article
   pubshort: SiPS
   ignore: check
   silicon: check
-  
+
 18:
   title: "A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication"
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937531
   url: https://doi.org/10.1109/ISCAS48785.2022.9937531
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubtype: article
   pubshort: ISCAS
   ignore: no
   silicon: yes
-  
+
 19:
   title: "A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation"
   year: 2022
   doi: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
   url: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Global Communications Conference
   pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
-  
+
 20:
   title: "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning"
   year: 2019
   doi: https://doi.org/10.48550/arXiv.1906.06253
   url: https://doi.org/10.48550/arXiv.1906.06253
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 21:
   title: "A Study on Token Pruning for ColBERT"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2112.06540
   url: https://doi.org/10.48550/arXiv.2112.06540
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 22:
   title: "A White Paper on Neural Network Quantization"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2106.08295
   url: https://doi.org/10.48550/arXiv.2106.08295
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 23:
   title: "A^3: Accelerating Attention Mechanisms in Neural Networks with Approximation"
   year: 2020
   doi: https://doi.org/10.1109/HPCA47549.2020.00035
   url: https://doi.org/10.1109/HPCA47549.2020.00035
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubtype: article
   pubshort: HPCA
   ignore: no
   silicon: yes
-  
+
 24:
   title: "Emerging Neural Workloads and Their Impact on Hardware"
   year: 2020
   doi: https://doi.org/10.23919/DATE48585.2020.9116435
   url: https://doi.org/10.23919/DATE48585.2020.9116435
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubtype: article
   pubshort: DATE
   ignore: check
   silicon: check
-  
+
 25:
   title: "Accelerated Device Placement Optimization with Contrastive Learning"
   year: 2021
   doi: https://doi.org/10.1145/3472456.3472523
   url: https://doi.org/10.1145/3472456.3472523
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Parallel Processing
   pubtype: article
   pubshort: ICCP
   ignore: no
   silicon: yes
-  
+
 26:
   title: "Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array"
   year: 2022
   doi: https://doi.org/10.1145/3549937
   url: https://doi.org/10.1145/3549937
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM Transactions on Embedded Computing Systems
   pubtype: article
   pubshort: TECS
   ignore: no
   silicon: yes
-  
+
 27:
   title: "Accelerating attention through gradient-based learned runtime pruning"
   year: 2022
   doi: https://doi.org/10.1145/3470496.3527423
   url: https://doi.org/10.1145/3470496.3527423
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Symposium on Computer Architecture
   pubtype: article
   pubshort: ISCA
   ignore: no
   silicon: yes
-  
+
 28:
   title: "Accelerating bandwidth-bound deep learning inference with main-memory accelerators"
   year: 2021
   doi: https://doi.org/10.1145/3458817.3476146
   url: https://doi.org/10.1145/3458817.3476146
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
   pubtype: article
   pubshort: SC
   ignore: no
   silicon: yes
-  
+
 29:
   title: "Accelerating Emerging Neural Workloads"
   year: 2021
   doi: https://doi.org/10.25394/pgs.17139038.v1
   url: https://doi.org/10.25394/pgs.17139038.v1
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Purdue%20University
   pub: Open Access Theses and Dissertations
   pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
-  
+
 30:
   title: "Accelerating event detection with DGCNN and FPGAS"
   year: 2020
   doi: https://doi.org/10.3390/electronics9101666
   url: https://doi.org/10.3390/electronics9101666
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: Electronics
   pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
-  
+
 31:
   title: "Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization"
   year: 2021
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643586
   url: https://doi.org/10.1109/ICCAD51958.2021.9643586
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: International Conference On Computer Aided Design (ICCAD)
   pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: yes
-  
+
 32:
   title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
   year: 2022
   doi: https://doi.org/10.1109/ISVLSI54635.2022.00092
   url: https://doi.org/10.1109/ISVLSI54635.2022.00092
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
   pubtype: article
   pubshort: ISVLSI
   ignore: no
   silicon: yes
-  
+
 33:
   title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
   year: 2022
   doi: https://doi.org/10.1109/IISWC55918.2022.00018
   url: https://doi.org/10.1109/IISWC55918.2022.00018
   pdf: http://scale.snu.ac.kr/papers/2022-11-Conference-IISWC-Softmax-recomposition.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
   pubtype: article
@@ -433,6 +533,9 @@
   doi: https://doi.org/10.1109/ISQED51717.2021.9424344
   url: https://doi.org/10.1109/ISQED51717.2021.9424344
   pdf: https://wangshusen.github.io/papers/ISQED2021.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubtype: article
@@ -446,240 +549,297 @@
   doi: https://doi.org/10.1145/3453688.3461739
   url: https://doi.org/10.1145/3453688.3461739
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
   pubtype: article
   pubshort: GLSVLSI
   ignore: no
   silicon: yes
-  
+
 36:
   title: "Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling"
   year: 2022
   doi: https://doi.org/10.1109/ACCESS.2022.3203051
   url: https://doi.org/10.1109/ACCESS.2022.3203051
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9870805
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Access
   pubtype: article
   pubshort: IEEE%20Access
   ignore: no
   silicon: yes
-  
+
 40:
   title: "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design"
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00050
   url: https://doi.org/10.1109/MICRO56248.2022.00050
   pdf: https://arxiv.org/pdf/2209.09570.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
-  
+
 41:
   title: "Adapting by pruning: A case study on BERT"
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2105.03343
   url: https://doi.org/10.48550/arXiv.2105.03343
   pdf: https://arxiv.org/pdf/2105.03343.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
   pubshort: null
   ignore: check
   silicon: check
-  
+
 42:
   title: "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions"
   year: 2021
   doi: https://doi.org/10.1145/3469116.3470012
   url: https://doi.org/10.1145/3469116.3470012
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Workshop on Embedded and Mobile Deep Learning
   pubtype: article
   pubshort: EMDL
   ignore: no
   silicon: check
-  
+
 43:
   title: "Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA"
   year: 2021
   doi: https://doi.org/10.1109/TIP.2021.3076556
   url: https://doi.org/10.1109/TIP.2021.3076556
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Image Processing
   pubtype: article
   pubshort: TIP
   ignore: no
   silicon: check
-  
+
 44:
   title: "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices"
   year: 2021
   doi: https://doi.org/10.1145/3477002
   url: https://doi.org/10.1145/3477002
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Transactions on Embedded Computing System
   pubtype: article
   pubshort: TECS
   ignore: no
   silicon: check
-  
+
 45:
   title: "Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs"
   year: 2018
   doi: https://doi.org/10.1145/3240765.3240775
   url: https://doi.org/10.1145/3240765.3240775
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: International Conference on Computer-Aided Design (ICCAD)
   pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: check
-  
+
 46:
   title: "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models"
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.03858
   url: https://doi.org/10.48550/arXiv.2210.03858
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
   pubshort: null
   ignore: no
   silicon: check
-  
+
 47:
   title: "Alternative non-BERT model choices for the textual classification in low-resource languages and environments"
   year: 2022
   doi: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
   url: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACL
   pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
   pubtype: article
   pubshort: null
   ignore: no
   silicon: check
-  
+
 48:
   title: "An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers"
   year: 2022
   doi: https://doi.org/10.1109/TVLSI.2022.3197282
   url: https://doi.org/10.1109/TVLSI.2022.3197282
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
   pubtype: article
   pubshort: TCAD
   ignore: no
   silicon: yes
-  
+
 49:
   title: "An Automatic and Efficient BERT Pruning for Edge AI Systems"
   year: 2022
   doi: https://doi.org/10.1109/ISQED54688.2022.9806197
   url: https://doi.org/10.1109/ISQED54688.2022.9806197
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubtype: article
   pubshort: ISQED
   ignore: no
   silicon: check
-  
+
 50:
   title: "An Efficient Hardware Accelerator for Sparse Transformer Neural Networks"
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937659
   url: https://doi.org/10.1109/ISCAS48785.2022.9937659
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubtype: article
   pubshort: ISCAS
   ignore: no
   silicon: yes
-  
+
 51:
   title: "An Efficient Transformer Inference Engine on DSP"
   year: 2023
   doi: https://doi.org/10.1007/978--3--031--22677--9_29
   url: https://doi.org/10.1007/978-3-031-22677-9_29
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Algorithms and Architectures for Parallel Processing
   pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
-  
+
 52:
   title: "An Empirical Analysis of BERT Embedding for Automated Essay Scoring"
   year: 2020
   doi: https://doi.org/10.14569/ijacsa.2020.0111027
   url: https://doi.org/10.14569/ijacsa.2020.0111027
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: TheSAI
   pub: International Journal of Advanced Computer Science and Applications
   pubtype: article
   pubshort: IJACSA
   ignore: no
   silicon: yes
-  
+
 53:
   title: "An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention"
   year: 2022
   doi: https://doi.org/10.1109/JSSC.2022.3213521
   url: https://doi.org/10.1109/JSSC.2022.3213521
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: Journal of Solid-State Circuits
   pubtype: article
   pubshort: JSSC
   ignore: no
   silicon: yes
-  
+
 54:
   title: "An Evaluation of Transfer Learning for Classifying Sales Engagement Emails at Large Scale"
   year: 2019
   doi: https://doi.org/10.1109/CCGRID.2019.00069
   url: https://doi.org/10.1109/CCGRID.2019.00069
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
   pubtype: article
   pubshort: CCGRID
   ignore: no
   silicon: yes
-  
+
 55:
   title: "An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications"
   year: 2022
   doi: https://doi.org/10.1109/TCSII.2022.3196055
   url: https://doi.org/10.1109/TCSII.2022.3196055
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: 'Transactions on Circuits and Systems II: Express Briefs'
   pubtype: article
   pubshort: TCSII
   ignore: no
   silicon: yes
-  
+
 56:
   title: "An investigation on different underlying quantization schemes for pre-trained language models"
   year: 2020
   doi: https://doi.org/10.1007/978--3--030--60450--9_29
   url: https://doi.org/10.1007/978-3-030-60450-9_29
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Natural Language Processing and Chinese Computing
   pubtype: article
@@ -692,20 +852,26 @@
   year: 2022
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937292
   url: https://doi.org/10.1109/ISCAS48785.2022.9937292
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
   pubtype: article
   pubshort: ISCAS
   ignore: no
   silicon: yes
-  
+
 58:
   title: "Answer Fast: Accelerating BERT on the Tensor Streaming Processor"
   year: 2022
   doi: https://doi.org/10.1109/ASAP54787.2022.00022
   url: https://doi.org/10.1109/ASAP54787.2022.00022
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubtype: article
@@ -718,33 +884,42 @@
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00095
   url: https://doi.org/10.1109/MICRO56248.2022.00095
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
-  
+
 60:
   title: "APT: The master-copy-free training method for quantised neural network on edge devices"
   year: 2022
   doi: https://doi.org/10.1016/j.jpdc.2022.04.005
   url: https://doi.org/10.1016/j.jpdc.2022.04.005
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
   pubtype: article
   pubshort: JPDC
   ignore: no
   silicon: yes
-  
+
 61:
   title: "Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond"
   year: 2021
   doi: https://doi.org/10.1109/HCS52781.2021.9567191
   url: https://doi.org/10.1109/HCS52781.2021.9567191
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Hot Chips 33 Symposium (HCS)
   pubtype: article
@@ -757,7 +932,10 @@
   year: 2020
   doi: https://doi.org/10.1109/ICCD50377.2020.00047
   url: https://doi.org/10.1109/ICCD50377.2020.00047
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Computer Design (ICCD)
   pubtype: article
@@ -770,11 +948,14 @@
   year: 2021
   doi: https://doi.org/10.1371/journal.pone.0253241
   url: https://doi.org/10.1371/journal.pone.0253241
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: PlosOne
   pub: Plos one
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -783,11 +964,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2208.05163
   url: https://doi.org/10.48550/arXiv.2208.05163
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -796,11 +980,14 @@
   year: 2021
   doi: https://doi.org/10.24963/ijcai.2021/472
   url: https://doi.org/10.24963/ijcai.2021/472
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -809,7 +996,10 @@
   year: 2022
   doi: https://doi.org/10.1109/CSCloud--EdgeCom54986.2022.00018
   url: https://doi.org/10.1109/CSCloud-EdgeCom54986.2022.00018
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Edge Computing and Scalable Cloud (EdgeCom)
   pubtype: article
@@ -822,11 +1012,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.15976
   url: https://doi.org/10.48550/arXiv.2210.15976
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -835,11 +1028,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2110.15802
   url: https://doi.org/10.48550/arXiv.2110.15802
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -848,11 +1044,14 @@
   year: 2021
   doi: https://doi.org/10.1109/R10--HTC53172.2021.9641632
   url: https://doi.org/10.1109/R10-HTC53172.2021.9641632
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -861,11 +1060,14 @@
   year: 2022
   doi: https://urn.fi/URN:NBN:fi--fe2022121270782
   url: https://urn.fi/URN:NBN:fi-fe2022121270782
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: LUT%20University
   pub: School of Engineering Science, Tuotantotalous
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -874,11 +1076,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2211.05610
   url: https://doi.org/10.48550/arXiv.2211.05610
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -887,11 +1092,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2103.13799
   url: https://doi.org/10.48550/arXiv.2103.13799
-  pdf: no 
-  publisher: arXiv 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -900,7 +1108,10 @@
   year: 2022
   doi: https://doi.org/10.1109/SiPS55645.2022.9919203
   url: https://doi.org/10.1109/SiPS55645.2022.9919203
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub:  IEEE Workshop on Signal Processing Systems (SiPS)
   pubtype: article
@@ -913,11 +1124,14 @@
   year: 2021
   doi: http://dx.doi.org/10.18653/v1/2021.--eacl--main.8
   url: http://dx.doi.org/10.18653/v1/2021.eacl-main.8
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACL
   pub: Association%20for%20Computational%20Linguistics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -926,11 +1140,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2109.03228
   url: https://doi.org/10.48550/arXiv.2109.03228
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -939,11 +1156,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.06390
   url: https://doi.org/10.48550/arXiv.2203.06390
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -952,11 +1172,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2209.12127
   url: https://doi.org/10.48550/arXiv.2209.12127
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -965,7 +1188,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ASAP52443.2021.00021
   url: https://doi.org/10.1109/ASAP52443.2021.00021
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubtype: article
@@ -978,11 +1204,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2012.15701
   url: https://doi.org/10.48550/arXiv.2012.15701
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -991,7 +1220,10 @@
   year: 2021
   doi: https://doi.org/10.1007/978--3--030--68763--2_48
   url: https://doi.org/10.1007/978-3-030-68763-2_48
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Pattern Recognition
   pubtype: article
@@ -1004,11 +1236,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2205.13016
   url: https://doi.org/10.48550/arXiv.2205.13016
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1017,11 +1252,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2109.04838
   url: https://doi.org/10.48550/arXiv.2109.04838
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1030,11 +1268,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2208.08124
   url: https://doi.org/10.48550/arXiv.2208.08124
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Distributed, Parallel, and Cluster Computing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1043,7 +1284,10 @@
   year: 2020
   doi: https://doi.org/10.1145/3373376.3378505
   url: https://doi.org/10.1145/3373376.3378505
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Architectural Support for Programming Languages and Operating Systems
   pubtype: article
@@ -1056,11 +1300,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1069,11 +1316,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1082,11 +1332,14 @@
   year: 2023
   doi: https://doi.org/10.48550/arXiv.2301.02359
   url: https://doi.org/10.48550/arXiv.2301.02359
-  pdf: no 
-  publisher: arXiv 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: arXiv
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1095,7 +1348,10 @@
   year: 2020
   doi: https://doi.org/10.1145/3397271.3401075
   url: https://doi.org/10.1145/3397271.3401075
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International ACM SIGIR Conference on Research and Development in Information Retrieval
   pubtype: article
@@ -1108,11 +1364,14 @@
   year: 2020
   doi: https://doi.org/10.1007/978--3--030--67537--0_34
   url: https://doi.org/10.1007/978-3-030-67537-0_34
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: "International Conference on Collaborative Computing: Networking, Applications and Worksharing"
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1121,11 +1380,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.15328
   url: https://doi.org/10.48550/arXiv.2203.15328
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1134,11 +1396,14 @@
   year: 2020
   doi: https://doi.org/10.3390/app10238631
   url: https://doi.org/10.3390/app10238631
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: "Natural Language Processing: Emerging Neural Approaches and Applications"
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1147,11 +1412,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2002.08307
   url: https://doi.org/10.48550/arXiv.2002.08307
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1160,11 +1428,14 @@
   year: 2021
   doi: https://doi.org/10.1162/tacl_a_00413
   url: https://doi.org/10.1162/tacl_a_00413
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MIT%20Press
   pub: Transactions of the Association for Computational Linguistics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1173,11 +1444,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2206.15014
   url: https://doi.org/10.48550/arXiv.2206.15014
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1186,7 +1460,10 @@
   year: 2020
   doi: https://doi.org/10.1145/3340531.3412171
   url: https://doi.org/10.1145/3340531.3412171
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Managemen
   pubtype: article
@@ -1199,11 +1476,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.10705
   url: https://doi.org/10.48550/arXiv.2203.10705
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1212,11 +1492,14 @@
   year: 2022
   doi: https://doi.org/10.3390/electronics11152373
   url: https://doi.org/10.3390/electronics11152373
-  pdf: no 
-  publisher: MDPI 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: MDPI
   pub: Electronics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -1225,25 +1508,30 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.06696
   url: https://doi.org/10.48550/arXiv.2210.06696
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-
 
 107:
   title: "DAP-BERT: Differentiable Architecture Pruning of BERT"
   year: 2021
   doi: https://doi.org/10.1007/978--3--030--92185--9_30
   url: https://doi.org/10.1007/978-3-030-92185-9_30
-  pdf: no 
-  publisher: Springer 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: Springer
   pub: International Conference on Neural Information Processing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1252,7 +1540,10 @@
   year: 2020
   doi: https://doi.org/10.1109/HPCA47549.2020.00011
   url: https://doi.org/10.1109/HPCA47549.2020.00011
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
   pubtype: article
@@ -1265,11 +1556,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2104.08335
   url: https://doi.org/10.48550/arXiv.2104.08335
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1278,11 +1572,14 @@
   year: 2022
   doi: https://doi.org/10.1109/IISWC55918.2022.00033
   url: https://doi.org/10.1109/IISWC55918.2022.00033
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
 
 119:
@@ -1290,7 +1587,10 @@
   year: 2022
   doi: https://doi.org/10.1109/MICRO56248.2022.00051
   url: https://doi.org/10.1109/MICRO56248.2022.00051
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Microarchitecture (MICRO)
   pubtype: article
@@ -1303,11 +1603,14 @@
   year: 2022
   doi: https://doi.org/10.1016/j.sysarc.2022.102520
   url: https://doi.org/10.1016/j.sysarc.2022.102520
-  pdf: no 
-  publisher: Elsevier 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: Elsevier
   pub: Journal of Systems Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1316,7 +1619,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3503222.3507738
   url: https://doi.org/10.1145/3503222.3507738
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
   pubtype: article
@@ -1329,11 +1635,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.11239
   url: https://doi.org/10.48550/arXiv.2203.11239
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1342,9 +1651,12 @@
   year: 2023
   doi: https://doi.org/10.1109/TCAD.2022.3181541
   url: https://doi.org/10.1109/TCAD.2022.3181541
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
+  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
   pubtype: article
   pubshort: TCAD
   ignore: no
@@ -1355,7 +1667,10 @@
   year: 2022
   doi: https://doi.org/10.23919/DATE54114.2022.9774692
   url: https://doi.org/10.23919/DATE54114.2022.9774692
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubtype: article
@@ -1368,11 +1683,14 @@
   year: 2022
   doi: https://doi.org/10.1109/JSTQE.2022.3218019
   url: https://doi.org/10.1109/JSTQE.2022.3218019
-  pdf: no 
-  publisher: IEEE 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
   pub: IEEE Journal of Selected Topics in Quantum Electronics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1381,11 +1699,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2111.09645
   url: https://doi.org/10.48550/arXiv.2111.09645
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1394,7 +1715,10 @@
   year: 2021
   doi: https://doi.org/10.1109/IPDPS49936.2021.00068
   url: https://doi.org/10.1109/IPDPS49936.2021.00068
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Parallel and Distributed Processing Symposium (IPDPS)
   pubtype: article
@@ -1407,11 +1731,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2101.00063
   url: https://doi.org/10.48550/arXiv.2101.00063
-  pdf: no 
-  publisher: arXiv 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -1420,11 +1747,14 @@
   year: 2021
   doi: http://dx.doi.org/10.18653/v1/2021.findings--acl.425
   url: http://dx.doi.org/10.18653/v1/2021.findings-acl.425
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACL
   pub: ACL Findings
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1433,7 +1763,10 @@
   year: 2021
   doi: https://doi.org/10.1145/3466752.3480095
   url: https://doi.org/10.1145/3466752.3480095
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture
   pubtype: article
@@ -1446,11 +1779,14 @@
   year: 2022
   doi: https://doi.org/10.3390/electronics11213550
   url: https://doi.org/10.3390/electronics11213550
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: Electronics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1459,11 +1795,14 @@
   year: 2020
   doi: https://hdl.handle.net/1721.1/127440
   url: https://hdl.handle.net/1721.1/127440
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MIT
   pub: MIT Master's Thesis
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1472,11 +1811,14 @@
   year: 2022
   doi: https://arxiv.org/abs/2210.17170v1
   url: https://arxiv.org/abs/2210.17170v1
-  pdf: no 
-  publisher: arXiv 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: arXiv
   pub: Computer Science > Information Retrieval
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -1485,11 +1827,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2009.08065
   url: https://doi.org/10.48550/arXiv.2009.08065
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher:  arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1498,11 +1843,14 @@
   year: 2022
   doi: 3e9f91ca96ba3320587da2bbec561a2b/
   url: https://www.proquest.com/openview/3e9f91ca96ba3320587da2bbec561a2b/
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ProQuest
   pub: UC Santa Barbara Ph.D. Dissertation
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1511,7 +1859,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ISCA52012.2021.00060
   url: https://doi.org/10.1109/ISCA52012.2021.00060
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
   pubtype: article
@@ -1524,11 +1875,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2210.16621
   url: https://doi.org/10.48550/arXiv.2210.16621
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -1537,11 +1891,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2212.02687
   url: https://doi.org/10.48550/arXiv.2212.02687
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1550,7 +1907,10 @@
   year: 2022
   doi: https://doi.org/10.1109/HPCA53966.2022.00018
   url: https://doi.org/10.1109/HPCA53966.2022.00018
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
   pubtype: article
@@ -1563,7 +1923,10 @@
   year: 2021
   doi: https://doi.org/10.1145/3447818.3460371
   url: https://doi.org/10.1145/3447818.3460371
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Proceedings of the ACM International Conference on Supercomputing
   pubtype: article
@@ -1576,7 +1939,10 @@
   year: 2022
   doi: https://doi.org/10.1109/AICAS54282.2022.9869924
   url: https://doi.org/10.1109/AICAS54282.2022.9869924
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Artificial Intelligence Circuits and Systems (AICAS)
   pubtype: article
@@ -1589,7 +1955,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://doi.org/10.1145/3489517.3530451
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubtype: article
@@ -1602,7 +1971,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://spiral.imperial.ac.uk/bitstream/10044/1/96226/2/dac22hf3_final_bayesatt.pdf
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubtype: article
@@ -1615,11 +1987,14 @@
   year: 2021
   doi: https://doi.org/10.1109/TC.2021.3128266
   url: https://doi.org/10.1109/TC.2021.3128266
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Computers
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: yes
 
@@ -1628,7 +2003,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ISCA52012.2021.00012
   url: https://doi.org/10.1109/ISCA52012.2021.00012
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
   pubtype: article
@@ -1641,11 +2019,14 @@
   year: 2023
   doi: https://doi.org/10.3390/electronics12010209
   url: https://doi.org/10.3390/electronics12010209
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: Electronics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -1654,7 +2035,10 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--030--99736--6_18
   url: https://doi.org/10.1007/978-3-030-99736-6_18
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: European Conference on Information Retrieval (ECIR)
   pubtype: article
@@ -1667,7 +2051,10 @@
   year: 2022
   doi: https://doi.org/10.1109/ICEIC54506.2022.9748444
   url: https://doi.org/10.1109/ICEIC54506.2022.9748444
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Electronics, Information, and Communication (ICEIC)
   pubtype: article
@@ -1680,11 +2067,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2206.01859
   url: https://doi.org/10.48550/arXiv.2206.01859
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: yes
 
@@ -1693,11 +2083,14 @@
   year: 2020
   doi: https://doi.org/10.1007/s11265--020--01555--w
   url: https://doi.org/10.1007/s11265-020-01555-w
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: Journal of Signal Processing Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1706,8 +2099,11 @@
   year: 2022
   doi: https://doi.org/10.1109/ASAP54787.2022.00020
   url: https://doi.org/10.1109/ASAP54787.2022.00020
-  pdf: no 
-  publisher: 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubtype: article
   pubshort: ASAP
@@ -1719,11 +2115,14 @@
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.13382
   url: https://doi.org/10.48550/arXiv.2010.13382
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1732,7 +2131,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3490422.3502364
   url: https://doi.org/10.1145/3490422.3502364
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/SIGDA
   pub: International Symposium on Field-Programmable Gate Arrays
   pubtype: article
@@ -1745,11 +2147,14 @@
   year: 2022
   doi: https://doi.org/10.48550/arXiv.2203.09055
   url: https://doi.org/10.48550/arXiv.2203.09055
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: yes
 
@@ -1758,8 +2163,11 @@
   year: 2021
   doi: https://doi.org/10.1109/CAC53003.2021.9728246
   url: https://doi.org/10.1109/CAC53003.2021.9728246
-  pdf: no 
-  publisher: IEEE 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
   pub: China Automation Congress (CAC)
   pubtype: article
   pubshort: CAS
@@ -1771,7 +2179,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ASAP52443.2021.00046
   url: https://doi.org/10.1109/ASAP52443.2021.00046
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
   pubtype: article
@@ -1784,11 +2195,14 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530618
   url: https://doi.org/10.1145/3489517.3530618
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1797,11 +2211,14 @@
   year: 2022
   doi: https://doi.org/10.3233/JIFS--212273
   url: https://doi.org/10.3233/JIFS-212273
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: "IOS%20Press"
   pub: Journal of Intelligent & Fuzzy Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1810,11 +2227,14 @@
   year: 2022
   doi: https://doi.org/10.1609/aaai.v36i10.21408
   url: https://doi.org/10.1609/aaai.v36i10.21408
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: AAAI
   pub: AAAI Technical Track on Speech and Natural Language Processing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: yes
 
@@ -1823,7 +2243,10 @@
   year: 2020
   doi: https://doi.org/10.1145/3370748.3406567
   url: https://doi.org/10.1145/3370748.3406567
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: ACM/IEEE International Symposium on Low Power Electronics and Design
   pubtype: article
@@ -1836,11 +2259,14 @@
   year: 2022
   doi: https://doi.org/10.1109/TC.2022.3207134
   url: https://doi.org/10.1109/TC.2022.3207134
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Computers
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1849,7 +2275,10 @@
   year: 2021
   doi: https://doi.org/10.1109/DAC18074.2021.9586216
   url: https://doi.org/10.1109/DAC18074.2021.9586216
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: ACM/IEEE Design Automation Conference (DAC)
   pubtype: article
@@ -1862,7 +2291,10 @@
   year: 2021
   doi: https://doi.org/10.1109/MICRO50266.2020.00071
   url: https://doi.org/10.1109/MICRO50266.2020.00071
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubtype: article
@@ -1875,11 +2307,14 @@
   year: 2022
   doi: https://doi.org/10.1016/j.patrec.2022.03.023
   url: https://doi.org/10.1016/j.patrec.2022.03.023
-  pdf: no 
-  publisher: Elsevier 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: Elsevier
   pub: Pattern Recognition Letters
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1888,7 +2323,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3489517.3530439
   url: https://doi.org/10.1145/3489517.3530439
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubtype: article
@@ -1901,11 +2339,14 @@
   year: 2023
   doi: https://doi.org/10.1109/LCA.2022.3233832
   url: https://doi.org/10.1109/LCA.2022.3233832
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Computer Architecture Letters 
+  pub: IEEE Computer Architecture Letters
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1914,8 +2355,11 @@
   year: 2022
   doi: https://doi.org/10.1145/3524059.3532372
   url: https://doi.org/10.1145/3524059.3532372
-  pdf: no 
-  publisher: ACM 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: ACM
   pub: ACM International Conference on Supercomputing (ICS)
   pubtype: article
   pubshort: ICS
@@ -1927,7 +2371,10 @@
   year: 2021
   doi: https://doi.org/10.23919/DATE51398.2021.9474043
   url: https://doi.org/10.23919/DATE51398.2021.9474043
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub:  Design, Automation & Test in Europe Conference & Exhibition (DATE)
   pubtype: article
@@ -1940,11 +2387,14 @@
   year: 2021
   doi: https://doi.org/10.1109/JPROC.2021.3098483
   url: https://doi.org/10.1109/JPROC.2021.3098483
-  pdf: no 
-  publisher: IEEE 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
   pub: Proceedings of the IEEE
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1953,11 +2403,14 @@
   year: 2022
   doi: https://doi.org/10.1109/PACET56979.2022.9976354
   url: https://doi.org/10.1109/PACET56979.2022.9976354
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: Panhellenic Conference on Electronics & Telecommunications (PACET)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -1966,7 +2419,10 @@
   year: 2020
   doi: https://doi.org/10.1109/SOCC49529.2020.9524802
   url: https://doi.org/10.1109/SOCC49529.2020.9524802
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International System-on-Chip Conference (SOCC)
   pubtype: article
@@ -1979,7 +2435,10 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--031--10989--8_55
   url: https://doi.org/10.1007/978-3-031-10989-8_55
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Knowledge Science, Engineering and Management
   pubtype: article
@@ -1992,8 +2451,11 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--031--10989--8_52
   url: https://doi.org/10.1007/978-3-031-10989-8_52
-  pdf: no 
-  publisher: 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
   pub: International Conference on Knowledge Science, Engineering and Management
   pubtype: article
   pubshort: KSEM
@@ -2006,6 +2468,9 @@
   doi: https://doi.org/10.1145/3453688.3461740
   url: https://doi.org/10.1145/3453688.3461740
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Great Lakes Symposium on VLSI
   pubtype: article
@@ -2017,12 +2482,15 @@
   title: "HoloFormer: Deep Compression of Pre-Trained Transforms via Unified Optimization of N: M Sparsity and Integer Quantization"
   year: 2021
   doi:
-  url: 
+  url:
   pdf: https://openreview.net/pdf?id=eAEcdRkcMHh
-  publisher: 
-  pub: 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2031,11 +2499,14 @@
   year: 2021
   doi: https://doi.org/978--3--030--89385--9
   url: https://doi.org/978-3-030-89385-9
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: Engineering Artificially Intelligent Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: no
 
@@ -2044,11 +2515,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2104.07705
   url: https://doi.org/10.48550/arXiv.2104.07705
-  pdf: https://arxiv.org/pdf/2104.07705.pdf 
+  pdf: https://arxiv.org/pdf/2104.07705.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: no
 
@@ -2057,11 +2531,14 @@
   year: 2021
   doi: https://doi.org/10.48550/arXiv.2101.01321
   url: https://proceedings.mlr.press/v139/kim21d.html
-  pdf: http://proceedings.mlr.press/v139/kim21d/kim21d.pdf 
+  pdf: http://proceedings.mlr.press/v139/kim21d/kim21d.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: PMLR
   pub: Proceedings of Machine Learning Research
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2071,10 +2548,13 @@
   doi: https://doi.org/10.1007/978--3--030--50417--5_29
   url: https://doi.org/10.1007/978-3-030-50417-5_29
   pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302855/pdf/978-3-030-50417-5_Chapter_29.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Computational Science
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2083,11 +2563,14 @@
   year: 2022
   doi: https://doi.org/10.1007/s10586--022--03805--x
   url: https://doi.org/10.1007/s10586-022-03805-x
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: Cluster Computing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2097,10 +2580,13 @@
   doi: https://arxiv.org/abs/2006.10518
   url: https://arxiv.org/abs/2006.10518
   pdf: https://arxiv.org/pdf/2006.10518.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2110,7 +2596,10 @@
   doi: https://doi.org/10.1109/DSD53832.2021.00074
   url: https://doi.org/10.1109/DSD53832.2021.00074
   pdf: https://arxiv.org/pdf/2106.16006.pdf
-  publisher: IEEE 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
   pub: Euromicro Conference on Digital System Design (DSD)
   pubtype: article
   pubshort: DSD
@@ -2119,14 +2608,17 @@
 
 219:
   title: "Integer Fine-tuning of Transformer-based Models"
-  year: 2022 
+  year: 2022
   doi: https://doi.org/10.48550/arXiv.2209.09815
   url: https://doi.org/10.48550/arXiv.2209.09815
   pdf: https://arxiv.org/pdf/2209.09815.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: no
 
@@ -2136,10 +2628,13 @@
   doi: https://doi.org/10.48550/arXiv.2004.09602
   url: https://doi.org/10.48550/arXiv.2004.09602
   pdf: https://arxiv.org/pdf/2004.09602.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2149,6 +2644,9 @@
   doi: https://doi.org/10.1145/3458817.3476152
   url: https://doi.org/10.1145/3458817.3476152
   pdf: https://arxiv.org/pdf/2107.01739.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
   pubtype: article
@@ -2162,10 +2660,13 @@
   doi: https://doi.org/10.48550/arXiv.2101.05938
   url: https://doi.org/10.48550/arXiv.2101.05938
   pdf: https://arxiv.org/pdf/2101.05938.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2174,7 +2675,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ISSCC42613.2021.9366056
   url: https://doi.org/10.1109/ISSCC42613.2021.9366056
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
   pubtype: article
@@ -2188,10 +2692,13 @@
   doi: https://doi.org/10.48550/arXiv.2004.04124
   url: https://doi.org/10.48550/arXiv.2004.04124
   pdf: https://arxiv.org/pdf/2004.04124.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2201,6 +2708,9 @@
   doi: https://doi.org/10.1109/HPCA51647.2021.00056
   url: https://doi.org/10.1109/HPCA51647.2021.00056
   pdf: https://taejunham.github.io/data/layerweaver_hpca21.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
   pubtype: article
@@ -2214,6 +2724,9 @@
   doi: https://doi.org/10.1145/3477495.3531835
   url: https://doi.org/10.1145/3477495.3531835
   pdf: https://web.Arxiv.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM SIGIR Conference on Research and Development in Information Retrieval
   pubtype: article
@@ -2227,10 +2740,13 @@
   doi: https://doi.org/10.1609/aaai.v35i15.17561
   url: https://doi.org/10.1609/aaai.v35i15.17561
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/17561/17368
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: AAAI
   pub: AAAI Technical Track on Speech and Natural Language Processing II
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: no
 
@@ -2240,6 +2756,9 @@
   doi: https://doi.org/10.1145/3488560.3498495
   url: https://doi.org/10.1145/3488560.3498495
   pdf: https://dl.acm.org/doi/pdf/10.1145/3488560.3498495
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Web Search and Data Mining
   pubtype: article
@@ -2253,10 +2772,13 @@
   doi: http://dx.doi.org/10.18653/v1/2022.naacl--industry.25
   url: http://dx.doi.org/10.18653/v1/2022.naacl-industry.25
   pdf: https://aclanthology.org/2022.naacl-industry.25.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACL
   pub:  Conference of the North American Chapter of the Association for Computational Linguistics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2266,10 +2788,13 @@
   doi: https://doi.org/10.48550/arXiv.2208.07339
   url: https://doi.org/10.48550/arXiv.2208.07339
   pdf: https://arxiv.org/pdf/2208.07339
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2279,10 +2804,13 @@
   doi: https://doi.org/10.48550/arXiv.2010.05609
   url: https://doi.org/10.48550/arXiv.2010.05609
   pdf: https://arxiv.org/pdf/2010.05609.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2292,6 +2820,9 @@
   doi: https://doi.org/10.1109/MICRO50266.2020.00020
   url: https://doi.org/10.1109/MICRO50266.2020.00020
   pdf: https://www.microarch.org/micro53/papers/738300a088.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   pubtype: article
@@ -2304,11 +2835,14 @@
   year: 2022
   doi: https://doi.org/10.1007/978--3--031--19032--2_12
   url: https://doi.org/10.1007/978-3-031-19032-2_12
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
-  pub: 
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2317,7 +2851,10 @@
   year: 2022
   doi: https://doi.org/10.1109/ISQED54688.2022.9806238
   url: https://doi.org/10.1109/ISQED54688.2022.9806238
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
   pubtype: article
@@ -2327,14 +2864,17 @@
 
 236:
   title: "M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA"
-  year: 2021 
+  year: 2021
   doi: https://doi.org/10.1007/978--3--030--89029--2_22
   url: https://doi.org/10.1007/978-3-030-89029-2_22
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: Computer Graphics International Conference
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2345,6 +2885,9 @@
   doi: https://doi.org/10.1109/ICCAD45719.2019.8942127
   url: https://doi.org/10.1109/ICCAD45719.2019.8942127
   pdf: https://people.eecs.berkeley.edu/~ysshao/assets/papers/magnet2019-iccad.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
   pubtype: article
@@ -2358,10 +2901,13 @@
   doi: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
   url: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
   pdf: https://dl.acm.org/doi/pdf/10.5555/3495724.3496209
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Neural Information Processing Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: check
 
@@ -2371,10 +2917,13 @@
   doi: https://doi.org/10.48550/arXiv.2203.13483
   url: https://doi.org/10.48550/arXiv.2203.13483
   pdf: https://arxiv.org/pdf/2203.13483.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2384,6 +2933,9 @@
   doi: https://doi.org/10.1145/3470496.3527438
   url: https://doi.org/10.1145/3470496.3527438
   pdf: https://arxiv.org/pdf/2203.12758.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on Computer Architecture
   pubtype: article
@@ -2397,6 +2949,9 @@
   doi: https://doi.org/10.48550/arXiv.2005.07683
   url: https://doi.org/10.48550/arXiv.2005.07683
   pdf: https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: NeurIPS
   pub: Advances in Neural Information Processing Systems
   pubtype: article
@@ -2406,10 +2961,13 @@
 
 245:
   title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
-  year: 
-  doi: 
-  url: 
+  year:
+  doi:
+  url:
   pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/CVF
   pub: IEEE/CVF Conference on Computer Vision and Pattern Recognition
   pubtype: article
@@ -2423,6 +2981,9 @@
   doi: https://doi.org/10.1109/ISPASS.2019.00040
   url: https://doi.org/10.1109/ISPASS.2019.00040
   pdf: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/c/332/files/2019/02/mrna_ispass2019.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   pubtype: article
@@ -2436,10 +2997,13 @@
   doi: https://doi.org/10.48550/arXiv.2009.07460
   url: https://doi.org/10.48550/arXiv.2009.07460
   pdf: https://arxiv.org/pdf/2009.07460.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: arXiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: yes
 
@@ -2449,6 +3013,9 @@
   doi: https://doi.org/10.1145/3447548.3467262
   url: https://doi.org/10.1145/3447548.3467262
   pdf: https://arxiv.org/pdf/2105.14444.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub:  ACM SIGKDD Conference on Knowledge Discovery & Data Mining
   pubtype: article
@@ -2462,6 +3029,9 @@
   doi: https://doi.org/10.1145/3503221.3508399
   url: https://doi.org/10.1145/3503221.3508399
   pdf: https://arxiv.org/pdf/2201.07598.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
   pubtype: article
@@ -2475,10 +3045,13 @@
   doi: https://doi.org/10.3390/electronics11040505
   url: https://doi.org/10.3390/electronics11040505
   pdf: https://www.mdpi.com/2079-9292/11/4/505/pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: MDPI
   pub: Electronics
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: yes
   silicon: yes
 
@@ -2488,10 +3061,13 @@
   doi: https://doi.org/10.1002/cpe.7499
   url: https://doi.org/10.1002/cpe.7499
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Wiley
   pub: Concurrency and Computation Practice and Experience
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: check
   silicon: no
 
@@ -2501,10 +3077,13 @@
   doi: https://carrv.github.io/2021/
   url: https://carrv.github.io/2021/
   pdf: https://carrv.github.io/2021/papers/CARRV2021_paper_67_Zhan.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: CARRV
   pub: Computer Architecture Research with RISC-V
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2513,7 +3092,10 @@
   year: 2021
   doi: https://doi.org/10.1109/PACT52795.2021.00013
   url: https://doi.org/10.1109/PACT52795.2021.00013
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Parallel Architectures and Compilation Techniques (PACT)
   pubtype: article
@@ -2526,7 +3108,10 @@
   year: 2021
   doi: https://doi.org/10.1145/3431920.3439477
   url: https://doi.org/10.1145/3431920.3439477
-  pdf: https://arxiv.org/pdf/2104.06535.pdf 
+  pdf: https://arxiv.org/pdf/2104.06535.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/SIGDA
   pub: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
   pubtype: article
@@ -2540,6 +3125,9 @@
   doi: https://doi.org/10.48550/arXiv.2208.11580
   url: https://doi.org/10.48550/arXiv.2208.11580
   pdf: https://arxiv.org/pdf/2208.11580.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: NeurIPS
   pub: Conference on Neural Information Processing Systems
   pubtype: article
@@ -2552,11 +3140,14 @@
   year: 2022
   doi: https://doi.org/10.1007/s11265--022--01814--y
   url: https://doi.org/10.1007/s11265-022-01814-y
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: Journal of Signal Processing Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2566,10 +3157,13 @@
   doi: https://doi.org/10.48550/arXiv.2004.03844
   url: https://doi.org/10.48550/arXiv.2004.03844
   pdf: https://arxiv.org/pdf/2004.03844v1
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -2578,7 +3172,10 @@
   year: 2022
   doi: https://doi.org/10.1109/ICCCS55155.2022.9846198
   url: https://doi.org/10.1109/ICCCS55155.2022.9846198
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Computer and Communication Systems (ICCCS)
   pubtype: article
@@ -2592,6 +3189,9 @@
   doi: https://proceedings.mlr.press/v119/goyal20a.html
   url: https://proceedings.mlr.press/v119/goyal20a.html
   pdf: http://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: PMLR
   pub: Proceedings of Machine Learning Research
   pubtype: article
@@ -2604,7 +3204,10 @@
   year: 2019
   doi: https://doi.org/10.1145/3373509.3373533
   url: https://doi.org/10.1145/3373509.3373533
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Computing and Pattern Recognition
   pubtype: article
@@ -2617,21 +3220,26 @@
   year: 2022
   doi: https://doi.org/10.1007/978--981--19--3923--5_59
   url: https://doi.org/10.1007/978-981-19-3923-5_59
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: "Control, Instrumentation and Mechatronics: Theory and Practice"
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
-
 
 271:
   title: "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection"
   year: 2021
   doi: https://doi.org/10.1145/3459637.3482159
   url: https://doi.org/10.1145/3459637.3482159
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Management
   pubtype: article
@@ -2645,10 +3253,13 @@
   doi: https://arxiv.org/abs/2210.02574
   url: https://arxiv.org/abs/2210.02574
   pdf: https://arxiv.org/pdf/2210.02574.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2658,6 +3269,9 @@
   doi: https://doi.org/10.1145/3503222.3507722
   url: https://doi.org/10.1145/3503222.3507722
   pdf: https://par.nsf.gov/servlets/purl/10394954
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
   pubtype: article
@@ -2671,10 +3285,13 @@
   doi: https://arxiv.org/abs/2010.01791
   url: https://arxiv.org/abs/2010.01791
   pdf: https://arxiv.org/pdf/2010.01791.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2684,10 +3301,13 @@
   doi: https://arxiv.org/abs/2111.12293
   url: https://arxiv.org/abs/2111.12293
   pdf: https://arxiv.org/pdf/2111.12293
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2697,10 +3317,13 @@
   doi: https://doi.org/10.1609/aaai.v34i05.6409
   url: https://doi.org/10.1609/aaai.v34i05.6409
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: AAAI
   pub: "AAAI Technical Track: Natural Language Processing"
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2710,6 +3333,9 @@
   doi: https://doi.org/10.1109/EMC2--NIPS53020.2019.00016
   url: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
   pdf: https://arxiv.org/pdf/1910.06188.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)
   pubtype: article
@@ -2723,10 +3349,13 @@
   doi: https://arxiv.org/abs/2203.05740
   url: https://arxiv.org/abs/2203.05740
   pdf: https://arxiv.org/pdf/2203.05740
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -2736,10 +3365,13 @@
   doi: https://arxiv.org/abs/2210.17114
   url: https://arxiv.org/abs/2210.17114
   pdf: https://arxiv.org/pdf/2210.17114
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -2748,11 +3380,14 @@
   year: 2021
   doi: https://doi.org/10.1109/TASLP.2021.3077119
   url: https://doi.org/10.1109/TASLP.2021.3077119
-  pdf: no 
-  publisher: IEEE 
-  pub: IEEE/ACM Transactions on Audio, Speech, and Language Processing 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
+  pub: IEEE/ACM Transactions on Audio, Speech, and Language Processing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -2762,10 +3397,13 @@
   doi: https://doi.org/10.1109/TNNLS.2022.3190451
   url: https://doi.org/10.1109/TNNLS.2022.3190451
   pdf: https://arxiv.org/pdf/2103.14493.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Neural Networks and Learning Systems 
+  pub: IEEE Transactions on Neural Networks and Learning Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2774,7 +3412,10 @@
   year: 2021
   doi: https://doi.org/10.1145/3453688.3461494
   url: https://doi.org/10.1145/3453688.3461494
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub:  Proceedings on Great Lakes Symposium on VLSI
   pubtype: article
@@ -2788,13 +3429,15 @@
   doi: https://doi.org/10.1109/TC.2022.3213177
   url: https://doi.org/10.1109/TC.2022.3213177
   pdf: https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computers 
+  pub: IEEE Transactions on Computers
   pubtype: article
   pubshort: TC
   ignore: no
   silicon: yes
-
 
 292:
   title: "ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration"
@@ -2802,6 +3445,9 @@
   doi: https://doi.org/10.1145/3400302.3415640
   url: https://doi.org/10.1145/3400302.3415640
   pdf: https://dl.acm.org/doi/pdf/10.1145/3400302.3415640
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Computer-Aided Design
   pubtype: article
@@ -2814,7 +3460,10 @@
   year: 2021
   doi: https://doi.org/10.1109/SMC52423.2021.9658643
   url: https://doi.org/10.1109/SMC52423.2021.9658643
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Conference on Systems, Man, and Cybernetics
   pubtype: article
@@ -2824,17 +3473,19 @@
 
 295:
   title: "RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions"
-  year: 2021 
+  year: 2021
   doi: xx
-  url: 
+  url:
   pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf
-  publisher: 
-  pub: IEEE/CVF International Conference on Computer Vision 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub: IEEE/CVF International Conference on Computer Vision
   pubtype: article
   pubshort: ICCV
   ignore: no
   silicon: yes
-
 
 
 297:
@@ -2843,6 +3494,9 @@
   doi: https://doi.org/10.1109/AICAS54282.2022.9869928
   url: https://doi.org/10.1109/AICAS54282.2022.9869928
   pdf: https://arxiv.org/pdf/2205.03998.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Artificial Intelligence Circuits and Systems
   pubtype: article
@@ -2856,10 +3510,13 @@
   doi: https://arxiv.org/abs/2207.08006
   url: https://arxiv.org/abs/2207.08006
   pdf: https://arxiv.org/pdf/2207.08006
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxive
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2869,6 +3526,9 @@
   doi: https://doi.org/10.1145/3489517.3530504
   url: https://doi.org/10.1145/3489517.3530504
   pdf: https://arxiv.org/pdf/2206.14550.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference
   pubtype: article
@@ -2882,6 +3542,9 @@
   doi: https://doi.org/10.1145/3466752.3480125
   url: https://doi.org/10.1145/3466752.3480125
   pdf: https://dl.acm.org/doi/pdf/10.1145/3466752.3480125
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture
   pubtype: article
@@ -2894,11 +3557,14 @@
   year: 2022
   doi: https://doi.org/10.3233/JIFS--219230
   url: https://doi.org/10.3233/JIFS-219230
-  pdf: no 
-  publisher: 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
   pub: Journal of Intelligent & Fuzzy Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2908,6 +3574,9 @@
   doi: https://doi.org/10.1016/j.jpdc.2022.11.005
   url: https://doi.org/10.1016/j.jpdc.2022.11.005
   pdf: https://www.sciencedirect.com/science/article/pii/S0743731522002301/pdfft?md5=444fdc7e73724f5d9881d162bed2a735&pid=1-s2.0-S0743731522002301-main.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
   pubtype: article
@@ -2921,10 +3590,13 @@
   doi: https://doi.org/10.1371/journal.pone.0265621
   url: https://doi.org/10.1371/journal.pone.0265621
   pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265621&type=printable
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: "PLOSONE"
-  pub: 
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2934,10 +3606,13 @@
   doi: https://doi.org/10.1109/ACCESS.2022.3212367
   url: https://doi.org/10.1109/ACCESS.2022.3212367
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912410
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Access 
+  pub: IEEE Access
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2947,10 +3622,13 @@
   doi: https://doi.org/10.1007/978--3--030--72240--1_21
   url: https://doi.org/10.1007/978-3-030-72240-1_21
   pdf: https://arxiv.org/pdf/2009.07531.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
-  pub: Advances in Information Retrieval 
+  pub: Advances in Information Retrieval
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -2960,10 +3638,13 @@
   doi: https://doi.org/10.1109/LCA.2021.3108505
   url: https://doi.org/10.1109/LCA.2021.3108505
   pdf: https://hparch.gatech.edu/papers/nima_2021_cal.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Computer Architecture Letters
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2973,10 +3654,13 @@
   doi: https://arxiv.org/abs/2211.10438
   url: https://arxiv.org/abs/2211.10438
   pdf: https://arxiv.org/pdf/2211.10438.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language'
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -2986,6 +3670,9 @@
   doi: https://doi.org/10.1109/DAC18074.2021.9586134
   url: https://doi.org/10.1109/DAC18074.2021.9586134
   pdf: https://arxiv.org/pdf/2103.09301.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
   pubtype: article
@@ -2999,10 +3686,13 @@
   doi: http://dx.doi.org/10.1007/978--3--031--10989--8_51
   url: http://dx.doi.org/10.1007/978-3-031-10989-8_51
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Springer
   pub: International Conference on Knowledge Science, Engineering and Management
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3012,6 +3702,9 @@
   doi: https://doi.org/10.1109/MICRO56248.2022.00059
   url: https://doi.org/10.1109/MICRO56248.2022.00059
   pdf: https://arxiv.org/pdf/2209.00606.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture
   pubtype: article
@@ -3025,10 +3718,13 @@
   doi: https://arxiv.org/abs/2205.12452
   url: https://arxiv.org/abs/2205.12452
   pdf: https://arxiv.org/pdf/2205.12452
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3038,6 +3734,9 @@
   doi: https://doi.org/10.23919/DATE.2018.8342010
   url: https://doi.org/10.23919/DATE.2018.8342010
   pdf: https://doi.org/10.23919/DATE.2018.8342010
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher:
   pub: Design, Automation & Test in Europe Conference & Exhibition
   pubtype: article
@@ -3051,6 +3750,9 @@
   doi: https://doi.org/10.1109/HPCA51647.2021.00018
   url: https://doi.org/10.1109/HPCA51647.2021.00018
   pdf: https://arxiv.org/pdf/2012.09852.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture
   pubtype: article
@@ -3064,10 +3766,13 @@
   doi: https://arxiv.org/abs/2210.07171
   url: https://arxiv.org/abs/2210.07171
   pdf: https://arxiv.org/pdf/2210.07171.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3077,10 +3782,13 @@
   doi: https://arxiv.org/abs/2006.11316
   url: https://arxiv.org/abs/2006.11316
   pdf: https://arxiv.org/pdf/2006.11316.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3090,23 +3798,29 @@
   doi: https://doi.org/10.1609/aaai.v35i8.16839
   url: https://doi.org/10.1609/aaai.v35i8.16839
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16839/16646
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: AAAI
   pub: AAAI Technical Track on Machine Learning I
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
 324:
   title: "Structured pruning of a BERT-based question answering model"
-  year: 2019 
+  year: 2019
   doi: https://arxiv.org/abs/1910.06360
   url: https://arxiv.org/abs/1910.06360
   pdf: https://arxiv.org/pdf/1910.06360
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -3116,10 +3830,13 @@
   doi: https://arxiv.org/abs/1910.04732
   url: https://arxiv.org/abs/1910.04732
   pdf: https://arxiv.org/pdf/1910.04732
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -3129,6 +3846,9 @@
   doi: https://doi.org/10.1145/3511808.3557139
   url: https://doi.org/10.1145/3511808.3557139
   pdf: https://arxiv.org/pdf/2209.00625.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Management
   pubtype: article
@@ -3142,10 +3862,13 @@
   doi: https://escholarship.org/uc/item/9r46v693
   url: https://escholarship.org/uc/item/9r46v693
   pdf: https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: UCLA
   pub: Open Access Publications from the University of California
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3154,7 +3877,10 @@
   year: 2021
   doi: https://doi.org/10.1109/ASAP52443.2021.00023
   url: https://doi.org/10.1109/ASAP52443.2021.00023
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors
   pubtype: article
@@ -3168,10 +3894,13 @@
   doi: https://arxiv.org/abs/2302.11812
   url: https://arxiv.org/abs/2302.11812
   pdf: https://arxiv.org/pdf/2302.11812
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3181,10 +3910,13 @@
   doi: https://arxiv.org/abs/2009.12812
   url: https://arxiv.org/abs/2009.12812
   pdf: https://arxiv.org/pdf/2009.12812
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3194,10 +3926,13 @@
   doi: https://arxiv.org/abs/2203.07259
   url: https://arxiv.org/abs/2203.07259
   pdf: https://arxiv.org/pdf/2203.07259.pdf
-  publisher: Arxiv 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3207,6 +3942,9 @@
   doi: https://doi.org/10.1145/3566097.3567867
   url: https://doi.org/10.1145/3566097.3567867
   pdf: https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Asia and South Pacific Design Automation Conference
   pubtype: article
@@ -3220,10 +3958,13 @@
   doi: https://arxiv.org/abs/1909.10351
   url: https://arxiv.org/abs/1909.10351
   pdf: https://arxiv.org/pdf/1909.10351
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3233,10 +3974,13 @@
   doi: link
   url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: NeurIPS
   pub: Advances in Neural Information Processing Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -3246,10 +3990,13 @@
   doi: https://arxiv.org/abs/2105.11618
   url: https://arxiv.org/abs/2105.11618
   pdf: https://arxiv.org/pdf/2105.11618.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3259,13 +4006,15 @@
   doi: https://arxiv.org/abs/2205.12694
   url: https://arxiv.org/abs/2205.12694
   pdf: https://arxiv.org/pdf/2205.12694.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-
 
 345:
   title: "Training Large Neural Networks with Constant Memory using a New Execution Algorithm"
@@ -3273,10 +4022,13 @@
   doi: https://arxiv.org/abs/2002.05645
   url: https://arxiv.org/abs/2002.05645
   pdf: https://arxiv.org/pdf/2002.05645.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3286,10 +4038,13 @@
   doi: https://arxiv.org/abs/2004.07320
   url: https://arxiv.org/abs/2004.07320
   pdf: https://arxiv.org/pdf/2004.07320.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3299,6 +4054,9 @@
   doi: https://doi.org/10.1109/JSSC.2022.3213542
   url: https://doi.org/10.1109/JSSC.2022.3213542
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Journal of Solid-State Circuits
   pubtype: article
@@ -3312,10 +4070,13 @@
   doi: https://arxiv.org/abs/2110.11299
   url: https://arxiv.org/abs/2110.11299
   pdf: https://arxiv.org/pdf/2110.11299
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3325,10 +4086,13 @@
   doi: https://doi.org/10.1109/HPCA53966.2022.00082
   url: https://doi.org/10.1109/HPCA53966.2022.00082
   pdf: https://par.nsf.gov/servlets/purl/10345536
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3338,10 +4102,13 @@
   doi: https://doi.org/10.1109/BigData50022.2020.9378071
   url: https://doi.org/10.1109/BigData50022.2020.9378071
   pdf: https://ashish-gupta03.github.io/files/Ultron.pdf
-  publisher: IEEE 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher: IEEE
   pub: International Conference on Big Data (Big Data)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3351,10 +4118,13 @@
   doi: https://arxiv.org/abs/2109.12948
   url: https://arxiv.org/abs/2109.12948
   pdf: https://arxiv.org/pdf/2109.12948.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3364,10 +4134,13 @@
   doi: https://arxiv.org/abs/2201.06618
   url: https://arxiv.org/abs/2201.06618
   pdf: https://arxiv.org/pdf/2201.06618.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3376,7 +4149,10 @@
   year: 2022
   doi: https://doi.org/10.1145/3492321.3519584
   url: https://doi.org/10.1145/3492321.3519584
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: Proceedings of the Seventeenth European Conference on Computer Systems
   pubtype: article
@@ -3389,7 +4165,10 @@
   year: 2022
   doi: https://doi.org/10.1109/TCAD.2022.3197489
   url: https://doi.org/10.1109/TCAD.2022.3197489
-  pdf: 
+  pdf:
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and System[s
   pubtype: article
@@ -3397,17 +4176,19 @@
   ignore: no
   silicon: yes
 
-
 360:
   title: "Vis-TOP: Visual Transformer Overlay Processor"
   year: 2021
   doi: https://arxiv.org/abs/2110.10957
   url: https://arxiv.org/abs/2110.10957
   pdf: https://arxiv.org/pdf/2110.10957.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3417,63 +4198,78 @@
   doi: https://doi.org/10.1109/HPCA56546.2023.10071081
   url: https://doi.org/10.1109/HPCA56546.2023.10071081
   pdf: https://arxiv.org/pdf/2211.05109.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
 367:
   title: "Work-in-Progress: Utilizing latency and accuracy predictors for efficient hardware-aware NAS"
-  year: 
+  year:
   doi: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
   url: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
 370:
   title: "XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
   year: 2022
-  doi: 
-  url: 
+  doi:
+  url:
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/1579d5d8edacd85ac1a86aea28bdf32d-Paper-Conference.pdf
-  publisher: 
-  pub: 
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
 371:
   title: "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers"
   year: 2022
-  doi: 
-  url: 
-  pdf: no 
-  publisher: 
-  pub: 
+  doi:
+  url:
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-  
+
 
 372:
   title: "Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder"
   year: 2022
   doi: https://doi.org/10.1080/08839514.2022.2031817
   url: https://doi.org/10.1080/08839514.2022.2031817
-  pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817 
-  publisher: 
-  pub: 
+  pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: no
 
@@ -3482,23 +4278,28 @@
   year: 2022
   doi: https://doi.org/10.1109/ICASSP43922.2022.9747490
   url: https://doi.org/10.1109/ICASSP43922.2022.9747490
-  pdf: https://arxiv.org/pdf/2110.01900.pdf 
+  pdf: https://arxiv.org/pdf/2110.01900.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing
   pubtype: article
   pubshort: ICASSP
   ignore: yes
   silicon: no
-
 
 108:
   title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
   year: 2022
   doi: https://doi.org/10.1109/ISVLSI54635.2022.00082
   url: https://doi.org/10.1109/ISVLSI54635.2022.00082
-  pdf: https://scholar.archive.org/work/hd53tmr62rhn3mxplkjzhrnvw4/access/wayback/https://publikationen.bibliothek.kit.edu/1000151937/149523013 
+  pdf: https://scholar.archive.org/work/hd53tmr62rhn3mxplkjzhrnvw4/access/wayback/https://publikationen.bibliothek.kit.edu/1000151937/149523013
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: Computer Society Annual Symposium on VLSI 
+  pub: Computer Society Annual Symposium on VLSI
   pubtype: article
   pubshort: ISVLSI
   ignore: yes
@@ -3509,9 +4310,12 @@
   year: 2021
   doi: https://doi.org/10.1109/ICASSP39728.2021.9414572
   url: https://doi.org/10.1109/ICASSP39728.2021.9414572
-  pdf: https://arxiv.org/pdf/2107.00175.pdf 
+  pdf: https://arxiv.org/pdf/2107.00175.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pub: IEEE International Conference on Acoustics, Speech and Signal Processing
   pubtype: article
   pubshort: ICASSP
   ignore: no
@@ -3522,11 +4326,14 @@
   year: 2021
   doi: http://dx.doi.org/10.18653/v1/2021.acl--long.509
   url: http://dx.doi.org/10.18653/v1/2021.acl-long.509
-  pdf: https://aclanthology.org/2021.acl-long.509.pdf 
+  pdf: https://aclanthology.org/2021.acl-long.509.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACL
   pub: International Joint Conference on Natural Language Processing
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3536,22 +4343,27 @@
   doi: https://www.aimspress.com/article/doi/10.3934/era.2022192
   url: https://www.aimspress.com/article/doi/10.3934/era.2022192
   pdf: https://www.aimspress.com/aimspress-data/era/2022/10/PDF/era-30-10-192.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: AIMPress
   pub: Electronic Research Archive
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-
 
 207:
   title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
   year: 2022
   doi: https://doi.org/10.1007/978--3--030--87208--8_5
   url: https://https://eprints.gla.ac.uk/280378/
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: HiPEAC
-  pub: International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems 
+  pub: International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems
   pubtype: article
   pubshort: ACACES
   ignore: no
@@ -3563,36 +4375,45 @@
   doi: https://arxiv.org/abs/2009.08034
   url: https://arxiv.org/abs/2009.08034
   pdf: https://arxiv.org/pdf/2009.08034.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arixv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
-300: 
+300:
   title: "ViTA: A Vision Transformer Inference Accelerator for Edge Applications"
   year: 2023
   doi: https://doi.org/10.48550/arXiv.2302.09108
   url: https://doi.org/10.48550/arXiv.2302.09108
   pdf: https://arxiv.org/pdf/2302.09108.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
-301: 
+301:
   title: "Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning"
   year: 2023
   doi: https://doi.org/10.1016/j.suscom.2023.100857
   url: https://doi.org/10.1016/j.suscom.2023.100857
   pdf: https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Elsevier
   pub: "Sustainable Computing: Informatics and Systems"
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3602,10 +4423,13 @@
   doi: https://doi.org/10.48550/arXiv.2303.12914
   url: https://doi.org/10.48550/arXiv.2303.12914
   pdf: https://arxiv.org/pdf/2303.12914.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3615,24 +4439,29 @@
   doi: https://doi.org/10.48550/arXiv.2303.14882
   url: https://doi.org/10.48550/arXiv.2303.14882
   pdf: https://arxiv.org/pdf/2303.14882
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Machine Learning
   pubtype: article
-  pubshort: 
-  ignore: no 
+  pubshort:
+  ignore: no
   silicon: yes
-
 
 275:
   title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
   year: 2021
   doi: https://doi.org/10.1109/TPAMI.2021.3095381
   url: https://doi.org/10.1109/TPAMI.2021.3095381
-  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085 
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence 
+  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3641,11 +4470,14 @@
   year: 2021
   doi: https://arxiv.org/abs/2111.05754
   url: https://arxiv.org/abs/2111.05754
-  pdf: https://arxiv.org/pdf/2111.05754.pdf 
+  pdf: https://arxiv.org/pdf/2111.05754.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3654,11 +4486,14 @@
   year: 2021
   doi:  https://doi.org/10.1609/aaai.v35i10.17056
   url:  https://doi.org/10.1609/aaai.v35i10.17056
-  pdf: https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863 
-  publisher: 
-  pub: 
+  pdf: https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
+  publisher:
+  pub:
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: check
 
@@ -3667,24 +4502,30 @@
   year: 2023
   doi: https://doi.org/10.1109/JSSC.2023.3236566
   url: https://doi.org/10.1109/JSSC.2023.3236566
-  pdf: https://arxiv.org/pdf/2301.03537.pdf 
+  pdf: https://arxiv.org/pdf/2301.03537.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub:  IEEE Journal of Solid-State Circuits
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: ignore
   silicon: yes
-  
+
 341:
   title: "TopicBERT for energy efficient document classification"
   year: 2020
   doi: https://doi.org/10.48550/arXiv.2010.16407
   url: https://doi.org/10.48550/arXiv.2010.16407
-  pdf: https://arxiv.org/pdf/2010.16407.pdf 
+  pdf: https://arxiv.org/pdf/2010.16407.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Computation and Language
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: wip
 
@@ -3694,39 +4535,47 @@
   doi: https://proceedings.mlsys.org/paper_files/paper/2021
   url: https://proceedings.mlsys.org/paper_files/paper/2021
   pdf: https://proceedings.mlsys.org/paper_files/paper/2021/file/48a6431f04545e11919887748ec5cb52-Paper.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher:  MLSys
   pub: Proceedings of Machine Learning and Systems
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
 368:
   title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
-  year: 
+  year:
   doi: https://doi.org/10.1145/3508352.3549343
   url: https://doi.org/10.1145/3508352.3549343
-  pdf: no 
+  pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: ACM
   pub: International Conference on Computer-Aided Design
   pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: check
- 
+
 369:
   title: "Architecting High Performance Silicon Systems for Accurate and Efficient On-Chip Deep Learning"
   year: 2023
   doi: https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806
   url: https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806
   pdf: https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: HarwardLibrary
   pub: Harvard University Graduate School of Arts and Sciences
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-
 
 401:
   title: "Hardware-efficient Softmax Approximation for Self-Attention Networks"
@@ -3734,6 +4583,9 @@
   doi: https://doi.org/10.1109/ISCAS46773.2023.10181465
   url: https://doi.org/10.1109/ISCAS46773.2023.10181465
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE International Symposium on Circuits and Systems (ISCAS)
   pubtype: article
@@ -3741,17 +4593,19 @@
   ignore: no
   silicon: yes
 
-
 402:
   title: "Fast Prototyping Next-Generation Accelerators for New ML Models using MASE: ML Accelerator System Exploration"
   year: 2023
   doi: https://arxiv.org/abs/2307.15517
   url: https://arxiv.org/abs/2307.15517
   pdf: https://arxiv.org/pdf/2307.15517.pdf
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Arxiv
   pub: Computer Science > Hardware Architecture
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3761,10 +4615,13 @@
   doi: "ISBN:9781119853893"
   url: https://books.google.com/books?id=rlPNEAAAQBAJ
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: Wiley
   pub: IEEE Press Series on Electromagnetic Wave Theory
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3774,10 +4631,13 @@
   doi: https://doi.org/10.1109/IJCNN54540.2023.10191067
   url: https://doi.org/10.1109/IJCNN54540.2023.10191067
   pdf: no
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: International Joint Conference on Neural Networks (IJCNN)
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3787,10 +4647,13 @@
   doi: https://doi.org/10.1109/ACCESS.2023.3300893
   url: https://doi.org/10.1109/ACCESS.2023.3300893
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher: IEEE
   pub: IEEE Access
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
 
@@ -3800,10 +4663,12 @@
   doi: https://hdl.handle.net/2123/31606
   url: https://hdl.handle.net/2123/31606
   pdf: https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y
+  m_model: [BERT]
+  method: __no_data__
+  platform: __no_data__
   publisher:  SydneyDigital
   pub:  Sydney Digital Theses
   pubtype: article
-  pubshort: 
+  pubshort:
   ignore: no
   silicon: yes
-
