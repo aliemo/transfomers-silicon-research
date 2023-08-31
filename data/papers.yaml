@@ -6,6 +6,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
+  pubtype: article
   pubshort: ISSCC
   ignore: no
   silicon: yes
@@ -18,6 +19,7 @@
   pdf: no 
   publisher: IEEE
   pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
+  pubtype: article
   pubshort: IEEE-ESSCIRC
   ignore: no
   silicon: yes
@@ -30,6 +32,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+  pubtype: article
   pubshort: IEEE-FCCM
   ignore: no
   silicon: yes
@@ -42,8 +45,10 @@
   pdf: no 
   publisher: ACM
   pub: ACM Transactions on Architecture and Code Optimization
+  pubtype: article
   pubshort: ACM-TACO
   ignore: no
+  silicon: yes
   
 5:
   title: "A Fast Post-Training Pruning Framework for Transformers"
@@ -53,8 +58,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: arXiv-CSCL
   ignore: check
+  silicon: yes
   
 6:
   title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
@@ -64,6 +71,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+  pubtype: article
   pubshort: TCAD
   ignore: no
   silicon: yes
@@ -76,6 +84,7 @@
   pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+  pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: yes
@@ -88,6 +97,7 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort:
   ignore: no
   silicon: yes
@@ -100,6 +110,7 @@
   pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
+  pubtype: article
   pubshort: DAC
   ignore: no
   silicon: yes
@@ -112,6 +123,7 @@
   pdf: no 
   publisher: MDPI
   pub: Computers
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: no
@@ -124,6 +136,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Field-Programmable Technology (ICFPT)
+  pubtype: article
   pubshort: ICFPT
   ignore: no
   silicon: yes
@@ -136,6 +149,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
+  pubtype: article
   pubshort: COINS
   ignore: no
   silicon: yes
@@ -148,6 +162,7 @@
   pdf: no 
   publisher: ACM/IEEE
   pub: Annual International Symposium on Computer Architecture (ISCA)
+  pubtype: article
   pubshort: ISCA
   ignore: check
   silicon: yes
@@ -160,6 +175,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Information Reuse and Integration for Data Science (IRI)
+  pubtype: article
   pubshort: IRA
   ignore: check
   silicon: yes
@@ -172,6 +188,7 @@
   pdf: no 
   publisher: MIt%20Press
   pub: Transactions of the Association for Computational Linguistics
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -184,6 +201,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Network
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -196,6 +214,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Workshop on Signal Processing Systems (SiPS)
+  pubtype: article
   pubshort: SiPS
   ignore: check
   silicon: check
@@ -208,6 +227,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
+  pubtype: article
   pubshort: ISCAS
   ignore: no
   silicon: yes
@@ -220,6 +240,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Global Communications Conference
+  pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
@@ -232,6 +253,7 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -244,6 +266,7 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Information Retrieval
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -256,6 +279,7 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -268,6 +292,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: HPCA
   ignore: no
   silicon: yes
@@ -280,6 +305,7 @@
   pdf: no 
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubtype: article
   pubshort: DATE
   ignore: check
   silicon: check
@@ -292,6 +318,7 @@
   pdf: no 
   publisher: ACM
   pub: International Conference on Parallel Processing
+  pubtype: article
   pubshort: ICCP
   ignore: no
   silicon: yes
@@ -304,6 +331,7 @@
   pdf: no 
   publisher: ACM
   pub: ACM Transactions on Embedded Computing Systems
+  pubtype: article
   pubshort: TECS
   ignore: no
   silicon: yes
@@ -316,6 +344,7 @@
   pdf: no 
   publisher: ACM
   pub: International Symposium on Computer Architecture
+  pubtype: article
   pubshort: ISCA
   ignore: no
   silicon: yes
@@ -328,6 +357,7 @@
   pdf: no 
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
+  pubtype: article
   pubshort: SC
   ignore: no
   silicon: yes
@@ -340,6 +370,7 @@
   pdf: no 
   publisher: Purdue%20University
   pub: Open Access Theses and Dissertations
+  pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
@@ -352,6 +383,7 @@
   pdf: no 
   publisher: MDPI
   pub: Electronics
+  pubtype: article
   pubshort: null
   ignore: no
   silicon: yes
@@ -364,6 +396,7 @@
   pdf: no 
   publisher: IEEE/ACM
   pub: International Conference On Computer Aided Design (ICCAD)
+  pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: yes
@@ -376,6 +409,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
+  pubtype: article
   pubshort: ISVLSI
   ignore: no
   silicon: yes
@@ -388,6 +422,7 @@
   pdf: http://scale.snu.ac.kr/papers/2022-11-Conference-IISWC-Softmax-recomposition.pdf
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
+  pubtype: article
   pubshort: IIWSC
   ignore: no
   silicon: yes
@@ -400,6 +435,7 @@
   pdf: https://wangshusen.github.io/papers/ISQED2021.pdf
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
+  pubtype: article
   pubshort: ISQED
   ignore: no
   silicon: yes
@@ -412,6 +448,7 @@
   pdf: no
   publisher: ACM
   pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
+  pubtype: article
   pubshort: GLSVLSI
   ignore: no
   silicon: yes
@@ -424,6 +461,7 @@
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9870805
   publisher: IEEE
   pub: IEEE Access
+  pubtype: article
   pubshort: IEEE%20Access
   ignore: no
   silicon: yes
@@ -436,6 +474,7 @@
   pdf: https://arxiv.org/pdf/2209.09570.pdf
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
@@ -448,6 +487,7 @@
   pdf: https://arxiv.org/pdf/2105.03343.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: null
   ignore: check
   silicon: check
@@ -460,8 +500,10 @@
   pdf: no 
   publisher: ACM
   pub: International Workshop on Embedded and Mobile Deep Learning
+  pubtype: article
   pubshort: EMDL
   ignore: no
+  silicon: check
   
 43:
   title: "Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA"
@@ -471,8 +513,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Image Processing
+  pubtype: article
   pubshort: TIP
   ignore: no
+  silicon: check
   
 44:
   title: "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices"
@@ -482,8 +526,10 @@
   pdf: no 
   publisher: ACM
   pub: Transactions on Embedded Computing System
+  pubtype: article
   pubshort: TECS
   ignore: no
+  silicon: check
   
 45:
   title: "Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs"
@@ -493,8 +539,10 @@
   pdf: no 
   publisher: IEEE/ACM
   pub: International Conference on Computer-Aided Design (ICCAD)
+  pubtype: article
   pubshort: ICCAD
   ignore: no
+  silicon: check
   
 46:
   title: "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models"
@@ -504,8 +552,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: null
   ignore: no
+  silicon: check
   
 47:
   title: "Alternative non-BERT model choices for the textual classification in low-resource languages and environments"
@@ -515,8 +565,10 @@
   pdf: no 
   publisher: ACL
   pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
+  pubtype: article
   pubshort: null
   ignore: no
+  silicon: check
   
 48:
   title: "An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers"
@@ -526,8 +578,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
+  pubtype: article
   pubshort: TCAD
   ignore: no
+  silicon: yes
   
 49:
   title: "An Automatic and Efficient BERT Pruning for Edge AI Systems"
@@ -537,8 +591,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
+  pubtype: article
   pubshort: ISQED
   ignore: no
+  silicon: check
   
 50:
   title: "An Efficient Hardware Accelerator for Sparse Transformer Neural Networks"
@@ -548,8 +604,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
+  pubtype: article
   pubshort: ISCAS
   ignore: no
+  silicon: yes
   
 51:
   title: "An Efficient Transformer Inference Engine on DSP"
@@ -559,8 +617,10 @@
   pdf: no 
   publisher: Springer
   pub: International Conference on Algorithms and Architectures for Parallel Processing
+  pubtype: article
   pubshort: null
   ignore: no
+  silicon: yes
   
 52:
   title: "An Empirical Analysis of BERT Embedding for Automated Essay Scoring"
@@ -570,8 +630,10 @@
   pdf: no 
   publisher: TheSAI
   pub: International Journal of Advanced Computer Science and Applications
+  pubtype: article
   pubshort: IJACSA
   ignore: no
+  silicon: yes
   
 53:
   title: "An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention"
@@ -581,8 +643,10 @@
   pdf: no 
   publisher: IEEE
   pub: Journal of Solid-State Circuits
+  pubtype: article
   pubshort: JSSC
   ignore: no
+  silicon: yes
   
 54:
   title: "An Evaluation of Transfer Learning for Classifying Sales Engagement Emails at Large Scale"
@@ -592,8 +656,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
+  pubtype: article
   pubshort: CCGRID
   ignore: no
+  silicon: yes
   
 55:
   title: "An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications"
@@ -603,20 +669,24 @@
   pdf: no 
   publisher: IEEE
   pub: 'Transactions on Circuits and Systems II: Express Briefs'
+  pubtype: article
   pubshort: TCSII
   ignore: no
+  silicon: yes
   
 56:
   title: "An investigation on different underlying quantization schemes for pre-trained language models"
   year: 2020
   doi: https://doi.org/10.1007/978--3--030--60450--9_29
-  url: https://doi.org/10.1007/978--3--030--60450--9_29
+  url: https://doi.org/10.1007/978-3-030-60450-9_29
   pdf: no 
   publisher: Springer
   pub: International Conference on Natural Language Processing and Chinese Computing
+  pubtype: article
   pubshort: null
   ignore: no
-  url: https://doi.org/10.1007/978-3-030-60450-9_29
+  silicon: yes
+
 57:
   title: "Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers"
   year: 2022
@@ -625,8 +695,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Circuits and Systems (ISCAS)
+  pubtype: article
   pubshort: ISCAS
   ignore: no
+  silicon: yes
   
 58:
   title: "Answer Fast: Accelerating BERT on the Tensor Streaming Processor"
@@ -636,9 +708,11 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubtype: article
   pubshort: ASAP
   ignore: no
-  
+  silicon: yes
+
 59:
   title: "ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization"
   year: 2022
@@ -647,8 +721,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubtype: article
   pubshort: MICRO
   ignore: no
+  silicon: yes
   
 60:
   title: "APT: The master-copy-free training method for quantised neural network on edge devices"
@@ -658,8 +734,10 @@
   pdf: no 
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
+  pubtype: article
   pubshort: JPDC
   ignore: no
+  silicon: yes
   
 61:
   title: "Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond"
@@ -669,9 +747,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Hot Chips 33 Symposium (HCS)
+  pubtype: article
   pubshort: HCS
   ignore: no
-
+  silicon: yes
 
 63:
   title: "ATT: A Fault-Tolerant ReRAM Accelerator for Attention-based Neural Networks"
@@ -681,8 +760,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Computer Design (ICCD)
+  pubtype: article
   pubshort: ICCD
   ignore: no
+  silicon: yes
 
 64:
   title: "AUBER: Automated BERT regularization"
@@ -692,8 +773,10 @@
   pdf: no 
   publisher: PlosOne
   pub: Plos one
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 65:
   title: "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization"
@@ -703,8 +786,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 66:
   title: "Automatic Mixed-Precision Quantization Search of BERT"
@@ -714,8 +799,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 69:
   title: "Balance Multi-Head Attention based on Software and Hardware Co-design"
@@ -725,8 +812,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Edge Computing and Scalable Cloud (EdgeCom)
+  pubtype: article
   pubshort: EdgeCom
   ignore: no
+  silicon: yes
 
 70:
   title: "BEBERT: Efficient and robust binary ensemble BERT"
@@ -736,8 +825,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 71:
   title: "BERMo: What can BERT learn from ELMo?"
@@ -747,9 +838,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
-
+  silicon: yes
 
 73:
   title: "BERT Model for Classification of Fake News using the Cloud Processing Capacity"
@@ -759,8 +851,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 74:
   title: "BERT model optimization methods for inference: a comparative study of five alternative BERT-model implementations"
@@ -770,8 +864,10 @@
   pdf: no 
   publisher: LUT%20University
   pub: School of Engineering Science, Tuotantotalous
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 75:
   title: "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning"
@@ -781,8 +877,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 76:
   title: "Bertinho: Galician BERT representations"
@@ -792,8 +890,10 @@
   pdf: no 
   publisher: arXiv 
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 77:
   title: "BERTPerf: Inference Latency Predictor for BERT on ARM big.LITTLE Multi-Core Processors"
@@ -803,8 +903,10 @@
   pdf: no 
   publisher: IEEE
   pub:  IEEE Workshop on Signal Processing Systems (SiPS)
+  pubtype: article
   pubshort: SiPS
   ignore: no
+  silicon: yes
 
 78:
   title: "BERxiT: Early exiting for BERT with better fine-tuning and extension to regression"
@@ -814,8 +916,10 @@
   pdf: no 
   publisher: ACL
   pub: Association%20for%20Computational%20Linguistics
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 79:
   title: "Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression"
@@ -825,8 +929,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 80:
   title: "BiBERT: Accurate Fully Binarized BERT"
@@ -836,8 +942,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 81:
   title: "Bigger&Faster: Two-stage Neural Architecture Search for Quantized Transformer Models"
@@ -847,8 +955,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 82:
   title: "Binary Complex Neural Network Acceleration on FPGA : (Invited Paper)"
@@ -858,8 +968,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubtype: article
   pubshort: ASAP
   ignore: no
+  silicon: yes
 
 83:
   title: "Binarybert: Pushing the limit of bert quantization"
@@ -869,8 +981,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 84:
   title: "Biomedical Named Entity Recognition at Scale"
@@ -880,8 +994,10 @@
   pdf: no 
   publisher: Springer
   pub: International Conference on Pattern Recognition
+  pubtype: article
   pubshort: ICPR
   ignore: no
+  silicon: yes
 
 86:
   title: "BiT: Robustly Binarized Multi-distilled Transformer"
@@ -891,8 +1007,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 87:
   title: "Block pruning for faster transformers"
@@ -902,8 +1020,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 88:
   title: "Boosting Distributed Training Performance of the Unpadded BERT Model"
@@ -913,8 +1033,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Distributed, Parallel, and Cluster Computing
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 89:
   title: "Capuchin: Tensor-based GPU Memory Management for Deep Learning"
@@ -924,8 +1046,10 @@
   pdf: no 
   publisher: ACM
   pub: International Conference on Architectural Support for Programming Languages and Operating Systems
+  pubtype: article
   pubshort: ASPLOS
   ignore: no
+  silicon: yes
 
 90:
   title: "CATBERT: Context-Aware Tiny BERT for Detecting Social Engineering Emails"
@@ -935,8 +1059,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 91:
   title: "CatBERT: Context-Aware Tiny BERT for Detecting Targeted Social Engineering Emails"
@@ -946,8 +1072,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Cryptography and Security
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 93:
   title: "CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture"
@@ -957,8 +1085,10 @@
   pdf: no 
   publisher: arXiv 
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 94:
   title: "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT"
@@ -968,8 +1098,10 @@
   pdf: no 
   publisher: ACM
   pub: International ACM SIGIR Conference on Research and Development in Information Retrieval
+  pubtype: article
   pubshort: SIGIR
   ignore: no
+  silicon: yes
 
 95:
   title: "Combining Feature Selection Methods with BERT: An In-depth Experimental Study of Long Text Classification"
@@ -979,8 +1111,10 @@
   pdf: no 
   publisher: Springer
   pub: "International Conference on Collaborative Computing: Networking, Applications and Worksharing"
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 96:
   title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking"
@@ -990,8 +1124,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Information Retrieval
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 97:
   title: "Comparison of Deep Learning Models and Various Text Pre-Processing Techniques for the Toxic Comments Classification"
@@ -1001,8 +1137,10 @@
   pdf: no 
   publisher: MDPI
   pub: "Natural Language Processing: Emerging Neural Approaches and Applications"
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 98:
   title: "Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning"
@@ -1012,8 +1150,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 99:
   title: "Compressing Large-Scale Transformer-Based Models: A Case Study on BERT"
@@ -1023,8 +1163,10 @@
   pdf: no 
   publisher: MIT%20Press
   pub: Transactions of the Association for Computational Linguistics
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 100:
   title: "Compressing Pre-trained Transformers via Low-Bit NxM Sparsity for Natural Language Understanding"
@@ -1034,8 +1176,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 101:
   title: "Compression of deep learning models for NLP"
@@ -1045,8 +1189,10 @@
   pdf: no 
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Managemen
+  pubtype: article
   pubshort: CIKM
   ignore: yes
+  silicon: yes
 
 102:
   title: "Compression of Generative Pre-trained Language Models via Quantization"
@@ -1056,8 +1202,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 103:
   title: "CONNA: Configurable Matrix Multiplication Engine for Neural Network Acceleration"
@@ -1067,8 +1215,10 @@
   pdf: no 
   publisher: MDPI 
   pub: Electronics
+  pubtype: article
   pubshort: 
   ignore: yes
+  silicon: yes
 
 105:
   title: "CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture"
@@ -1078,8 +1228,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 
 107:
@@ -1090,8 +1242,10 @@
   pdf: no 
   publisher: Springer 
   pub: International Conference on Neural Information Processing
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 111:
   title: "Deep Learning Acceleration with Neuron-to-Memory Transformation"
@@ -1101,8 +1255,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on High Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: HPCA
   ignore: no
+  silicon: yes
 
 114:
   title: "Demystifying BERT: Implications for Accelerator Design"
@@ -1112,8 +1268,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 115:
   title: "Demystifying BERT: System Design Implications"
@@ -1123,6 +1281,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Workload Characterization (IISWC)
+  pubtype: article
   pubshort: 
   ignore: no
 
@@ -1134,8 +1293,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Microarchitecture (MICRO)
+  pubtype: article
   pubshort: MICRO
   ignore: no
+  silicon: yes
 
 124:
   title: "DiVIT: Algorithm and architecture co-design of differential attention in vision transformer"
@@ -1145,8 +1306,10 @@
   pdf: no 
   publisher: Elsevier 
   pub: Journal of Systems Architecture
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 125:
   title: "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration"
@@ -1156,8 +1319,10 @@
   pdf: no 
   publisher: ACM
   pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  pubtype: article
   pubshort: ASPLOS
   ignore: no
+  silicon: yes
 
 127:
   title: "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization"
@@ -1167,8 +1332,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 128:
   title: "DTATrans: Leveraging Dynamic Token-Based Quantization With Accuracy Compensation Mechanism for Efficient Transformer Architecture"
@@ -1178,8 +1345,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 
+  pubtype: article
   pubshort: TCAD
   ignore: no
+  silicon: yes
 
 129:
   title: "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture"
@@ -1189,8 +1358,10 @@
   pdf: no 
   publisher: IEEE
   pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubtype: article
   pubshort: DATE
   ignore: no
+  silicon: yes
 
 130:
   title: "Dynamic Precision Analog Computing for Neural Networks"
@@ -1200,8 +1371,10 @@
   pdf: no 
   publisher: IEEE 
   pub: IEEE Journal of Selected Topics in Quantum Electronics
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 131:
   title: "Dynamic-TinyBERT: Boost TinyBERT's Inference Efficiency by Dynamic Sequence Length"
@@ -1211,8 +1384,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 132:
   title: "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models"
@@ -1222,8 +1397,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Parallel and Distributed Processing Symposium (IPDPS)
+  pubtype: article
   pubshort: IPDPS
   ignore: no
+  silicon: yes
 
 133:
   title: "Earlybert: Efficient bert training via early-bird lottery tickets"
@@ -1233,8 +1410,10 @@
   pdf: no 
   publisher: arXiv 
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: yes
+  silicon: yes
 
 134:
   title: "EBERT: Efficient BERT Inference with Dynamic Structured Pruning"
@@ -1244,8 +1423,10 @@
   pdf: no 
   publisher: ACL
   pub: ACL Findings
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 135:
   title: "EdgeBERT: Sentence-Level Energy Optimizations for Latency-Aware Multi-Task NLP Inference"
@@ -1255,8 +1436,10 @@
   pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture
+  pubtype: article
   pubshort: MICRO
   ignore: no
+  silicon: yes
 
 136:
   title: "EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers"
@@ -1266,8 +1449,10 @@
   pdf: no 
   publisher: MDPI
   pub: Electronics
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 139:
   title: "Efficient algorithms and hardware for natural language processing"
@@ -1277,9 +1462,10 @@
   pdf: no 
   publisher: MIT
   pub: MIT Master's Thesis
+  pubtype: article
   pubshort: 
   ignore: no
-
+  silicon: yes
 
 143:
   title: "Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization"
@@ -1289,8 +1475,10 @@
   pdf: no 
   publisher: arXiv 
   pub: Computer Science > Information Retrieval
+  pubtype: article
   pubshort: 
   ignore: yes
+  silicon: yes
 
 144:
   title: "Efficient transformer-based large scale language representations using hardware-friendly block structured pruning"
@@ -1300,8 +1488,10 @@
   pdf: no 
   publisher:  arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 146:
   title: "Elastic Processing and Hardware Architectures for Machine Learning"
@@ -1311,10 +1501,10 @@
   pdf: no 
   publisher: ProQuest
   pub: UC Santa Barbara Ph.D. Dissertation
+  pubtype: article
   pubshort: 
   ignore: no
-
-
+  silicon: yes
 
 148:
   title: "ELSA: Hardware-Software co-design for efficient, lightweight self-attention mechanism in neural networks"
@@ -1324,8 +1514,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
+  pubtype: article
   pubshort: ISCA
   ignore: no
+  silicon: yes
 
 150:
   title: "Empirical Evaluation of Post-Training Quantization Methods for Language Tasks"
@@ -1335,8 +1527,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: yes
+  silicon: yes
 
 151:
   title: "Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications"
@@ -1346,8 +1540,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 152:
   title: "Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems"
@@ -1357,8 +1553,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: HPCA
   ignore: no
+  silicon: yes
 
 153:
   title: "Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators"
@@ -1368,8 +1566,10 @@
   pdf: no 
   publisher: ACM
   pub: Proceedings of the ACM International Conference on Supercomputing
+  pubtype: article
   pubshort: ICS
   ignore: no
+  silicon: yes
 
 155:
   title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
@@ -1379,8 +1579,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Artificial Intelligence Circuits and Systems (AICAS)
+  pubtype: article
   pubshort: AICAS
   ignore: no
+  silicon: yes
 
 156:
   title: "Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations"
@@ -1390,8 +1592,10 @@
   pdf: no 
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
+  pubtype: article
   pubshort: DAC
   ignore: no
+  silicon: yes
 
 157:
   title: "Enabling Fast Uncertainty Estimation: Exploiting Structured Sparsity in Bayesian Transformers"
@@ -1401,8 +1605,10 @@
   pdf: no 
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference (DAC)
+  pubtype: article
   pubshort: DAC
   ignore: no
+  silicon: yes
 
 158:
   title: "Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers"
@@ -1412,8 +1618,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computers
+  pubtype: article
   pubshort: 
   ignore: check
+  silicon: yes
 
 159:
   title: "Energy efficiency boost in the AI-infused POWER10 processor"
@@ -1423,8 +1631,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Computer Architecture (ISCA)
+  pubtype: article
   pubshort: ISCA
   ignore: no
+  silicon: yes
 
 160:
   title: "ENEX-FP: A BERT-Based Address Recognition Model"
@@ -1434,8 +1644,10 @@
   pdf: no 
   publisher: MDPI
   pub: Electronics
+  pubtype: article
   pubshort: 
   ignore: yes
+  silicon: yes
 
 161:
   title: "Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs"
@@ -1445,8 +1657,10 @@
   pdf: no 
   publisher: Springer
   pub: European Conference on Information Retrieval (ECIR)
+  pubtype: article
   pubshort: ECIR
   ignore: no
+  silicon: yes
 
 164:
   title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
@@ -1456,8 +1670,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Electronics, Information, and Communication (ICEIC)
+  pubtype: article
   pubshort: ICEIC
   ignore: no
+  silicon: yes
 
 165:
   title: "Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
@@ -1467,8 +1683,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: check
+  silicon: yes
 
 166:
   title: "FARM: A flexible accelerator for recurrent and memory augmented neural networks"
@@ -1478,8 +1696,10 @@
   pdf: no 
   publisher: Springer
   pub: Journal of Signal Processing Systems
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 170:
   title: "Fast Heterogeneous Task Mapping for Reducing Edge DNN Latency"
@@ -1489,8 +1709,10 @@
   pdf: no 
   publisher: 
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubtype: article
   pubshort: ASAP
   ignore: no
+  silicon: yes
 
 171:
   title: "Fastformers: Highly efficient transformer models for natural language understanding"
@@ -1500,8 +1722,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 175:
   title: "FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization"
@@ -1511,8 +1735,10 @@
   pdf: no 
   publisher: ACM/SIGDA
   pub: International Symposium on Field-Programmable Gate Arrays
+  pubtype: article
   pubshort: FPGA
   ignore: no
+  silicon: yes
 
 176:
   title: "Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT"
@@ -1522,8 +1748,10 @@
   pdf: no 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: check
+  silicon: yes
 
 178:
   title: "Fixed-point Quantization for Vision Transformer"
@@ -1533,8 +1761,10 @@
   pdf: no 
   publisher: IEEE 
   pub: China Automation Congress (CAC)
+  pubtype: article
   pubshort: CAS
   ignore: no
+  silicon: yes
 
 179:
   title: "FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference"
@@ -1544,8 +1774,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
+  pubtype: article
   pubshort: ASAP
   ignore: no
+  silicon: yes
 
 181:
   title: "FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results"
@@ -1555,8 +1787,10 @@
   pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 184:
   title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
@@ -1566,8 +1800,10 @@
   pdf: no 
   publisher: "IOS%20Press"
   pub: Journal of Intelligent & Fuzzy Systems
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 187:
   title: "From dense to sparse: Contrastive pruning for better pre-trained language model compression"
@@ -1577,8 +1813,10 @@
   pdf: no 
   publisher: AAAI
   pub: AAAI Technical Track on Speech and Natural Language Processing
+  pubtype: article
   pubshort: 
   ignore: check
+  silicon: yes
 
 188:
   title: "FTRANS: energy-efficient acceleration of transformers using FPGA"
@@ -1588,8 +1826,10 @@
   pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE International Symposium on Low Power Electronics and Design
+  pubtype: article
   pubshort: ISLPED
   ignore: no
+  silicon: yes
 
 190:
   title: "Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicastin"
@@ -1599,8 +1839,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Transactions on Computers
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 191:
   title: "Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration"
@@ -1610,8 +1852,10 @@
   pdf: no 
   publisher: IEEE
   pub: ACM/IEEE Design Automation Conference (DAC)
+  pubtype: article
   pubshort: DAC
   ignore: no
+  silicon: yes
 
 194:
   title: "Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference"
@@ -1621,8 +1865,10 @@
   pdf: no 
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubtype: article
   pubshort: MICRO
   ignore: no
+  silicon: yes
 
 196:
   title: "Greedy-layer pruning: Speeding up transformer models for natural language processing"
@@ -1632,8 +1878,10 @@
   pdf: no 
   publisher: Elsevier 
   pub: Pattern Recognition Letters
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 197:
   title: "GuardNN: secure accelerator architecture for privacy-preserving deep learning"
@@ -1643,8 +1891,10 @@
   pdf: no 
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
+  pubtype: article
   pubshort: DAC
   ignore: no
+  silicon: yes
 
 198:
   title: "HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization"
@@ -1654,8 +1904,10 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE Computer Architecture Letters 
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 199:
   title: "Handling heavy-tailed input of transformer inference on GPUs"
@@ -1665,8 +1917,10 @@
   pdf: no 
   publisher: ACM 
   pub: ACM International Conference on Supercomputing (ICS)
+  pubtype: article
   pubshort: ICS
   ignore: no
+  silicon: yes
 
 200:
   title: "Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing"
@@ -1676,8 +1930,10 @@
   pdf: no 
   publisher: IEEE
   pub:  Design, Automation & Test in Europe Conference & Exhibition (DATE)
+  pubtype: article
   pubshort: DATE
   ignore: no
+  silicon: yes
 
 201:
   title: "Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights"
@@ -1687,8 +1943,10 @@
   pdf: no 
   publisher: IEEE 
   pub: Proceedings of the IEEE
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 202:
   title: "Hardware Acceleration of Transformer Networks using FPGAs"
@@ -1698,8 +1956,10 @@
   pdf: no 
   publisher: IEEE
   pub: Panhellenic Conference on Electronics & Telecommunications (PACET)
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 203:
   title: "Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer"
@@ -1709,8 +1969,10 @@
   pdf: no 
   publisher: IEEE
   pub: International System-on-Chip Conference (SOCC)
+  pubtype: article
   pubshort: DOCC
   ignore: no
+  silicon: yes
 
 204:
   title: "Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit"
@@ -1720,8 +1982,10 @@
   pdf: no 
   publisher: Springer
   pub: International Conference on Knowledge Science, Engineering and Management
+  pubtype: article
   pubshort: KSEM
   ignore: no
+  silicon: yes
 
 205:
   title: "Hardware and Software Co-optimization for Windows Attention"
@@ -1731,8 +1995,10 @@
   pdf: no 
   publisher: 
   pub: International Conference on Knowledge Science, Engineering and Management
+  pubtype: article
   pubshort: KSEM
   ignore: no
+  silicon: yes
 
 208:
   title: "HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU"
@@ -1742,6 +2008,7 @@
   pdf: no
   publisher: ACM
   pub: Great Lakes Symposium on VLSI
+  pubtype: article
   pubshort: GLSVLSI
   ignore: no
   silicon: yes
@@ -1754,6 +2021,7 @@
   pdf: https://openreview.net/pdf?id=eAEcdRkcMHh
   publisher: 
   pub: 
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -1766,6 +2034,7 @@
   pdf: no 
   publisher: Springer
   pub: Engineering Artificially Intelligent Systems
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: no
@@ -1778,6 +2047,7 @@
   pdf: https://arxiv.org/pdf/2104.07705.pdf 
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: yes
   silicon: no
@@ -1790,6 +2060,7 @@
   pdf: http://proceedings.mlr.press/v139/kim21d/kim21d.pdf 
   publisher: PMLR
   pub: Proceedings of Machine Learning Research
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1802,6 +2073,7 @@
   pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302855/pdf/978-3-030-50417-5_Chapter_29.pdf
   publisher: Springer
   pub: International Conference on Computational Science
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1814,6 +2086,7 @@
   pdf: no 
   publisher: Springer
   pub: Cluster Computing
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1826,6 +2099,7 @@
   pdf: https://arxiv.org/pdf/2006.10518.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1838,6 +2112,7 @@
   pdf: https://arxiv.org/pdf/2106.16006.pdf
   publisher: IEEE 
   pub: Euromicro Conference on Digital System Design (DSD)
+  pubtype: article
   pubshort: DSD
   ignore: no
   silicon: yes
@@ -1850,6 +2125,7 @@
   pdf: https://arxiv.org/pdf/2209.09815.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: no
@@ -1862,6 +2138,7 @@
   pdf: https://arxiv.org/pdf/2004.09602.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1874,6 +2151,7 @@
   pdf: https://arxiv.org/pdf/2107.01739.pdf
   publisher: ACM
   pub: International Conference for High Performance Computing, Networking, Storage and Analysis
+  pubtype: article
   pubshort: SC21
   ignore: no
   silicon: check
@@ -1886,6 +2164,7 @@
   pdf: https://arxiv.org/pdf/2101.05938.pdf
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -1898,6 +2177,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE International Solid- State Circuits Conference (ISSCC)
+  pubtype: article
   pubshort: ISSCC
   ignore: no
   silicon: yes
@@ -1910,6 +2190,7 @@
   pdf: https://arxiv.org/pdf/2004.04124.pdf
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -1922,6 +2203,7 @@
   pdf: https://taejunham.github.io/data/layerweaver_hpca21.pdf
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: HPCA
   ignore: No
   silicon: yes
@@ -1934,6 +2216,7 @@
   pdf: https://web.Arxiv.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
   publisher: ACM
   pub: ACM SIGIR Conference on Research and Development in Information Retrieval
+  pubtype: article
   pubshort: SIGIR
   ignore: yes
   silicon: no
@@ -1946,6 +2229,7 @@
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/17561/17368
   publisher: AAAI
   pub: AAAI Technical Track on Speech and Natural Language Processing II
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: no
@@ -1958,6 +2242,7 @@
   pdf: https://dl.acm.org/doi/pdf/10.1145/3488560.3498495
   publisher: ACM
   pub: ACM International Conference on Web Search and Data Mining
+  pubtype: article
   pubshort: WSDM
   ignore: check
   silicon: no
@@ -1970,6 +2255,7 @@
   pdf: https://aclanthology.org/2022.naacl-industry.25.pdf
   publisher: ACL
   pub:  Conference of the North American Chapter of the Association for Computational Linguistics
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -1982,6 +2268,7 @@
   pdf: https://arxiv.org/pdf/2208.07339
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -1994,6 +2281,7 @@
   pdf: https://arxiv.org/pdf/2010.05609.pdf
   publisher: arXiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -2006,6 +2294,7 @@
   pdf: https://www.microarch.org/micro53/papers/738300a088.pdf
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
@@ -2018,6 +2307,7 @@
   pdf: no 
   publisher: Springer
   pub: 
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -2030,6 +2320,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Symposium on Quality Electronic Design (ISQED)
+  pubtype: article
   pubshort: ISQED
   ignore: no
   silicon: yes
@@ -2042,6 +2333,7 @@
   pdf: no
   publisher: Springer
   pub: Computer Graphics International Conference
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2055,6 +2347,7 @@
   pdf: https://people.eecs.berkeley.edu/~ysshao/assets/papers/magnet2019-iccad.pdf
   publisher: IEEE
   pub: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  pubtype: article
   pubshort: ICCAD
   ignore: check
   silicon: check
@@ -2067,6 +2360,7 @@
   pdf: https://dl.acm.org/doi/pdf/10.5555/3495724.3496209
   publisher: ACM
   pub: International Conference on Neural Information Processing Systems
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: check
@@ -2079,6 +2373,7 @@
   pdf: https://arxiv.org/pdf/2203.13483.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2091,6 +2386,7 @@
   pdf: https://arxiv.org/pdf/2203.12758.pdf
   publisher: IEEE
   pub: International Symposium on Computer Architecture
+  pubtype: article
   pubshort: ISCA
   ignore: no
   silicon: yes
@@ -2103,6 +2399,7 @@
   pdf: https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf
   publisher: NeurIPS
   pub: Advances in Neural Information Processing Systems
+  pubtype: article
   pubshort: NeurIPS
   ignore: check
   silicon: no
@@ -2115,6 +2412,7 @@
   pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
   publisher: IEEE/CVF
   pub: IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: CVPR
   ignore: check
   silicon: check
@@ -2127,6 +2425,7 @@
   pdf: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/c/332/files/2019/02/mrna_ispass2019.pdf
   publisher: IEEE
   pub: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  pubtype: article
   pubshort: ISPASS
   ignore: check
   silicon: yes
@@ -2139,6 +2438,7 @@
   pdf: https://arxiv.org/pdf/2009.07460.pdf
   publisher: arXiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: yes
@@ -2151,6 +2451,7 @@
   pdf: https://arxiv.org/pdf/2105.14444.pdf
   publisher: ACM
   pub:  ACM SIGKDD Conference on Knowledge Discovery & Data Mining
+  pubtype: article
   pubshort: KDD
   ignore: check
   silicon: check
@@ -2163,6 +2464,7 @@
   pdf: https://arxiv.org/pdf/2201.07598.pdf
   publisher: ACM
   pub: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
+  pubtype: article
   pubshort: PPoPP
   ignore: no
   silicon: yes
@@ -2175,6 +2477,7 @@
   pdf: https://www.mdpi.com/2079-9292/11/4/505/pdf
   publisher: MDPI
   pub: Electronics
+  pubtype: article
   pubshort: 
   ignore: yes
   silicon: yes
@@ -2187,6 +2490,7 @@
   pdf: no
   publisher: Wiley
   pub: Concurrency and Computation Practice and Experience
+  pubtype: article
   pubshort: 
   ignore: check
   silicon: no
@@ -2199,6 +2503,7 @@
   pdf: https://carrv.github.io/2021/papers/CARRV2021_paper_67_Zhan.pdf
   publisher: CARRV
   pub: Computer Architecture Research with RISC-V
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2211,6 +2516,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+  pubtype: article
   pubshort: PACCT
   ignore: no
   silicon: yes
@@ -2223,6 +2529,7 @@
   pdf: https://arxiv.org/pdf/2104.06535.pdf 
   publisher: ACM/SIGDA
   pub: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
+  pubtype: article
   pubshort: FPGA
   ignore: no
   silicon: yes
@@ -2235,6 +2542,7 @@
   pdf: https://arxiv.org/pdf/2208.11580.pdf
   publisher: NeurIPS
   pub: Conference on Neural Information Processing Systems
+  pubtype: article
   pubshort: NeurIPS
   ignore: no
   silicon: no
@@ -2247,6 +2555,7 @@
   pdf: no 
   publisher: Springer
   pub: Journal of Signal Processing Systems
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2259,6 +2568,7 @@
   pdf: https://arxiv.org/pdf/2004.03844v1
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2271,9 +2581,10 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Computer and Communication Systems (ICCCS)
+  pubtype: article
   pubshort: ICCCS
   ignore: no
-  silion: no
+  silicon: yes
 
 266:
   title: "PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination"
@@ -2283,6 +2594,7 @@
   pdf: http://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf
   publisher: PMLR
   pub: Proceedings of Machine Learning Research
+  pubtype: article
   pubshort: PMLR
   ignore: no
   silicon: no
@@ -2295,6 +2607,7 @@
   pdf: no 
   publisher: ACM
   pub: International Conference on Computing and Pattern Recognition
+  pubtype: article
   pubshort: ICCPR
   ignore: no
   silicon: no
@@ -2307,6 +2620,7 @@
   pdf: no 
   publisher: Springer
   pub: "Control, Instrumentation and Mechatronics: Theory and Practice"
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2320,6 +2634,7 @@
   pdf: no 
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Management
+  pubtype: article
   pubshort: CIKM
   ignore: no
   silicon: no
@@ -2332,6 +2647,7 @@
   pdf: https://arxiv.org/pdf/2210.02574.pdf
   publisher: Arxiv
   pub: Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2344,6 +2660,7 @@
   pdf: https://par.nsf.gov/servlets/purl/10394954
   publisher: ACM
   pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+  pubtype: article
   pubshort: ASPLOS
   ignore: no
   silicon: yes
@@ -2356,6 +2673,7 @@
   pdf: https://arxiv.org/pdf/2010.01791.pdf
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2368,6 +2686,7 @@
   pdf: https://arxiv.org/pdf/2111.12293
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2380,6 +2699,7 @@
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265
   publisher: AAAI
   pub: "AAAI Technical Track: Natural Language Processing"
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2392,6 +2712,7 @@
   pdf: https://arxiv.org/pdf/1910.06188.pdf
   publisher: IEEE
   pub: Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)
+  pubtype: article
   pubshort: EMC2-NIPS
   ignore: no
   silicon: no
@@ -2404,6 +2725,7 @@
   pdf: https://arxiv.org/pdf/2203.05740
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2416,6 +2738,7 @@
   pdf: https://arxiv.org/pdf/2210.17114
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2428,6 +2751,7 @@
   pdf: no 
   publisher: IEEE 
   pub: IEEE/ACM Transactions on Audio, Speech, and Language Processing 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2440,6 +2764,7 @@
   pdf: https://arxiv.org/pdf/2103.14493.pdf
   publisher: IEEE
   pub: IEEE Transactions on Neural Networks and Learning Systems 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2452,6 +2777,7 @@
   pdf: no 
   publisher: ACM
   pub:  Proceedings on Great Lakes Symposium on VLSI
+  pubtype: article
   pubshort: GLVLSI
   ignore: no
   silicon: yes
@@ -2464,6 +2790,7 @@
   pdf: https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf
   publisher: IEEE
   pub: IEEE Transactions on Computers 
+  pubtype: article
   pubshort: TC
   ignore: no
   silicon: yes
@@ -2477,6 +2804,7 @@
   pdf: https://dl.acm.org/doi/pdf/10.1145/3400302.3415640
   publisher: ACM
   pub: International Conference on Computer-Aided Design
+  pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: yes
@@ -2489,6 +2817,7 @@
   pdf: no 
   publisher: IEEE
   pub: IEEE International Conference on Systems, Man, and Cybernetics
+  pubtype: article
   pubshort: SMC
   ignore: no
   silicon: yes
@@ -2501,6 +2830,7 @@
   pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf
   publisher: 
   pub: IEEE/CVF International Conference on Computer Vision 
+  pubtype: article
   pubshort: ICCV
   ignore: no
   silicon: yes
@@ -2515,6 +2845,7 @@
   pdf: https://arxiv.org/pdf/2205.03998.pdf
   publisher: IEEE
   pub: International Conference on Artificial Intelligence Circuits and Systems
+  pubtype: article
   pubshort: AICAS
   ignore: no
   silicon: yes
@@ -2527,6 +2858,7 @@
   pdf: https://arxiv.org/pdf/2207.08006
   publisher: Arxive
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2539,6 +2871,7 @@
   pdf: https://arxiv.org/pdf/2206.14550.pdf
   publisher: ACM
   pub: ACM/IEEE Design Automation Conference
+  pubtype: article
   pubshort: DAC
   ignore: no
   silicon: yes
@@ -2551,6 +2884,7 @@
   pdf: https://dl.acm.org/doi/pdf/10.1145/3466752.3480125
   publisher: IEEE/ACM
   pub: IEEE/ACM International Symposium on Microarchitecture
+  pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
@@ -2563,6 +2897,7 @@
   pdf: no 
   publisher: 
   pub: Journal of Intelligent & Fuzzy Systems
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2575,6 +2910,7 @@
   pdf: https://www.sciencedirect.com/science/article/pii/S0743731522002301/pdfft?md5=444fdc7e73724f5d9881d162bed2a735&pid=1-s2.0-S0743731522002301-main.pdf
   publisher: Elsevier
   pub: Journal of Parallel and Distributed Computing
+  pubtype: article
   pubshort: Elsevier
   ignore: no
   silicon: yes
@@ -2587,6 +2923,7 @@
   pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265621&type=printable
   publisher: "PLOSONE"
   pub: 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2599,6 +2936,7 @@
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912410
   publisher: IEEE
   pub: IEEE Access 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2611,6 +2949,7 @@
   pdf: https://arxiv.org/pdf/2009.07531.pdf
   publisher: Springer
   pub: Advances in Information Retrieval 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2623,6 +2962,7 @@
   pdf: https://hparch.gatech.edu/papers/nima_2021_cal.pdf
   publisher: IEEE
   pub: IEEE Computer Architecture Letters
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2635,6 +2975,7 @@
   pdf: https://arxiv.org/pdf/2211.10438.pdf
   publisher: Arxiv
   pub: Computer Science > Computation and Language'
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2647,8 +2988,10 @@
   pdf: https://arxiv.org/pdf/2103.09301.pdf
   publisher: ACM/IEEE
   pub: ACM/IEEE Design Automation Conference
+  pubtype: article
   pubshort: DAC
   ignore: no
+  silicon: yes
 
 315:
   title: "Software and Hardware Fusion Multi-Head Attention"
@@ -2658,6 +3001,7 @@
   pdf: no
   publisher: Springer
   pub: International Conference on Knowledge Science, Engineering and Management
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2670,6 +3014,7 @@
   pdf: https://arxiv.org/pdf/2209.00606.pdf
   publisher: IEEE
   pub: IEEE/ACM International Symposium on Microarchitecture
+  pubtype: article
   pubshort: MICRO
   ignore: no
   silicon: yes
@@ -2682,6 +3027,7 @@
   pdf: https://arxiv.org/pdf/2205.12452
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2694,6 +3040,7 @@
   pdf: https://doi.org/10.23919/DATE.2018.8342010
   publisher:
   pub: Design, Automation & Test in Europe Conference & Exhibition
+  pubtype: article
   pubshort: DATE
   ignore: yes
   silicon: yes
@@ -2706,6 +3053,7 @@
   pdf: https://arxiv.org/pdf/2012.09852.pdf
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture
+  pubtype: article
   pubshort: HPCA
   ignore: no
   silicon: yes
@@ -2718,6 +3066,7 @@
   pdf: https://arxiv.org/pdf/2210.07171.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2730,6 +3079,7 @@
   pdf: https://arxiv.org/pdf/2006.11316.pdf
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2742,6 +3092,7 @@
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16839/16646
   publisher: AAAI
   pub: AAAI Technical Track on Machine Learning I
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2754,6 +3105,7 @@
   pdf: https://arxiv.org/pdf/1910.06360
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2766,6 +3118,7 @@
   pdf: https://arxiv.org/pdf/1910.04732
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2778,6 +3131,7 @@
   pdf: https://arxiv.org/pdf/2209.00625.pdf
   publisher: ACM
   pub: ACM International Conference on Information & Knowledge Management
+  pubtype: article
   pubshort: CIKM
   ignore: no
   silicon: no
@@ -2790,6 +3144,7 @@
   pdf: https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf
   publisher: UCLA
   pub: Open Access Publications from the University of California
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2802,6 +3157,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Application-specific Systems, Architectures and Processors
+  pubtype: article
   pubshort: ASAP
   ignore: no
   silicon: yes
@@ -2814,6 +3170,7 @@
   pdf: https://arxiv.org/pdf/2302.11812
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2826,6 +3183,7 @@
   pdf: https://arxiv.org/pdf/2009.12812
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2838,6 +3196,7 @@
   pdf: https://arxiv.org/pdf/2203.07259.pdf
   publisher: Arxiv 
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2850,6 +3209,7 @@
   pdf: https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf
   publisher: ACM
   pub: Asia and South Pacific Design Automation Conference
+  pubtype: article
   pubshort: ASDAC
   ignore: no
   silicon: yes
@@ -2862,6 +3222,7 @@
   pdf: https://arxiv.org/pdf/1909.10351
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -2874,6 +3235,7 @@
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf
   publisher: NeurIPS
   pub: Advances in Neural Information Processing Systems
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -2886,6 +3248,7 @@
   pdf: https://arxiv.org/pdf/2105.11618.pdf
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2898,6 +3261,7 @@
   pdf: https://arxiv.org/pdf/2205.12694.pdf
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2911,6 +3275,7 @@
   pdf: https://arxiv.org/pdf/2002.05645.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2923,6 +3288,7 @@
   pdf: https://arxiv.org/pdf/2004.07320.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2935,6 +3301,7 @@
   pdf: no
   publisher: IEEE
   pub: IEEE Journal of Solid-State Circuits
+  pubtype: article
   pubshort: SSC
   ignore: no
   silicon: yes
@@ -2947,6 +3314,7 @@
   pdf: https://arxiv.org/pdf/2110.11299
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2959,6 +3327,7 @@
   pdf: https://par.nsf.gov/servlets/purl/10345536
   publisher: IEEE
   pub: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2971,6 +3340,7 @@
   pdf: https://ashish-gupta03.github.io/files/Ultron.pdf
   publisher: IEEE 
   pub: International Conference on Big Data (Big Data)
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2983,6 +3353,7 @@
   pdf: https://arxiv.org/pdf/2109.12948.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -2995,6 +3366,7 @@
   pdf: https://arxiv.org/pdf/2201.06618.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3007,6 +3379,7 @@
   pdf: no 
   publisher: ACM
   pub: Proceedings of the Seventeenth European Conference on Computer Systems
+  pubtype: article
   pubshort: EuroSys
   ignore: no
   silicon: check
@@ -3019,6 +3392,7 @@
   pdf: 
   publisher: IEEE
   pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and System[s
+  pubtype: article
   pubshort: TCAD
   ignore: no
   silicon: yes
@@ -3032,6 +3406,7 @@
   pdf: https://arxiv.org/pdf/2110.10957.pdf
   publisher: Arxiv
   pub: Computer Science > Computer Vision and Pattern Recognition
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3044,6 +3419,7 @@
   pdf: https://arxiv.org/pdf/2211.05109.pdf
   publisher: IEEE
   pub: International Symposium on High-Performance Computer Architecture (HPCA)
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3056,6 +3432,7 @@
   pdf: no 
   publisher: IEEE
   pub: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3068,8 +3445,10 @@
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/1579d5d8edacd85ac1a86aea28bdf32d-Paper-Conference.pdf
   publisher: 
   pub: 
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
 
 371:
   title: "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers"
@@ -3079,8 +3458,10 @@
   pdf: no 
   publisher: 
   pub: 
+  pubtype: article
   pubshort: 
   ignore: no
+  silicon: yes
   
 
 372:
@@ -3091,6 +3472,7 @@
   pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817 
   publisher: 
   pub: 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: no
@@ -3103,6 +3485,7 @@
   pdf: https://arxiv.org/pdf/2110.01900.pdf 
   publisher: IEEE
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pubtype: article
   pubshort: ICASSP
   ignore: yes
   silicon: no
@@ -3116,6 +3499,7 @@
   pdf: https://scholar.archive.org/work/hd53tmr62rhn3mxplkjzhrnvw4/access/wayback/https://publikationen.bibliothek.kit.edu/1000151937/149523013 
   publisher: IEEE
   pub: Computer Society Annual Symposium on VLSI 
+  pubtype: article
   pubshort: ISVLSI
   ignore: yes
   silicon: yes
@@ -3128,6 +3512,7 @@
   pdf: https://arxiv.org/pdf/2107.00175.pdf 
   publisher: IEEE
   pub: IEEE International Conference on Acoustics, Speech and Signal Processing 
+  pubtype: article
   pubshort: ICASSP
   ignore: no
   silicon: no
@@ -3140,6 +3525,7 @@
   pdf: https://aclanthology.org/2021.acl-long.509.pdf 
   publisher: ACL
   pub: International Joint Conference on Natural Language Processing
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3152,6 +3538,7 @@
   pdf: https://www.aimspress.com/aimspress-data/era/2022/10/PDF/era-30-10-192.pdf
   publisher: AIMPress
   pub: Electronic Research Archive
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3165,6 +3552,7 @@
   pdf: no 
   publisher: HiPEAC
   pub: International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems 
+  pubtype: article
   pubshort: ACACES
   ignore: no
   silicon: yes
@@ -3177,6 +3565,7 @@
   pdf: https://arxiv.org/pdf/2009.08034.pdf
   publisher: Arixv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3189,6 +3578,7 @@
   pdf: https://arxiv.org/pdf/2302.09108.pdf
   publisher: Arxiv
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3201,6 +3591,7 @@
   pdf: https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf
   publisher: Elsevier
   pub: "Sustainable Computing: Informatics and Systems"
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3213,6 +3604,7 @@
   pdf: https://arxiv.org/pdf/2303.12914.pdf
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3225,6 +3617,7 @@
   pdf: https://arxiv.org/pdf/2303.14882
   publisher: Arxiv
   pub: Computer Science > Machine Learning
+  pubtype: article
   pubshort: 
   ignore: no 
   silicon: yes
@@ -3238,6 +3631,7 @@
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085 
   publisher: IEEE
   pub: IEEE Transactions on Pattern Analysis and Machine Intelligence 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3250,6 +3644,7 @@
   pdf: https://arxiv.org/pdf/2111.05754.pdf 
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3262,6 +3657,7 @@
   pdf: https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863 
   publisher: 
   pub: 
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: check
@@ -3274,6 +3670,7 @@
   pdf: https://arxiv.org/pdf/2301.03537.pdf 
   publisher: IEEE
   pub:  IEEE Journal of Solid-State Circuits
+  pubtype: article
   pubshort: 
   ignore: ignore
   silicon: yes
@@ -3286,6 +3683,7 @@
   pdf: https://arxiv.org/pdf/2010.16407.pdf 
   publisher: Arxiv
   pub: Computer Science > Computation and Language
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: wip
@@ -3298,6 +3696,7 @@
   pdf: https://proceedings.mlsys.org/paper_files/paper/2021/file/48a6431f04545e11919887748ec5cb52-Paper.pdf
   publisher:  MLSys
   pub: Proceedings of Machine Learning and Systems
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3310,6 +3709,7 @@
   pdf: no 
   publisher: ACM
   pub: International Conference on Computer-Aided Design
+  pubtype: article
   pubshort: ICCAD
   ignore: no
   silicon: check
@@ -3322,6 +3722,7 @@
   pdf: https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf
   publisher: HarwardLibrary
   pub: Harvard University Graduate School of Arts and Sciences
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3335,6 +3736,7 @@
   pdf: no
   publisher: IEEE
   pub: IEEE International Symposium on Circuits and Systems (ISCAS)
+  pubtype: article
   pubshort: ISCAS
   ignore: no
   silicon: yes
@@ -3348,6 +3750,7 @@
   pdf: https://arxiv.org/pdf/2307.15517.pdf
   publisher: Arxiv
   pub: Computer Science > Hardware Architecture
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3360,6 +3763,7 @@
   pdf: no
   publisher: Wiley
   pub: IEEE Press Series on Electromagnetic Wave Theory
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3372,6 +3776,7 @@
   pdf: no
   publisher: IEEE
   pub: International Joint Conference on Neural Networks (IJCNN)
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3384,6 +3789,7 @@
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428
   publisher: IEEE
   pub: IEEE Access
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
@@ -3396,9 +3802,8 @@
   pdf: https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y
   publisher:  SydneyDigital
   pub:  Sydney Digital Theses
+  pubtype: article
   pubshort: 
   ignore: no
   silicon: yes
-  pubt: Thesis
 
-  
