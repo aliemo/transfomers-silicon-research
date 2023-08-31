@@ -6,7 +6,7 @@
 <center><img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/></center>
 
 <p align="center">
-  <img src="./data/img/BERT-on-Silicon.png" />
+  <img src="./data/img/BERT-on-Silicon.png" width="300" height="300" />
 </p>
 
 [![Goto-Papers](https://img.shields.io/badge/Goto-Papers-blue?labelColor=red&style=flat-square)](#Papers)
@@ -701,6 +701,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/None-2021-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-xx-sandybrown?style=flat-square)](None)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf)
+
+**Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture**
+
+![](https://img.shields.io/badge/IEEE/ACM-2021-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3466752.3480125-sandybrown?style=flat-square)](https://doi.org/10.1145/3466752.3480125)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3466752.3480125)
 
 **Simplified TinyBERT: Knowledge Distillation for Document Retrieval**
 
@@ -1468,17 +1474,11 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/LCA.2022.3233832-sandybrown?style=flat-square)](https://doi.org/10.1109/LCA.2022.3233832)
 
 
-**ViTA: A Vision Transformer Inference Accelerator for Edge Applications**
+**SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference**
 
-![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2302.09108-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2302.09108)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.09108.pdf)
-
-**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**
-
-![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.12914-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.12914)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.12914.pdf)
+![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.jpdc.2022.11.005-sandybrown?style=flat-square)](https://doi.org/10.1016/j.jpdc.2022.11.005)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sciencedirect.com/science/article/pii/S0743731522002301/pdfft?md5=444fdc7e73724f5d9881d162bed2a735&pid=1-s2.0-S0743731522002301-main.pdf)
 
 **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**
 
@@ -1510,11 +1510,23 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA56546.2023.10071081-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA56546.2023.10071081)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2211.05109.pdf)
 
+**ViTA: A Vision Transformer Inference Accelerator for Edge Applications**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2302.09108-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2302.09108)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.09108.pdf)
+
 **Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning**
 
 ![](https://img.shields.io/badge/Elsevier-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.suscom.2023.100857-sandybrown?style=flat-square)](https://doi.org/10.1016/j.suscom.2023.100857)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf)
+
+**TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2303.12914-sandybrown?style=flat-square)](https://doi.org/10.48550/arXiv.2303.12914)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.12914.pdf)
 
 **TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference**
 

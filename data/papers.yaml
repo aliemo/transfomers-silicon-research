@@ -14,7 +14,6 @@
   ignore: no
   silicon: yes
 
-
 2:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
   year: 2022
@@ -1581,6 +1580,7 @@
   pubtype: article
   pubshort:
   ignore: no
+  silicon: check
 
 119:
   title: "DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation"
@@ -2462,7 +2462,7 @@
   ignore: no
   silicon: yes
 
-208:
+20008:
   title: "HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU"
   year: 2021
   doi: https://doi.org/10.1145/3453688.3461740
@@ -3487,7 +3487,6 @@
   ignore: no
   silicon: yes
 
-
 297:
   title: "Row-wise Accelerator for Vision Transformer"
   year: 2022
@@ -3536,7 +3535,7 @@
   ignore: no
   silicon: yes
 
-300:
+3000:
   title: "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture"
   year: 2021
   doi: https://doi.org/10.1145/3466752.3480125
@@ -3568,7 +3567,7 @@
   ignore: no
   silicon: check
 
-303:
+30300:
   title: "SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference"
   year: 2023
   doi: https://doi.org/10.1016/j.jpdc.2022.11.005
@@ -4256,7 +4255,6 @@
   ignore: no
   silicon: yes
 
-
 372:
   title: "Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder"
   year: 2022
@@ -4369,7 +4367,7 @@
   ignore: no
   silicon: yes
 
-2008:
+208:
   title: "Towards Fully 8-bit Integer Inference for the Transformer Model"
   year: 2020
   doi: https://arxiv.org/abs/2009.08034
