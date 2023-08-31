@@ -19,12 +19,11 @@ def write_csv(data, outf, header=None):
 
     for h in header:
         d[h] = [x[h] for _,x in data.items()]
-        print(len([x[h] for _,x in data.items()]))
 
 
     df = pd.DataFrame.from_dict(d)
 
-    df.to_csv(outf)
+    df.to_csv(outf, index=False)
 
 
 
