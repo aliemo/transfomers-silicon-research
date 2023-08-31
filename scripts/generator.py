@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 
 import yaml
-
-import os
 import argparse
 
 
@@ -19,7 +17,7 @@ def write_md(data, outf, signle=True, with_header=True):
         with open('data/basic.txt') as f:
             lines = f.readlines()
             header += ''.join(lines)
-        
+
         with open('data/important.txt') as f:
             lines = f.readlines()
             header += ''.join(lines)
@@ -34,7 +32,7 @@ def write_md(data, outf, signle=True, with_header=True):
 
                 print(f'![](https://img.shields.io/badge/{paper["publisher"]}-{paper["year"]}-skyblue?colorstyle=flat-square)')
                 print(f'[![DOI-Link](https://img.shields.io/badge/DOI-{paper["doi"]}-sandybrown?style=flat-square)]({paper["url"]})')
-                
+
                 if paper['pdf']:
                     print(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
 
@@ -74,7 +72,7 @@ def write_md(data, outf, signle=True, with_header=True):
                         print(f'[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)]({paper["pdf"]})')
                     print()
                     print()
-                
+
                 print("---")
                 print()
         else:
@@ -99,7 +97,7 @@ def write_md(data, outf, signle=True, with_header=True):
                         f.write('\n')
 
                     f.write('---')
-                    f.write('\n')    
+                    f.write('\n')
 
 
 def read_yaml(inpf):
@@ -113,15 +111,15 @@ def read_yaml(inpf):
             # print(k)
             if p['ignore'] == False:
                 data[k]=p
-    
+
     return data
 
 def sort_by_year(xdata, signle=True):
-    
+
     if signle:
         return {k: v for k, v in sorted(xdata.items(), key=lambda x: x[1]['year'])}
-    
-    
+
+
     years = list(set([p['year'] for _, p in xdata.items()]))
 
     data = {k:{} for k in years}
@@ -133,7 +131,7 @@ def sort_by_year(xdata, signle=True):
 
 def main():
 
-    
+
     parser = argparse.ArgumentParser(description='Generate README.md')
     parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
@@ -141,10 +139,10 @@ def main():
 
     inpf = args.input
     outf = args.output
-    
+
     data = read_yaml(inpf)
     data = sort_by_year(data, signle=False)
-    write_md(data, outf, signle=False)    
+    write_md(data, outf, signle=False)
 
 if __name__ == '__main__':
     main()

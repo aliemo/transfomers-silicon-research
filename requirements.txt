@@ -1,2 +1,7 @@
 pyyaml
 bib2yaml
+ipython
+numpy
+pandas
+matplotlib
+seaborn
