@@ -12,8 +12,6 @@
   <img src="./data/img/BERT-on-Silicon.png" width="300" height="300" />
 </p>
 
-[![Goto-Papers](https://img.shields.io/badge/Goto-Papers-blue?labelColor=red&style=flat-square)](#Papers)
-
 ## BERT Model
 
 * BERT is a method of **pre-training language representations**, meaning that we **train a general-purpose *language understanding model*** on a large text corpus (like Wikipedia) and then use that model for downstream NLP tasks.
@@ -21,7 +19,7 @@
 * BERT was created and **published in 2018 by Jacob Devlin and his colleagues from Google**. BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks.
 
 <p align="center">
-  <img src="./data/img/BERT-ARCH.png" />
+  <img src="./data/img/BERT-ARCH.png" width='640' />
 </p>
 
 

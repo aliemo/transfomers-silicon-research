@@ -1,0 +1,5 @@
+## Analysis
+
+<p align="center">
+  <img src="./data/figs/publication_year.png" width='300'/>
+</p>
