@@ -1,8 +1,30 @@
 #!/usr/bin/env python
 
-import yaml
 import argparse
+import yaml
+import csv
+import pandas as pd
+import pprint
+from collections import Counter
 
+def write_csv(data, outf, header=None):
+
+    if header is None:
+        header = ['year','publisher', 'type','platform','model','method','title', 'doi','url','pdf',
+                  'ignore','silicon','pubkey','pubname','reserved']
+
+    d = {}
+    h = 'year'
+
+
+    for h in header:
+        d[h] = [x[h] for _,x in data.items()]
+        print(len([x[h] for _,x in data.items()]))
+
+
+    df = pd.DataFrame.from_dict(d)
+
+    df.to_csv(outf)
 
 
 
@@ -100,16 +122,26 @@ def write_md(data, outf, signle=True, with_header=True):
                     f.write('\n')
 
 
-def read_yaml(inpf):
+def read_yaml(inpf, ignore=False, silicon=False):
     data = {}
     with open(inpf) as f:
         content = yaml.safe_load(f)
 
 
     for k, p in content.items():
-        if p['year'] is not None:
-            # print(k)
+        if ignore:
             if p['ignore'] == False:
+                if silicon:
+                    if p['silicon']:
+                        data[k]=p
+                else:
+                    data[k]=p
+
+        else:
+            if silicon:
+                if p['silicon']:
+                    data[k]=p
+            else:
                 data[k]=p
 
     return data
@@ -135,14 +167,19 @@ def main():
     parser = argparse.ArgumentParser(description='Generate README.md')
     parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
+    parser.add_argument('-c', '--csv', type=str, default='__nocsv__', help='csv output file')
     args = parser.parse_args()
 
     inpf = args.input
     outf = args.output
-
+    csvf = args.csv
+    data = read_yaml(inpf, ignore=True, silicon=True)
+    csv_data = read_yaml(inpf)
     data = read_yaml(inpf)
-    data = sort_by_year(data, signle=False)
-    write_md(data, outf, signle=False)
+    data_y = sort_by_year(data, signle=False)
+    write_md(data_y, outf, signle=False)
+    if csvf != '__nocsv__':
+        write_csv(csv_data, csvf)
 
 if __name__ == '__main__':
     main()

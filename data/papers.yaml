@@ -1,4672 +1,4963 @@
 1:
   title: "A 28nm 27.5TOPS/W Approximate-Computing-Based Transformer Processor with Asymptotic Sparsity Speculating and Out-of-Order Computing"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISSCC42614.2022.9731686
   url: https://doi.org/10.1109/ISSCC42614.2022.9731686
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Solid- State Circuits Conference (ISSCC)
-  pubtype: article
-  pubshort: ISSCC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Solid- State Circuits Conference (ISSCC)"
+  reserved: DEADBEEF
 
 2:
   title: "A 40nm 5.6TOPS/W 239GOPS/mm2 Self-Attention Processor with Sign Random Projection-based Approximation"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
   url: https://doi.org/10.1109/ESSCIRC55480.2022.9911343
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)
-  pubtype: article
-  pubshort: IEEE-ESSCIRC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ESSCIRC 2022- IEEE 48th European Solid State Circuits Conference (ESSCIRC)"
+  reserved: DEADBEEF
 
 3:
   title: "A Dual-Mode Similarity Search Accelerator based on Embedding Compression for Online Cross-Modal Image-Text Retrieval"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/FCCM53951.2022.9786159
   url: https://doi.org/10.1109/FCCM53951.2022.9786159
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Field-Programmable Custom Computing Machines (FCCM)
-  pubtype: article
-  pubshort: IEEE-FCCM
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Field-Programmable Custom Computing Machines (FCCM)"
+  reserved: DEADBEEF
 
 4:
   title: "A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3564606
   url: https://doi.org/10.1145/3564606
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM Transactions on Architecture and Code Optimization
-  pubtype: article
-  pubshort: ACM-TACO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM Transactions on Architecture and Code Optimization"
+  reserved: DEADBEEF
 
 5:
   title: "A Fast Post-Training Pruning Framework for Transformers"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2204.09656
   url: https://doi.org/10.48550/arXiv.2204.09656
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort: arXiv-CSCL
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
 6:
   title: "A Framework for Accelerating Transformer-Based Language Model on ReRAM-Based Architecture"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TCAD.2021.3121264
   url: https://doi.org/10.1109/TCAD.2021.3121264
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-  pubtype: article
-  pubshort: TCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
 
 7:
   title: "A Framework for Area-efficient Multi-task BERT Execution on ReRAM-based Accelerators"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643471
   url: https://doi.org/10.1109/ICCAD51958.2021.9643471
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: IEEE/ACM International Conference On Computer Aided Design (ICCAD)
-  pubtype: article
-  pubshort: ICCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Conference On Computer Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
 8:
   title: "A Full-Stack Search Technique for Domain Optimized Deep Learning Accelerators"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3503222.3507767
   url: https://doi.org/10.1145/3503222.3507767
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
 9:
   title: "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530585
   url: https://doi.org/10.1145/3489517.3530585
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/IEEE
-  pub: ACM/IEEE Design Automation Conference
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference"
+  reserved: DEADBEEF
 
 10:
   title: "A Lite Romanian BERT: ALR-BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.3390/computers11040057
   url: https://doi.org/10.3390/computers11040057
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: MDPI
-  pub: Computers
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: MDPI
+  pubkey: ""
+  pubname: "Computers"
+  reserved: DEADBEEF
 
 11:
   title: "A Low-Cost Reconfigurable Nonlinear Core for Embedded DNN Applications"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/ICFPT51103.2020.00014
   url: https://doi.org/10.1109/ICFPT51103.2020.00014
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Field-Programmable Technology (ICFPT)
-  pubtype: article
-  pubshort: ICFPT
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Field-Programmable Technology (ICFPT)"
+  reserved: DEADBEEF
 
 12:
   title: "A Microcontroller is All You Need: Enabling Transformer Execution on Low-Power IoT Endnodes"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/COINS51742.2021.9524173
   url: https://doi.org/10.1109/COINS51742.2021.9524173
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Omni-Layer Intelligent Systems (COINS)
-  pubtype: article
-  pubshort: COINS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Conference on Omni-Layer Intelligent Systems (COINS)"
+  reserved: DEADBEEF
 
 13:
   title: "A Multi-Neural Network Acceleration Architecture"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/ISCA45697.2020.00081
   url: https://doi.org/10.1109/ISCA45697.2020.00081
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM/IEEE
-  pub: Annual International Symposium on Computer Architecture (ISCA)
-  pubtype: article
-  pubshort: ISCA
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM/IEEE
+  pubkey: ""
+  pubname: "Annual International Symposium on Computer Architecture (ISCA)"
+  reserved: DEADBEEF
 
 14:
   title: "A Power Efficient Neural Network Implementation on Heterogeneous FPGA and GPU Devices"
   year: 2019
+  type: article
   doi: https://doi.org/10.1109/IRI.2019.00040
   url: https://doi.org/10.1109/IRI.2019.00040
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: International Conference on Information Reuse and Integration for Data Science (IRI)
-  pubtype: article
-  pubshort: IRA
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "International Conference on Information Reuse and Integration for Data Science (IRI)"
+  reserved: DEADBEEF
 
 15:
   title: "A Primer in BERTology: What We Know About How BERT Works"
   year: 2020
+  type: article
   doi: https://doi.org/10.1162/tacl_a_00349
   url: https://doi.org/10.1162/tacl_a_00349
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: MIt%20Press
-  pub: Transactions of the Association for Computational Linguistics
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: MIt%20Press
+  pubkey: ""
+  pubname: "Transactions of the Association for Computational Linguistics"
+  reserved: DEADBEEF
 
 16:
   title: "A Quantitative Survey of Communication Optimizations in Distributed Deep Learning"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/MNET.011.2000530
   url: https://doi.org/10.1109/MNET.011.2000530
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE Network
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Network"
+  reserved: DEADBEEF
 
 17:
   title: "A Reconfigurable DNN Training Accelerator on FPGA"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/SiPS50750.2020.9195234
   url: https://doi.org/10.1109/SiPS50750.2020.9195234
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE Workshop on Signal Processing Systems (SiPS)
-  pubtype: article
-  pubshort: SiPS
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Workshop on Signal Processing Systems (SiPS)"
+  reserved: DEADBEEF
 
 18:
   title: "A Resource-Saving Energy-Efficient Reconfigurable Hardware Accelerator for BERT-based Deep Neural Network Language Models using FFT Multiplication"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937531
   url: https://doi.org/10.1109/ISCAS48785.2022.9937531
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Circuits and Systems (ISCAS)
-  pubtype: article
-  pubshort: ISCAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Circuits and Systems (ISCAS)"
+  reserved: DEADBEEF
 
 19:
   title: "A Self-Attention Network for Deep JSCCM: The Design and FPGA Implementation"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
   url: https://doi.org/10.1109/GLOBECOM48099.2022.10001518
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Global Communications Conference
-  pubtype: article
-  pubshort: null
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Global Communications Conference"
+  reserved: DEADBEEF
 
 20:
   title: "A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning"
   year: 2019
+  type: article
   doi: https://doi.org/10.48550/arXiv.1906.06253
   url: https://doi.org/10.48550/arXiv.1906.06253
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
 21:
   title: "A Study on Token Pruning for ColBERT"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2112.06540
   url: https://doi.org/10.48550/arXiv.2112.06540
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Information Retrieval
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Information Retrieval"
+  reserved: DEADBEEF
 
 22:
   title: "A White Paper on Neural Network Quantization"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2106.08295
   url: https://doi.org/10.48550/arXiv.2106.08295
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort: null
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
 23:
   title: "A^3: Accelerating Attention Mechanisms in Neural Networks with Approximation"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/HPCA47549.2020.00035
   url: https://doi.org/10.1109/HPCA47549.2020.00035
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort: HPCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
 24:
   title: "Emerging Neural Workloads and Their Impact on Hardware"
   year: 2020
+  type: article
   doi: https://doi.org/10.23919/DATE48585.2020.9116435
   url: https://doi.org/10.23919/DATE48585.2020.9116435
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
-  pubtype: article
-  pubshort: DATE
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+  reserved: DEADBEEF
 
 25:
   title: "Accelerated Device Placement Optimization with Contrastive Learning"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3472456.3472523
   url: https://doi.org/10.1145/3472456.3472523
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Conference on Parallel Processing
-  pubtype: article
-  pubshort: ICCP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Parallel Processing"
+  reserved: DEADBEEF
 
 26:
   title: "Accelerating attention mechanism on fpgas based on efficient reconfigurable systolic array"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3549937
   url: https://doi.org/10.1145/3549937
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM Transactions on Embedded Computing Systems
-  pubtype: article
-  pubshort: TECS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM Transactions on Embedded Computing Systems"
+  reserved: DEADBEEF
 
 27:
   title: "Accelerating attention through gradient-based learned runtime pruning"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3470496.3527423
   url: https://doi.org/10.1145/3470496.3527423
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Symposium on Computer Architecture
-  pubtype: article
-  pubshort: ISCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Computer Architecture"
+  reserved: DEADBEEF
 
 28:
   title: "Accelerating bandwidth-bound deep learning inference with main-memory accelerators"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3458817.3476146
   url: https://doi.org/10.1145/3458817.3476146
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Conference for High Performance Computing, Networking, Storage and Analysis
-  pubtype: article
-  pubshort: SC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference for High Performance Computing, Networking, Storage and Analysis"
+  reserved: DEADBEEF
 
 29:
   title: "Accelerating Emerging Neural Workloads"
   year: 2021
+  type: article
   doi: https://doi.org/10.25394/pgs.17139038.v1
   url: https://doi.org/10.25394/pgs.17139038.v1
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Purdue%20University
-  pub: Open Access Theses and Dissertations
-  pubtype: article
-  pubshort: null
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Open Access Theses and Dissertations"
+  reserved: DEADBEEF
 
 30:
   title: "Accelerating event detection with DGCNN and FPGAS"
   year: 2020
+  type: article
   doi: https://doi.org/10.3390/electronics9101666
   url: https://doi.org/10.3390/electronics9101666
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: Electronics
-  pubtype: article
-  pubshort: null
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronics"
+  reserved: DEADBEEF
 
 31:
   title: "Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ICCAD51958.2021.9643586
   url: https://doi.org/10.1109/ICCAD51958.2021.9643586
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: International Conference On Computer Aided Design (ICCAD)
-  pubtype: article
-  pubshort: ICCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference On Computer Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
 32:
   title: "Accelerating NLP Tasks on FPGA with Compressed BERT and a Hardware-Oriented Early Exit Method"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISVLSI54635.2022.00092
   url: https://doi.org/10.1109/ISVLSI54635.2022.00092
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Computer Society Annual Symposium on VLSI (ISVLSI)
-  pubtype: article
-  pubshort: ISVLSI
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Computer Society Annual Symposium on VLSI (ISVLSI)"
+  reserved: DEADBEEF
 
 33:
   title: "Accelerating Transformer Networks through Recomposing Softmax Layers"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/IISWC55918.2022.00018
   url: https://doi.org/10.1109/IISWC55918.2022.00018
   pdf: http://scale.snu.ac.kr/papers/2022-11-Conference-IISWC-Softmax-recomposition.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Workload Characterization (IISWC)
-  pubtype: article
-  pubshort: IIWSC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Workload Characterization (IISWC)"
+  reserved: DEADBEEF
 
 34:
   title: "Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ISQED51717.2021.9424344
   url: https://doi.org/10.1109/ISQED51717.2021.9424344
   pdf: https://wangshusen.github.io/papers/ISQED2021.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Quality Electronic Design (ISQED)
-  pubtype: article
-  pubshort: ISQED
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Quality Electronic Design (ISQED)"
+  reserved: DEADBEEF
 
 35:
   title: "Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3453688.3461739
   url: https://doi.org/10.1145/3453688.3461739
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: Proceedings of the 2021 on Great Lakes Symposium on VLSI
-  pubtype: article
-  pubshort: GLSVLSI
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Proceedings of the 2021 on Great Lakes Symposium on VLSI"
+  reserved: DEADBEEF
 
 36:
   title: "Achieving the Performance of All-Bank In-DRAM PIM With Standard Memory Interface: Memory-Computation Decoupling"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ACCESS.2022.3203051
   url: https://doi.org/10.1109/ACCESS.2022.3203051
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9870805
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Access
-  pubtype: article
-  pubshort: IEEE%20Access
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Access"
+  reserved: DEADBEEF
 
-40:
+37:
   title: "Adaptable Butterfly Accelerator for Attention-based NNs via Hardware and Algorithm Co-design"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/MICRO56248.2022.00050
   url: https://doi.org/10.1109/MICRO56248.2022.00050
   pdf: https://arxiv.org/pdf/2209.09570.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  reserved: DEADBEEF
 
-41:
+38:
   title: "Adapting by pruning: A case study on BERT"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2105.03343
   url: https://doi.org/10.48550/arXiv.2105.03343
   pdf: https://arxiv.org/pdf/2105.03343.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort: null
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-42:
+39:
   title: "Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3469116.3470012
   url: https://doi.org/10.1145/3469116.3470012
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: International Workshop on Embedded and Mobile Deep Learning
-  pubtype: article
-  pubshort: EMDL
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Workshop on Embedded and Mobile Deep Learning"
+  reserved: DEADBEEF
 
-43:
+40:
   title: "Adaptive Spatio-Temporal Graph Enhanced Vision-Language Representation for Video QA"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/TIP.2021.3076556
   url: https://doi.org/10.1109/TIP.2021.3076556
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE Transactions on Image Processing
-  pubtype: article
-  pubshort: TIP
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Transactions on Image Processing"
+  reserved: DEADBEEF
 
-44:
+41:
   title: "Algorithm-hardware Co-design of Attention Mechanism on FPGA Devices"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3477002
   url: https://doi.org/10.1145/3477002
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: Transactions on Embedded Computing System
-  pubtype: article
-  pubshort: TECS
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "Transactions on Embedded Computing System"
+  reserved: DEADBEEF
 
-45:
+42:
   title: "Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs"
   year: 2018
+  type: article
   doi: https://doi.org/10.1145/3240765.3240775
   url: https://doi.org/10.1145/3240765.3240775
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE/ACM
-  pub: International Conference on Computer-Aided Design (ICCAD)
-  pubtype: article
-  pubshort: ICCAD
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE/ACM
+  pubkey: ""
+  pubname: "International Conference on Computer-Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
-46:
+43:
   title: "AlphaTuning: Quantization-Aware Parameter-Efficient Adaptation of Large-Scale Pre-Trained Language Models"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2210.03858
   url: https://doi.org/10.48550/arXiv.2210.03858
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort: null
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-47:
+44:
   title: "Alternative non-BERT model choices for the textual classification in low-resource languages and environments"
   year: 2022
+  type: article
   doi: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
   url: http://dx.doi.org/10.18653/v1/2022.deeplo--1.20
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACL
-  pub: Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing
-  pubtype: article
-  pubshort: null
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACL
+  pubkey: ""
+  pubname: "Proceedings of the Third Workshop on Deep Learning for Low-Resource Natural Language Processing"
+  reserved: DEADBEEF
 
-48:
+45:
   title: "An Algorithm-Hardware Co-Optimized Framework for Accelerating N:M Sparse Transformers"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TVLSI.2022.3197282
   url: https://doi.org/10.1109/TVLSI.2022.3197282
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Very Large Scale Integration (VLSI) Systems (
-  pubtype: article
-  pubshort: TCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems ("
+  reserved: DEADBEEF
 
-49:
+46:
   title: "An Automatic and Efficient BERT Pruning for Edge AI Systems"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISQED54688.2022.9806197
   url: https://doi.org/10.1109/ISQED54688.2022.9806197
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: International Symposium on Quality Electronic Design (ISQED)
-  pubtype: article
-  pubshort: ISQED
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "International Symposium on Quality Electronic Design (ISQED)"
+  reserved: DEADBEEF
 
-50:
+47:
   title: "An Efficient Hardware Accelerator for Sparse Transformer Neural Networks"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937659
   url: https://doi.org/10.1109/ISCAS48785.2022.9937659
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Circuits and Systems (ISCAS)
-  pubtype: article
-  pubshort: ISCAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Circuits and Systems (ISCAS)"
+  reserved: DEADBEEF
 
-51:
+48:
   title: "An Efficient Transformer Inference Engine on DSP"
   year: 2023
+  type: article
   doi: https://doi.org/10.1007/978--3--031--22677--9_29
   url: https://doi.org/10.1007/978-3-031-22677-9_29
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Algorithms and Architectures for Parallel Processing
-  pubtype: article
-  pubshort: null
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Algorithms and Architectures for Parallel Processing"
+  reserved: DEADBEEF
 
-52:
+49:
   title: "An Empirical Analysis of BERT Embedding for Automated Essay Scoring"
   year: 2020
+  type: article
   doi: https://doi.org/10.14569/ijacsa.2020.0111027
   url: https://doi.org/10.14569/ijacsa.2020.0111027
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: TheSAI
-  pub: International Journal of Advanced Computer Science and Applications
-  pubtype: article
-  pubshort: IJACSA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Journal of Advanced Computer Science and Applications"
+  reserved: DEADBEEF
 
-53:
+50:
   title: "An Energy-Efficient Transformer Processor Exploiting Dynamic Weak Relevances in Global Attention"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/JSSC.2022.3213521
   url: https://doi.org/10.1109/JSSC.2022.3213521
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Journal of Solid-State Circuits
-  pubtype: article
-  pubshort: JSSC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Solid-State Circuits"
+  reserved: DEADBEEF
 
-54:
+51:
   title: "An Evaluation of Transfer Learning for Classifying Sales Engagement Emails at Large Scale"
   year: 2019
+  type: article
   doi: https://doi.org/10.1109/CCGRID.2019.00069
   url: https://doi.org/10.1109/CCGRID.2019.00069
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)
-  pubtype: article
-  pubshort: CCGRID
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGRID)"
+  reserved: DEADBEEF
 
-55:
+52:
   title: "An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TCSII.2022.3196055
   url: https://doi.org/10.1109/TCSII.2022.3196055
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: 'Transactions on Circuits and Systems II: Express Briefs'
-  pubtype: article
-  pubshort: TCSII
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Transactions on Circuits and Systems II: Express Briefs"
+  reserved: DEADBEEF
 
-56:
+53:
   title: "An investigation on different underlying quantization schemes for pre-trained language models"
   year: 2020
+  type: article
   doi: https://doi.org/10.1007/978--3--030--60450--9_29
   url: https://doi.org/10.1007/978-3-030-60450-9_29
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Natural Language Processing and Chinese Computing
-  pubtype: article
-  pubshort: null
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Natural Language Processing and Chinese Computing"
+  reserved: DEADBEEF
 
-57:
+54:
   title: "Analog-memory-based 14nm Hardware Accelerator for Dense Deep Neural Networks including Transformers"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISCAS48785.2022.9937292
   url: https://doi.org/10.1109/ISCAS48785.2022.9937292
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Circuits and Systems (ISCAS)
-  pubtype: article
-  pubshort: ISCAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Circuits and Systems (ISCAS)"
+  reserved: DEADBEEF
 
-58:
+55:
   title: "Answer Fast: Accelerating BERT on the Tensor Streaming Processor"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ASAP54787.2022.00022
   url: https://doi.org/10.1109/ASAP54787.2022.00022
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-  pubtype: article
-  pubshort: ASAP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Application-specific Systems, Architectures and Processors (ASAP)"
+  reserved: DEADBEEF
 
-59:
+56:
   title: "ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/MICRO56248.2022.00095
   url: https://doi.org/10.1109/MICRO56248.2022.00095
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  reserved: DEADBEEF
 
-60:
+57:
   title: "APT: The master-copy-free training method for quantised neural network on edge devices"
   year: 2022
+  type: article
   doi: https://doi.org/10.1016/j.jpdc.2022.04.005
   url: https://doi.org/10.1016/j.jpdc.2022.04.005
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Elsevier
-  pub: Journal of Parallel and Distributed Computing
-  pubtype: article
-  pubshort: JPDC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Parallel and Distributed Computing"
+  reserved: DEADBEEF
 
-61:
+58:
   title: "Aquabolt-XL: Samsung HBM2-PIM with in-memory processing for ML accelerators and beyond"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/HCS52781.2021.9567191
   url: https://doi.org/10.1109/HCS52781.2021.9567191
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Hot Chips 33 Symposium (HCS)
-  pubtype: article
-  pubshort: HCS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Hot Chips 33 Symposium (HCS)"
+  reserved: DEADBEEF
 
-63:
+59:
   title: "ATT: A Fault-Tolerant ReRAM Accelerator for Attention-based Neural Networks"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/ICCD50377.2020.00047
   url: https://doi.org/10.1109/ICCD50377.2020.00047
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Computer Design (ICCD)
-  pubtype: article
-  pubshort: ICCD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Computer Design (ICCD)"
+  reserved: DEADBEEF
 
-64:
+60:
   title: "AUBER: Automated BERT regularization"
   year: 2021
+  type: article
   doi: https://doi.org/10.1371/journal.pone.0253241
   url: https://doi.org/10.1371/journal.pone.0253241
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: PlosOne
-  pub: Plos one
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Plos one"
+  reserved: DEADBEEF
 
-65:
+61:
   title: "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2208.05163
   url: https://doi.org/10.48550/arXiv.2208.05163
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-66:
+62:
   title: "Automatic Mixed-Precision Quantization Search of BERT"
   year: 2021
+  type: article
   doi: https://doi.org/10.24963/ijcai.2021/472
   url: https://doi.org/10.24963/ijcai.2021/472
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-69:
+63:
   title: "Balance Multi-Head Attention based on Software and Hardware Co-design"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/CSCloud--EdgeCom54986.2022.00018
   url: https://doi.org/10.1109/CSCloud-EdgeCom54986.2022.00018
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Edge Computing and Scalable Cloud (EdgeCom)
-  pubtype: article
-  pubshort: EdgeCom
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Edge Computing and Scalable Cloud (EdgeCom)"
+  reserved: DEADBEEF
 
-70:
+64:
   title: "BEBERT: Efficient and robust binary ensemble BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2210.15976
   url: https://doi.org/10.48550/arXiv.2210.15976
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-71:
+65:
   title: "BERMo: What can BERT learn from ELMo?"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2110.15802
   url: https://doi.org/10.48550/arXiv.2110.15802
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-73:
+66:
   title: "BERT Model for Classification of Fake News using the Cloud Processing Capacity"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/R10--HTC53172.2021.9641632
   url: https://doi.org/10.1109/R10-HTC53172.2021.9641632
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE 9th Region 10 Humanitarian Technology Conference (R10-HTC)"
+  reserved: DEADBEEF
 
-74:
+67:
   title: "BERT model optimization methods for inference: a comparative study of five alternative BERT-model implementations"
   year: 2022
+  type: article
   doi: https://urn.fi/URN:NBN:fi--fe2022121270782
   url: https://urn.fi/URN:NBN:fi-fe2022121270782
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: LUT%20University
-  pub: School of Engineering Science, Tuotantotalous
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "School of Engineering Science, Tuotantotalous"
+  reserved: DEADBEEF
 
-75:
+68:
   title: "BERT on a Data Diet: Finding Important Examples by Gradient-Based Pruning"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2211.05610
   url: https://doi.org/10.48550/arXiv.2211.05610
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-76:
+69:
   title: "Bertinho: Galician BERT representations"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2103.13799
   url: https://doi.org/10.48550/arXiv.2103.13799
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-77:
+70:
   title: "BERTPerf: Inference Latency Predictor for BERT on ARM big.LITTLE Multi-Core Processors"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/SiPS55645.2022.9919203
   url: https://doi.org/10.1109/SiPS55645.2022.9919203
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub:  IEEE Workshop on Signal Processing Systems (SiPS)
-  pubtype: article
-  pubshort: SiPS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Workshop on Signal Processing Systems (SiPS)"
+  reserved: DEADBEEF
 
-78:
+71:
   title: "BERxiT: Early exiting for BERT with better fine-tuning and extension to regression"
   year: 2021
+  type: article
   doi: http://dx.doi.org/10.18653/v1/2021.--eacl--main.8
   url: http://dx.doi.org/10.18653/v1/2021.eacl-main.8
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACL
-  pub: Association%20for%20Computational%20Linguistics
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Association%20for%20Computational%20Linguistics"
+  reserved: DEADBEEF
 
-79:
+72:
   title: "Beyond preserved accuracy: Evaluating loyalty and robustness of BERT compression"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2109.03228
   url: https://doi.org/10.48550/arXiv.2109.03228
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-80:
+73:
   title: "BiBERT: Accurate Fully Binarized BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.06390
   url: https://doi.org/10.48550/arXiv.2203.06390
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-81:
+74:
   title: "Bigger&Faster: Two-stage Neural Architecture Search for Quantized Transformer Models"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2209.12127
   url: https://doi.org/10.48550/arXiv.2209.12127
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-82:
+75:
   title: "Binary Complex Neural Network Acceleration on FPGA : (Invited Paper)"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ASAP52443.2021.00021
   url: https://doi.org/10.1109/ASAP52443.2021.00021
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-  pubtype: article
-  pubshort: ASAP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Application-specific Systems, Architectures and Processors (ASAP)"
+  reserved: DEADBEEF
 
-83:
+76:
   title: "Binarybert: Pushing the limit of bert quantization"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2012.15701
   url: https://doi.org/10.48550/arXiv.2012.15701
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-84:
+77:
   title: "Biomedical Named Entity Recognition at Scale"
   year: 2021
+  type: article
   doi: https://doi.org/10.1007/978--3--030--68763--2_48
   url: https://doi.org/10.1007/978-3-030-68763-2_48
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Pattern Recognition
-  pubtype: article
-  pubshort: ICPR
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Pattern Recognition"
+  reserved: DEADBEEF
 
-86:
+78:
   title: "BiT: Robustly Binarized Multi-distilled Transformer"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2205.13016
   url: https://doi.org/10.48550/arXiv.2205.13016
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-87:
+79:
   title: "Block pruning for faster transformers"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2109.04838
   url: https://doi.org/10.48550/arXiv.2109.04838
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-88:
+80:
   title: "Boosting Distributed Training Performance of the Unpadded BERT Model"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2208.08124
   url: https://doi.org/10.48550/arXiv.2208.08124
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Distributed, Parallel, and Cluster Computing
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Distributed, Parallel, and Cluster Computing"
+  reserved: DEADBEEF
 
-89:
+81:
   title: "Capuchin: Tensor-based GPU Memory Management for Deep Learning"
   year: 2020
+  type: article
   doi: https://doi.org/10.1145/3373376.3378505
   url: https://doi.org/10.1145/3373376.3378505
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Conference on Architectural Support for Programming Languages and Operating Systems
-  pubtype: article
-  pubshort: ASPLOS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
+  reserved: DEADBEEF
 
-90:
+82:
   title: "CATBERT: Context-Aware Tiny BERT for Detecting Social Engineering Emails"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Cryptography and Security
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Cryptography and Security"
+  reserved: DEADBEEF
 
-91:
+83:
   title: "CatBERT: Context-Aware Tiny BERT for Detecting Targeted Social Engineering Emails"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2010.03484
   url: https://doi.org/10.48550/arXiv.2010.03484
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Cryptography and Security
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Cryptography and Security"
+  reserved: DEADBEEF
 
-93:
+84:
   title: "CHARM: Composing Heterogeneous Accelerators for Matrix Multiply on Versal ACAP Architecture"
   year: 2023
+  type: article
   doi: https://doi.org/10.48550/arXiv.2301.02359
   url: https://doi.org/10.48550/arXiv.2301.02359
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-94:
+85:
   title: "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT"
   year: 2020
+  type: article
   doi: https://doi.org/10.1145/3397271.3401075
   url: https://doi.org/10.1145/3397271.3401075
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International ACM SIGIR Conference on Research and Development in Information Retrieval
-  pubtype: article
-  pubshort: SIGIR
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International ACM SIGIR Conference on Research and Development in Information Retrieval"
+  reserved: DEADBEEF
 
-95:
+86:
   title: "Combining Feature Selection Methods with BERT: An In-depth Experimental Study of Long Text Classification"
   year: 2020
+  type: article
   doi: https://doi.org/10.1007/978--3--030--67537--0_34
   url: https://doi.org/10.1007/978-3-030-67537-0_34
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: "International Conference on Collaborative Computing: Networking, Applications and Worksharing"
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Collaborative Computing: Networking, Applications and Worksharing"
+  reserved: DEADBEEF
 
-96:
+87:
   title: "Compact Token Representations with Contextual Quantization for Efficient Document Re-ranking"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.15328
   url: https://doi.org/10.48550/arXiv.2203.15328
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Information Retrieval
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Information Retrieval"
+  reserved: DEADBEEF
 
-97:
+88:
   title: "Comparison of Deep Learning Models and Various Text Pre-Processing Techniques for the Toxic Comments Classification"
   year: 2020
+  type: article
   doi: https://doi.org/10.3390/app10238631
   url: https://doi.org/10.3390/app10238631
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: "Natural Language Processing: Emerging Neural Approaches and Applications"
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Natural Language Processing: Emerging Neural Approaches and Applications"
+  reserved: DEADBEEF
 
-98:
+89:
   title: "Compressing BERT: Studying the Effects of Weight Pruning on Transfer Learning"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2002.08307
   url: https://doi.org/10.48550/arXiv.2002.08307
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-99:
+90:
   title: "Compressing Large-Scale Transformer-Based Models: A Case Study on BERT"
   year: 2021
+  type: article
   doi: https://doi.org/10.1162/tacl_a_00413
   url: https://doi.org/10.1162/tacl_a_00413
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MIT%20Press
-  pub: Transactions of the Association for Computational Linguistics
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Transactions of the Association for Computational Linguistics"
+  reserved: DEADBEEF
 
-100:
+91:
   title: "Compressing Pre-trained Transformers via Low-Bit NxM Sparsity for Natural Language Understanding"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2206.15014
   url: https://doi.org/10.48550/arXiv.2206.15014
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-101:
+92:
   title: "Compression of deep learning models for NLP"
   year: 2020
+  type: article
   doi: https://doi.org/10.1145/3340531.3412171
   url: https://doi.org/10.1145/3340531.3412171
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Information & Knowledge Managemen
-  pubtype: article
-  pubshort: CIKM
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM International Conference on Information & Knowledge Managemen"
+  reserved: DEADBEEF
 
-102:
+93:
   title: "Compression of Generative Pre-trained Language Models via Quantization"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.10705
   url: https://doi.org/10.48550/arXiv.2203.10705
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-103:
+94:
   title: "CONNA: Configurable Matrix Multiplication Engine for Neural Network Acceleration"
   year: 2022
+  type: article
   doi: https://doi.org/10.3390/electronics11152373
   url: https://doi.org/10.3390/electronics11152373
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: Electronics
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronics"
+  reserved: DEADBEEF
 
-105:
+95:
   title: "CPSAA: Accelerating Sparse Attention using Crossbar-based Processing-In-Memory Architecture"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2210.06696
   url: https://doi.org/10.48550/arXiv.2210.06696
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-107:
+96:
   title: "DAP-BERT: Differentiable Architecture Pruning of BERT"
   year: 2021
+  type: article
   doi: https://doi.org/10.1007/978--3--030--92185--9_30
   url: https://doi.org/10.1007/978-3-030-92185-9_30
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Neural Information Processing
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Neural Information Processing"
+  reserved: DEADBEEF
 
-111:
+97:
   title: "Deep Learning Acceleration with Neuron-to-Memory Transformation"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/HPCA47549.2020.00011
   url: https://doi.org/10.1109/HPCA47549.2020.00011
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort: HPCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
-114:
+98:
   title: "Demystifying BERT: Implications for Accelerator Design"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2104.08335
   url: https://doi.org/10.48550/arXiv.2104.08335
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-115:
+99:
   title: "Demystifying BERT: System Design Implications"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/IISWC55918.2022.00033
   url: https://doi.org/10.1109/IISWC55918.2022.00033
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: International Symposium on Workload Characterization (IISWC)
-  pubtype: article
-  pubshort:
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "International Symposium on Workload Characterization (IISWC)"
+  reserved: DEADBEEF
 
-119:
+100:
   title: "DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/MICRO56248.2022.00051
   url: https://doi.org/10.1109/MICRO56248.2022.00051
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Microarchitecture (MICRO)
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Microarchitecture (MICRO)"
+  reserved: DEADBEEF
 
-124:
+101:
   title: "DiVIT: Algorithm and architecture co-design of differential attention in vision transformer"
   year: 2022
+  type: article
   doi: https://doi.org/10.1016/j.sysarc.2022.102520
   url: https://doi.org/10.1016/j.sysarc.2022.102520
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Elsevier
-  pub: Journal of Systems Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Systems Architecture"
+  reserved: DEADBEEF
 
-125:
+102:
   title: "DOTA: Detect and Omit Weak Attentions for Scalable Transformer Acceleration"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3503222.3507738
   url: https://doi.org/10.1145/3503222.3507738
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
-  pubtype: article
-  pubshort: ASPLOS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)"
+  reserved: DEADBEEF
 
-127:
+103:
   title: "DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.11239
   url: https://doi.org/10.48550/arXiv.2203.11239
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-128:
+104:
   title: "DTATrans: Leveraging Dynamic Token-Based Quantization With Accuracy Compensation Mechanism for Efficient Transformer Architecture"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/TCAD.2022.3181541
   url: https://doi.org/10.1109/TCAD.2022.3181541
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
-  pubtype: article
-  pubshort: TCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
 
-129:
+105:
   title: "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture"
   year: 2022
+  type: article
   doi: https://doi.org/10.23919/DATE54114.2022.9774692
   url: https://doi.org/10.23919/DATE54114.2022.9774692
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Design, Automation & Test in Europe Conference & Exhibition (DATE)
-  pubtype: article
-  pubshort: DATE
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+  reserved: DEADBEEF
 
-130:
+106:
   title: "Dynamic Precision Analog Computing for Neural Networks"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/JSTQE.2022.3218019
   url: https://doi.org/10.1109/JSTQE.2022.3218019
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Journal of Selected Topics in Quantum Electronics
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Journal of Selected Topics in Quantum Electronics"
+  reserved: DEADBEEF
 
-131:
+107:
   title: "Dynamic-TinyBERT: Boost TinyBERT's Inference Efficiency by Dynamic Sequence Length"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2111.09645
   url: https://doi.org/10.48550/arXiv.2111.09645
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-132:
+108:
   title: "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/IPDPS49936.2021.00068
   url: https://doi.org/10.1109/IPDPS49936.2021.00068
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Parallel and Distributed Processing Symposium (IPDPS)
-  pubtype: article
-  pubshort: IPDPS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Parallel and Distributed Processing Symposium (IPDPS)"
+  reserved: DEADBEEF
 
-133:
+109:
   title: "Earlybert: Efficient bert training via early-bird lottery tickets"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2101.00063
   url: https://doi.org/10.48550/arXiv.2101.00063
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-134:
+110:
   title: "EBERT: Efficient BERT Inference with Dynamic Structured Pruning"
   year: 2021
+  type: article
   doi: http://dx.doi.org/10.18653/v1/2021.findings--acl.425
   url: http://dx.doi.org/10.18653/v1/2021.findings-acl.425
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACL
-  pub: ACL Findings
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACL Findings"
+  reserved: DEADBEEF
 
-135:
+111:
   title: "EdgeBERT: Sentence-Level Energy Optimizations for Latency-Aware Multi-Task NLP Inference"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3466752.3480095
   url: https://doi.org/10.1145/3466752.3480095
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: IEEE/ACM International Symposium on Microarchitecture
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture"
+  reserved: DEADBEEF
 
-136:
+112:
   title: "EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers"
   year: 2022
+  type: article
   doi: https://doi.org/10.3390/electronics11213550
   url: https://doi.org/10.3390/electronics11213550
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: Electronics
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronics"
+  reserved: DEADBEEF
 
-139:
+113:
   title: "Efficient algorithms and hardware for natural language processing"
   year: 2020
+  type: article
   doi: https://hdl.handle.net/1721.1/127440
   url: https://hdl.handle.net/1721.1/127440
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MIT
-  pub: MIT Master's Thesis
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "MIT Master's Thesis"
+  reserved: DEADBEEF
 
-143:
+114:
   title: "Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2210.17170v1
   url: https://arxiv.org/abs/2210.17170v1
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Information Retrieval
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Information Retrieval"
+  reserved: DEADBEEF
 
-144:
+115:
   title: "Efficient transformer-based large scale language representations using hardware-friendly block structured pruning"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2009.08065
   url: https://doi.org/10.48550/arXiv.2009.08065
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:  arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-146:
+116:
   title: "Elastic Processing and Hardware Architectures for Machine Learning"
   year: 2022
+  type: article
   doi: 3e9f91ca96ba3320587da2bbec561a2b/
   url: https://www.proquest.com/openview/3e9f91ca96ba3320587da2bbec561a2b/
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ProQuest
-  pub: UC Santa Barbara Ph.D. Dissertation
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "UC Santa Barbara Ph.D. Dissertation"
+  reserved: DEADBEEF
 
-148:
+117:
   title: "ELSA: Hardware-Software co-design for efficient, lightweight self-attention mechanism in neural networks"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ISCA52012.2021.00060
   url: https://doi.org/10.1109/ISCA52012.2021.00060
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Computer Architecture (ISCA)
-  pubtype: article
-  pubshort: ISCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Computer Architecture (ISCA)"
+  reserved: DEADBEEF
 
-150:
+118:
   title: "Empirical Evaluation of Post-Training Quantization Methods for Language Tasks"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2210.16621
   url: https://doi.org/10.48550/arXiv.2210.16621
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-151:
+119:
   title: "Enabling and Accelerating Dynamic Vision Transformer Inference for Real-Time Applications"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2212.02687
   url: https://doi.org/10.48550/arXiv.2212.02687
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-152:
+120:
   title: "Enabling Efficient Large-Scale Deep Learning Training with Cache Coherent Disaggregated Memory Systems"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/HPCA53966.2022.00018
   url: https://doi.org/10.1109/HPCA53966.2022.00018
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High-Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort: HPCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High-Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
-153:
+121:
   title: "Enabling energy-efficient DNN training on hybrid GPU-FPGA accelerators"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3447818.3460371
   url: https://doi.org/10.1145/3447818.3460371
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: Proceedings of the ACM International Conference on Supercomputing
-  pubtype: article
-  pubshort: ICS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Proceedings of the ACM International Conference on Supercomputing"
+  reserved: DEADBEEF
 
-155:
+122:
   title: "Enabling Energy-Efficient Inference for Self-Attention Mechanisms in Neural Networks"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/AICAS54282.2022.9869924
   url: https://doi.org/10.1109/AICAS54282.2022.9869924
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Artificial Intelligence Circuits and Systems (AICAS)
-  pubtype: article
-  pubshort: AICAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Artificial Intelligence Circuits and Systems (AICAS)"
+  reserved: DEADBEEF
 
-156:
+123:
   title: "Enabling fast uncertainty estimation: accelerating bayesian transformers via algorithmic and hardware optimizations"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://doi.org/10.1145/3489517.3530451
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM/IEEE Design Automation Conference (DAC)
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference (DAC)"
+  reserved: DEADBEEF
 
-157:
+124:
   title: "Enabling Fast Uncertainty Estimation: Exploiting Structured Sparsity in Bayesian Transformers"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530451
   url: https://spiral.imperial.ac.uk/bitstream/10044/1/96226/2/dac22hf3_final_bayesatt.pdf
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM/IEEE Design Automation Conference (DAC)
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference (DAC)"
+  reserved: DEADBEEF
 
-158:
+125:
   title: "Enabling One-Size-Fits-All Compilation Optimization for Inference Across Machine Learning Computers"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/TC.2021.3128266
   url: https://doi.org/10.1109/TC.2021.3128266
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE Transactions on Computers
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Transactions on Computers"
+  reserved: DEADBEEF
 
-159:
+126:
   title: "Energy efficiency boost in the AI-infused POWER10 processor"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ISCA52012.2021.00012
   url: https://doi.org/10.1109/ISCA52012.2021.00012
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Computer Architecture (ISCA)
-  pubtype: article
-  pubshort: ISCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Computer Architecture (ISCA)"
+  reserved: DEADBEEF
 
-160:
+127:
   title: "ENEX-FP: A BERT-Based Address Recognition Model"
   year: 2023
+  type: article
   doi: https://doi.org/10.3390/electronics12010209
   url: https://doi.org/10.3390/electronics12010209
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: Electronics
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronics"
+  reserved: DEADBEEF
 
-161:
+128:
   title: "Ensemble Model Compression for Fast and Energy-Efficient Ranking on FPGAs"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--3--030--99736--6_18
   url: https://doi.org/10.1007/978-3-030-99736-6_18
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: European Conference on Information Retrieval (ECIR)
-  pubtype: article
-  pubshort: ECIR
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "European Conference on Information Retrieval (ECIR)"
+  reserved: DEADBEEF
 
-164:
+129:
   title: "Extending the ONNX Runtime Framework for the Processing-in-Memory Execution"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ICEIC54506.2022.9748444
   url: https://doi.org/10.1109/ICEIC54506.2022.9748444
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Electronics, Information, and Communication (ICEIC)
-  pubtype: article
-  pubshort: ICEIC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Electronics, Information, and Communication (ICEIC)"
+  reserved: DEADBEEF
 
-165:
+130:
   title: "Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2206.01859
   url: https://doi.org/10.48550/arXiv.2206.01859
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-166:
+131:
   title: "FARM: A flexible accelerator for recurrent and memory augmented neural networks"
   year: 2020
+  type: article
   doi: https://doi.org/10.1007/s11265--020--01555--w
   url: https://doi.org/10.1007/s11265-020-01555-w
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: Journal of Signal Processing Systems
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Signal Processing Systems"
+  reserved: DEADBEEF
 
-170:
+132:
   title: "Fast Heterogeneous Task Mapping for Reducing Edge DNN Latency"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ASAP54787.2022.00020
   url: https://doi.org/10.1109/ASAP54787.2022.00020
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-  pubtype: article
-  pubshort: ASAP
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "International Conference on Application-specific Systems, Architectures and Processors (ASAP)"
+  reserved: DEADBEEF
 
-171:
+133:
   title: "Fastformers: Highly efficient transformer models for natural language understanding"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2010.13382
   url: https://doi.org/10.48550/arXiv.2010.13382
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-175:
+134:
   title: "FILM-QNN: Efficient FPGA Acceleration of Deep Neural Networks with Intra-Layer, Mixed-Precision Quantization"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3490422.3502364
   url: https://doi.org/10.1145/3490422.3502364
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/SIGDA
-  pub: International Symposium on Field-Programmable Gate Arrays
-  pubtype: article
-  pubshort: FPGA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Field-Programmable Gate Arrays"
+  reserved: DEADBEEF
 
-176:
+135:
   title: "Fine-and Coarse-Granularity Hybrid Self-Attention for Efficient BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.09055
   url: https://doi.org/10.48550/arXiv.2203.09055
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-178:
+136:
   title: "Fixed-point Quantization for Vision Transformer"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/CAC53003.2021.9728246
   url: https://doi.org/10.1109/CAC53003.2021.9728246
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: China Automation Congress (CAC)
-  pubtype: article
-  pubshort: CAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "China Automation Congress (CAC)"
+  reserved: DEADBEEF
 
-179:
+137:
   title: "FlexACC: A Programmable Accelerator with Application-Specific ISA for Flexible Deep Neural Network Inference"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ASAP52443.2021.00046
   url: https://doi.org/10.1109/ASAP52443.2021.00046
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Application-specific Systems, Architectures and Processors (ASAP)
-  pubtype: article
-  pubshort: ASAP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Application-specific Systems, Architectures and Processors (ASAP)"
+  reserved: DEADBEEF
 
-181:
+138:
   title: "FPGA-aware automatic acceleration framework for vision transformer with mixed-scheme quantization: late breaking results"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530618
   url: https://doi.org/10.1145/3489517.3530618
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/IEEE
-  pub: ACM/IEEE Design Automation Conference
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference"
+  reserved: DEADBEEF
 
-184:
+139:
   title: "FPGA-based design and implementation of the location attention mechanism in neural networks"
   year: 2022
+  type: article
   doi: https://doi.org/10.3233/JIFS--212273
   url: https://doi.org/10.3233/JIFS-212273
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher: "IOS%20Press"
-  pub: Journal of Intelligent & Fuzzy Systems
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: IOS%20Press
+  pubkey: ""
+  pubname: "Journal of Intelligent & Fuzzy Systems"
+  reserved: DEADBEEF
 
-187:
+140:
   title: "From dense to sparse: Contrastive pruning for better pre-trained language model compression"
   year: 2022
+  type: article
   doi: https://doi.org/10.1609/aaai.v36i10.21408
   url: https://doi.org/10.1609/aaai.v36i10.21408
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: AAAI
-  pub: AAAI Technical Track on Speech and Natural Language Processing
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: AAAI
+  pubkey: ""
+  pubname: "AAAI Technical Track on Speech and Natural Language Processing"
+  reserved: DEADBEEF
 
-188:
+141:
   title: "FTRANS: energy-efficient acceleration of transformers using FPGA"
   year: 2020
+  type: article
   doi: https://doi.org/10.1145/3370748.3406567
   url: https://doi.org/10.1145/3370748.3406567
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/IEEE
-  pub: ACM/IEEE International Symposium on Low Power Electronics and Design
-  pubtype: article
-  pubshort: ISLPED
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE International Symposium on Low Power Electronics and Design"
+  reserved: DEADBEEF
 
-190:
+142:
   title: "Future Scaling of Memory Hierarchy for Tensor Cores and Eliminating Redundant Shared Memory Traffic Using Inter-Warp Multicastin"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TC.2022.3207134
   url: https://doi.org/10.1109/TC.2022.3207134
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computers
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Computers"
+  reserved: DEADBEEF
 
-191:
+143:
   title: "Gemmini: Enabling systematic deep-learning architecture evaluation via full-stack integration"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/DAC18074.2021.9586216
   url: https://doi.org/10.1109/DAC18074.2021.9586216
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: ACM/IEEE Design Automation Conference (DAC)
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference (DAC)"
+  reserved: DEADBEEF
 
-194:
+144:
   title: "Gobo: Quantizing attention-based nlp models for low latency and energy efficient inference"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/MICRO50266.2020.00071
   url: https://doi.org/10.1109/MICRO50266.2020.00071
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  reserved: DEADBEEF
 
-196:
+145:
   title: "Greedy-layer pruning: Speeding up transformer models for natural language processing"
   year: 2022
+  type: article
   doi: https://doi.org/10.1016/j.patrec.2022.03.023
   url: https://doi.org/10.1016/j.patrec.2022.03.023
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Elsevier
-  pub: Pattern Recognition Letters
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Pattern Recognition Letters"
+  reserved: DEADBEEF
 
-197:
+146:
   title: "GuardNN: secure accelerator architecture for privacy-preserving deep learning"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530439
   url: https://doi.org/10.1145/3489517.3530439
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/IEEE
-  pub: ACM/IEEE Design Automation Conference
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference"
+  reserved: DEADBEEF
 
-198:
+147:
   title: "HAMMER: Hardware-friendly Approximate Computing for Self-attention with Mean-redistribution and Linearization"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/LCA.2022.3233832
   url: https://doi.org/10.1109/LCA.2022.3233832
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Computer Architecture Letters
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Computer Architecture Letters"
+  reserved: DEADBEEF
 
-199:
+148:
   title: "Handling heavy-tailed input of transformer inference on GPUs"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3524059.3532372
   url: https://doi.org/10.1145/3524059.3532372
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Supercomputing (ICS)
-  pubtype: article
-  pubshort: ICS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM International Conference on Supercomputing (ICS)"
+  reserved: DEADBEEF
 
-200:
+149:
   title: "Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing"
   year: 2021
+  type: article
   doi: https://doi.org/10.23919/DATE51398.2021.9474043
   url: https://doi.org/10.23919/DATE51398.2021.9474043
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub:  Design, Automation & Test in Europe Conference & Exhibition (DATE)
-  pubtype: article
-  pubshort: DATE
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Design, Automation & Test in Europe Conference & Exhibition (DATE)"
+  reserved: DEADBEEF
 
-201:
+150:
   title: "Hardware acceleration of sparse and irregular tensor computations of ml models: A survey and insights"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/JPROC.2021.3098483
   url: https://doi.org/10.1109/JPROC.2021.3098483
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Proceedings of the IEEE
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Proceedings of the IEEE"
+  reserved: DEADBEEF
 
-202:
+151:
   title: "Hardware Acceleration of Transformer Networks using FPGAs"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/PACET56979.2022.9976354
   url: https://doi.org/10.1109/PACET56979.2022.9976354
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Panhellenic Conference on Electronics & Telecommunications (PACET)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Panhellenic Conference on Electronics & Telecommunications (PACET)"
+  reserved: DEADBEEF
 
-203:
+152:
   title: "Hardware accelerator for multi-head attention and position-wise feed-forward in the transformer"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/SOCC49529.2020.9524802
   url: https://doi.org/10.1109/SOCC49529.2020.9524802
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International System-on-Chip Conference (SOCC)
-  pubtype: article
-  pubshort: DOCC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International System-on-Chip Conference (SOCC)"
+  reserved: DEADBEEF
 
-204:
+153:
   title: "Hardware and Software Co-design for Soft Switch in ViT Variants Processing Unit"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--3--031--10989--8_55
   url: https://doi.org/10.1007/978-3-031-10989-8_55
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Knowledge Science, Engineering and Management
-  pubtype: article
-  pubshort: KSEM
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Knowledge Science, Engineering and Management"
+  reserved: DEADBEEF
 
-205:
+154:
   title: "Hardware and Software Co-optimization for Windows Attention"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--3--031--10989--8_52
   url: https://doi.org/10.1007/978-3-031-10989-8_52
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub: International Conference on Knowledge Science, Engineering and Management
-  pubtype: article
-  pubshort: KSEM
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "International Conference on Knowledge Science, Engineering and Management"
+  reserved: DEADBEEF
 
-20008:
+155:
   title: "HMC-TRAN: A Tensor-core Inspired Hierarchical Model Compression for Transformer-based DNNs on GPU"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3453688.3461740
   url: https://doi.org/10.1145/3453688.3461740
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: Great Lakes Symposium on VLSI
-  pubtype: article
-  pubshort: GLSVLSI
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Great Lakes Symposium on VLSI"
+  reserved: DEADBEEF
 
-209:
+156:
   title: "HoloFormer: Deep Compression of Pre-Trained Transforms via Unified Optimization of N: M Sparsity and Integer Quantization"
   year: 2021
-  doi:
-  url:
+  type: article
+  doi: None
+  url: None
   pdf: https://openreview.net/pdf?id=eAEcdRkcMHh
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher:
-  pub:
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-210:
+157:
   title: "How Deep Learning Model Architecture and Software Stack Impacts Training Performance in the Cloud"
   year: 2021
+  type: article
   doi: https://doi.org/978--3--030--89385--9
   url: https://doi.org/978-3-030-89385-9
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Springer
-  pub: Engineering Artificially Intelligent Systems
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Springer
+  pubkey: ""
+  pubname: "Engineering Artificially Intelligent Systems"
+  reserved: DEADBEEF
 
-211:
+158:
   title: "How to Train BERT with an Academic Budget"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2104.07705
   url: https://doi.org/10.48550/arXiv.2104.07705
   pdf: https://arxiv.org/pdf/2104.07705.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-212:
+159:
   title: "I-BERT: Integer-only BERT Quantization"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2101.01321
   url: https://proceedings.mlr.press/v139/kim21d.html
   pdf: http://proceedings.mlr.press/v139/kim21d/kim21d.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: PMLR
-  pub: Proceedings of Machine Learning Research
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Proceedings of Machine Learning Research"
+  reserved: DEADBEEF
 
-213:
+160:
   title: "Improving Accuracy and Speeding Up Document Image Classification Through Parallel Systems"
   year: 2020
+  type: article
   doi: https://doi.org/10.1007/978--3--030--50417--5_29
   url: https://doi.org/10.1007/978-3-030-50417-5_29
   pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7302855/pdf/978-3-030-50417-5_Chapter_29.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Computational Science
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Computational Science"
+  reserved: DEADBEEF
 
-214:
+161:
   title: "Improving Oversubscribed GPU Memory Performance in the PyTorch Framework"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/s10586--022--03805--x
   url: https://doi.org/10.1007/s10586-022-03805-x
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: Cluster Computing
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Cluster Computing"
+  reserved: DEADBEEF
 
-215:
+162:
   title: "Improving post training neural quantization: Layer-wise calibration and integer programming"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2006.10518
   url: https://arxiv.org/abs/2006.10518
   pdf: https://arxiv.org/pdf/2006.10518.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-216:
+163:
   title: "Improving the efficiency of transformers for resource-constrained devices"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/DSD53832.2021.00074
   url: https://doi.org/10.1109/DSD53832.2021.00074
   pdf: https://arxiv.org/pdf/2106.16006.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Euromicro Conference on Digital System Design (DSD)
-  pubtype: article
-  pubshort: DSD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Euromicro Conference on Digital System Design (DSD)"
+  reserved: DEADBEEF
 
-219:
+164:
   title: "Integer Fine-tuning of Transformer-based Models"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2209.09815
   url: https://doi.org/10.48550/arXiv.2209.09815
   pdf: https://arxiv.org/pdf/2209.09815.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-220:
+165:
   title: "Integer quantization for deep learning inference: Principles and empirical evaluation"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2004.09602
   url: https://doi.org/10.48550/arXiv.2004.09602
   pdf: https://arxiv.org/pdf/2004.09602.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-221:
+166:
   title: "KAISA: An adaptive second-order optimizer framework for deep neural networks"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3458817.3476152
   url: https://doi.org/10.1145/3458817.3476152
   pdf: https://arxiv.org/pdf/2107.01739.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: International Conference for High Performance Computing, Networking, Storage and Analysis
-  pubtype: article
-  pubshort: SC21
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference for High Performance Computing, Networking, Storage and Analysis"
+  reserved: DEADBEEF
 
-222:
+167:
   title: "KDLSQ-BERT: A Quantized Bert Combining Knowledge Distillation with Learned Step Size Quantization"
   year: 2021
+  type: article
   doi: https://doi.org/10.48550/arXiv.2101.05938
   url: https://doi.org/10.48550/arXiv.2101.05938
   pdf: https://arxiv.org/pdf/2101.05938.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-223:
+168:
   title: "Kunlun: A 14nm High-Performance AI Processor for Diversified Workloads"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ISSCC42613.2021.9366056
   url: https://doi.org/10.1109/ISSCC42613.2021.9366056
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Solid- State Circuits Conference (ISSCC)
-  pubtype: article
-  pubshort: ISSCC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Solid- State Circuits Conference (ISSCC)"
+  reserved: DEADBEEF
 
-224:
+169:
   title: "Ladabert: Lightweight adaptation of bert through hybrid model compression"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2004.04124
   url: https://doi.org/10.48550/arXiv.2004.04124
   pdf: https://arxiv.org/pdf/2004.04124.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-226:
+170:
   title: "Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/HPCA51647.2021.00056
   url: https://doi.org/10.1109/HPCA51647.2021.00056
   pdf: https://taejunham.github.io/data/layerweaver_hpca21.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High-Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort: HPCA
-  ignore: No
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High-Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
-227:
+171:
   title: "Learned Token Pruning in Contextualized Late Interaction over BERT (ColBERT)"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3477495.3531835
   url: https://doi.org/10.1145/3477495.3531835
   pdf: https://web.Arxiv.org/web/20220713100651id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3531835
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM SIGIR Conference on Research and Development in Information Retrieval
-  pubtype: article
-  pubshort: SIGIR
-  ignore: yes
-  silicon: no
+  pubkey: ""
+  pubname: "ACM SIGIR Conference on Research and Development in Information Retrieval"
+  reserved: DEADBEEF
 
-228:
+172:
   title: "Learning Light-Weight Translation Models from Deep Transformer"
   year: 2021
+  type: article
   doi: https://doi.org/10.1609/aaai.v35i15.17561
   url: https://doi.org/10.1609/aaai.v35i15.17561
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/17561/17368
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: AAAI
-  pub: AAAI Technical Track on Speech and Natural Language Processing II
-  pubtype: article
-  pubshort:
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: AAAI
+  pubkey: ""
+  pubname: "AAAI Technical Track on Speech and Natural Language Processing II"
+  reserved: DEADBEEF
 
-229:
+173:
   title: "Lightweight Composite Re-Ranking for Efficient Keyword Search with BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3488560.3498495
   url: https://doi.org/10.1145/3488560.3498495
   pdf: https://dl.acm.org/doi/pdf/10.1145/3488560.3498495
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: ACM International Conference on Web Search and Data Mining
-  pubtype: article
-  pubshort: WSDM
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "ACM International Conference on Web Search and Data Mining"
+  reserved: DEADBEEF
 
-230:
+174:
   title: "Lightweight Transformers for Conversational AI"
   year: 2022
+  type: article
   doi: http://dx.doi.org/10.18653/v1/2022.naacl--industry.25
   url: http://dx.doi.org/10.18653/v1/2022.naacl-industry.25
   pdf: https://aclanthology.org/2022.naacl-industry.25.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACL
-  pub:  Conference of the North American Chapter of the Association for Computational Linguistics
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACL
+  pubkey: ""
+  pubname: "Conference of the North American Chapter of the Association for Computational Linguistics"
+  reserved: DEADBEEF
 
-231:
+175:
   title: "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2208.07339
   url: https://doi.org/10.48550/arXiv.2208.07339
   pdf: https://arxiv.org/pdf/2208.07339
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-232:
+176:
   title: "Load What You Need: Smaller Versions of Multilingual BERT"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2010.05609
   url: https://doi.org/10.48550/arXiv.2010.05609
   pdf: https://arxiv.org/pdf/2010.05609.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-233:
+177:
   title: "Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/MICRO50266.2020.00020
   url: https://doi.org/10.1109/MICRO50266.2020.00020
   pdf: https://www.microarch.org/micro53/papers/738300a088.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  reserved: DEADBEEF
 
-234:
+178:
   title: "Low-Bit Quantization of Transformer for Audio Speech Recognition"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--3--031--19032--2_12
   url: https://doi.org/10.1007/978-3-031-19032-2_12
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Springer
-  pub:
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Springer
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-235:
+179:
   title: "Low-Precision Quantization Techniques for Hardware-Implementation-Friendly BERT Models"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISQED54688.2022.9806238
   url: https://doi.org/10.1109/ISQED54688.2022.9806238
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Quality Electronic Design (ISQED)
-  pubtype: article
-  pubshort: ISQED
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Quality Electronic Design (ISQED)"
+  reserved: DEADBEEF
 
-236:
+180:
   title: "M2M: Learning to Enhance Low-Light Image from Model to Mobile FPGA"
   year: 2021
+  type: article
   doi: https://doi.org/10.1007/978--3--030--89029--2_22
   url: https://doi.org/10.1007/978-3-030-89029-2_22
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: Computer Graphics International Conference
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Graphics International Conference"
+  reserved: DEADBEEF
 
-237:
+181:
   title: "MAGNet: A Modular Accelerator Generator for Neural Networks"
-  # not related to BERT
   year: 2019
+  type: article
   doi: https://doi.org/10.1109/ICCAD45719.2019.8942127
   url: https://doi.org/10.1109/ICCAD45719.2019.8942127
   pdf: https://people.eecs.berkeley.edu/~ysshao/assets/papers/magnet2019-iccad.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
-  pubtype: article
-  pubshort: ICCAD
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE/ACM International Conference on Computer-Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
-240:
+182:
   title: "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers"
   year: 2020
+  type: article
   doi: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
   url: https://dl.acm.org/doi/abs/10.5555/3495724.3496209
   pdf: https://dl.acm.org/doi/pdf/10.5555/3495724.3496209
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: International Conference on Neural Information Processing Systems
-  pubtype: article
-  pubshort:
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Neural Information Processing Systems"
+  reserved: DEADBEEF
 
-241:
+183:
   title: "MKQ-BERT: Quantized BERT with 4-bits Weights and Activations"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2203.13483
   url: https://doi.org/10.48550/arXiv.2203.13483
   pdf: https://arxiv.org/pdf/2203.13483.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-243:
+184:
   title: "Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3470496.3527438
   url: https://doi.org/10.1145/3470496.3527438
   pdf: https://arxiv.org/pdf/2203.12758.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on Computer Architecture
-  pubtype: article
-  pubshort: ISCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on Computer Architecture"
+  reserved: DEADBEEF
 
-244:
+185:
   title: "Movement Pruning: Adaptive Sparsity by Fine-Tuning"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2005.07683
   url: https://doi.org/10.48550/arXiv.2005.07683
   pdf: https://proceedings.neurips.cc/paper/2020/file/eae15aabaa768ae4a5993a8a4f4fa6e4-Paper.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: NeurIPS
-  pub: Advances in Neural Information Processing Systems
-  pubtype: article
-  pubshort: NeurIPS
   ignore: check
-  silicon: no
-
-245:
-  title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
-  year:
-  doi:
-  url:
-  pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
-  m_model: [BERT]
-  method: __no_data__
+  silicon: False
   platform: __no_data__
-  publisher: IEEE/CVF
-  pub: IEEE/CVF Conference on Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort: CVPR
+  model: ['BERT']
+  method: __no_data__
+  publisher: NeurIPS
+  pubkey: ""
+  pubname: "Advances in Neural Information Processing Systems"
+  reserved: DEADBEEF
+
+186:
+  title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
+  year: None
+  type: article
+  doi: None
+  url: None
+  pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE/CVF
+  pubkey: ""
+  pubname: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-246:
+187:
   title: "mRNA: Enabling Efficient Mapping Space Exploration for a Reconfiguration Neural Accelerator"
   year: 2019
+  type: article
   doi: https://doi.org/10.1109/ISPASS.2019.00040
   url: https://doi.org/10.1109/ISPASS.2019.00040
   pdf: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/c/332/files/2019/02/mrna_ispass2019.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
-  pubtype: article
-  pubshort: ISPASS
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)"
+  reserved: DEADBEEF
 
-247:
+188:
   title: "MSP: an FPGA-specific mixed-scheme, multi-precision deep neural network quantization framework"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2009.07460
   url: https://doi.org/10.48550/arXiv.2009.07460
   pdf: https://arxiv.org/pdf/2009.07460.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: arXiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
   ignore: check
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: arXiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-248:
+189:
   title: "NAS-BERT: Task-Agnostic and Adaptive-Size BERT Compression with Neural Architecture Search"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3447548.3467262
   url: https://doi.org/10.1145/3447548.3467262
   pdf: https://arxiv.org/pdf/2105.14444.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub:  ACM SIGKDD Conference on Knowledge Discovery & Data Mining
-  pubtype: article
-  pubshort: KDD
   ignore: check
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "ACM SIGKDD Conference on Knowledge Discovery & Data Mining"
+  reserved: DEADBEEF
 
-249:
+190:
   title: "Near-Optimal Sparse Allreduce for Distributed Deep Learning"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3503221.3508399
   url: https://doi.org/10.1145/3503221.3508399
   pdf: https://arxiv.org/pdf/2201.07598.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming
-  pubtype: article
-  pubshort: PPoPP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming"
+  reserved: DEADBEEF
 
-250:
+191:
   title: "Nebula: A Scalable and Flexible Accelerator for DNN Multi-Branch Blocks on Embedded Systems"
   year: 2022
+  type: article
   doi: https://doi.org/10.3390/electronics11040505
   url: https://doi.org/10.3390/electronics11040505
   pdf: https://www.mdpi.com/2079-9292/11/4/505/pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: MDPI
-  pub: Electronics
-  pubtype: article
-  pubshort:
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronics"
+  reserved: DEADBEEF
 
-251:
+192:
   title: "NEEBS: Nonexpert large-scale environment building system for deep neural network"
   year: 2022
+  type: article
   doi: https://doi.org/10.1002/cpe.7499
   url: https://doi.org/10.1002/cpe.7499
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Wiley
-  pub: Concurrency and Computation Practice and Experience
-  pubtype: article
-  pubshort:
+  pdf: False
   ignore: check
-  silicon: no
+  silicon: False
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Wiley
+  pubkey: ""
+  pubname: "Concurrency and Computation Practice and Experience"
+  reserved: DEADBEEF
 
-252:
+193:
   title: "NeuralScale: A RISC-V Based Neural Processor Boosting AI Inference in Clouds"
   year: 2021
+  type: article
   doi: https://carrv.github.io/2021/
   url: https://carrv.github.io/2021/
   pdf: https://carrv.github.io/2021/papers/CARRV2021_paper_67_Zhan.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: CARRV
-  pub: Computer Architecture Research with RISC-V
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Architecture Research with RISC-V"
+  reserved: DEADBEEF
 
-254:
+194:
   title: "NLP-Fast: A Fast, Scalable, and Flexible System to Accelerate Large-Scale Heterogeneous NLP Models"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/PACT52795.2021.00013
   url: https://doi.org/10.1109/PACT52795.2021.00013
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Parallel Architectures and Compilation Techniques (PACT)
-  pubtype: article
-  pubshort: PACCT
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Parallel Architectures and Compilation Techniques (PACT)"
+  reserved: DEADBEEF
 
-255:
+195:
   title: "NPE: An FPGA-based Overlay Processor for Natural Language Processing"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3431920.3439477
   url: https://doi.org/10.1145/3431920.3439477
   pdf: https://arxiv.org/pdf/2104.06535.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/SIGDA
-  pub: ACM/SIGDA International Symposium on Field-Programmable Gate Arrays
-  pubtype: article
-  pubshort: FPGA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays"
+  reserved: DEADBEEF
 
-257:
+196:
   title: "Optimal Brain Compression: A framework for accurate post-training quantization and pruning"
   year: 2022
+  type: article
   doi: https://doi.org/10.48550/arXiv.2208.11580
   url: https://doi.org/10.48550/arXiv.2208.11580
   pdf: https://arxiv.org/pdf/2208.11580.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: NeurIPS
-  pub: Conference on Neural Information Processing Systems
-  pubtype: article
-  pubshort: NeurIPS
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Conference on Neural Information Processing Systems"
+  reserved: DEADBEEF
 
-261:
+197:
   title: "PipeBERT: High-throughput BERT Inference for ARM Big.LITTLE Multi-core Processors"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/s11265--022--01814--y
   url: https://doi.org/10.1007/s11265-022-01814-y
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: Journal of Signal Processing Systems
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Signal Processing Systems"
+  reserved: DEADBEEF
 
-263:
+198:
   title: "Poor Man's BERT: Smaller and Faster Transformer Models"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2004.03844
   url: https://doi.org/10.48550/arXiv.2004.03844
   pdf: https://arxiv.org/pdf/2004.03844v1
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-264:
+199:
   title: "Post-Training Quantization for Longformer with Chunkwise Quantization Granularity and Optimized Percentile"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ICCCS55155.2022.9846198
   url: https://doi.org/10.1109/ICCCS55155.2022.9846198
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Computer and Communication Systems (ICCCS)
-  pubtype: article
-  pubshort: ICCCS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Computer and Communication Systems (ICCCS)"
+  reserved: DEADBEEF
 
-266:
+200:
   title: "PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination"
   year: 2020
+  type: article
   doi: https://proceedings.mlr.press/v119/goyal20a.html
   url: https://proceedings.mlr.press/v119/goyal20a.html
   pdf: http://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: PMLR
-  pub: Proceedings of Machine Learning Research
-  pubtype: article
-  pubshort: PMLR
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Proceedings of Machine Learning Research"
+  reserved: DEADBEEF
 
-268:
+201:
   title: "Pre-trained bert-gru model for relation extraction"
   year: 2019
+  type: article
   doi: https://doi.org/10.1145/3373509.3373533
   url: https://doi.org/10.1145/3373509.3373533
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Conference on Computing and Pattern Recognition
-  pubtype: article
-  pubshort: ICCPR
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "International Conference on Computing and Pattern Recognition"
+  reserved: DEADBEEF
 
-269:
+202:
   title: "Pre-trained Language Model with Feature Reduction and No Fine-Tuning"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--981--19--3923--5_59
   url: https://doi.org/10.1007/978-981-19-3923-5_59
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: "Control, Instrumentation and Mechatronics: Theory and Practice"
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Control, Instrumentation and Mechatronics: Theory and Practice"
+  reserved: DEADBEEF
 
-271:
+203:
   title: "Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3459637.3482159
   url: https://doi.org/10.1145/3459637.3482159
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Information & Knowledge Management
-  pubtype: article
-  pubshort: CIKM
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "ACM International Conference on Information & Knowledge Management"
+  reserved: DEADBEEF
 
-272:
+204:
   title: "Privacy-Preserving Text Classification on BERT Embeddings with Homomorphic Encryption"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2210.02574
   url: https://arxiv.org/abs/2210.02574
   pdf: https://arxiv.org/pdf/2210.02574.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computation and Language"
+  reserved: DEADBEEF
 
-274:
+205:
   title: "ProSE: the architecture and design of a protein discovery engine"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3503222.3507722
   url: https://doi.org/10.1145/3503222.3507722
   pdf: https://par.nsf.gov/servlets/purl/10394954
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
-  pubtype: article
-  pubshort: ASPLOS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM International Conference on Architectural Support for Programming Languages and Operating Systems"
+  reserved: DEADBEEF
 
-277:
+206:
   title: "Pruning Redundant Mappings in Transformer Models via Spectral-Normalized Identity Prior"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2010.01791
   url: https://arxiv.org/abs/2010.01791
   pdf: https://arxiv.org/pdf/2010.01791.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-278:
+207:
   title: "PTQ4ViT: Post-Training Quantization Framework for Vision Transformers with Twin Uniform Quantization"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2111.12293
   url: https://arxiv.org/abs/2111.12293
   pdf: https://arxiv.org/pdf/2111.12293
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-279:
+208:
   title: "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT"
   year: 2020
+  type: article
   doi: https://doi.org/10.1609/aaai.v34i05.6409
   url: https://doi.org/10.1609/aaai.v34i05.6409
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/6409/6265
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: AAAI
-  pub: "AAAI Technical Track: Natural Language Processing"
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: AAAI
+  pubkey: ""
+  pubname: "AAAI Technical Track: Natural Language Processing"
+  reserved: DEADBEEF
 
-280:
+209:
   title: "Q8BERT: Quantized 8Bit BERT"
   year: 2019
+  type: article
   doi: https://doi.org/10.1109/EMC2--NIPS53020.2019.00016
   url: https://doi.org/10.1109/EMC2-NIPS53020.2019.00016
   pdf: https://arxiv.org/pdf/1910.06188.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)
-  pubtype: article
-  pubshort: EMC2-NIPS
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)"
+  reserved: DEADBEEF
 
-281:
+210:
   title: "QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2203.05740
   url: https://arxiv.org/abs/2203.05740
   pdf: https://arxiv.org/pdf/2203.05740
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-282:
+211:
   title: "QuaLA-MiniLM: a Quantized Length Adaptive MiniLM"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2210.17114
   url: https://arxiv.org/abs/2210.17114
   pdf: https://arxiv.org/pdf/2210.17114
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-283:
+212:
   title: "Randomly Wired Network Based on RoBERTa and Dialog History Attention for Response Selection"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/TASLP.2021.3077119
   url: https://doi.org/10.1109/TASLP.2021.3077119
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE/ACM Transactions on Audio, Speech, and Language Processing
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "IEEE/ACM Transactions on Audio, Speech, and Language Processing"
+  reserved: DEADBEEF
 
-284:
+213:
   title: "RCT: Resource Constrained Training for Edge AI"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TNNLS.2022.3190451
   url: https://doi.org/10.1109/TNNLS.2022.3190451
   pdf: https://arxiv.org/pdf/2103.14493.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub: IEEE Transactions on Neural Networks and Learning Systems
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Transactions on Neural Networks and Learning Systems"
+  reserved: DEADBEEF
 
-285:
+214:
   title: "Re2PIM: A Reconfigurable ReRAM-Based PIM Design for Variable-Sized Vector-Matrix Multiplication"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3453688.3461494
   url: https://doi.org/10.1145/3453688.3461494
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub:  Proceedings on Great Lakes Symposium on VLSI
-  pubtype: article
-  pubshort: GLVLSI
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Proceedings on Great Lakes Symposium on VLSI"
+  reserved: DEADBEEF
 
-286:
+215:
   title: "ReAAP: A Reconfigurable and Algorithm-Oriented Array Processor With Compiler-Architecture Co-Design"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TC.2022.3213177
   url: https://doi.org/10.1109/TC.2022.3213177
   pdf: https://ieeexplore.ieee.org/iel7/12/4358213/09914609.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computers
-  pubtype: article
-  pubshort: TC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Computers"
+  reserved: DEADBEEF
 
-292:
+216:
   title: "ReTransformer: ReRAM-based processing-in-memory architecture for transformer acceleration"
   year: 2020
+  type: article
   doi: https://doi.org/10.1145/3400302.3415640
   url: https://doi.org/10.1145/3400302.3415640
   pdf: https://dl.acm.org/doi/pdf/10.1145/3400302.3415640
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: International Conference on Computer-Aided Design
-  pubtype: article
-  pubshort: ICCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Computer-Aided Design"
+  reserved: DEADBEEF
 
-294:
+217:
   title: "RISC-VTF: RISC-V Based Extended Instruction Set for Transformer"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/SMC52423.2021.9658643
   url: https://doi.org/10.1109/SMC52423.2021.9658643
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Systems, Man, and Cybernetics
-  pubtype: article
-  pubshort: SMC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Conference on Systems, Man, and Cybernetics"
+  reserved: DEADBEEF
 
-295:
+218:
   title: "RMSMP: A Novel Deep Neural Network Quantization Framework with Row-wise Mixed Schemes and Multiple Precisions"
   year: 2021
+  type: article
   doi: xx
-  url:
+  url: None
   pdf: https://openaccess.thecvf.com/content/ICCV2021/papers/Chang_RMSMP_A_Novel_Deep_Neural_Network_Quantization_Framework_With_Row-Wise_ICCV_2021_paper.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub: IEEE/CVF International Conference on Computer Vision
-  pubtype: article
-  pubshort: ICCV
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "IEEE/CVF International Conference on Computer Vision"
+  reserved: DEADBEEF
 
-297:
+219:
   title: "Row-wise Accelerator for Vision Transformer"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/AICAS54282.2022.9869928
   url: https://doi.org/10.1109/AICAS54282.2022.9869928
   pdf: https://arxiv.org/pdf/2205.03998.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Artificial Intelligence Circuits and Systems
-  pubtype: article
-  pubshort: AICAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Artificial Intelligence Circuits and Systems"
+  reserved: DEADBEEF
 
-298:
+220:
   title: "S4: a High-sparsity, High-performance AI Accelerator"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2207.08006
   url: https://arxiv.org/abs/2207.08006
   pdf: https://arxiv.org/pdf/2207.08006
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxive
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-299:
+221:
   title: "SALO: an efficient spatial accelerator enabling hybrid sparse attention mechanisms for long sequences"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3489517.3530504
   url: https://doi.org/10.1145/3489517.3530504
   pdf: https://arxiv.org/pdf/2206.14550.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM/IEEE Design Automation Conference
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference"
+  reserved: DEADBEEF
 
-3000:
+222:
   title: "Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture"
   year: 2021
+  type: article
   doi: https://doi.org/10.1145/3466752.3480125
   url: https://doi.org/10.1145/3466752.3480125
   pdf: https://dl.acm.org/doi/pdf/10.1145/3466752.3480125
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE/ACM
-  pub: IEEE/ACM International Symposium on Microarchitecture
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture"
+  reserved: DEADBEEF
 
-302:
+223:
   title: "Searching for memory-lighter architectures for OCR-augmented image captioning"
   year: 2022
+  type: article
   doi: https://doi.org/10.3233/JIFS--219230
   url: https://doi.org/10.3233/JIFS-219230
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher:
-  pub: Journal of Intelligent & Fuzzy Systems
-  pubtype: article
-  pubshort:
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "Journal of Intelligent & Fuzzy Systems"
+  reserved: DEADBEEF
 
-30300:
+224:
   title: "SECDA-TFLite: A toolkit for efficient development of FPGA-based DNN accelerators for edge inference"
   year: 2023
+  type: article
   doi: https://doi.org/10.1016/j.jpdc.2022.11.005
   url: https://doi.org/10.1016/j.jpdc.2022.11.005
   pdf: https://www.sciencedirect.com/science/article/pii/S0743731522002301/pdfft?md5=444fdc7e73724f5d9881d162bed2a735&pid=1-s2.0-S0743731522002301-main.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Elsevier
-  pub: Journal of Parallel and Distributed Computing
-  pubtype: article
-  pubshort: Elsevier
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Journal of Parallel and Distributed Computing"
+  reserved: DEADBEEF
 
-306:
+225:
   title: "SensiMix: Sensitivity-Aware 8-bit index & 1-bit value mixed precision quantization for BERT compression"
   year: 2022
+  type: article
   doi: https://doi.org/10.1371/journal.pone.0265621
   url: https://doi.org/10.1371/journal.pone.0265621
   pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0265621&type=printable
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: "PLOSONE"
-  pub:
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: PLOSONE
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-308:
+226:
   title: "Sentiment Analysis Using Pre-Trained Language Model With No Fine-Tuning and Less Resource"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ACCESS.2022.3212367
   url: https://doi.org/10.1109/ACCESS.2022.3212367
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912410
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Access
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Access"
+  reserved: DEADBEEF
 
-311:
+227:
   title: "Simplified TinyBERT: Knowledge Distillation for Document Retrieval"
   year: 2021
+  type: article
   doi: https://doi.org/10.1007/978--3--030--72240--1_21
   url: https://doi.org/10.1007/978-3-030-72240-1_21
   pdf: https://arxiv.org/pdf/2009.07531.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Springer
-  pub: Advances in Information Retrieval
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Springer
+  pubkey: ""
+  pubname: "Advances in Information Retrieval"
+  reserved: DEADBEEF
 
-312:
+228:
   title: "SmaQ: Smart Quantization for DNN Training by Exploiting Value Clustering"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/LCA.2021.3108505
   url: https://doi.org/10.1109/LCA.2021.3108505
   pdf: https://hparch.gatech.edu/papers/nima_2021_cal.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Computer Architecture Letters
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Computer Architecture Letters"
+  reserved: DEADBEEF
 
-313:
+229:
   title: "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models"
   year: 2023
+  type: article
   doi: https://arxiv.org/abs/2211.10438
   url: https://arxiv.org/abs/2211.10438
   pdf: https://arxiv.org/pdf/2211.10438.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language'
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language'"
+  reserved: DEADBEEF
 
-314:
+230:
   title: "Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/DAC18074.2021.9586134
   url: https://doi.org/10.1109/DAC18074.2021.9586134
   pdf: https://arxiv.org/pdf/2103.09301.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM/IEEE
-  pub: ACM/IEEE Design Automation Conference
-  pubtype: article
-  pubshort: DAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "ACM/IEEE Design Automation Conference"
+  reserved: DEADBEEF
 
-315:
+231:
   title: "Software and Hardware Fusion Multi-Head Attention"
   year: 2022
+  type: article
   doi: http://dx.doi.org/10.1007/978--3--031--10989--8_51
   url: http://dx.doi.org/10.1007/978-3-031-10989-8_51
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Springer
-  pub: International Conference on Knowledge Science, Engineering and Management
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Knowledge Science, Engineering and Management"
+  reserved: DEADBEEF
 
-316:
+232:
   title: "Sparse Attention Acceleration with Synergistic In-Memory Pruning and On-Chip Recomputation"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/MICRO56248.2022.00059
   url: https://doi.org/10.1109/MICRO56248.2022.00059
   pdf: https://arxiv.org/pdf/2209.00606.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE/ACM International Symposium on Microarchitecture
-  pubtype: article
-  pubshort: MICRO
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE/ACM International Symposium on Microarchitecture"
+  reserved: DEADBEEF
 
-317:
+233:
   title: "Sparse*BERT: Sparse Models Generalize To New tasks and Domains"
   year: 2023
+  type: article
   doi: https://arxiv.org/abs/2205.12452
   url: https://arxiv.org/abs/2205.12452
   pdf: https://arxiv.org/pdf/2205.12452
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-318:
+234:
   title: "SparseNN: An energy-efficient neural network accelerator exploiting input and output sparsity"
   year: 2018
+  type: article
   doi: https://doi.org/10.23919/DATE.2018.8342010
   url: https://doi.org/10.23919/DATE.2018.8342010
   pdf: https://doi.org/10.23919/DATE.2018.8342010
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub: Design, Automation & Test in Europe Conference & Exhibition
-  pubtype: article
-  pubshort: DATE
-  ignore: yes
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "Design, Automation & Test in Europe Conference & Exhibition"
+  reserved: DEADBEEF
 
-319:
+235:
   title: "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/HPCA51647.2021.00018
   url: https://doi.org/10.1109/HPCA51647.2021.00018
   pdf: https://arxiv.org/pdf/2012.09852.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High-Performance Computer Architecture
-  pubtype: article
-  pubshort: HPCA
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High-Performance Computer Architecture"
+  reserved: DEADBEEF
 
-320:
+236:
   title: "SQuAT: Sharpness- and Quantization-Aware Training for BERT"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2210.07171
   url: https://arxiv.org/abs/2210.07171
   pdf: https://arxiv.org/pdf/2210.07171.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-321:
+237:
   title: "SqueezeBERT: What can computer vision teach NLP about efficient neural networks?"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2006.11316
   url: https://arxiv.org/abs/2006.11316
   pdf: https://arxiv.org/pdf/2006.11316.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-322:
+238:
   title: "Stochastic precision ensemble: self-knowledge distillation for quantized deep neural networks"
   year: 2021
+  type: article
   doi: https://doi.org/10.1609/aaai.v35i8.16839
   url: https://doi.org/10.1609/aaai.v35i8.16839
   pdf: https://ojs.aaai.org/index.php/AAAI/article/view/16839/16646
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: AAAI
-  pub: AAAI Technical Track on Machine Learning I
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "AAAI Technical Track on Machine Learning I"
+  reserved: DEADBEEF
 
-324:
+239:
   title: "Structured pruning of a BERT-based question answering model"
   year: 2019
+  type: article
   doi: https://arxiv.org/abs/1910.06360
   url: https://arxiv.org/abs/1910.06360
   pdf: https://arxiv.org/pdf/1910.06360
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-325:
+240:
   title: "Structured pruning of large language models"
   year: 2019
+  type: article
   doi: https://arxiv.org/abs/1910.04732
   url: https://arxiv.org/abs/1910.04732
   pdf: https://arxiv.org/pdf/1910.04732
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-326:
+241:
   title: "SwiftPruner: Reinforced Evolutionary Pruning for Efficient Ad Relevance"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3511808.3557139
   url: https://doi.org/10.1145/3511808.3557139
   pdf: https://arxiv.org/pdf/2209.00625.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: ACM International Conference on Information & Knowledge Management
-  pubtype: article
-  pubshort: CIKM
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "ACM International Conference on Information & Knowledge Management"
+  reserved: DEADBEEF
 
-327:
+242:
   title: "T-OPU: An FPGA-based Overlay Processor for Natural Language Processing"
   year: 2022
+  type: article
   doi: https://escholarship.org/uc/item/9r46v693
   url: https://escholarship.org/uc/item/9r46v693
   pdf: https://escholarship.org/content/qt9r46v693/qt9r46v693.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: UCLA
-  pub: Open Access Publications from the University of California
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Open Access Publications from the University of California"
+  reserved: DEADBEEF
 
-328:
+243:
   title: "Talos: A Weighted Speedup-Aware Device Placement of Deep Learning Models"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ASAP52443.2021.00023
   url: https://doi.org/10.1109/ASAP52443.2021.00023
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Application-specific Systems, Architectures and Processors
-  pubtype: article
-  pubshort: ASAP
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Application-specific Systems, Architectures and Processors"
+  reserved: DEADBEEF
 
-329:
+244:
   title: "Teacher Intervention: Improving Convergence of Quantization Aware Training for Ultra-Low Precision Transformers"
   year: 2023
+  type: article
   doi: https://arxiv.org/abs/2302.11812
   url: https://arxiv.org/abs/2302.11812
   pdf: https://arxiv.org/pdf/2302.11812
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-330:
+245:
   title: "TernaryBERT: Distillation-aware Ultra-low Bit BERT"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2009.12812
   url: https://arxiv.org/abs/2009.12812
   pdf: https://arxiv.org/pdf/2009.12812
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-333:
+246:
   title: "The Optimal BERT Surgeon: Scalable and Accurate Second-Order Pruning for Large Language Models"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2203.07259
   url: https://arxiv.org/abs/2203.07259
   pdf: https://arxiv.org/pdf/2203.07259.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-335:
+247:
   title: "TiC-SAT: Tightly-Coupled Systolic Accelerator for Transformers"
   year: 2023
+  type: article
   doi: https://doi.org/10.1145/3566097.3567867
   url: https://doi.org/10.1145/3566097.3567867
   pdf: https://infoscience.epfl.ch/record/298067/files/TiC_SAT_ASPDAC-preprint.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACM
-  pub: Asia and South Pacific Design Automation Conference
-  pubtype: article
-  pubshort: ASDAC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Asia and South Pacific Design Automation Conference"
+  reserved: DEADBEEF
 
-337:
+248:
   title: "Tinybert: Distilling bert for natural language understanding"
   year: 2019
+  type: article
   doi: https://arxiv.org/abs/1909.10351
   url: https://arxiv.org/abs/1909.10351
   pdf: https://arxiv.org/pdf/1909.10351
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-342:
+249:
   title: "Towards efficient post-training quantization of pre-trained language models"
   year: 2022
+  type: article
   doi: link
   url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/096347b4efc264ae7f07742fea34af1f-Abstract-Conference.html
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/096347b4efc264ae7f07742fea34af1f-Paper-Conference.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: NeurIPS
-  pub: Advances in Neural Information Processing Systems
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "Advances in Neural Information Processing Systems"
+  reserved: DEADBEEF
 
-343:
+250:
   title: "TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2105.11618
   url: https://arxiv.org/abs/2105.11618
   pdf: https://arxiv.org/pdf/2105.11618.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-344:
+251:
   title: "Train Flat, Then Compress: Sharpness-Aware Minimization Learns More Compressible Models"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2205.12694
   url: https://arxiv.org/abs/2205.12694
   pdf: https://arxiv.org/pdf/2205.12694.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-345:
+252:
   title: "Training Large Neural Networks with Constant Memory using a New Execution Algorithm"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2002.05645
   url: https://arxiv.org/abs/2002.05645
   pdf: https://arxiv.org/pdf/2002.05645.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-346:
+253:
   title: "Training with Quantization Noise for Extreme Model Compression"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2004.07320
   url: https://arxiv.org/abs/2004.07320
   pdf: https://arxiv.org/pdf/2004.07320.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-347:
+254:
   title: "TranCIM: Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator With Pipeline/Parallel Reconfigurable Modes"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/JSSC.2022.3213542
   url: https://doi.org/10.1109/JSSC.2022.3213542
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Journal of Solid-State Circuits
-  pubtype: article
-  pubshort: SSC
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
 
-348:
+255:
   title: "Transformer Acceleration with Dynamic Sparse Attention"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2110.11299
   url: https://arxiv.org/abs/2110.11299
   pdf: https://arxiv.org/pdf/2110.11299
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-349:
+256:
   title: "TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/HPCA53966.2022.00082
   url: https://doi.org/10.1109/HPCA53966.2022.00082
   pdf: https://par.nsf.gov/servlets/purl/10345536
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Symposium on High-Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
-351:
+257:
   title: "Ultron-AutoML: An open-source, distributed, scalable framework for efficient hyper-parameter optimization"
   year: 2020
+  type: article
   doi: https://doi.org/10.1109/BigData50022.2020.9378071
   url: https://doi.org/10.1109/BigData50022.2020.9378071
   pdf: https://ashish-gupta03.github.io/files/Ultron.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Big Data (Big Data)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Big Data (Big Data)"
+  reserved: DEADBEEF
 
-353:
+258:
   title: "Understanding and Overcoming the Challenges of Efficient Transformer Quantization"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2109.12948
   url: https://arxiv.org/abs/2109.12948
   pdf: https://arxiv.org/pdf/2109.12948.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-356:
+259:
   title: "VAQF: Fully Automatic Software-Hardware Co-Design Framework for Low-Bit Vision Transformer"
   year: 2022
+  type: article
   doi: https://arxiv.org/abs/2201.06618
   url: https://arxiv.org/abs/2201.06618
   pdf: https://arxiv.org/pdf/2201.06618.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-357:
+260:
   title: "Varuna: Scalable, Low-cost Training of Massive Deep Learning Models"
   year: 2022
+  type: article
   doi: https://doi.org/10.1145/3492321.3519584
   url: https://doi.org/10.1145/3492321.3519584
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: Proceedings of the Seventeenth European Conference on Computer Systems
-  pubtype: article
-  pubshort: EuroSys
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "Proceedings of the Seventeenth European Conference on Computer Systems"
+  reserved: DEADBEEF
 
-358:
+261:
   title: "ViA: A Novel Vision-Transformer Accelerator Based on FPGA"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/TCAD.2022.3197489
   url: https://doi.org/10.1109/TCAD.2022.3197489
-  pdf:
-  m_model: [BERT]
-  method: __no_data__
+  pdf: None
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Computer-Aided Design of Integrated Circuits and System[s
-  pubtype: article
-  pubshort: TCAD
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and System[s"
+  reserved: DEADBEEF
 
-360:
+262:
   title: "Vis-TOP: Visual Transformer Overlay Processor"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2110.10957
   url: https://arxiv.org/abs/2110.10957
   pdf: https://arxiv.org/pdf/2110.10957.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computer Vision and Pattern Recognition
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
 
-361:
+263:
   title: "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/HPCA56546.2023.10071081
   url: https://doi.org/10.1109/HPCA56546.2023.10071081
   pdf: https://arxiv.org/pdf/2211.05109.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Symposium on High-Performance Computer Architecture (HPCA)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Symposium on High-Performance Computer Architecture (HPCA)"
+  reserved: DEADBEEF
 
-367:
+264:
   title: "Work-in-Progress: Utilizing latency and accuracy predictors for efficient hardware-aware NAS"
-  year:
+  year: 2022
+  type: article
   doi: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
   url: https://doi.org/10.1109/CODES-ISSS55005.2022.00014
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Conference on Hardware/Software Codesign and System Synthesis (CODES+ISSS)"
+  reserved: DEADBEEF
 
-370:
+265:
   title: "XTC: Extreme Compression for Pre-trained Transformers Made Simple and Efficient"
   year: 2022
-  doi:
-  url:
+  type: article
+  doi: None
+  url: None
   pdf: https://proceedings.neurips.cc/paper_files/paper/2022/file/1579d5d8edacd85ac1a86aea28bdf32d-Paper-Conference.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub:
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-371:
+266:
   title: "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers"
   year: 2022
-  doi:
-  url:
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  type: article
+  doi: None
+  url: None
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:
-  pub:
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-372:
+267:
   title: "Fully Unsupervised Machine Translation Using Context-Aware Word Translation and Denoising Autoencoder"
   year: 2022
+  type: article
   doi: https://doi.org/10.1080/08839514.2022.2031817
   url: https://doi.org/10.1080/08839514.2022.2031817
   pdf: https://www.tandfonline.com/doi/pdf/10.1080/08839514.2022.2031817
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
-  publisher:
-  pub:
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: no
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-121:
+268:
   title: "DistilHuBERT: Speech representation learning by layer-wise distillation of hidden-unit BERT"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ICASSP43922.2022.9747490
   url: https://doi.org/10.1109/ICASSP43922.2022.9747490
   pdf: https://arxiv.org/pdf/2110.01900.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Acoustics, Speech and Signal Processing
-  pubtype: article
-  pubshort: ICASSP
-  ignore: yes
-  silicon: no
+  pubkey: ""
+  pubname: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+  reserved: DEADBEEF
 
-108:
+269:
   title: "Data Movement Reduction for DNN Accelerators: Enabling Dynamic Quantization Through an eFPGA"
   year: 2022
+  type: article
   doi: https://doi.org/10.1109/ISVLSI54635.2022.00082
   url: https://doi.org/10.1109/ISVLSI54635.2022.00082
   pdf: https://scholar.archive.org/work/hd53tmr62rhn3mxplkjzhrnvw4/access/wayback/https://publikationen.bibliothek.kit.edu/1000151937/149523013
-  m_model: [BERT]
-  method: __no_data__
+  ignore: True
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: Computer Society Annual Symposium on VLSI
-  pubtype: article
-  pubshort: ISVLSI
-  ignore: yes
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Society Annual Symposium on VLSI"
+  reserved: DEADBEEF
 
-147:
+270:
   title: "Elbert: Fast albert with confidence-window based early exit"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/ICASSP39728.2021.9414572
   url: https://doi.org/10.1109/ICASSP39728.2021.9414572
   pdf: https://arxiv.org/pdf/2107.00175.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: False
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Conference on Acoustics, Speech and Signal Processing
-  pubtype: article
-  pubshort: ICASSP
-  ignore: no
-  silicon: no
+  pubkey: ""
+  pubname: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+  reserved: DEADBEEF
 
-192:
+271:
   title: "Ghostbert: Generate more features with cheap operations for BERT"
   year: 2021
+  type: article
   doi: http://dx.doi.org/10.18653/v1/2021.acl--long.509
   url: http://dx.doi.org/10.18653/v1/2021.acl-long.509
   pdf: https://aclanthology.org/2021.acl-long.509.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: ACL
-  pub: International Joint Conference on Natural Language Processing
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Joint Conference on Natural Language Processing"
+  reserved: DEADBEEF
 
-206:
+272:
   title: "Hardware-friendly compression and hardware acceleration for transformer: A survey"
   year: 2022
+  type: article
   doi: https://www.aimspress.com/article/doi/10.3934/era.2022192
   url: https://www.aimspress.com/article/doi/10.3934/era.2022192
   pdf: https://www.aimspress.com/aimspress-data/era/2022/10/PDF/era-30-10-192.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: AIMPress
-  pub: Electronic Research Archive
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Electronic Research Archive"
+  reserved: DEADBEEF
 
-207:
+273:
   title: "Hardware/Software Co-Design of Edge DNN Accelerators with TFLite"
   year: 2022
+  type: article
   doi: https://doi.org/10.1007/978--3--030--87208--8_5
   url: https://https://eprints.gla.ac.uk/280378/
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: HiPEAC
-  pub: International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems
-  pubtype: article
-  pubshort: ACACES
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Summer School on Advanced Computer Architecture and Compilation for High-Performance and Embedded Systems"
+  reserved: DEADBEEF
 
-208:
+274:
   title: "Towards Fully 8-bit Integer Inference for the Transformer Model"
   year: 2020
+  type: article
   doi: https://arxiv.org/abs/2009.08034
   url: https://arxiv.org/abs/2009.08034
   pdf: https://arxiv.org/pdf/2009.08034.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arixv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-300:
+275:
   title: "ViTA: A Vision Transformer Inference Accelerator for Edge Applications"
   year: 2023
+  type: article
   doi: https://doi.org/10.48550/arXiv.2302.09108
   url: https://doi.org/10.48550/arXiv.2302.09108
   pdf: https://arxiv.org/pdf/2302.09108.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-301:
+276:
   title: "Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning"
   year: 2023
+  type: article
   doi: https://doi.org/10.1016/j.suscom.2023.100857
   url: https://doi.org/10.1016/j.suscom.2023.100857
   pdf: https://www.sciencedirect.com/science/article/pii/S2210537923000124/pdfft?md5=4bec2735c1586b935287e6afea9e63a2&pid=1-s2.0-S2210537923000124-main.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Elsevier
-  pub: "Sustainable Computing: Informatics and Systems"
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Sustainable Computing: Informatics and Systems"
+  reserved: DEADBEEF
 
-303:
+277:
   title: "TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics"
   year: 2023
+  type: article
   doi: https://doi.org/10.48550/arXiv.2303.12914
   url: https://doi.org/10.48550/arXiv.2303.12914
   pdf: https://arxiv.org/pdf/2303.12914.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-304:
+278:
   title: "TransCODE: Co-design of Transformers and Accelerators for Efficient Training and Inference"
   year: 2023
+  type: article
   doi: https://doi.org/10.48550/arXiv.2303.14882
   url: https://doi.org/10.48550/arXiv.2303.14882
   pdf: https://arxiv.org/pdf/2303.14882
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Machine Learning
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
-275:
+279:
   title: "ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning"
   year: 2021
+  type: article
   doi: https://doi.org/10.1109/TPAMI.2021.3095381
   url: https://doi.org/10.1109/TPAMI.2021.3095381
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9477085
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  reserved: DEADBEEF
 
-276:
+280:
   title: "Prune once for all: Sparse pre-trained language models"
   year: 2021
+  type: article
   doi: https://arxiv.org/abs/2111.05754
   url: https://arxiv.org/abs/2111.05754
   pdf: https://arxiv.org/pdf/2111.05754.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-296:
+281:
   title: "ROSITA: Refined BERT cOmpreSsion with InTegrAted techniques"
   year: 2021
-  doi:  https://doi.org/10.1609/aaai.v35i10.17056
-  url:  https://doi.org/10.1609/aaai.v35i10.17056
+  type: article
+  doi: https://doi.org/10.1609/aaai.v35i10.17056
+  url: https://doi.org/10.1609/aaai.v35i10.17056
   pdf: https://ojs.aaai.org/index.php/AAAI/article/download/17056/16863
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher:
-  pub:
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: None
+  pubkey: ""
+  pubname: "None"
+  reserved: DEADBEEF
 
-339:
+282:
   title: "TinyVers: A Tiny Versatile System-on-chip with State-Retentive eMRAM for ML Inference at the Extreme Edge"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/JSSC.2023.3236566
   url: https://doi.org/10.1109/JSSC.2023.3236566
   pdf: https://arxiv.org/pdf/2301.03537.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: IEEE
-  pub:  IEEE Journal of Solid-State Circuits
-  pubtype: article
-  pubshort:
   ignore: ignore
-  silicon: yes
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
 
-341:
+283:
   title: "TopicBERT for energy efficient document classification"
   year: 2020
+  type: article
   doi: https://doi.org/10.48550/arXiv.2010.16407
   url: https://doi.org/10.48550/arXiv.2010.16407
   pdf: https://arxiv.org/pdf/2010.16407.pdf
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: Arxiv
-  pub: Computer Science > Computation and Language
-  pubtype: article
-  pubshort:
-  ignore: no
+  ignore: False
   silicon: wip
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computation and Language"
+  reserved: DEADBEEF
 
-363:
+284:
   title: "VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference"
   year: 2021
+  type: article
   doi: https://proceedings.mlsys.org/paper_files/paper/2021
   url: https://proceedings.mlsys.org/paper_files/paper/2021
   pdf: https://proceedings.mlsys.org/paper_files/paper/2021/file/48a6431f04545e11919887748ec5cb52-Paper.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:  MLSys
-  pub: Proceedings of Machine Learning and Systems
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: MLSys
+  pubkey: ""
+  pubname: "Proceedings of Machine Learning and Systems"
+  reserved: DEADBEEF
 
-368:
+285:
   title: "Workload-Balanced Graph Attention Network Accelerator with Top-K Aggregation Candidates"
-  year:
+  year: 2022
+  type: article
   doi: https://doi.org/10.1145/3508352.3549343
   url: https://doi.org/10.1145/3508352.3549343
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
-  platform: __no_data__
-  publisher: ACM
-  pub: International Conference on Computer-Aided Design
-  pubtype: article
-  pubshort: ICCAD
-  ignore: no
+  pdf: False
+  ignore: False
   silicon: check
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Computer-Aided Design"
+  reserved: DEADBEEF
 
-369:
+286:
   title: "Architecting High Performance Silicon Systems for Accurate and Efficient On-Chip Deep Learning"
   year: 2023
+  type: article
   doi: https://nrs.harvard.edu/URN--3:HUL.INSTREPOS:37375806
   url: https://nrs.harvard.edu/URN-3:HUL.INSTREPOS:37375806
   pdf: https://dash.harvard.edu/bitstream/handle/1/37375806/Final_Draft_PhD_Dissertation_Thierry_Tambe.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: HarwardLibrary
-  pub: Harvard University Graduate School of Arts and Sciences
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Harvard University Graduate School of Arts and Sciences"
+  reserved: DEADBEEF
 
-401:
+287:
   title: "Hardware-efficient Softmax Approximation for Self-Attention Networks"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/ISCAS46773.2023.10181465
   url: https://doi.org/10.1109/ISCAS46773.2023.10181465
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE International Symposium on Circuits and Systems (ISCAS)
-  pubtype: article
-  pubshort: ISCAS
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE International Symposium on Circuits and Systems (ISCAS)"
+  reserved: DEADBEEF
 
-402:
+288:
   title: "Fast Prototyping Next-Generation Accelerators for New ML Models using MASE: ML Accelerator System Exploration"
   year: 2023
+  type: article
   doi: https://arxiv.org/abs/2307.15517
   url: https://arxiv.org/abs/2307.15517
   pdf: https://arxiv.org/pdf/2307.15517.pdf
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Arxiv
-  pub: Computer Science > Hardware Architecture
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
-403:
+289:
   title: "Advances in Electromagnetics Empowered by Artificial Intelligence and Deep Learning"
   year: 2023
-  doi: "ISBN:9781119853893"
+  type: article
+  doi: ISBN:9781119853893
   url: https://books.google.com/books?id=rlPNEAAAQBAJ
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: Wiley
-  pub: IEEE Press Series on Electromagnetic Wave Theory
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Press Series on Electromagnetic Wave Theory"
+  reserved: DEADBEEF
 
-404:
+290:
   title: "A Scalable GPT-2 Inference Hardware Architecture on FPGA"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/IJCNN54540.2023.10191067
   url: https://doi.org/10.1109/IJCNN54540.2023.10191067
-  pdf: no
-  m_model: [BERT]
-  method: __no_data__
+  pdf: False
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: International Joint Conference on Neural Networks (IJCNN)
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "International Joint Conference on Neural Networks (IJCNN)"
+  reserved: DEADBEEF
 
-405:
+291:
   title: "BL-PIM: Varying the Burst Length to Realize the All-Bank Performance and Minimize the Multi-Workload Interference for in-DRAM PIM"
   year: 2023
+  type: article
   doi: https://doi.org/10.1109/ACCESS.2023.3300893
   url: https://doi.org/10.1109/ACCESS.2023.3300893
   pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
   publisher: IEEE
-  pub: IEEE Access
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  pubkey: ""
+  pubname: "IEEE Access"
+  reserved: DEADBEEF
 
-406:
+292:
   title: "Integrated Transformers Inference Framework for Multiple Tenants on GPU"
   year: 2023
+  type: article
   doi: https://hdl.handle.net/2123/31606
   url: https://hdl.handle.net/2123/31606
   pdf: https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y
-  m_model: [BERT]
-  method: __no_data__
+  ignore: False
+  silicon: True
   platform: __no_data__
-  publisher:  SydneyDigital
-  pub:  Sydney Digital Theses
-  pubtype: article
-  pubshort:
-  ignore: no
-  silicon: yes
+  model: ['BERT']
+  method: __no_data__
+  publisher: SydneyDigital
+  pubkey: ""
+  pubname: "Sydney Digital Theses"
+  reserved: DEADBEEF
