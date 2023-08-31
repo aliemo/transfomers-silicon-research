@@ -1487,6 +1487,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3470496.3527438-sandybrown?style=flat-square)](https://doi.org/10.1145/3470496.3527438)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2203.12758.pdf)
 
+**Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error**
+
+![](https://img.shields.io/badge/IEEE/CVF-2022-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/CVPR52688.2022.01201-sandybrown?style=flat-square)](https://doi.org/10.1109/CVPR52688.2022.01201)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf)
+
 **Near-Optimal Sparse Allreduce for Distributed Deep Learning**
 
 ![](https://img.shields.io/badge/ACM-2022-skyblue?colorstyle=flat-square)
@@ -1866,13 +1872,5 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/SydneyDigital-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://hdl.handle.net/2123/31606-sandybrown?style=flat-square)](https://hdl.handle.net/2123/31606)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y)
-
----
-### None
-**Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error**
-
-![](https://img.shields.io/badge/IEEE/CVF-None-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf)
 
 ---

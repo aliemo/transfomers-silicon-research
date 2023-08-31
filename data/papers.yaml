@@ -3145,18 +3145,18 @@
 
 186:
   title: "Mr. BiQ: Post-Training Non-Uniform Quantization Based on Minimizing the Reconstruction Error"
-  year: None
+  year: 2022
   type: article
-  doi: None
-  url: None
+  doi: https://doi.org/10.1109/CVPR52688.2022.01201
+  url: https://doi.org/10.1109/CVPR52688.2022.01201
   pdf: https://openaccess.thecvf.com/content/CVPR2022/papers/Jeon_Mr.BiQ_Post-Training_Non-Uniform_Quantization_Based_on_Minimizing_the_Reconstruction_Error_CVPR_2022_paper.pdf
-  ignore: check
+  ignore: no
   silicon: check
   platform: __no_data__
   model: ['BERT']
   method: __no_data__
   publisher: IEEE/CVF
-  pubkey: ""
+  pubkey: "CVPR"
   pubname: "IEEE/CVF Conference on Computer Vision and Pattern Recognition"
   reserved: DEADBEEF
 
