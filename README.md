@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/>
 </p>
 
-<p align="center">
-  <img src="./data/img/BERT-on-Silicon.png" width="300" height="300" />
-</p>
-
 ## BERT Model
 
 * BERT is a method of **pre-training language representations**, meaning that we **train a general-purpose *language understanding model*** on a large text corpus (like Wikipedia) and then use that model for downstream NLP tasks.
