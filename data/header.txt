@@ -2,12 +2,12 @@
 
 > **Research and Materials on Hardware implementation of Transformer Models**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/>
+<!-- <p align="center">
+  <img src="https://img.shields.io/badge/-WIP-ff69b4?style=flat-square"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/>
-</p>
+</p> -->
 
 ## Transformer and BERT Model
 
@@ -16,7 +16,7 @@
 * BERT was created and **published in 2018 by Jacob Devlin and his colleagues from Google**. BERT is conceptually simple and empirically powerful. It obtains new state-of-the-art results on eleven natural language processing tasks.
 
 <p align="center">
-  <img src="./data/img/BERT-ARCH.png" width='640' />
+  <img src="./data/img/BERT-ARCH.png" width='480' />
 </p>
 
 * **BERT is a Transformer-based model.**
