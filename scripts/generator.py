@@ -2,10 +2,8 @@
 
 import argparse
 import yaml
-import csv
+
 import pandas as pd
-import pprint
-from collections import Counter
 
 def write_csv(data, outf, header=None):
 

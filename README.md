@@ -55,54 +55,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ---
 
-## Important Papers
-
-**Distilling the Knowledge in a Neural Network**
-
-![](https://img.shields.io/badge/arXiv-2015-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1503.02531-sandybrown?style=flat-square)](https://arxiv.org/abs/1503.02531) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1503.02531.pdf)
-
-
-**Distilling Knowledge Learned in BERT for Text Generation**
-
-![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1911.03829-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs//1911.03829) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1911.03829.pdf)
-
-
-**DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter**
-
-![](https://img.shields.io/badge/arXiv-2019-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1910.01108-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1910.01108) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1910.01108.pdf)
-
-**TinyBERT: Distilling BERT for Natural Language Understanding**
-
-![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1909.10351-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1909.10351) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1909.10351.pdf)
-
-**Distilling the Knowledge in a Neural Network**
-
-![](https://img.shields.io/badge/arXiv-2015-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1503.02531-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1503.02531) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1503.02531.pdf)
-
-**FastBERT: a Self-distilling BERT with Adaptive Inference Time**
-
-![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.02178-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/2004.02178) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.02178.pdf)
-
-**Distilling Task-Specific Knowledge from BERT into Simple Neural Networks**
-
-![](https://img.shields.io/badge/arXiv-2019-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1903.12136-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1903.12136) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1903.12136.pdf)
-
-**Patient Knowledge Distillation for BERT Model Compression**
-
-![](https://img.shields.io/badge/arXiv-2019-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1908.09355-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1908.09355) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1908.09355.pdf)
-
-**MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices**
-
-![](https://img.shields.io/badge/arXiv-2020-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.2004.02984-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/2004.02984) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2004.02984.pdf)
-
-**Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding**
-
-![](https://img.shields.io/badge/arXiv-2019-skyblue?colorstyle=plastic) [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.48550/arXiv.1904.09482-sandybrown?style=flat-square?&style=plastic)](https://arxiv.org/abs/1904.09482) [![PDF-Download](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/1904.09482.pdf)
-
----
-
-
-# Papers
+# Hardware Research
 
 ### 2018
 **Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs**
