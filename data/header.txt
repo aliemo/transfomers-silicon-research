@@ -1,5 +1,6 @@
-# BERT Model on Silicon
-> **Research and Materials on Hardware implementation of BERT (Bidirectional Encoder Representations from Transformers) Model**
+# Transformer Models Silicon Research
+
+> **Research and Materials on Hardware implementation of Transformer Models**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-WIP-ff69b4?style=flat-square"/>
@@ -8,7 +9,7 @@
   <img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/>
 </p>
 
-## BERT Model
+## Transformer and BERT Model
 
 * BERT is a method of **pre-training language representations**, meaning that we **train a general-purpose *language understanding model*** on a large text corpus (like Wikipedia) and then use that model for downstream NLP tasks.
 
@@ -17,7 +18,6 @@
 <p align="center">
   <img src="./data/img/BERT-ARCH.png" width='640' />
 </p>
-
 
 * **BERT is a Transformer-based model.**
     * The architecture of BERT is similar to the original Transformer model, except that BERT has two separate Transformer models: one for the left-to-right direction (the “encoder”) and one for the right-to-left direction (the “encoder”).
