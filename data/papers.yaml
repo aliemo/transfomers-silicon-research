@@ -4961,3 +4961,20 @@
   pubkey: ""
   pubname: "Sydney Digital Theses"
   reserved: DEADBEEF
+
+292:
+  title: "Embedded Deep Learning Accelerators: A Survey on Recent Advances"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/TAI.2023.3311776
+  url: https://doi.org/10.1109/TAI.2023.3311776
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Transactions on Artificial Intelligence "
+  reserved: DEADBEEF
