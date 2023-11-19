@@ -4962,7 +4962,7 @@
   pubname: "Sydney Digital Theses"
   reserved: DEADBEEF
 
-292:
+293:
   title: "Embedded Deep Learning Accelerators: A Survey on Recent Advances"
   year: 2023
   type: article
@@ -4976,5 +4976,22 @@
   method: __no_data__
   publisher: IEEE
   pubkey: ""
+  pubname: "IEEE Transactions on Artificial Intelligence "
+  reserved: DEADBEEF
+
+294:
+  title: "Collective Communication Enabled Transformer Acceleration on Heterogeneous Clusters"
+  year: 2023
+  type: article
+  doi: https://hdl.handle.net/1807/130585
+  url: https://hdl.handle.net/1807/130585
+  pdf: https://tspace.library.utoronto.ca/bitstream/1807/130585/3/Gao_Yu_202311_MAS_thesis.pdf
+  ignore: False
+  silicon: True
+  platform: __no_data__
+  model: ['BERT']
+  method: __no_data__
+  publisher: TSpace
+  pubkey: "T"
   pubname: "IEEE Transactions on Artificial Intelligence "
   reserved: DEADBEEF

@@ -1814,11 +1814,23 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2023.3300893-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2023.3300893)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198428)
 
+**Integrated Transformers Inference Framework for Multiple Tenants on GPU**
+
+![](https://img.shields.io/badge/SydneyDigital-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://hdl.handle.net/2123/31606-sandybrown?style=flat-square)](https://hdl.handle.net/2123/31606)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ses.library.usyd.edu.au/bitstream/handle/2123/31606/Thesis__Yuning_Zhang%20%281%29.pdf?sequence=2&isAllowed=y)
+
 **Embedded Deep Learning Accelerators: A Survey on Recent Advances**
 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TAI.2023.3311776-sandybrown?style=flat-square)](https://doi.org/10.1109/TAI.2023.3311776)
 
+
+**Collective Communication Enabled Transformer Acceleration on Heterogeneous Clusters**
+
+![](https://img.shields.io/badge/TSpace-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://hdl.handle.net/1807/130585-sandybrown?style=flat-square)](https://hdl.handle.net/1807/130585)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://tspace.library.utoronto.ca/bitstream/1807/130585/3/Gao_Yu_202311_MAS_thesis.pdf)
 
 ---
 ## Analysis
