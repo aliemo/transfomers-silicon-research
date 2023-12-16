@@ -1832,6 +1832,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://hdl.handle.net/1807/130585-sandybrown?style=flat-square)](https://hdl.handle.net/1807/130585)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://tspace.library.utoronto.ca/bitstream/1807/130585/3/Gao_Yu_202311_MAS_thesis.pdf)
 
+**FET-OPU: A Flexible and Efficient FPGA-Based Overlay Processor for Transformer Networks**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD57390.2023.10323752-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD57390.2023.10323752)
+
+
+**Racism and Hate Speech Detection on Twitter: A QAHA-Based Hybrid Deep Learning Approach Using LSTM-CNN**
+
+![](https://img.shields.io/badge/ACADLore-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.56578/ijkis010202-sandybrown?style=flat-square)](https://doi.org/10.56578/ijkis010202)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://library.acadlore.com/IJKIS/2023/1/2/IJKIS_01.02_02.pdf)
+
 ---
 ## Analysis
 

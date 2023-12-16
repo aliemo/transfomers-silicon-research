@@ -4995,3 +4995,35 @@
   pubkey: "T"
   pubname: "IEEE Transactions on Artificial Intelligence "
   reserved: DEADBEEF
+
+295:
+  title: "FET-OPU: A Flexible and Efficient FPGA-Based Overlay Processor for Transformer Networks"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/ICCAD57390.2023.10323752
+  url: https://doi.org/10.1109/ICCAD57390.2023.10323752
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['BERT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ICCAD"
+  pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+
+296:
+  title: "Racism and Hate Speech Detection on Twitter: A QAHA-Based Hybrid Deep Learning Approach Using LSTM-CNN"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.56578/ijkis010202
+  url: https://doi.org/10.56578/ijkis010202
+  pdf: https://library.acadlore.com/IJKIS/2023/1/2/IJKIS_01.02_02.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['BERT']
+  method: __no_data__
+  publisher: ACADLore
+  pubkey: ""
+  pubname: "International Journal of Knowledge and Innovation Studies"
