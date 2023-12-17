@@ -1844,6 +1844,38 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.56578/ijkis010202-sandybrown?style=flat-square)](https://doi.org/10.56578/ijkis010202)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://library.acadlore.com/IJKIS/2023/1/2/IJKIS_01.02_02.pdf)
 
+**Enabling efficient edge intelligence: a hardware-software codesign approach**
+
+![](https://img.shields.io/badge/NanyangTechnologicalUniversity-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://dr.ntu.edu.sg/handle/10356/172499-sandybrown?style=flat-square)](https://dr.ntu.edu.sg/handle/10356/172499)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dr.ntu.edu.sg/bitstream/10356/172499/2/Thesis_Final_HUAISHUO.pdf)
+
+**Automatic Kernel Generation for Large Language Models on Deep Learning Accelerators**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD57390.2023.10323944-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD57390.2023.10323944)
+
+
+**A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCE-Asia59966.2023.10326397-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCE-Asia59966.2023.10326397)
+
+
+**PP-Transformer: Enable Efficient Deployment of Transformers Through Pattern Pruning**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD57390.2023.10323836-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD57390.2023.10323836)
+
+
+---
+### None
+**None**
+
+![](https://img.shields.io/badge/None-None-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
+
+
 ---
 ## Analysis
 

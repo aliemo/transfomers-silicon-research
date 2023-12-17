@@ -5027,3 +5027,100 @@
   publisher: ACADLore
   pubkey: ""
   pubname: "International Journal of Knowledge and Innovation Studies"
+
+1000:
+  title: "Enabling efficient edge intelligence: a hardware-software codesign approach"
+  year: 2023
+  type: thesis
+  doi: https://dr.ntu.edu.sg/handle/10356/172499
+  url: https://dr.ntu.edu.sg/handle/10356/172499
+  pdf: https://dr.ntu.edu.sg/bitstream/10356/172499/2/Thesis_Final_HUAISHUO.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: ["in-memory-processing", "pruning"]
+  publisher: "NanyangTechnologicalUniversity"
+  pubkey: ""
+  pubname: "Nanyang Technological University"
+
+1001:
+  title: "Automatic Kernel Generation for Large Language Models on Deep Learning Accelerators"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/ICCAD57390.2023.10323944
+  url: https://doi.org/10.1109/ICCAD57390.2023.10323944
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ICCAD"
+  pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+
+1002:
+  title: "A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/ICCE-Asia59966.2023.10326397
+  url: https://doi.org/10.1109/ICCE-Asia59966.2023.10326397
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)"
+
+1003:
+  title: "PP-Transformer: Enable Efficient Deployment of Transformers Through Pattern Pruning"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/ICCAD57390.2023.10323836
+  url: https://doi.org/10.1109/ICCAD57390.2023.10323836
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ICCAD"
+  pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+
+1004:
+  title:
+  year:
+  type:
+  doi:
+  url:
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher:
+  pubkey: ""
+  pubname: ""
+
+
+# 100x:
+#   title:
+#   year:
+#   type:
+#   doi:
+#   url:
+#   pdf: False
+#   ignore: False
+#   silicon: True
+#   platform: FPGA
+#   model: ['Transformer']
+#   method: __no_data__
+#   publisher:
+#   pubkey: ""
+#   pubname: ""
