@@ -1859,21 +1859,13 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration**
 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCE-Asia59966.2023.10326397-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCE-Asia59966.2023.10326397)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCE--Asia59966.2023.10326397-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCE-Asia59966.2023.10326397)
 
 
 **PP-Transformer: Enable Efficient Deployment of Transformers Through Pattern Pruning**
 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD57390.2023.10323836-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD57390.2023.10323836)
-
-
----
-### None
-**None**
-
-![](https://img.shields.io/badge/None-None-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-None-sandybrown?style=flat-square)](None)
 
 
 ---

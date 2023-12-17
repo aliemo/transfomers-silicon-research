@@ -5064,7 +5064,7 @@
   title: "A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration"
   year: 2023
   type: article
-  doi: https://doi.org/10.1109/ICCE-Asia59966.2023.10326397
+  doi: https://doi.org/10.1109/ICCE--Asia59966.2023.10326397
   url: https://doi.org/10.1109/ICCE-Asia59966.2023.10326397
   pdf: False
   ignore: False
@@ -5092,21 +5092,21 @@
   pubkey: "ICCAD"
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
 
-1004:
-  title:
-  year:
-  type:
-  doi:
-  url:
-  pdf: False
-  ignore: False
-  silicon: True
-  platform: FPGA
-  model: ['Transformer']
-  method: __no_data__
-  publisher:
-  pubkey: ""
-  pubname: ""
+# 1004:
+#   title:
+#   year:
+#   type:
+#   doi:
+#   url:
+#   pdf: False
+#   ignore: False
+#   silicon: True
+#   platform: FPGA
+#   model: ['Transformer']
+#   method: __no_data__
+#   publisher:
+#   pubkey: ""
+#   pubname: ""
 
 
 # 100x:
