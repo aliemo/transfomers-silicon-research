@@ -1868,6 +1868,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCAD57390.2023.10323836-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCAD57390.2023.10323836)
 
 
+**DEAP: Design Space Exploration for DNN Accelerator Parallelism**
+
+![](https://img.shields.io/badge/Arxive-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2312.15388-sandybrown?style=flat-square)](https://arxiv.org/abs/2312.15388)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2312.15388.pdf)
+
+**Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference**
+
+![](https://img.shields.io/badge/Arxive-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2312.15159-sandybrown?style=flat-square)](https://arxiv.org/abs/2312.15159)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2312.15159.pdf)
+
 ---
 ## Analysis
 
