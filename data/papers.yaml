@@ -5125,6 +5125,24 @@
   pubname: "Computer Science > Machine Learning"
 
 
+1006:
+  title: "An RRAM-Based Computing-in-Memory Architecture and Its Application in Accelerating Transformer Inference"
+  year: 2023
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651
+  url: https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "TVLSI"
+  pubname: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+
+
+
 # 100x:
 #   title:
 #   year:

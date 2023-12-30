@@ -1880,6 +1880,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2312.15159-sandybrown?style=flat-square)](https://arxiv.org/abs/2312.15159)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2312.15159.pdf)
 
+**An RRAM-Based Computing-in-Memory Architecture and Its Application in Accelerating Transformer Inference**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651)
+
+
 ---
 ## Analysis
 
