@@ -5141,6 +5141,21 @@
   pubkey: "TVLSI"
   pubname: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
 
+1007:
+  title: "Mobile Transformer Accelerator Exploiting Various Line Sparsity and Tile-Based Dynamic Quantization"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2023.3347291
+  url: https://doi.org/10.1109/TCAD.2023.3347291
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "TCAD"
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
 
 
 # 100x:

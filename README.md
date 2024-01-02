@@ -1886,6 +1886,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TVLSI.2023.3345651)
 
 
+**Mobile Transformer Accelerator Exploiting Various Line Sparsity and Tile-Based Dynamic Quantization**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2023.3347291-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2023.3347291)
+
+
 ---
 ## Analysis
 
