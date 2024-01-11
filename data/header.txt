@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/>
 </p> -->
 
+## How to Contribute
+
+**You can add new papers via pull requests, Please check `data/papers.yaml` and if your paper is not in list, add entity at the last item and create pull request.**
+
 ## Transformer and BERT Model
 
 * BERT is a method of **pre-training language representations**, meaning that we **train a general-purpose *language understanding model*** on a large text corpus (like Wikipedia) and then use that model for downstream NLP tasks.
