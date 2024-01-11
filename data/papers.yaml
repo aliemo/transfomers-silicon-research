@@ -5011,6 +5011,7 @@
   publisher: IEEE
   pubkey: "ICCAD"
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
 296:
   title: "Racism and Hate Speech Detection on Twitter: A QAHA-Based Hybrid Deep Learning Approach Using LSTM-CNN"
@@ -5027,6 +5028,7 @@
   publisher: ACADLore
   pubkey: ""
   pubname: "International Journal of Knowledge and Innovation Studies"
+  reserved: DEADBEEF
 
 1000:
   title: "Enabling efficient edge intelligence: a hardware-software codesign approach"
@@ -5043,6 +5045,7 @@
   publisher: "NanyangTechnologicalUniversity"
   pubkey: ""
   pubname: "Nanyang Technological University"
+  reserved: DEADBEEF
 
 1001:
   title: "Automatic Kernel Generation for Large Language Models on Deep Learning Accelerators"
@@ -5059,6 +5062,7 @@
   publisher: IEEE
   pubkey: "ICCAD"
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
 1002:
   title: "A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration"
@@ -5075,6 +5079,7 @@
   publisher: IEEE
   pubkey: ""
   pubname: "IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)"
+  reserved: DEADBEEF
 
 1003:
   title: "PP-Transformer: Enable Efficient Deployment of Transformers Through Pattern Pruning"
@@ -5091,6 +5096,7 @@
   publisher: IEEE
   pubkey: "ICCAD"
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
+  reserved: DEADBEEF
 
 1004:
   title: "DEAP: Design Space Exploration for DNN Accelerator Parallelism"
@@ -5107,6 +5113,7 @@
   publisher: Arxive
   pubkey: ""
   pubname: "Computer Science > Distributed, Parallel, and Cluster Computing"
+  reserved: DEADBEEF
 
 1005:
   title: "Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference"
@@ -5123,6 +5130,7 @@
   publisher: Arxive
   pubkey: ""
   pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
 
 
 1006:
@@ -5140,6 +5148,7 @@
   publisher: IEEE
   pubkey: "TVLSI"
   pubname: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
+  reserved: DEADBEEF
 
 1007:
   title: "Mobile Transformer Accelerator Exploiting Various Line Sparsity and Tile-Based Dynamic Quantization"
@@ -5156,6 +5165,42 @@
   publisher: IEEE
   pubkey: "TCAD"
   pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+1008:
+  title: "A Lightweight Transformer Model using Neural ODE for FPGAs"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/IPDPSW59300.2023.00029
+  url: https://doi.org/10.1109/IPDPSW59300.2023.00029
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer', ]
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "IPDPSW"
+  pubname: "IEEE International Parallel and Distributed Processing Symposium Workshops"
+  reserved: DEADBEEF
+
+1009:
+  title: "A Cost-Efficient FPGA Implementation of Tiny Transformer Model using Neural ODE"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.02721
+  url: https://arxiv.org/abs/2401.02721
+  pdf: https://arxiv.org/pdf/2401.02721.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
 
 
 # 100x:
@@ -5173,3 +5218,4 @@
 #   publisher:
 #   pubkey: ""
 #   pubname: ""
+#   reserved: DEADBEEF
