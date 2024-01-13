@@ -1910,6 +1910,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.02721-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.02721)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.02721.pdf)
 
+**FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.03868-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.03868)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.03868.pdf)
+
 ---
 ## Analysis
 
