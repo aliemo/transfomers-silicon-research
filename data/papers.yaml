@@ -5201,9 +5201,25 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
+1010:
+  title: "FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.03868
+  url: https://arxiv.org/abs/2401.03868
+  pdf: https://arxiv.org/pdf/2401.03868.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
 
-# 100x:
+# 10xx:
 #   title:
 #   year:
 #   type:
