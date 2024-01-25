@@ -1922,11 +1922,41 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.06885-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.06885)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.06885.pdf)
 
+**Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2024.3350661-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2024.3350661)
+
+
+**RDCIM: RISC-V Supported Full-Digital Computing-in-Memory Processor With High Energy Efficiency and Low Area Overhead**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2024.3350664-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2024.3350664)
+
+
 **A Survey on Hardware Accelerators for Large Language Models**
 
 ![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.09890-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.09890)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.09890.pdf)
+
+**BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.11851-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.11851)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/abs/2401.11851.pdf)
+
+**AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.11459-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.11459)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/abs/2401.11459.pdf)
+
+**SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.10417-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.10417)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/abs/2401.10417.pdf)
 
 ---
 ## Analysis

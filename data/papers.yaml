@@ -5252,7 +5252,7 @@
   pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
   reserved: DEADBEEF
 
-1012:
+1013:
   title: "RDCIM: RISC-V Supported Full-Digital Computing-in-Memory Processor With High Energy Efficiency and Low Area Overhead"
   year: 2024
   type: article
@@ -5269,10 +5269,10 @@
   pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
   reserved: DEADBEEF
 
-1012:
+1014:
   title: "A Survey on Hardware Accelerators for Large Language Models"
   year: 2024
-  type: survay
+  type: article
   doi: https://arxiv.org/abs/2401.09890
   url: https://arxiv.org/abs/2401.09890
   pdf: https://arxiv.org/pdf/2401.09890.pdf
@@ -5286,6 +5286,56 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+1015:
+  title: "BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.11851
+  url: https://arxiv.org/abs/2401.11851
+  pdf: https://arxiv.org/abs/2401.11851.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1016:
+  title: "AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.11459
+  url: https://arxiv.org/abs/2401.11459
+  pdf: https://arxiv.org/abs/2401.11459.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1017:
+  title: "SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.10417
+  url: https://arxiv.org/abs/2401.10417
+  pdf: https://arxiv.org/abs/2401.10417.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
 
 # 10xx:
 #   title:
