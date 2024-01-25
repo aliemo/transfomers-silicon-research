@@ -4,6 +4,9 @@ import argparse
 import yaml
 
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 
 def write_csv(data, outf, header=None):
 
@@ -20,6 +23,18 @@ def write_csv(data, outf, header=None):
     df = pd.DataFrame.from_dict(d)
 
     df.to_csv(outf, index=False)
+
+def create_plot(csvfile, path):
+    df = pd.read_csv(csvfile)
+    f, ax = plt.subplots(figsize=(4, 6))
+    sns.set_palette('Blues')
+    sns.countplot(x=df['year'])
+    ax.set_title('Publications')
+    ax.set_xlabel('Year')
+    ax.set_anchor('S')
+    plt.xticks(rotation=45)
+    plt.savefig(path, dpi=600)
+    plt.close()
 
 
 def write_md(data, outf, signle=True, with_header=True, with_footer=True):
@@ -177,18 +192,23 @@ def main():
     parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
     parser.add_argument('-c', '--csv', type=str, default='__nocsv__', help='csv output file')
+    parser.add_argument('-p', '--plt', type=str, default='__noplt__', help='figure file')
     args = parser.parse_args()
 
     inpf = args.input
     outf = args.output
     csvf = args.csv
+    pltf = args.plt
+
     data = read_yaml(inpf, ignore=True, silicon=True)
     csv_data = read_yaml(inpf)
     data = read_yaml(inpf)
     data_y = sort_by_year(data, signle=False)
-    write_md(data_y, outf, signle=False)
     if csvf != '__nocsv__':
         write_csv(csv_data, csvf)
+    if csvf != '__noplt__':
+        create_plot(csvf, pltf)
+    write_md(data_y, outf, signle=False)
 
 
 if __name__ == '__main__':
