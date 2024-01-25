@@ -1916,6 +1916,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.03868-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.03868)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.03868.pdf)
 
+**Accelerating Neural Networks for Large Language Models and Graph Processing with Silicon Photonics**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.06885-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.06885)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.06885.pdf)
+
+**A Survey on Hardware Accelerators for Large Language Models**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2401.09890-sandybrown?style=flat-square)](https://arxiv.org/abs/2401.09890)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2401.09890.pdf)
+
 ---
 ## Analysis
 

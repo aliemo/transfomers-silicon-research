@@ -5218,6 +5218,74 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+1011:
+  title: "Accelerating Neural Networks for Large Language Models and Graph Processing with Silicon Photonics"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.06885
+  url: https://arxiv.org/abs/2401.06885
+  pdf: https://arxiv.org/pdf/2401.06885.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer', 'LLM']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1012:
+  title: "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCSI.2024.3350661
+  url: https://doi.org/10.1109/TCSI.2024.3350661
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer', 'LLM']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "TCSI"
+  pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
+  reserved: DEADBEEF
+
+1012:
+  title: "RDCIM: RISC-V Supported Full-Digital Computing-in-Memory Processor With High Energy Efficiency and Low Area Overhead"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCSI.2024.3350664
+  url: https://doi.org/10.1109/TCSI.2024.3350664
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer', 'RISC-V', 'PIM', 'Memory']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "TCSI"
+  pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
+  reserved: DEADBEEF
+
+1012:
+  title: "A Survey on Hardware Accelerators for Large Language Models"
+  year: 2024
+  type: survay
+  doi: https://arxiv.org/abs/2401.09890
+  url: https://arxiv.org/abs/2401.09890
+  pdf: https://arxiv.org/pdf/2401.09890.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxive
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
 
 # 10xx:
 #   title:
