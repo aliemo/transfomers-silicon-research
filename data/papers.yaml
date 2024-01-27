@@ -5337,6 +5337,23 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+1018:
+  title: "CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.12428
+  url: https://arxiv.org/abs/2401.12428
+  pdf: https://arxiv.org/pdf/2401.12428.pdf
+  ignore: False
+  silicon: True
+  platform: PIM
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:

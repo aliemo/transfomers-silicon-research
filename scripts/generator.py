@@ -25,9 +25,9 @@ def write_csv(data, outf, header=None):
     df.to_csv(outf, index=False)
 
 def create_plot(csvfile, path):
+    sns.set_palette('Blues')
     df = pd.read_csv(csvfile)
     f, ax = plt.subplots(figsize=(4, 6))
-    sns.set_palette('Blues')
     sns.countplot(x=df['year'])
     ax.set_title('Publications')
     ax.set_xlabel('Year')
