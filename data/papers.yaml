@@ -5354,6 +5354,75 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+
+1019:
+  title: "CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2401.12428
+  url: https://arxiv.org/abs/2401.12428
+  pdf: https://arxiv.org/pdf/2401.12428.pdf
+  ignore: False
+  silicon: True
+  platform: PIM
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1020:
+  title: "The Era of Generative Artificial Intelligence: In-Memory Computing Perspective"
+  year: 2024
+  type: review
+  doi: https://doi.org/10.1109/IEDM45741.2023.10413786
+  url: https://doi.org/10.1109/IEDM45741.2023.10413786
+  pdf: no
+  ignore: False
+  silicon: True
+  platform: PIM
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "IEDM"
+  pubname: "International Electron Devices Meeting (IEDM)"
+  reserved: DEADBEEF
+
+1021:
+  title: "Hydragen: High-Throughput LLM Inference with Shared Prefixes"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.05099
+  url: https://arxiv.org/abs/2402.05099
+  pdf: https://arxiv.org/pdf/2402.05099.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+1022:
+  title: "A Survey on Transformer Compression"
+  year: 2024
+  type: survey
+  doi: https://arxiv.org/abs/2402.05964.pdf
+  url: https://arxiv.org/abs/2402.05964.pdf
+  pdf: https://arxiv.org/pdf/2402.05964.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:
