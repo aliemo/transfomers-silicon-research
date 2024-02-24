@@ -5423,6 +5423,59 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
+
+1023:
+  title: "SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.09025
+  url: https://arxiv.org/abs/2402.09025
+  pdf: https://arxiv.org/pdf/2402.09025.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: ""
+  reserved: DEADBEEF
+
+1024:
+  title: "Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.09109
+  url: https://arxiv.org/abs/2402.09109
+  pdf: https://arxiv.org/pdf/2402.09109.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1025:
+  title: "Reusing Softmax Hardware Unit for GELU Computation in Transformers"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.10118
+  url: https://arxiv.org/abs/2402.10118
+  pdf: https://arxiv.org/abs/2402.10118.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
 # 10xx:
 #   title:
 #   year:
