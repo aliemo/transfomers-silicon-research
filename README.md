@@ -2006,6 +2006,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.10118-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.10118)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/abs/2402.10118.pdf)
 
+**ConSmax: Hardware-Friendly Alternative Softmax with Learnable Parameters**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.10930-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.10930)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.10930.pdf)
+
+**Speculative Streaming: Fast LLM Inference without Auxiliary Models**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.11131-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.11131)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.11131.pdf)
+
 ---
 ## Analysis
 
