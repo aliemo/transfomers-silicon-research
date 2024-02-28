@@ -5509,6 +5509,25 @@
   pubname: "Computer Science > Computation and Language"
   reserved: DEADBEEF
 
+
+1027:
+  title: "Speculative Streaming: Fast LLM Inference without Auxiliary Models"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.14307
+  url: https://arxiv.org/abs/2402.14307
+  pdf: https://arxiv.org/pdf/2402.14307.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
 # 10xx:
 #   title:
 #   year:
