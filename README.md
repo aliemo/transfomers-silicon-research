@@ -2015,8 +2015,20 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **Speculative Streaming: Fast LLM Inference without Auxiliary Models**
 
 ![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.14307-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.14307)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.14307.pdf)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.11131-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.11131)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.11131.pdf)
+
+**H3D-Transformer: A Heterogeneous 3D (H3D) Computing Platform for Transformer Model Acceleration on Edge Devices**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://dl.acm.org/doi/10.1145/3649219-sandybrown?style=flat-square)](https://dl.acm.org/doi/10.1145/3649219)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3649219)
+
+**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.00579-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.00579)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.00579.pdf)
 
 ---
 ## Analysis

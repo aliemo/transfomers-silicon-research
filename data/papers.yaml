@@ -5510,13 +5510,30 @@
   reserved: DEADBEEF
 
 
-1027:
-  title: "Speculative Streaming: Fast LLM Inference without Auxiliary Models"
+1028:
+  title: "H3D-Transformer: A Heterogeneous 3D (H3D) Computing Platform for Transformer Model Acceleration on Edge Devices"
   year: 2024
   type: article
-  doi: https://arxiv.org/abs/2402.14307
-  url: https://arxiv.org/abs/2402.14307
-  pdf: https://arxiv.org/pdf/2402.14307.pdf
+  doi: https://dl.acm.org/doi/10.1145/3649219
+  url: https://dl.acm.org/doi/10.1145/3649219
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3649219
+  ignore: False
+  silicon: True
+  platform: 3D
+  model: ['Transformer']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "ACM Transactions on Design Automation of Electronic Systems"
+  reserved: DEADBEEF
+
+1029:
+  title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.00579
+  url: https://arxiv.org/abs/2403.00579
+  pdf: https://arxiv.org/pdf/2403.00579.pdf
   ignore: False
   silicon: True
   platform: FPGA
