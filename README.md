@@ -2030,6 +2030,42 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.00579-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.00579)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.00579.pdf)
 
+**Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3653020-sandybrown?style=flat-square)](https://doi.org/10.1145/365302000579)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3653020)
+
+**DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.10913-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.10913)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.10913.pdf)
+
+**FastDecode: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.11421-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.11421)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.11421.pdf)
+
+**Accelerating ViT Inference on FPGA through Static and Dynamic Pruning**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.14047-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.14047)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.14047.pdf)
+
+**Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.15069-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.15069)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.15069.pdf)
+
+**Impact of High-Level-Synthesis on Reliability of Artificial Neural Network Hardware Accelerators**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TNS.2024.3377596-sandybrown?style=flat-square)](https://doi.org/10.1109/TNS.2024.3377596)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://inria.hal.science/hal-04514579/file/TNS2024_HLS.pdf)
+
 ---
 ## Analysis
 

@@ -5545,6 +5545,112 @@
   reserved: DEADBEEF
 
 
+1030:
+  title: "Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3653020
+  url: https://doi.org/10.1145/365302000579
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3653020
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "Transactions on Architecture and Code Optimization"
+  reserved: DEADBEEF
+
+1031:
+  title: "DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.10913
+  url: https://arxiv.org/abs/2403.10913
+  pdf: https://arxiv.org/pdf/2403.10913.pdf
+  ignore: False
+  silicon: True
+  platform: GPU
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+1032:
+  title: "FastDecode: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.11421
+  url: https://arxiv.org/abs/2403.11421
+  pdf: https://arxiv.org/pdf/2403.11421.pdf
+  ignore: False
+  silicon: True
+  platform: GPU
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Distributed, Parallel, and Cluster Computing"
+  reserved: DEADBEEF
+
+
+1033:
+  title: "Accelerating ViT Inference on FPGA through Static and Dynamic Pruning"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.14047
+  url: https://arxiv.org/abs/2403.14047
+  pdf: https://arxiv.org/pdf/2403.14047.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Distributed, Parallel, and Cluster Computing"
+  reserved: DEADBEEF
+
+1034:
+  title: "Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.15069
+  url: https://arxiv.org/abs/2403.15069
+  pdf: https://arxiv.org/pdf/2403.15069.pdf
+  ignore: False
+  silicon: True
+  platform: PIM
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+1035:
+  title: "Impact of High-Level-Synthesis on Reliability of Artificial Neural Network Hardware Accelerators"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TNS.2024.3377596
+  url: https://doi.org/10.1109/TNS.2024.3377596
+  pdf: https://inria.hal.science/hal-04514579/file/TNS2024_HLS.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: ""
+  pubname: "IEEE Transactions on Nuclear Science"
+  reserved: DEADBEEF
+
+
 # 10xx:
 #   title:
 #   year:
