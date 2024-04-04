@@ -5650,6 +5650,75 @@
   pubname: "IEEE Transactions on Nuclear Science"
   reserved: DEADBEEF
 
+1036:
+  title: "An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2403.20230
+  url: https://arxiv.org/abs/2403.20230
+  pdf: https://arxiv.org/pdf/2403.20230.pdf
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+
+1037:
+  title: "TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473976
+  url: https://doi.org/10.1109/ASP-DAC58780.2024.10473976
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ASP-DAC"
+  pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
+  reserved: DEADBEEF
+
+1038:
+  title: "PRIMATE: Processing in Memory Acceleration for Dynamic Token-pruning Transformers"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473968
+  url: https://doi.org/10.1109/ASP-DAC58780.2024.10473968
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ASP-DAC"
+  pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
+  reserved: DEADBEEF
+
+1039:
+  title: "SWAT: An Efficient Swin Transformer Accelerator Based on FPGA"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473931
+  url: https://doi.org/10.1109/ASP-DAC58780.2024.10473931
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ASP-DAC"
+  pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
+  reserved: DEADBEEF
 
 # 10xx:
 #   title:

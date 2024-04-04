@@ -2066,6 +2066,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TNS.2024.3377596-sandybrown?style=flat-square)](https://doi.org/10.1109/TNS.2024.3377596)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://inria.hal.science/hal-04514579/file/TNS2024_HLS.pdf)
 
+**An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2403.20230-sandybrown?style=flat-square)](https://arxiv.org/abs/2403.20230)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2403.20230.pdf)
+
+**TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473976-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473976)
+
+
+**PRIMATE: Processing in Memory Acceleration for Dynamic Token-pruning Transformers**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473968-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473968)
+
+
+**SWAT: An Efficient Swin Transformer Accelerator Based on FPGA**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473931-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473931)
+
+
 ---
 ## Analysis
 
