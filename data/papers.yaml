@@ -5720,6 +5720,24 @@
   pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
   reserved: DEADBEEF
 
+1040:
+  title: "VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2404.04527v1
+  url: https://arxiv.org/abs/2404.04527v1
+  pdf: https://arxiv.org/pdf/2404.04527v1
+  ignore: False
+  silicon: True
+  platform: FPGA
+  model: ['Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
+
+
 # 10xx:
 #   title:
 #   year:

@@ -2090,6 +2090,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473931-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473931)
 
 
+**VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2404.04527v1-sandybrown?style=flat-square)](https://arxiv.org/abs/2404.04527v1)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2404.04527v1)
+
 ---
 ## Analysis
 
