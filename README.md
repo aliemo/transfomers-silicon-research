@@ -2096,6 +2096,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2404.04527v1-sandybrown?style=flat-square)](https://arxiv.org/abs/2404.04527v1)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2404.04527v1)
 
+**Workload-Aware Hardware Accelerator Mining for Distributed Deep Learning Training**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2404.14632v1-sandybrown?style=flat-square)](https://arxiv.org/abs/2404.14632v1)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2404.14632v1)
+
 ---
 ## Analysis
 
