@@ -5673,7 +5673,7 @@
   title: "TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473976
+  doi: https://doi.org/10.1109/ASP--DAC58780.2024.10473976
   url: https://doi.org/10.1109/ASP-DAC58780.2024.10473976
   pdf: False
   ignore: False
@@ -5690,7 +5690,7 @@
   title: "PRIMATE: Processing in Memory Acceleration for Dynamic Token-pruning Transformers"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473968
+  doi: https://doi.org/10.1109/ASP--DAC58780.2024.10473968
   url: https://doi.org/10.1109/ASP-DAC58780.2024.10473968
   pdf: False
   ignore: False
@@ -5707,7 +5707,7 @@
   title: "SWAT: An Efficient Swin Transformer Accelerator Based on FPGA"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/ASP-DAC58780.2024.10473931
+  doi: https://doi.org/10.1109/ASP--DAC58780.2024.10473931
   url: https://doi.org/10.1109/ASP-DAC58780.2024.10473931
   pdf: False
   ignore: False
@@ -5752,6 +5752,23 @@
   publisher: Arxiv
   pubkey: ""
   pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1042:
+  title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
+  year: 2024
+  type: article
+  doi: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
+  url: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3620666.3651380
+  ignore: False
+  silicon: True
+  platform: PIM
+  model: ['Transformer']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
   reserved: DEADBEEF
 
 

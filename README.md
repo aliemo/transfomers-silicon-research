@@ -2075,19 +2075,19 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 **TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization**
 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473976-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473976)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP--DAC58780.2024.10473976-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473976)
 
 
 **PRIMATE: Processing in Memory Acceleration for Dynamic Token-pruning Transformers**
 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473968-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473968)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP--DAC58780.2024.10473968-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473968)
 
 
 **SWAT: An Efficient Swin Transformer Accelerator Based on FPGA**
 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP-DAC58780.2024.10473931-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473931)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ASP--DAC58780.2024.10473931-sandybrown?style=flat-square)](https://doi.org/10.1109/ASP-DAC58780.2024.10473931)
 
 
 **VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA**
@@ -2101,6 +2101,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2404.14632v1-sandybrown?style=flat-square)](https://arxiv.org/abs/2404.14632v1)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2404.14632v1)
+
+**NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://dl.acm.org/doi/abs/10.1145/3620666.3651380-sandybrown?style=flat-square)](https://dl.acm.org/doi/abs/10.1145/3620666.3651380)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3620666.3651380)
 
 ---
 ## Analysis

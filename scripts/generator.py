@@ -25,7 +25,7 @@ def write_csv(data, outf, header=None):
     df.to_csv(outf, index=False)
 
 def create_plot(csvfile, path):
-    sns.set_palette('Blues')
+    # sns.set_palette('Blues')
     df = pd.read_csv(csvfile)
     f, ax = plt.subplots(figsize=(4, 6))
     sns.countplot(x=df['year'])
@@ -191,7 +191,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate README.md')
     parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
     parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
-    parser.add_argument('-c', '--csv', type=str, default='__nocsv__', help='csv output file')
+    parser.add_argument('-c', '--csv', type=str, default='data/papers.csv', help='csv output file')
     parser.add_argument('-p', '--plt', type=str, default='__noplt__', help='figure file')
     args = parser.parse_args()
 
