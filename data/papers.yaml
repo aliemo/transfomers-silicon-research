@@ -5754,7 +5754,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1042:
+1043:
   title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
   year: 2024
   type: article
@@ -5769,6 +5769,57 @@
   publisher: ACM
   pubkey: ""
   pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
+  reserved: DEADBEEF
+
+1044:
+  title: "VITA: ViT Acceleration for Efficient 3D Human Mesh Recovery via Hardware-Algorithm Co-Design"
+  year: 2024
+  type: article
+  doi: no
+  url: no
+  pdf: https://www.crcv.ucf.edu/chenchen/2024_DAC_VITA_Final.pdf
+  ignore: True
+  silicon: True
+  platform: PIMGPU
+  model: ['Transformer']
+  method: __no_data__
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
+  reserved: DEADBEEF
+
+1045:
+  title: "HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2405.00738
+  url: https://arxiv.org/abs/2405.00738
+  pdf: https://arxiv.org/pdf/2405.00738
+  ignore: True
+  silicon: True
+  platform: FPGA
+  model: ['Transformer', 'LLM']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1046:
+  title: "SCAR: Scheduling Multi-Model AI Workloads on Heterogeneous Multi-Chiplet Module Accelerators"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2405.00790
+  url: https://arxiv.org/abs/2405.00790
+  pdf: https://arxiv.org/pdf/2405.00790
+  ignore: True
+  silicon: True
+  platform: ACC
+  model: ['AI']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
 
