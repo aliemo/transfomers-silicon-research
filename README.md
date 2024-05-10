@@ -2126,6 +2126,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.00790-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.00790)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.00790)
 
+**Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.03882-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.03882)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.03882)
+
 ---
 ## Analysis
 

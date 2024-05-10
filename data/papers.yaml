@@ -5822,6 +5822,23 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+1047:
+  title: "Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2405.03882
+  url: https://arxiv.org/abs/2405.03882
+  pdf: https://arxiv.org/pdf/2405.03882
+  ignore: True
+  silicon: True
+  platform: ACC
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
+
 
 # 10xx:
 #   title:
