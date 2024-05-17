@@ -2132,6 +2132,18 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.03882-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.03882)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.03882)
 
+**SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.07518-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.07518)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.07518)
+
+**TensorMap: A Deep RL-Based Tensor Mapping Framework for Spatial Accelerators**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424)
+
+
 ---
 ## Analysis
 

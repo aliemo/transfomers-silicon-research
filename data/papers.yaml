@@ -5839,6 +5839,41 @@
   pubname: "Computer Science > Computer Vision and Pattern Recognition"
   reserved: DEADBEEF
 
+1048:
+  title: "SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2405.07518
+  url: https://arxiv.org/abs/2405.07518
+  pdf: https://arxiv.org/pdf/2405.07518
+  ignore: True
+  silicon: True
+  platform:  Memory
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1049:
+  title: "TensorMap: A Deep RL-Based Tensor Mapping Framework for Spatial Accelerators"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
+  url: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
+  pdf: no
+  ignore: True
+  silicon: True
+  platform:  EDA
+  model: ['LLm', 'EDA']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "IEEE Transactions on Computers"
+  pubname: "TC"
+  reserved: DEADBEEF
+
+
 
 # 10xx:
 #   title:
