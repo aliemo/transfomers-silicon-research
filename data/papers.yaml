@@ -5873,7 +5873,22 @@
   pubname: "TC"
   reserved: DEADBEEF
 
-
+1049:
+  title: "JIT-Q: Just-in-time Quantization with Processing-In-Memory for Efficient ML Training"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2311.05034
+  url: https://arxiv.org/abs/2311.05034
+  pdf: https://proceedings.mlsys.org/paper_files/paper/2024/file/136b9a13861308c8948cd308ccd02658-Paper-Conference.pdf
+  ignore: True
+  silicon: True
+  platform:  EDA
+  model: ['LLm', 'EDA']
+  method: __no_data__
+  publisher: MLSys
+  pubkey: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
+  pubname: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
+  reserved: DEADBEEF
 
 # 10xx:
 #   title:
