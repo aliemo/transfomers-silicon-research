@@ -5873,7 +5873,7 @@
   pubname: "TC"
   reserved: DEADBEEF
 
-1049:
+1050:
   title: "JIT-Q: Just-in-time Quantization with Processing-In-Memory for Efficient ML Training"
   year: 2024
   type: article
@@ -5889,6 +5889,24 @@
   pubkey: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
   pubname: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
   reserved: DEADBEEF
+
+1051:
+  title: "DCT-ViT: High-Frequency Pruned Vision Transformer with Discrete Cosine Transform"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ACCESS.2024.3410231
+  url: https://doi.org/10.1109/ACCESS.2024.3410231
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549904
+  ignore: True
+  silicon: True
+  platform: algorithm
+  model: ['LLm', 'ViT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "Access"
+  pubname: "IEEE Access"
+  reserved: DEADBEEF
+
 
 # 10xx:
 #   title:

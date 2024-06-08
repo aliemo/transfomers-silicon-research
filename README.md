@@ -2138,11 +2138,23 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.07518-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.07518)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.07518)
 
+**TensorMap: A Deep RL-Based Tensor Mapping Framework for Spatial Accelerators**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424)
+
+
 **JIT-Q: Just-in-time Quantization with Processing-In-Memory for Efficient ML Training**
 
 ![](https://img.shields.io/badge/MLSys-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2311.05034-sandybrown?style=flat-square)](https://arxiv.org/abs/2311.05034)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.mlsys.org/paper_files/paper/2024/file/136b9a13861308c8948cd308ccd02658-Paper-Conference.pdf)
+
+**DCT-ViT: High-Frequency Pruned Vision Transformer with Discrete Cosine Transform**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2024.3410231-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2024.3410231)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549904)
 
 ---
 ## Analysis
