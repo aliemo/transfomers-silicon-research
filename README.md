@@ -1902,6 +1902,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/IPDPSW59300.2023.00029-sandybrown?style=flat-square)](https://doi.org/10.1109/IPDPSW59300.2023.00029)
 
 
+**TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings**
+
+![](https://img.shields.io/badge/ACM-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3579371.3589350-sandybrown?style=flat-square)](https://doi.org/10.1145/3579371.3589350)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3579371.3589350)
+
+**FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU**
+
+![](https://img.shields.io/badge/PMLR-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://proceedings.mlr.press/v202/sheng23a-sandybrown?style=flat-square)](https://proceedings.mlr.press/v202/sheng23a)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf)
+
+**I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference**
+
+![](https://img.shields.io/badge/IEEE/CVF-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2207.01405-sandybrown?style=flat-square)](https://arxiv.org/abs/2207.01405)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2207.01405)
+
 ---
 ### 2024
 **A Cost-Efficient FPGA Implementation of Tiny Transformer Model using Neural ODE**
@@ -2155,6 +2173,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ACCESS.2024.3410231-sandybrown?style=flat-square)](https://doi.org/10.1109/ACCESS.2024.3410231)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549904)
+
+**TransAxx: Efficient Transformers with Approximate Computing**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.07545-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.07545)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.07545)
 
 ---
 ## Analysis
