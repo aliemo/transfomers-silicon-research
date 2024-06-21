@@ -1914,11 +1914,65 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://proceedings.mlr.press/v202/sheng23a-sandybrown?style=flat-square)](https://proceedings.mlr.press/v202/sheng23a)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf)
 
+**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.03493-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.03493)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.03493)
+
+**X-Former: In-Memory Acceleration of Transformers**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2303.07470-sandybrown?style=flat-square)](https://arxiv.org/abs/2303.07470)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2303.07470)
+
+**GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models**
+
+![](https://img.shields.io/badge/Arxiv-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2309.10730-sandybrown?style=flat-square)](https://arxiv.org/abs/2309.10730)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2309.10730)
+
+**HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/HPCA56546.2023.10071047-sandybrown?style=flat-square)](https://doi.org/10.1109/HPCA56546.2023.10071047)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2211.08110)
+
+**ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2210.09573-sandybrown?style=flat-square)](https://arxiv.org/abs/2210.09573)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2210.09573)
+
+**AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference with Transformers**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2023.3273992-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2023.3273992)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.14705)
+
+**22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42615.2023.10067817-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42615.2023.10067817)
+
+
+**P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2023.3315060-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2023.3315060)
+
+
 **I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference**
 
 ![](https://img.shields.io/badge/IEEE/CVF-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2207.01405-sandybrown?style=flat-square)](https://arxiv.org/abs/2207.01405)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2207.01405)
+
+**Streaming Tensor Programs: A Programming Abstraction for Streaming Dataflow Accelerators**
+
+![](https://img.shields.io/badge/?-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-NO_DATA-sandybrown?style=flat-square)](False)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://cgyurgyik.github.io/files/pubs/step-yarch.pdf)
 
 ---
 ### 2024
@@ -2179,6 +2233,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2402.07545-sandybrown?style=flat-square)](https://arxiv.org/abs/2402.07545)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2402.07545)
+
+**ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.03493-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.03493)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.03493)
+
+**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.04532-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.04532)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.04532)
+
+**BitShare: An Efficient Precision-Scalable Accelerator with Combining-Like-Terms GEMM**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-RESEARCH_GATE-sandybrown?style=flat-square)](https://www.researchgate.net/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.researchgate.net/profile/Junzhong-Shen/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM/links/666a46cba54c5f0b94613261/BitShare-An-Efficient-Precision-Scalable-Accelerator-with-Combining-Like-Terms-GEMM.pdf)
 
 ---
 ## Analysis

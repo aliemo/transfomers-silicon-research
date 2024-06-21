@@ -5975,7 +5975,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1055:
+1056:
   title: "ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers"
   year: 2023
   type: article
@@ -5992,7 +5992,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1055:
+1057:
   title: "X-Former: In-Memory Acceleration of Transformers"
   year: 2023
   type: article
@@ -6009,7 +6009,7 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
-1055:
+1058:
   title: "GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models"
   year: 2023
   type: article
@@ -6026,7 +6026,7 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
-1055:
+1059:
   title: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers"
   year: 2023
   type: article
@@ -6043,7 +6043,7 @@
   pubname: "International Symposium on High-Performance Computer Architecture"
   reserved: DEADBEEF
 
-1055:
+1060:
   title: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design"
   year: 2023
   type: article
@@ -6060,7 +6060,7 @@
   pubname: "International Symposium on High-Performance Computer Architecture"
   reserved: DEADBEEF
 
-1055:
+1061:
   title: "AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference with Transformers"
   year: 2023
   type: article
@@ -6077,7 +6077,7 @@
   pubname: "Transaction on Computer Aided Design"
   reserved: DEADBEEF
 
-1055:
+1062:
   title: "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving"
   year: 2024
   type: article
@@ -6094,7 +6094,7 @@
   pubname: "Computer Science > Computation and Language"
   reserved: DEADBEEF
 
-1055:
+1063:
   title: "22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management"
   year: 2023
   type: article
@@ -6111,7 +6111,7 @@
   pubname: "IEEE International Solid-State Circuits Conference"
   reserved: DEADBEEF
 
-1055:
+1064:
   title: "P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer"
   year: 2023
   type: article
@@ -6128,7 +6128,7 @@
   pubname: "IEEE Transactions on Circuits and Systems"
   reserved: DEADBEEF
 
-1055:
+1065:
   title: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference"
   year: 2023
   type: article
@@ -6143,6 +6143,40 @@
   publisher: IEEE/CVF
   pubkey: "TCSI"
   pubname: "IEEE/CVF International Conference on Computer Vision"
+  reserved: DEADBEEF
+
+1066:
+  title: "BitShare: An Efficient Precision-Scalable Accelerator with Combining-Like-Terms GEMM"
+  year: 2024
+  type: article
+  doi: RESEARCH_GATE
+  url: https://www.researchgate.net/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM
+  pdf: https://www.researchgate.net/profile/Junzhong-Shen/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM/links/666a46cba54c5f0b94613261/BitShare-An-Efficient-Precision-Scalable-Accelerator-with-Combining-Like-Terms-GEMM.pdf
+  ignore: True
+  silicon: True
+  platform:  Accelerator
+  model: ['GEMM', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ASAP"
+  pubname: "IEEE Conference Application-Specific Systems, Architectures, and Processors"
+  reserved: DEADBEEF
+
+1067:
+  title: "Streaming Tensor Programs: A Programming Abstraction for Streaming Dataflow Accelerators"
+  year: 2023
+  type: article
+  doi: NO_DATA
+  url: false
+  pdf: https://cgyurgyik.github.io/files/pubs/step-yarch.pdf
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "?"
+  pubkey: "?"
+  pubname: "?"
   reserved: DEADBEEF
 
 
