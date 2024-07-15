@@ -6179,6 +6179,124 @@
   pubname: "?"
   reserved: DEADBEEF
 
+1068:
+  title: "SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGA"
+  year: 2024
+  type: article
+  doi: NO_DATA
+  url: https://github.com/Michaela1224/SDA_code
+  pdf: https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "?"
+  pubname: "?"
+  reserved: DEADBEEF
+
+1069:
+  title: "Hardware Accelerator for MobileViT Vision Transformer with Reconfigurable Computation"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558190
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558190
+  pdf: false
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+1070:
+  title: "In-Memory Transformer Self-Attention Mechanism Using Passive Memristor Crossbar"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558182
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558182
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+1071:
+  title: "A 3.55 mJ/frame Energy-efficient Mixed-Transformer based Semantic Segmentation Accelerator for Mobile Devices"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558649
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558649
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+1072:
+  title: "FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558482
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558482
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+1073:
+  title: "CV-CIM: A Hybrid Domain Xor-Derived Similarity-Aware Computation-in-Memory Supporting Cost–Volume Construction"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/JSSC.2024.3421589
+  url: https://doi.org/10.1109/JSSC.2024.3421589
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
+
+1073:
+  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
+  url: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
 
 # 10xx:
 #   title:

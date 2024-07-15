@@ -2252,6 +2252,42 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-RESEARCH_GATE-sandybrown?style=flat-square)](https://www.researchgate.net/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.researchgate.net/profile/Junzhong-Shen/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM/links/666a46cba54c5f0b94613261/BitShare-An-Efficient-Precision-Scalable-Accelerator-with-Combining-Like-Terms-GEMM.pdf)
 
+**SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGA**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-NO_DATA-sandybrown?style=flat-square)](https://github.com/Michaela1224/SDA_code)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf)
+
+**Hardware Accelerator for MobileViT Vision Transformer with Reconfigurable Computation**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS58744.2024.10558190-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS58744.2024.10558190)
+
+
+**In-Memory Transformer Self-Attention Mechanism Using Passive Memristor Crossbar**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS58744.2024.10558182-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS58744.2024.10558182)
+
+
+**A 3.55 mJ/frame Energy-efficient Mixed-Transformer based Semantic Segmentation Accelerator for Mobile Devices**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS58744.2024.10558649-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS58744.2024.10558649)
+
+
+**FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS58744.2024.10558482-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS58744.2024.10558482)
+
+
+**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728)
+
+
 ---
 ## Analysis
 
