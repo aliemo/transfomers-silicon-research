@@ -6298,6 +6298,23 @@
   pubname: "IEEE Journal of Solid-State Circuits"
   reserved: DEADBEEF
 
+1074:
+  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
+  year: 2024
+  type: article
+  doi: https://www.usenix.org/conference/osdi24/presentation/zhuang
+  url: https://www.usenix.org/conference/osdi24/presentation/zhuang
+  pdf: https://www.usenix.org/system/files/osdi24-zhuang.pdf
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "USENIX"
+  pubkey: "UOSDI"
+  pubname: "USENIX Symposium on Operating Systems Design and Implementation"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:

@@ -2288,6 +2288,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728)
 
 
+**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**
+
+![](https://img.shields.io/badge/USENIX-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://www.usenix.org/conference/osdi24/presentation/zhuang-sandybrown?style=flat-square)](https://www.usenix.org/conference/osdi24/presentation/zhuang)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.usenix.org/system/files/osdi24-zhuang.pdf)
+
 ---
 ## Analysis
 
