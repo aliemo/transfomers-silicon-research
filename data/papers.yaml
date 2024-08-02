@@ -6315,6 +6315,58 @@
   pubname: "USENIX Symposium on Operating Systems Design and Implementation"
   reserved: DEADBEEF
 
+1075:
+  title: "ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12638
+  url: https://arxiv.org/abs/2407.12638
+  pdf: https://arxiv.org/pdf/2407.12638
+  ignore: False
+  silicon: True
+  platform:  AMS
+  model: ['Analog', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+1076:
+  title: "CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12736
+  url: https://arxiv.org/abs/2407.12736
+  pdf: https://arxiv.org/pdf/2407.12736
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['Codesign', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
+
+1077:
+  title: "Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12070
+  url: https://arxiv.org/abs/2407.12070
+  pdf: https://arxiv.org/pdf/2407.12070
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:

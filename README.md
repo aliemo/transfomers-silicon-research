@@ -2294,6 +2294,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://www.usenix.org/conference/osdi24/presentation/zhuang-sandybrown?style=flat-square)](https://www.usenix.org/conference/osdi24/presentation/zhuang)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://www.usenix.org/system/files/osdi24-zhuang.pdf)
 
+**ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2407.12638-sandybrown?style=flat-square)](https://arxiv.org/abs/2407.12638)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2407.12638)
+
+**CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2407.12736-sandybrown?style=flat-square)](https://arxiv.org/abs/2407.12736)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2407.12736)
+
+**Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2407.12070-sandybrown?style=flat-square)](https://arxiv.org/abs/2407.12070)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2407.12070)
+
 ---
 ## Analysis
 
