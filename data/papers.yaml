@@ -6367,6 +6367,75 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
+
+1078:
+  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3434359
+  url: https://doi.org/10.1109/TCAD.2024.3434359
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "TCAD"
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
+  reserved: DEADBEEF
+
+1079:
+  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3434447
+  url: https://doi.org/10.1109/TCAD.2024.3434447
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "TCAD"
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
+  reserved: DEADBEEF
+
+1080:
+  title: "MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCA59077.2024.00079
+  url: https://doi.org/10.1109/ISCA59077.2024.00079
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCA"
+  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
+  reserved: DEADBEEF
+
+1081:
+  title: "TCP: A Tensor Contraction Processor for AI Workloads Industrial Product"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCA59077.2024.00069
+  url: https://doi.org/10.1109/ISCA59077.2024.00069
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCA"
+  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:

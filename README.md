@@ -2312,6 +2312,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2407.12070-sandybrown?style=flat-square)](https://arxiv.org/abs/2407.12070)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2407.12070)
 
+**SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3434359-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3434359)
+
+
+**SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3434447-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3434447)
+
+
+**MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCA59077.2024.00079-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCA59077.2024.00079)
+
+
+**TCP: A Tensor Contraction Processor for AI Workloads Industrial Product**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCA59077.2024.00069-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCA59077.2024.00069)
+
+
 ---
 ## Analysis
 
