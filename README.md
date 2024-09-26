@@ -2390,6 +2390,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2408.15561-sandybrown?style=flat-square)](https://arxiv.org/abs/2408.15561)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2408.15561)
 
+**ProTEA: Programmable Transformer Encoder Acceleration on FPGA**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.13975-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.13975)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.13975)
+
+**CAT: Customized Transformer Accelerator Framework on Versal ACAP**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.09689-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.09689)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.09689)
+
+**Co-design of a TinyLLM using Programmable Logic and Software on an FPGA**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MWSCAS60917.2024.10658754-sandybrown?style=flat-square)](https://doi.org/10.1109/MWSCAS60917.2024.10658754)
+
+
+**Efficient Transformer Acceleration via Reconfiguration for Encoder and Decoder Models and Sparsity-Aware Algorithm Mapping**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3665314.3670798-sandybrown?style=flat-square)](https://doi.org/10.1145/3665314.3670798)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3665314.3670798)
+
 ---
 ## Analysis
 

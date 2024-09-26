@@ -6591,6 +6591,77 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
+1091:
+  title: "ProTEA: Programmable Transformer Encoder Acceleration on FPGA"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.13975
+  url: https://arxiv.org/abs/2409.13975
+  pdf: https://arxiv.org/pdf/2409.13975
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'Transformer']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+1092:
+  title: "CAT: Customized Transformer Accelerator Framework on Versal ACAP"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.09689
+  url: https://arxiv.org/abs/2409.09689
+  pdf: https://arxiv.org/pdf/2409.09689
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'Transformer']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+1093:
+  title: "Co-design of a TinyLLM using Programmable Logic and Software on an FPGA"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/MWSCAS60917.2024.10658754
+  url: https://doi.org/10.1109/MWSCAS60917.2024.10658754
+  pdf: no
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: " International Midwest Symposium on Circuits and Systems (MWSCAS)"
+  reserved: DEADBEEF
+
+
+1094:
+  title: "Efficient Transformer Acceleration via Reconfiguration for Encoder and Decoder Models and Sparsity-Aware Algorithm Mapping"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3665314.3670798
+  url: https://doi.org/10.1145/3665314.3670798
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3665314.3670798
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM/IEEE International Symposium on Low Power Electronics and Design"
+  reserved: DEADBEEF
+
+
 # 10xx:
 #   title:
 #   year:
