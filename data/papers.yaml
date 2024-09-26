@@ -6436,6 +6436,161 @@
   pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
   reserved: DEADBEEF
 
+1082:
+  title: "A 109-GOPs/W FPGA-based Vision Transformer Accelerator with Weight-Loop Dataflow Featuring Data Reusing and Resource Saving"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCSVT.2024.3439600
+  url: https://doi.org/10.1109/TCSVT.2024.3439600
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Circuits and Systems for Video Technology ( Early Access )"
+  reserved: DEADBEEF
+
+
+1083:
+  title: "Klotski v2: Improved DNN Model Orchestration Framework for Dataflow Architecture Accelerators"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3446858
+  url: https://doi.org/10.1109/TCAD.2024.3446858
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+1084:
+  title: "Quartet: A Holistic Hybrid Parallel Framework for Training Large Language Models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1007/978--3--031--69766--1_29
+  url: https://doi.org/10.1007/978-3-031-69766-1_29
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "Springer"
+  pubkey: ""
+  pubname: "European Conference on Parallel and Distributed Processing"
+  reserved: DEADBEEF
+
+1085:
+  title: "Inference with Transformer Encoders on ARM and RISC-V Multicore Processors"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1007/978--3--031--69766--1_26
+  url: https://doi.org/10.1007/978-3-031-69766-1_26
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "Springer"
+  pubkey: ""
+  pubname: "European Conference on Parallel and Distributed Processing"
+  reserved: DEADBEEF
+
+1086:
+  title: "Mentor: A Memory-Eficient Sparse-dense Matrix Multiplication Accelerator Based on Column-Wise Product"
+  year: 2024
+  type: article
+  doi: https://dl.acm.org/doi/pdf/10.1145/3688612
+  url: https://dl.acm.org/doi/pdf/10.1145/3688612
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Architecture and Code Optimization"
+  reserved: DEADBEEF
+
+1087:
+  title: "Cost-Effective LLM Accelerator Using Processing in Memory Technology"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
+  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
+  reserved: DEADBEEF
+
+1088:
+  title: "A 28nm 4.35TOPS/mm2 Transformer Accelerator with Basis-vector Based Ultra Storage Compression, Decomposed Computation and Unified LUT-Assisted Cores"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
+  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
+  reserved: DEADBEEF
+
+
+1089:
+  title: "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3687480
+  url: https://doi.org/10.1145/3687480
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3687480
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Reconfigurable Technology and Systems"
+  reserved: DEADBEEF
+
+1090:
+  title: "CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2408.15561
+  url: https://arxiv.org/abs/2408.15561
+  pdf: https://arxiv.org/pdf/2408.15561
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
 # 10xx:
 #   title:
 #   year:

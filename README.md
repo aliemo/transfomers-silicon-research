@@ -2336,6 +2336,60 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCA59077.2024.00069-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCA59077.2024.00069)
 
 
+**A 109-GOPs/W FPGA-based Vision Transformer Accelerator with Weight-Loop Dataflow Featuring Data Reusing and Resource Saving**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSVT.2024.3439600-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSVT.2024.3439600)
+
+
+**Klotski v2: Improved DNN Model Orchestration Framework for Dataflow Architecture Accelerators**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3446858-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3446858)
+
+
+**Quartet: A Holistic Hybrid Parallel Framework for Training Large Language Models**
+
+![](https://img.shields.io/badge/Springer-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--69766--1_29-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-69766-1_29)
+
+
+**Inference with Transformer Encoders on ARM and RISC-V Multicore Processors**
+
+![](https://img.shields.io/badge/Springer-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978--3--031--69766--1_26-sandybrown?style=flat-square)](https://doi.org/10.1007/978-3-031-69766-1_26)
+
+
+**Mentor: A Memory-Eficient Sparse-dense Matrix Multiplication Accelerator Based on Column-Wise Product**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://dl.acm.org/doi/pdf/10.1145/3688612-sandybrown?style=flat-square)](https://dl.acm.org/doi/pdf/10.1145/3688612)
+
+
+**Cost-Effective LLM Accelerator Using Processing in Memory Technology**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397-sandybrown?style=flat-square)](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397)
+
+
+**A 28nm 4.35TOPS/mm2 Transformer Accelerator with Basis-vector Based Ultra Storage Compression, Decomposed Computation and Unified LUT-Assisted Cores**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311-sandybrown?style=flat-square)](https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311)
+
+
+**FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3687480-sandybrown?style=flat-square)](https://doi.org/10.1145/3687480)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3687480)
+
+**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2408.15561-sandybrown?style=flat-square)](https://arxiv.org/abs/2408.15561)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2408.15561)
+
 ---
 ## Analysis
 
