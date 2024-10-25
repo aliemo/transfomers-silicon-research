@@ -5030,7 +5030,59 @@
   pubname: "International Journal of Knowledge and Innovation Studies"
   reserved: DEADBEEF
 
-1000:
+
+297:
+  title: "22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/ISSCC42615.2023.10067817
+  url: https://doi.org/10.1109/ISSCC42615.2023.10067817
+  pdf: no
+  ignore: True
+  silicon: True
+  platform:  asic
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ISSCC"
+  pubname: "IEEE International Solid-State Circuits Conference"
+  reserved: DEADBEEF
+
+298:
+  title: "P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/TCSI.2023.3315060
+  url: https://doi.org/10.1109/TCSI.2023.3315060
+  pdf: no
+  ignore: True
+  silicon: True
+  platform:  FPGA
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "TCSI"
+  pubname: "IEEE Transactions on Circuits and Systems"
+  reserved: DEADBEEF
+
+299:
+  title: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference"
+  year: 2023
+  type: article
+  doi: https://arxiv.org/abs/2207.01405
+  url: https://arxiv.org/abs/2207.01405
+  pdf: https://arxiv.org/pdf/2207.01405
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE/CVF
+  pubkey: "TCSI"
+  pubname: "IEEE/CVF International Conference on Computer Vision"
+  reserved: DEADBEEF
+
+300:
   title: "Enabling efficient edge intelligence: a hardware-software codesign approach"
   year: 2023
   type: thesis
@@ -5047,7 +5099,7 @@
   pubname: "Nanyang Technological University"
   reserved: DEADBEEF
 
-1001:
+301:
   title: "Automatic Kernel Generation for Large Language Models on Deep Learning Accelerators"
   year: 2023
   type: article
@@ -5064,7 +5116,7 @@
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
   reserved: DEADBEEF
 
-1002:
+302:
   title: "A Low-Latency and Lightweight FPGA-Based Engine for Softmax and Layer Normalization Acceleration"
   year: 2023
   type: article
@@ -5081,7 +5133,7 @@
   pubname: "IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)"
   reserved: DEADBEEF
 
-1003:
+303:
   title: "PP-Transformer: Enable Efficient Deployment of Transformers Through Pattern Pruning"
   year: 2023
   type: article
@@ -5098,7 +5150,7 @@
   pubname: "IEEE/ACM International Conference on Computer Aided Design (ICCAD)"
   reserved: DEADBEEF
 
-1004:
+304:
   title: "DEAP: Design Space Exploration for DNN Accelerator Parallelism"
   year: 2023
   type: arx
@@ -5115,7 +5167,7 @@
   pubname: "Computer Science > Distributed, Parallel, and Cluster Computing"
   reserved: DEADBEEF
 
-1005:
+305:
   title: "Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference"
   year: 2023
   type: arx
@@ -5133,7 +5185,7 @@
   reserved: DEADBEEF
 
 
-1006:
+306:
   title: "An RRAM-Based Computing-in-Memory Architecture and Its Application in Accelerating Transformer Inference"
   year: 2023
   type: article
@@ -5150,7 +5202,7 @@
   pubname: "IEEE Transactions on Very Large Scale Integration (VLSI) Systems"
   reserved: DEADBEEF
 
-1007:
+307:
   title: "Mobile Transformer Accelerator Exploiting Various Line Sparsity and Tile-Based Dynamic Quantization"
   year: 2023
   type: article
@@ -5167,7 +5219,7 @@
   pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
   reserved: DEADBEEF
 
-1008:
+308:
   title: "A Lightweight Transformer Model using Neural ODE for FPGAs"
   year: 2023
   type: article
@@ -5184,7 +5236,7 @@
   pubname: "IEEE International Parallel and Distributed Processing Symposium Workshops"
   reserved: DEADBEEF
 
-1009:
+309:
   title: "A Cost-Efficient FPGA Implementation of Tiny Transformer Model using Neural ODE"
   year: 2024
   type: article
@@ -5201,7 +5253,7 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
-1010:
+310:
   title: "FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs"
   year: 2024
   type: article
@@ -5218,7 +5270,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1011:
+311:
   title: "Accelerating Neural Networks for Large Language Models and Graph Processing with Silicon Photonics"
   year: 2024
   type: article
@@ -5235,7 +5287,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1012:
+312:
   title: "Quantization and Hardware Architecture Co-Design for Matrix-Vector Multiplications of Large Language Models"
   year: 2024
   type: article
@@ -5252,7 +5304,7 @@
   pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
   reserved: DEADBEEF
 
-1013:
+313:
   title: "RDCIM: RISC-V Supported Full-Digital Computing-in-Memory Processor With High Energy Efficiency and Low Area Overhead"
   year: 2024
   type: article
@@ -5269,7 +5321,7 @@
   pubname: "IEEE Transactions on Circuits and Systems I: Regular Papers"
   reserved: DEADBEEF
 
-1014:
+314:
   title: "A Survey on Hardware Accelerators for Large Language Models"
   year: 2024
   type: article
@@ -5286,7 +5338,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1015:
+315:
   title: "BETA: Binarized Energy-Efficient Transformer Accelerator at the Edge"
   year: 2024
   type: article
@@ -5303,7 +5355,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1016:
+316:
   title: "AttentionLego: An Open-Source Building Block For Spatially-Scalable Large Language Model Accelerator With Processing-In-Memory Technology"
   year: 2024
   type: article
@@ -5320,7 +5372,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1017:
+317:
   title: "SSR: Spatial Sequential Hybrid Architecture for Latency Throughput Tradeoff in Transformer Acceleration"
   year: 2024
   type: article
@@ -5337,7 +5389,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1018:
+318:
   title: "CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators"
   year: 2024
   type: article
@@ -5355,7 +5407,7 @@
   reserved: DEADBEEF
 
 
-1019:
+319:
   title: "CIM-MLC: A Multi-level Compilation Stack for Computing-In-Memory Accelerators"
   year: 2024
   type: article
@@ -5372,7 +5424,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1020:
+320:
   title: "The Era of Generative Artificial Intelligence: In-Memory Computing Perspective"
   year: 2024
   type: review
@@ -5389,7 +5441,7 @@
   pubname: "International Electron Devices Meeting (IEDM)"
   reserved: DEADBEEF
 
-1021:
+321:
   title: "Hydragen: High-Throughput LLM Inference with Shared Prefixes"
   year: 2024
   type: article
@@ -5406,7 +5458,7 @@
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
-1022:
+322:
   title: "A Survey on Transformer Compression"
   year: 2024
   type: survey
@@ -5424,7 +5476,7 @@
   reserved: DEADBEEF
 
 
-1023:
+323:
   title: "SLEB: Streamlining LLMs through Redundancy Verification and Elimination of Transformer Blocks"
   year: 2024
   type: article
@@ -5441,7 +5493,7 @@
   pubname: ""
   reserved: DEADBEEF
 
-1024:
+324:
   title: "Stochastic Spiking Attention: Accelerating Attention with Stochastic Computing in Spiking Networks"
   year: 2024
   type: article
@@ -5458,7 +5510,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1025:
+325:
   title: "Reusing Softmax Hardware Unit for GELU Computation in Transformers"
   year: 2024
   type: article
@@ -5475,7 +5527,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1026:
+326:
   title: "ConSmax: Hardware-Friendly Alternative Softmax with Learnable Parameters"
   year: 2024
   type: article
@@ -5492,7 +5544,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1027:
+327:
   title: "Speculative Streaming: Fast LLM Inference without Auxiliary Models"
   year: 2024
   type: article
@@ -5510,7 +5562,7 @@
   reserved: DEADBEEF
 
 
-1028:
+328:
   title: "H3D-Transformer: A Heterogeneous 3D (H3D) Computing Platform for Transformer Model Acceleration on Edge Devices"
   year: 2024
   type: article
@@ -5527,7 +5579,7 @@
   pubname: "ACM Transactions on Design Automation of Electronic Systems"
   reserved: DEADBEEF
 
-1029:
+329:
   title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
   year: 2024
   type: article
@@ -5545,7 +5597,7 @@
   reserved: DEADBEEF
 
 
-1030:
+330:
   title: "Cerberus: Triple Mode Acceleration of Sparse Matrix and Vector Multiplication"
   year: 2024
   type: article
@@ -5562,7 +5614,7 @@
   pubname: "Transactions on Architecture and Code Optimization"
   reserved: DEADBEEF
 
-1031:
+331:
   title: "DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing"
   year: 2024
   type: article
@@ -5580,7 +5632,7 @@
   reserved: DEADBEEF
 
 
-1032:
+332:
   title: "FastDecode: High-Throughput GPU-Efficient LLM Serving using Heterogeneous Pipelines"
   year: 2024
   type: article
@@ -5598,7 +5650,7 @@
   reserved: DEADBEEF
 
 
-1033:
+333:
   title: "Accelerating ViT Inference on FPGA through Static and Dynamic Pruning"
   year: 2024
   type: article
@@ -5615,7 +5667,7 @@
   pubname: "Distributed, Parallel, and Cluster Computing"
   reserved: DEADBEEF
 
-1034:
+334:
   title: "Allspark: Workload Orchestration for Visual Transformers on Processing In-Memory Systems"
   year: 2024
   type: article
@@ -5633,7 +5685,7 @@
   reserved: DEADBEEF
 
 
-1035:
+335:
   title: "Impact of High-Level-Synthesis on Reliability of Artificial Neural Network Hardware Accelerators"
   year: 2024
   type: article
@@ -5650,7 +5702,7 @@
   pubname: "IEEE Transactions on Nuclear Science"
   reserved: DEADBEEF
 
-1036:
+336:
   title: "An FPGA-Based Reconfigurable Accelerator for Convolution-Transformer Hybrid EfficientViT"
   year: 2024
   type: article
@@ -5669,7 +5721,7 @@
 
 
 
-1037:
+337:
   title: "TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization"
   year: 2024
   type: article
@@ -5686,7 +5738,7 @@
   pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
   reserved: DEADBEEF
 
-1038:
+338:
   title: "PRIMATE: Processing in Memory Acceleration for Dynamic Token-pruning Transformers"
   year: 2024
   type: article
@@ -5703,7 +5755,7 @@
   pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
   reserved: DEADBEEF
 
-1039:
+339:
   title: "SWAT: An Efficient Swin Transformer Accelerator Based on FPGA"
   year: 2024
   type: article
@@ -5720,7 +5772,7 @@
   pubname: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
   reserved: DEADBEEF
 
-1040:
+340:
   title: "VTR: An Optimized Vision Transformer for SAR ATR Acceleration on FPGA"
   year: 2024
   type: article
@@ -5737,7 +5789,7 @@
   pubname: "Computer Science > Computer Vision and Pattern Recognition"
   reserved: DEADBEEF
 
-1041:
+341:
   title: "Workload-Aware Hardware Accelerator Mining for Distributed Deep Learning Training"
   year: 2024
   type: article
@@ -5754,330 +5806,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1043:
-  title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
-  year: 2024
-  type: article
-  doi: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
-  url: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
-  pdf: https://dl.acm.org/doi/pdf/10.1145/3620666.3651380
-  ignore: False
-  silicon: True
-  platform: PIM
-  model: ['Transformer']
-  method: __no_data__
-  publisher: ACM
-  pubkey: ""
-  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
-  reserved: DEADBEEF
-
-1044:
-  title: "VITA: ViT Acceleration for Efficient 3D Human Mesh Recovery via Hardware-Algorithm Co-Design"
-  year: 2024
-  type: article
-  doi: no
-  url: no
-  pdf: https://www.crcv.ucf.edu/chenchen/2024_DAC_VITA_Final.pdf
-  ignore: True
-  silicon: True
-  platform: PIMGPU
-  model: ['Transformer']
-  method: __no_data__
-  publisher: ACM
-  pubkey: ""
-  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
-  reserved: DEADBEEF
-
-1045:
-  title: "HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2405.00738
-  url: https://arxiv.org/abs/2405.00738
-  pdf: https://arxiv.org/pdf/2405.00738
-  ignore: True
-  silicon: True
-  platform: FPGA
-  model: ['Transformer', 'LLM']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Hardware Architecture"
-  reserved: DEADBEEF
-
-1046:
-  title: "SCAR: Scheduling Multi-Model AI Workloads on Heterogeneous Multi-Chiplet Module Accelerators"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2405.00790
-  url: https://arxiv.org/abs/2405.00790
-  pdf: https://arxiv.org/pdf/2405.00790
-  ignore: True
-  silicon: True
-  platform: ACC
-  model: ['AI']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Hardware Architecture"
-  reserved: DEADBEEF
-
-1047:
-  title: "Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2405.03882
-  url: https://arxiv.org/abs/2405.03882
-  pdf: https://arxiv.org/pdf/2405.03882
-  ignore: True
-  silicon: True
-  platform: ACC
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Computer Vision and Pattern Recognition"
-  reserved: DEADBEEF
-
-1048:
-  title: "SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2405.07518
-  url: https://arxiv.org/abs/2405.07518
-  pdf: https://arxiv.org/pdf/2405.07518
-  ignore: True
-  silicon: True
-  platform:  Memory
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Hardware Architecture"
-  reserved: DEADBEEF
-
-1049:
-  title: "TensorMap: A Deep RL-Based Tensor Mapping Framework for Spatial Accelerators"
-  year: 2024
-  type: article
-  doi: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
-  url: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
-  pdf: no
-  ignore: True
-  silicon: True
-  platform:  EDA
-  model: ['LLm', 'EDA']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "IEEE Transactions on Computers"
-  pubname: "TC"
-  reserved: DEADBEEF
-
-1050:
-  title: "JIT-Q: Just-in-time Quantization with Processing-In-Memory for Efficient ML Training"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2311.05034
-  url: https://arxiv.org/abs/2311.05034
-  pdf: https://proceedings.mlsys.org/paper_files/paper/2024/file/136b9a13861308c8948cd308ccd02658-Paper-Conference.pdf
-  ignore: True
-  silicon: True
-  platform:  EDA
-  model: ['LLm', 'EDA']
-  method: __no_data__
-  publisher: MLSys
-  pubkey: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
-  pubname: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
-  reserved: DEADBEEF
-
-1051:
-  title: "DCT-ViT: High-Frequency Pruned Vision Transformer with Discrete Cosine Transform"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/ACCESS.2024.3410231
-  url: https://doi.org/10.1109/ACCESS.2024.3410231
-  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549904
-  ignore: True
-  silicon: True
-  platform: algorithm
-  model: ['LLm', 'ViT']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "Access"
-  pubname: "IEEE Access"
-  reserved: DEADBEEF
-
-1052:
-  title: "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings"
-  year: 2023
-  type: article
-  doi: https://doi.org/10.1145/3579371.3589350
-  url: https://doi.org/10.1145/3579371.3589350
-  pdf: https://dl.acm.org/doi/pdf/10.1145/3579371.3589350
-  ignore: True
-  silicon: True
-  platform: TPU
-  model: ['LLM']
-  method: __no_data__
-  publisher: ACM
-  pubkey: "ISCA"
-  pubname: "ACM International Symposium on Computer Architecture"
-  reserved: DEADBEEF
-
-1053:
-  title: "TransAxx: Efficient Transformers with Approximate Computing"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2402.07545
-  url: https://arxiv.org/abs/2402.07545
-  pdf: https://arxiv.org/pdf/2402.07545
-  ignore: True
-  silicon: True
-  platform:  framework
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Machine Learning"
-  reserved: DEADBEEF
-
-1054:
-  title: "FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU"
-  year: 2023
-  type: article
-  doi: https://proceedings.mlr.press/v202/sheng23a
-  url: https://proceedings.mlr.press/v202/sheng23a
-  pdf: https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf
-  ignore: True
-  silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: PMLR
-  pubkey: "PMLR"
-  pubname: "Proceedings of Machine Learning Research"
-  reserved: DEADBEEF
-
-1055:
-  title: "ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2307.03493
-  url: https://arxiv.org/abs/2307.03493
-  pdf: https://arxiv.org/pdf/2307.03493
-  ignore: True
-  silicon: True
-  platform:  ASIC
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Hardware Architecture"
-  reserved: DEADBEEF
-
-1056:
-  title: "ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers"
-  year: 2023
-  type: article
-  doi: https://arxiv.org/abs/2307.03493
-  url: https://arxiv.org/abs/2307.03493
-  pdf: https://arxiv.org/pdf/2307.03493
-  ignore: True
-  silicon: True
-  platform:  ASIC
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Hardware Architecture"
-  reserved: DEADBEEF
-
-1057:
-  title: "X-Former: In-Memory Acceleration of Transformers"
-  year: 2023
-  type: article
-  doi: https://arxiv.org/abs/2303.07470
-  url: https://arxiv.org/abs/2303.07470
-  pdf: https://arxiv.org/pdf/2303.07470
-  ignore: True
-  silicon: True
-  platform:  PIM
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Machine Learning"
-  reserved: DEADBEEF
-
-1058:
-  title: "GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models"
-  year: 2023
-  type: article
-  doi: https://arxiv.org/abs/2309.10730
-  url: https://arxiv.org/abs/2309.10730
-  pdf: https://arxiv.org/pdf/2309.10730
-  ignore: True
-  silicon: True
-  platform:  framework
-  model: ['LLm', 'EDA']
-  method: __no_data__
-  publisher: Arxiv
-  pubkey: ""
-  pubname: "Computer Science > Machine Learning"
-  reserved: DEADBEEF
-
-1059:
-  title: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers"
-  year: 2023
-  type: article
-  doi: https://doi.org/10.1109/HPCA56546.2023.10071047
-  url: https://doi.org/10.1109/HPCA56546.2023.10071047
-  pdf: https://arxiv.org/pdf/2211.08110
-  ignore: True
-  silicon: True
-  platform:  framework
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "HPCA"
-  pubname: "International Symposium on High-Performance Computer Architecture"
-  reserved: DEADBEEF
-
-1060:
-  title: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design"
-  year: 2023
-  type: article
-  doi: https://arxiv.org/abs/2210.09573
-  url: https://arxiv.org/abs/2210.09573
-  pdf: https://arxiv.org/pdf/2210.09573
-  ignore: True
-  silicon: True
-  platform:  framework
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "HPCA"
-  pubname: "International Symposium on High-Performance Computer Architecture"
-  reserved: DEADBEEF
-
-1061:
-  title: "AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference with Transformers"
-  year: 2023
-  type: article
-  doi: https://doi.org/10.1109/TCAD.2023.3273992
-  url: https://doi.org/10.1109/TCAD.2023.3273992
-  pdf: https://arxiv.org/pdf/2302.14705
-  ignore: True
-  silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "TCAD"
-  pubname: "Transaction on Computer Aided Design"
-  reserved: DEADBEEF
-
-1062:
+342:
   title: "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving"
   year: 2024
   type: article
@@ -6094,487 +5823,331 @@
   pubname: "Computer Science > Computation and Language"
   reserved: DEADBEEF
 
-1063:
-  title: "22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management"
-  year: 2023
-  type: article
-  doi: https://doi.org/10.1109/ISSCC42615.2023.10067817
-  url: https://doi.org/10.1109/ISSCC42615.2023.10067817
-  pdf: no
-  ignore: True
-  silicon: True
-  platform:  asic
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "ISSCC"
-  pubname: "IEEE International Solid-State Circuits Conference"
-  reserved: DEADBEEF
-
-1064:
-  title: "P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer"
-  year: 2023
-  type: article
-  doi: https://doi.org/10.1109/TCSI.2023.3315060
-  url: https://doi.org/10.1109/TCSI.2023.3315060
-  pdf: no
-  ignore: True
-  silicon: True
-  platform:  FPGA
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "TCSI"
-  pubname: "IEEE Transactions on Circuits and Systems"
-  reserved: DEADBEEF
-
-1065:
-  title: "I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference"
-  year: 2023
-  type: article
-  doi: https://arxiv.org/abs/2207.01405
-  url: https://arxiv.org/abs/2207.01405
-  pdf: https://arxiv.org/pdf/2207.01405
-  ignore: True
-  silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: IEEE/CVF
-  pubkey: "TCSI"
-  pubname: "IEEE/CVF International Conference on Computer Vision"
-  reserved: DEADBEEF
-
-1066:
-  title: "BitShare: An Efficient Precision-Scalable Accelerator with Combining-Like-Terms GEMM"
+343:
+  title: "NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing"
   year: 2024
   type: article
-  doi: RESEARCH_GATE
-  url: https://www.researchgate.net/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM
-  pdf: https://www.researchgate.net/profile/Junzhong-Shen/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM/links/666a46cba54c5f0b94613261/BitShare-An-Efficient-Precision-Scalable-Accelerator-with-Combining-Like-Terms-GEMM.pdf
-  ignore: True
-  silicon: True
-  platform:  Accelerator
-  model: ['GEMM', 'Transformer']
-  method: __no_data__
-  publisher: IEEE
-  pubkey: "ASAP"
-  pubname: "IEEE Conference Application-Specific Systems, Architectures, and Processors"
-  reserved: DEADBEEF
-
-1067:
-  title: "Streaming Tensor Programs: A Programming Abstraction for Streaming Dataflow Accelerators"
-  year: 2023
-  type: article
-  doi: NO_DATA
-  url: false
-  pdf: https://cgyurgyik.github.io/files/pubs/step-yarch.pdf
-  ignore: True
-  silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "?"
-  pubkey: "?"
-  pubname: "?"
-  reserved: DEADBEEF
-
-1068:
-  title: "SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGA"
-  year: 2024
-  type: article
-  doi: NO_DATA
-  url: https://github.com/Michaela1224/SDA_code
-  pdf: https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf
-  ignore: True
-  silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "?"
-  pubname: "?"
-  reserved: DEADBEEF
-
-1069:
-  title: "Hardware Accelerator for MobileViT Vision Transformer with Reconfigurable Computation"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/ISCAS58744.2024.10558190
-  url: https://doi.org/10.1109/ISCAS58744.2024.10558190
-  pdf: false
-  ignore: True
-  silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE International Symposium on Circuits and Systems"
-  reserved: DEADBEEF
-
-1070:
-  title: "In-Memory Transformer Self-Attention Mechanism Using Passive Memristor Crossbar"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/ISCAS58744.2024.10558182
-  url: https://doi.org/10.1109/ISCAS58744.2024.10558182
-  pdf: false
+  doi: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
+  url: https://dl.acm.org/doi/abs/10.1145/3620666.3651380
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3620666.3651380
   ignore: False
   silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
+  platform: PIM
+  model: ['Transformer']
   method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE International Symposium on Circuits and Systems"
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
   reserved: DEADBEEF
 
-1071:
-  title: "A 3.55 mJ/frame Energy-efficient Mixed-Transformer based Semantic Segmentation Accelerator for Mobile Devices"
+344:
+  title: "VITA: ViT Acceleration for Efficient 3D Human Mesh Recovery via Hardware-Algorithm Co-Design"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/ISCAS58744.2024.10558649
-  url: https://doi.org/10.1109/ISCAS58744.2024.10558649
-  pdf: false
-  ignore: False
+  doi: no
+  url: no
+  pdf: https://www.crcv.ucf.edu/chenchen/2024_DAC_VITA_Final.pdf
+  ignore: True
   silicon: True
-  platform:  algoritm
-  model: ['LLm', 'Transformer']
+  platform: PIMGPU
+  model: ['Transformer']
   method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE International Symposium on Circuits and Systems"
+  publisher: ACM
+  pubkey: ""
+  pubname: "International Conference on Architectural Support for Programming Languages and Operating Systems"
   reserved: DEADBEEF
 
-1072:
-  title: "FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware"
+345:
+  title: "HLSTransform: Energy-Efficient Llama 2 Inference on FPGAs Via High Level Synthesis"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/ISCAS58744.2024.10558482
-  url: https://doi.org/10.1109/ISCAS58744.2024.10558482
-  pdf: false
-  ignore: False
+  doi: https://arxiv.org/abs/2405.00738
+  url: https://arxiv.org/abs/2405.00738
+  pdf: https://arxiv.org/pdf/2405.00738
+  ignore: True
   silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE International Symposium on Circuits and Systems"
-  reserved: DEADBEEF
-
-1073:
-  title: "CV-CIM: A Hybrid Domain Xor-Derived Similarity-Aware Computation-in-Memory Supporting Cost–Volume Construction"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/JSSC.2024.3421589
-  url: https://doi.org/10.1109/JSSC.2024.3421589
-  pdf: false
-  ignore: False
-  silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE Journal of Solid-State Circuits"
-  reserved: DEADBEEF
-
-1073:
-  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
-  year: 2024
-  type: article
-  doi: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
-  url: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
-  pdf: false
-  ignore: False
-  silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCAS"
-  pubname: "IEEE Journal of Solid-State Circuits"
-  reserved: DEADBEEF
-
-1074:
-  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
-  year: 2024
-  type: article
-  doi: https://www.usenix.org/conference/osdi24/presentation/zhuang
-  url: https://www.usenix.org/conference/osdi24/presentation/zhuang
-  pdf: https://www.usenix.org/system/files/osdi24-zhuang.pdf
-  ignore: False
-  silicon: True
-  platform:  platform
-  model: ['LLm', 'Transformer']
-  method: __no_data__
-  publisher: "USENIX"
-  pubkey: "UOSDI"
-  pubname: "USENIX Symposium on Operating Systems Design and Implementation"
-  reserved: DEADBEEF
-
-1075:
-  title: "ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks"
-  year: 2024
-  type: article
-  doi: https://arxiv.org/abs/2407.12638
-  url: https://arxiv.org/abs/2407.12638
-  pdf: https://arxiv.org/pdf/2407.12638
-  ignore: False
-  silicon: True
-  platform:  AMS
-  model: ['Analog', 'Transformer']
+  platform: FPGA
+  model: ['Transformer', 'LLM']
   method: __no_data__
   publisher: Arxiv
   pubkey: ""
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-
-1076:
-  title: "CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference"
+346:
+  title: "SCAR: Scheduling Multi-Model AI Workloads on Heterogeneous Multi-Chiplet Module Accelerators"
   year: 2024
   type: article
-  doi: https://arxiv.org/abs/2407.12736
-  url: https://arxiv.org/abs/2407.12736
-  pdf: https://arxiv.org/pdf/2407.12736
-  ignore: False
+  doi: https://arxiv.org/abs/2405.00790
+  url: https://arxiv.org/abs/2405.00790
+  pdf: https://arxiv.org/pdf/2405.00790
+  ignore: True
   silicon: True
-  platform:  platform
-  model: ['Codesign', 'Transformer']
+  platform: ACC
+  model: ['AI']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+347:
+  title: "Trio-ViT: Post-Training Quantization and Acceleration for Softmax-Free Efficient Vision Transformer"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2405.03882
+  url: https://arxiv.org/abs/2405.03882
+  pdf: https://arxiv.org/pdf/2405.03882
+  ignore: True
+  silicon: True
+  platform: ACC
+  model: ['VIT', 'Transformer']
   method: __no_data__
   publisher: Arxiv
   pubkey: ""
   pubname: "Computer Science > Computer Vision and Pattern Recognition"
   reserved: DEADBEEF
 
-1077:
-  title: "Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment"
+348:
+  title: "SambaNova SN40L: Scaling the AI Memory Wall with Dataflow and Composition of Experts"
   year: 2024
   type: article
-  doi: https://arxiv.org/abs/2407.12070
-  url: https://arxiv.org/abs/2407.12070
-  pdf: https://arxiv.org/pdf/2407.12070
-  ignore: False
+  doi: https://arxiv.org/abs/2405.07518
+  url: https://arxiv.org/abs/2405.07518
+  pdf: https://arxiv.org/pdf/2405.07518
+  ignore: True
   silicon: True
-  platform:  platform
-  model: ['', 'Transformer']
+  platform:  Memory
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+349:
+  title: "TensorMap: A Deep RL-Based Tensor Mapping Framework for Spatial Accelerators"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
+  url: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3398424
+  pdf: no
+  ignore: True
+  silicon: True
+  platform:  EDA
+  model: ['LLm', 'EDA']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "IEEE Transactions on Computers"
+  pubname: "TC"
+  reserved: DEADBEEF
+
+350:
+  title: "JIT-Q: Just-in-time Quantization with Processing-In-Memory for Efficient ML Training"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2311.05034
+  url: https://arxiv.org/abs/2311.05034
+  pdf: https://proceedings.mlsys.org/paper_files/paper/2024/file/136b9a13861308c8948cd308ccd02658-Paper-Conference.pdf
+  ignore: True
+  silicon: True
+  platform:  EDA
+  model: ['LLm', 'EDA']
+  method: __no_data__
+  publisher: MLSys
+  pubkey: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
+  pubname: "Proceedings of Machine Learning and Systems 6 (MLSys 2024)"
+  reserved: DEADBEEF
+
+351:
+  title: "DCT-ViT: High-Frequency Pruned Vision Transformer with Discrete Cosine Transform"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ACCESS.2024.3410231
+  url: https://doi.org/10.1109/ACCESS.2024.3410231
+  pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549904
+  ignore: True
+  silicon: True
+  platform: algorithm
+  model: ['LLm', 'ViT']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "Access"
+  pubname: "IEEE Access"
+  reserved: DEADBEEF
+
+352:
+  title: "TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1145/3579371.3589350
+  url: https://doi.org/10.1145/3579371.3589350
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3579371.3589350
+  ignore: True
+  silicon: True
+  platform: TPU
+  model: ['LLM']
+  method: __no_data__
+  publisher: ACM
+  pubkey: "ISCA"
+  pubname: "ACM International Symposium on Computer Architecture"
+  reserved: DEADBEEF
+
+353:
+  title: "TransAxx: Efficient Transformers with Approximate Computing"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2402.07545
+  url: https://arxiv.org/abs/2402.07545
+  pdf: https://arxiv.org/pdf/2402.07545
+  ignore: True
+  silicon: True
+  platform:  framework
+  model: ['LLm', 'Transformer']
   method: __no_data__
   publisher: Arxiv
   pubkey: ""
   pubname: "Computer Science > Machine Learning"
   reserved: DEADBEEF
 
+354:
+  title: "FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU"
+  year: 2023
+  type: article
+  doi: https://proceedings.mlr.press/v202/sheng23a
+  url: https://proceedings.mlr.press/v202/sheng23a
+  pdf: https://proceedings.mlr.press/v202/sheng23a/sheng23a.pdf
+  ignore: True
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: PMLR
+  pubkey: "PMLR"
+  pubname: "Proceedings of Machine Learning Research"
+  reserved: DEADBEEF
 
-1078:
-  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
+355:
+  title: "ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers"
   year: 2024
   type: article
-  doi: https://doi.org/10.1109/TCAD.2024.3434359
-  url: https://doi.org/10.1109/TCAD.2024.3434359
-  pdf: false
-  ignore: False
+  doi: https://arxiv.org/abs/2307.03493
+  url: https://arxiv.org/abs/2307.03493
+  pdf: https://arxiv.org/pdf/2307.03493
+  ignore: True
   silicon: True
-  platform: Design
-  model: ['DSA', 'LLm', 'Transformer']
+  platform:  ASIC
+  model: ['LLm', 'Transformer']
   method: __no_data__
-  publisher: "IEEE"
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+356:
+  title: "ITA: An Energy-Efficient Attention and Softmax Accelerator for Quantized Transformers"
+  year: 2023
+  type: article
+  doi: https://arxiv.org/abs/2307.03493
+  url: https://arxiv.org/abs/2307.03493
+  pdf: https://arxiv.org/pdf/2307.03493
+  ignore: True
+  silicon: True
+  platform:  ASIC
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+357:
+  title: "X-Former: In-Memory Acceleration of Transformers"
+  year: 2023
+  type: article
+  doi: https://arxiv.org/abs/2303.07470
+  url: https://arxiv.org/abs/2303.07470
+  pdf: https://arxiv.org/pdf/2303.07470
+  ignore: True
+  silicon: True
+  platform:  PIM
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+358:
+  title: "GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models"
+  year: 2023
+  type: article
+  doi: https://arxiv.org/abs/2309.10730
+  url: https://arxiv.org/abs/2309.10730
+  pdf: https://arxiv.org/pdf/2309.10730
+  ignore: True
+  silicon: True
+  platform:  framework
+  model: ['LLm', 'EDA']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+359:
+  title: "HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/HPCA56546.2023.10071047
+  url: https://doi.org/10.1109/HPCA56546.2023.10071047
+  pdf: https://arxiv.org/pdf/2211.08110
+  ignore: True
+  silicon: True
+  platform:  framework
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "HPCA"
+  pubname: "International Symposium on High-Performance Computer Architecture"
+  reserved: DEADBEEF
+
+360:
+  title: "ViTCoD: Vision Transformer Acceleration via Dedicated Algorithm and Accelerator Co-Design"
+  year: 2023
+  type: article
+  doi: https://arxiv.org/abs/2210.09573
+  url: https://arxiv.org/abs/2210.09573
+  pdf: https://arxiv.org/pdf/2210.09573
+  ignore: True
+  silicon: True
+  platform:  framework
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "HPCA"
+  pubname: "International Symposium on High-Performance Computer Architecture"
+  reserved: DEADBEEF
+
+361:
+  title: "AccelTran: A Sparsity-Aware Accelerator for Dynamic Inference with Transformers"
+  year: 2023
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2023.3273992
+  url: https://doi.org/10.1109/TCAD.2023.3273992
+  pdf: https://arxiv.org/pdf/2302.14705
+  ignore: True
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
   pubkey: "TCAD"
-  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
-  reserved: DEADBEEF
-
-1079:
-  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/TCAD.2024.3434447
-  url: https://doi.org/10.1109/TCAD.2024.3434447
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['DSA', 'LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "TCAD"
-  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
-  reserved: DEADBEEF
-
-1080:
-  title: "MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/ISCA59077.2024.00079
-  url: https://doi.org/10.1109/ISCA59077.2024.00079
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['DSA', 'LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCA"
-  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
-  reserved: DEADBEEF
-
-1081:
-  title: "TCP: A Tensor Contraction Processor for AI Workloads Industrial Product"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/ISCA59077.2024.00069
-  url: https://doi.org/10.1109/ISCA59077.2024.00069
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['DSA', 'LLm', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: "ISCA"
-  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
-  reserved: DEADBEEF
-
-1082:
-  title: "A 109-GOPs/W FPGA-based Vision Transformer Accelerator with Weight-Loop Dataflow Featuring Data Reusing and Resource Saving"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/TCSVT.2024.3439600
-  url: https://doi.org/10.1109/TCSVT.2024.3439600
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: ""
-  pubname: "IEEE Transactions on Circuits and Systems for Video Technology ( Early Access )"
+  pubname: "Transaction on Computer Aided Design"
   reserved: DEADBEEF
 
 
-1083:
-  title: "Klotski v2: Improved DNN Model Orchestration Framework for Dataflow Architecture Accelerators"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/TCAD.2024.3446858
-  url: https://doi.org/10.1109/TCAD.2024.3446858
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: ""
-  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
-  reserved: DEADBEEF
-
-1084:
-  title: "Quartet: A Holistic Hybrid Parallel Framework for Training Large Language Models"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1007/978--3--031--69766--1_29
-  url: https://doi.org/10.1007/978-3-031-69766-1_29
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "Springer"
-  pubkey: ""
-  pubname: "European Conference on Parallel and Distributed Processing"
-  reserved: DEADBEEF
-
-1085:
-  title: "Inference with Transformer Encoders on ARM and RISC-V Multicore Processors"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1007/978--3--031--69766--1_26
-  url: https://doi.org/10.1007/978-3-031-69766-1_26
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "Springer"
-  pubkey: ""
-  pubname: "European Conference on Parallel and Distributed Processing"
-  reserved: DEADBEEF
-
-1086:
-  title: "Mentor: A Memory-Eficient Sparse-dense Matrix Multiplication Accelerator Based on Column-Wise Product"
-  year: 2024
-  type: article
-  doi: https://dl.acm.org/doi/pdf/10.1145/3688612
-  url: https://dl.acm.org/doi/pdf/10.1145/3688612
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "ACM"
-  pubkey: ""
-  pubname: "ACM Transactions on Architecture and Code Optimization"
-  reserved: DEADBEEF
-
-1087:
-  title: "Cost-Effective LLM Accelerator Using Processing in Memory Technology"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
-  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: ""
-  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
-  reserved: DEADBEEF
-
-1088:
-  title: "A 28nm 4.35TOPS/mm2 Transformer Accelerator with Basis-vector Based Ultra Storage Compression, Decomposed Computation and Unified LUT-Assisted Cores"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
-  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
-  pdf: false
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "IEEE"
-  pubkey: ""
-  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
-  reserved: DEADBEEF
-
-
-1089:
-  title: "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities"
-  year: 2024
-  type: article
-  doi: https://doi.org/10.1145/3687480
-  url: https://doi.org/10.1145/3687480
-  pdf: https://dl.acm.org/doi/pdf/10.1145/3687480
-  ignore: False
-  silicon: True
-  platform: Design
-  model: ['VIT', 'Transformer']
-  method: __no_data__
-  publisher: "ACM"
-  pubkey: ""
-  pubname: "ACM Transactions on Reconfigurable Technology and Systems"
-  reserved: DEADBEEF
-
-1090:
+362:
   title: "CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing"
   year: 2024
   type: article
@@ -6591,7 +6164,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1091:
+363:
   title: "ProTEA: Programmable Transformer Encoder Acceleration on FPGA"
   year: 2024
   type: article
@@ -6609,7 +6182,7 @@
   reserved: DEADBEEF
 
 
-1092:
+364:
   title: "CAT: Customized Transformer Accelerator Framework on Versal ACAP"
   year: 2024
   type: article
@@ -6626,7 +6199,7 @@
   pubname: "Computer Science > Hardware Architecture"
   reserved: DEADBEEF
 
-1093:
+365:
   title: "Co-design of a TinyLLM using Programmable Logic and Software on an FPGA"
   year: 2024
   type: article
@@ -6644,7 +6217,437 @@
   reserved: DEADBEEF
 
 
-1094:
+366:
+  title: "BitShare: An Efficient Precision-Scalable Accelerator with Combining-Like-Terms GEMM"
+  year: 2024
+  type: article
+  doi: RESEARCH_GATE
+  url: https://www.researchgate.net/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM
+  pdf: https://www.researchgate.net/profile/Junzhong-Shen/publication/381370829_BitShare_An_Efficient_Precision-Scalable_Accelerator_with_Combining-Like-Terms_GEMM/links/666a46cba54c5f0b94613261/BitShare-An-Efficient-Precision-Scalable-Accelerator-with-Combining-Like-Terms-GEMM.pdf
+  ignore: True
+  silicon: True
+  platform:  Accelerator
+  model: ['GEMM', 'Transformer']
+  method: __no_data__
+  publisher: IEEE
+  pubkey: "ASAP"
+  pubname: "IEEE Conference Application-Specific Systems, Architectures, and Processors"
+  reserved: DEADBEEF
+
+367:
+  title: "Streaming Tensor Programs: A Programming Abstraction for Streaming Dataflow Accelerators"
+  year: 2023
+  type: article
+  doi: NO_DATA
+  url: false
+  pdf: https://cgyurgyik.github.io/files/pubs/step-yarch.pdf
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "?"
+  pubkey: "?"
+  pubname: "?"
+  reserved: DEADBEEF
+
+368:
+  title: "SDA: Low-Bit Stable Diffusion Acceleration on Edge FPGA"
+  year: 2024
+  type: article
+  doi: NO_DATA
+  url: https://github.com/Michaela1224/SDA_code
+  pdf: https://www.sfu.ca/~zhenman/files/C41-FPL2024-SDA.pdf
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "?"
+  pubname: "?"
+  reserved: DEADBEEF
+
+369:
+  title: "Hardware Accelerator for MobileViT Vision Transformer with Reconfigurable Computation"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558190
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558190
+  pdf: false
+  ignore: True
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+370:
+  title: "In-Memory Transformer Self-Attention Mechanism Using Passive Memristor Crossbar"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558182
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558182
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+371:
+  title: "A 3.55 mJ/frame Energy-efficient Mixed-Transformer based Semantic Segmentation Accelerator for Mobile Devices"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558649
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558649
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  algoritm
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+372:
+  title: "FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCAS58744.2024.10558482
+  url: https://doi.org/10.1109/ISCAS58744.2024.10558482
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE International Symposium on Circuits and Systems"
+  reserved: DEADBEEF
+
+373:
+  title: "CV-CIM: A Hybrid Domain Xor-Derived Similarity-Aware Computation-in-Memory Supporting Cost–Volume Construction"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/JSSC.2024.3421589
+  url: https://doi.org/10.1109/JSSC.2024.3421589
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
+
+374:
+  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
+  year: 2024
+  type: article
+  doi: https://www.usenix.org/conference/osdi24/presentation/zhuang
+  url: https://www.usenix.org/conference/osdi24/presentation/zhuang
+  pdf: https://www.usenix.org/system/files/osdi24-zhuang.pdf
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "USENIX"
+  pubkey: "UOSDI"
+  pubname: "USENIX Symposium on Operating Systems Design and Implementation"
+  reserved: DEADBEEF
+
+375:
+  title: "ARTEMIS: A Mixed Analog-Stochastic In-DRAM Accelerator for Transformer Neural Networks"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12638
+  url: https://arxiv.org/abs/2407.12638
+  pdf: https://arxiv.org/pdf/2407.12638
+  ignore: False
+  silicon: True
+  platform:  AMS
+  model: ['Analog', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+
+376:
+  title: "CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12736
+  url: https://arxiv.org/abs/2407.12736
+  pdf: https://arxiv.org/pdf/2407.12736
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['Codesign', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Computer Vision and Pattern Recognition"
+  reserved: DEADBEEF
+
+377:
+  title: "Co-Designing Binarized Transformer and Hardware Accelerator for Efficient End-to-End Edge Deployment"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2407.12070
+  url: https://arxiv.org/abs/2407.12070
+  pdf: https://arxiv.org/pdf/2407.12070
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['', 'Transformer']
+  method: __no_data__
+  publisher: Arxiv
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+
+378:
+  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3434359
+  url: https://doi.org/10.1109/TCAD.2024.3434359
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "TCAD"
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
+  reserved: DEADBEEF
+
+379:
+  title: "SPSA: Exploring Sparse-Packing Computation on Systolic Arrays From Scratch"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3434447
+  url: https://doi.org/10.1109/TCAD.2024.3434447
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "TCAD"
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ("
+  reserved: DEADBEEF
+
+380:
+  title: "MECLA: Memory-Compute-Efficient LLM Accelerator with Scaling Sub-matrix Partition"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCA59077.2024.00079
+  url: https://doi.org/10.1109/ISCA59077.2024.00079
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCA"
+  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
+  reserved: DEADBEEF
+
+381:
+  title: "TCP: A Tensor Contraction Processor for AI Workloads Industrial Product"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/ISCA59077.2024.00069
+  url: https://doi.org/10.1109/ISCA59077.2024.00069
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCA"
+  pubname: "ACM/IEEE 51st Annual International Symposium on Computer Architecture"
+  reserved: DEADBEEF
+
+382:
+  title: "A 109-GOPs/W FPGA-based Vision Transformer Accelerator with Weight-Loop Dataflow Featuring Data Reusing and Resource Saving"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCSVT.2024.3439600
+  url: https://doi.org/10.1109/TCSVT.2024.3439600
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Circuits and Systems for Video Technology ( Early Access )"
+  reserved: DEADBEEF
+
+
+383:
+  title: "Klotski v2: Improved DNN Model Orchestration Framework for Dataflow Architecture Accelerators"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3446858
+  url: https://doi.org/10.1109/TCAD.2024.3446858
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+384:
+  title: "Quartet: A Holistic Hybrid Parallel Framework for Training Large Language Models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1007/978--3--031--69766--1_29
+  url: https://doi.org/10.1007/978-3-031-69766-1_29
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "Springer"
+  pubkey: ""
+  pubname: "European Conference on Parallel and Distributed Processing"
+  reserved: DEADBEEF
+
+385:
+  title: "Inference with Transformer Encoders on ARM and RISC-V Multicore Processors"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1007/978--3--031--69766--1_26
+  url: https://doi.org/10.1007/978-3-031-69766-1_26
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "Springer"
+  pubkey: ""
+  pubname: "European Conference on Parallel and Distributed Processing"
+  reserved: DEADBEEF
+
+386:
+  title: "Mentor: A Memory-Eficient Sparse-dense Matrix Multiplication Accelerator Based on Column-Wise Product"
+  year: 2024
+  type: article
+  doi: https://dl.acm.org/doi/pdf/10.1145/3688612
+  url: https://dl.acm.org/doi/pdf/10.1145/3688612
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Architecture and Code Optimization"
+  reserved: DEADBEEF
+
+387:
+  title: "Cost-Effective LLM Accelerator Using Processing in Memory Technology"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
+  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631397
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
+  reserved: DEADBEEF
+
+388:
+  title: "A 28nm 4.35TOPS/mm2 Transformer Accelerator with Basis-vector Based Ultra Storage Compression, Decomposed Computation and Unified LUT-Assisted Cores"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
+  url: https://doi.org/10.1109/VLSITechnologyandCir46783.2024.10631311
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
+  reserved: DEADBEEF
+
+
+389:
+  title: "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3687480
+  url: https://doi.org/10.1145/3687480
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3687480
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['VIT', 'Transformer']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Reconfigurable Technology and Systems"
+  reserved: DEADBEEF
+
+
+390:
+  title: "LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
+  url: https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728
+  pdf: false
+  ignore: False
+  silicon: True
+  platform:  platform
+  model: ['LLm', 'Transformer']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "ISCAS"
+  pubname: "IEEE Journal of Solid-State Circuits"
+  reserved: DEADBEEF
+
+391:
   title: "Efficient Transformer Acceleration via Reconfiguration for Encoder and Decoder Models and Sparsity-Aware Algorithm Mapping"
   year: 2024
   type: article
@@ -6659,6 +6662,125 @@
   publisher: "ACM"
   pubkey: ""
   pubname: "ACM/IEEE International Symposium on Low Power Electronics and Design"
+  reserved: DEADBEEF
+
+392:
+  title: "VisionAGILE: A Versatile Domain-Specific Accelerator for Computer Vision Tasks"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TPDS.2024.3466891
+  url: https://doi.ieeecomputersociety.org/10.1109/TPDS.2024.3466891
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'ViT']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "IEEE Transactions on Parallel and Distributed Systems"
+  reserved: DEADBEEF
+
+393:
+  title: "Cambricon-LLM: A Chiplet-Based Hybrid Architecture for On-Device Inference of 70B LLM"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.15654
+  url: https://arxiv.org/abs/2409.15654
+  pdf: https://arxiv.org/pdf/2409.15654
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['Chiplet', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+394:
+  title: "FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.14023
+  url: https://arxiv.org/abs/2409.14023
+  pdf: https://arxiv.org/pdf/2409.14023
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+395:
+  title: "Hardware-oriented algorithms for softmax and layer normalization of large language models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1007/s11432--024--4137--4
+  url: https://doi.org/10.1007/s11432-024-4137-4
+  pdf: https://arxiv.org/pdf/2409.14023
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['ASIC', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: "SciEngine"
+  pubname: "SCIENCE CHINA Information Sciences"
+  reserved: DEADBEEF
+
+396:
+  title: "Optimizing DNN Inference on Multi-Accelerator SoCs at Training-time"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.18566
+  url: https://arxiv.org/abs/2409.18566
+  pdf: https://arxiv.org/pdf/2409.18566
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+397:
+  title: "Optimizing DNN Inference on Multi-Accelerator SoCs at Training-time"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2409.18566
+  url: https://arxiv.org/abs/2409.18566
+  pdf: https://arxiv.org/pdf/2409.18566
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+398:
+  title: "DSTC: Dual-Side Sparse Tensor Core for DNNs Acceleration on Modern GPU Architectures"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814
+  url: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['GPU', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computers"
   reserved: DEADBEEF
 
 

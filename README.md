@@ -1848,6 +1848,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.56578/ijkis010202-sandybrown?style=flat-square)](https://doi.org/10.56578/ijkis010202)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://library.acadlore.com/IJKIS/2023/1/2/IJKIS_01.02_02.pdf)
 
+**22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42615.2023.10067817-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42615.2023.10067817)
+
+
+**P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer**
+
+![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2023.3315060-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2023.3315060)
+
+
+**I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference**
+
+![](https://img.shields.io/badge/IEEE/CVF-2023-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2207.01405-sandybrown?style=flat-square)](https://arxiv.org/abs/2207.01405)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2207.01405)
+
 **Enabling efficient edge intelligence: a hardware-software codesign approach**
 
 ![](https://img.shields.io/badge/NanyangTechnologicalUniversity-2023-skyblue?colorstyle=flat-square)
@@ -1949,24 +1967,6 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2023.3273992-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2023.3273992)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2302.14705)
-
-**22.9 A 12nm 18.1TFLOPs/W Sparse Transformer Processor with Entropy-Based Early Exit, Mixed-Precision Predication and Fine-Grained Power Management**
-
-![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISSCC42615.2023.10067817-sandybrown?style=flat-square)](https://doi.org/10.1109/ISSCC42615.2023.10067817)
-
-
-**P^3 ViT: A CIM-Based High-Utilization Architecture With Dynamic Pruning and Two-Way Ping-Pong Macro for Vision Transformer**
-
-![](https://img.shields.io/badge/IEEE-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2023.3315060-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2023.3315060)
-
-
-**I-ViT: Integer-only Quantization for Efficient Vision Transformer Inference**
-
-![](https://img.shields.io/badge/IEEE/CVF-2023-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2207.01405-sandybrown?style=flat-square)](https://arxiv.org/abs/2207.01405)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2207.01405)
 
 **Streaming Tensor Programs: A Programming Abstraction for Streaming Dataflow Accelerators**
 
@@ -2174,6 +2174,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2404.14632v1-sandybrown?style=flat-square)](https://arxiv.org/abs/2404.14632v1)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2404.14632v1)
 
+**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.04532-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.04532)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.04532)
+
 **NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing**
 
 ![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
@@ -2240,11 +2246,29 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.03493-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.03493)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.03493)
 
-**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**
+**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**
 
 ![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2405.04532-sandybrown?style=flat-square)](https://arxiv.org/abs/2405.04532)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2405.04532)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2408.15561-sandybrown?style=flat-square)](https://arxiv.org/abs/2408.15561)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2408.15561)
+
+**ProTEA: Programmable Transformer Encoder Acceleration on FPGA**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.13975-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.13975)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.13975)
+
+**CAT: Customized Transformer Accelerator Framework on Versal ACAP**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.09689-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.09689)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.09689)
+
+**Co-design of a TinyLLM using Programmable Logic and Software on an FPGA**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MWSCAS60917.2024.10658754-sandybrown?style=flat-square)](https://doi.org/10.1109/MWSCAS60917.2024.10658754)
+
 
 **BitShare: An Efficient Precision-Scalable Accelerator with Combining-Like-Terms GEMM**
 
@@ -2282,10 +2306,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ISCAS58744.2024.10558482-sandybrown?style=flat-square)](https://doi.org/10.1109/ISCAS58744.2024.10558482)
 
 
-**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**
+**CV-CIM: A Hybrid Domain Xor-Derived Similarity-Aware Computation-in-Memory Supporting Cost–Volume Construction**
 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/JSSC.2024.3421589-sandybrown?style=flat-square)](https://doi.org/10.1109/JSSC.2024.3421589)
 
 
 **LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**
@@ -2384,28 +2408,10 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3687480-sandybrown?style=flat-square)](https://doi.org/10.1145/3687480)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3687480)
 
-**CGRA4ML: A Framework to Implement Modern Neural Networks for Scientific Edge Computing**
-
-![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2408.15561-sandybrown?style=flat-square)](https://arxiv.org/abs/2408.15561)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2408.15561)
-
-**ProTEA: Programmable Transformer Encoder Acceleration on FPGA**
-
-![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.13975-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.13975)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.13975)
-
-**CAT: Customized Transformer Accelerator Framework on Versal ACAP**
-
-![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.09689-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.09689)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.09689)
-
-**Co-design of a TinyLLM using Programmable Logic and Software on an FPGA**
+**LPU: A Latency-Optimized and Highly Scalable Processor for Large Language Model Inference**
 
 ![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/MWSCAS60917.2024.10658754-sandybrown?style=flat-square)](https://doi.org/10.1109/MWSCAS60917.2024.10658754)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MM.2024.3420728)
 
 
 **Efficient Transformer Acceleration via Reconfiguration for Encoder and Decoder Models and Sparsity-Aware Algorithm Mapping**
@@ -2413,6 +2419,48 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3665314.3670798-sandybrown?style=flat-square)](https://doi.org/10.1145/3665314.3670798)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3665314.3670798)
+
+**VisionAGILE: A Versatile Domain-Specific Accelerator for Computer Vision Tasks**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TPDS.2024.3466891-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TPDS.2024.3466891)
+
+
+**Cambricon-LLM: A Chiplet-Based Hybrid Architecture for On-Device Inference of 70B LLM**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.15654-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.15654)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.15654)
+
+**FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.14023-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.14023)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.14023)
+
+**Hardware-oriented algorithms for softmax and layer normalization of large language models**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/s11432--024--4137--4-sandybrown?style=flat-square)](https://doi.org/10.1007/s11432-024-4137-4)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.14023)
+
+**Optimizing DNN Inference on Multi-Accelerator SoCs at Training-time**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.18566-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.18566)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.18566)
+
+**Optimizing DNN Inference on Multi-Accelerator SoCs at Training-time**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2409.18566-sandybrown?style=flat-square)](https://arxiv.org/abs/2409.18566)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2409.18566)
+
+**DSTC: Dual-Side Sparse Tensor Core for DNNs Acceleration on Modern GPU Architectures**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814)
+
 
 ---
 ## Analysis
