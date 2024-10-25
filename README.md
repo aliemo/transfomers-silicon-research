@@ -2462,6 +2462,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3475814)
 
 
+**Power Efficient ASIC Design for Vision Transformer using Systolic Array Matrix Multiplier**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/VDAT63601.2024.10705728-sandybrown?style=flat-square)](https://doi.org/10.1109/VDAT63601.2024.10705728)
+
+
+**M^2-ViT: Accelerating Hybrid Vision Transformers with Two-Level Mixed Quantization**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2410.09113-sandybrown?style=flat-square)](https://arxiv.org/abs/2410.09113)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2410.09113)
+
+**A Cascaded ReRAM-based Crossbar Architecture for Transformer Neural Network Acceleration**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3701034-sandybrown?style=flat-square)](https://doi.org/10.1145/3701034)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://dl.acm.org/doi/pdf/10.1145/3701034)
+
+**OPASCA: Outer Product Based Accelerator With Unified Architecture for Sparse Convolution and Attention**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3483092-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3483092)
+
+
 ---
 ## Analysis
 

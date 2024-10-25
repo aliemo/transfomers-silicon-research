@@ -6783,8 +6783,75 @@
   pubname: "IEEE Transactions on Computers"
   reserved: DEADBEEF
 
+399:
+  title: "Power Efficient ASIC Design for Vision Transformer using Systolic Array Matrix Multiplier"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/VDAT63601.2024.10705728
+  url: https://doi.org/10.1109/VDAT63601.2024.10705728
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'ViT']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "VDAT"
+  pubname: "International Symposium on VLSI Design and Test"
+  reserved: DEADBEEF
 
-# 10xx:
+401:
+  title: "M^2-ViT: Accelerating Hybrid Vision Transformers with Two-Level Mixed Quantization"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2410.09113
+  url: https://arxiv.org/abs/2410.09113
+  pdf: https://arxiv.org/pdf/2410.09113
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+402:
+  title: "A Cascaded ReRAM-based Crossbar Architecture for Transformer Neural Network Acceleration"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3701034
+  url: https://doi.org/10.1145/3701034
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3701034
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['GPU', 'LLM']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Design Automation of Electronic Systems"
+  reserved: DEADBEEF
+
+403:
+  title: "OPASCA: Outer Product Based Accelerator With Unified Architecture for Sparse Convolution and Attention"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3483092
+  url: https://doi.org/10.1109/TCAD.2024.3483092
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['GPU', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+# 40x:
 #   title:
 #   year:
 #   type:
