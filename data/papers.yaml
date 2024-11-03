@@ -6851,6 +6851,74 @@
   pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
   reserved: DEADBEEF
 
+404:
+  title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3487781
+  url: https://doi.org/10.1109/TCAD.2024.3487781
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['Algorithm', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+404:
+  title: "HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3487781
+  url: https://doi.org/10.1109/TCAD.2024.3487781
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['Algorithm', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+405:
+  title: "Analysis Towards Deployment and Acceleration for ViT on a Lightweight RISC- V Processor"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/IAI63275.2024.10730301
+  url: https://doi.org/10.1109/IAI63275.2024.10730301
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['RISC-V', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "International Conference on Industrial Artificial Intelligence (IAI)  "
+  reserved: DEADBEEF
+
+406:
+  title: "Improving Transformer Inference Through Optimized Non-Linear Operations With Quantization-Approximation-Based Strategy"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3488572
+  url: https://doi.org/10.1109/TCAD.2024.3488572
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['Algorithm', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
 # 40x:
 #   title:
 #   year:

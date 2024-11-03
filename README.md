@@ -2486,6 +2486,24 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3483092-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3483092)
 
 
+**HotaQ: Hardware Oriented Token Adaptive Quantization for Large Language Models**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3487781-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3487781)
+
+
+**Analysis Towards Deployment and Acceleration for ViT on a Lightweight RISC- V Processor**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/IAI63275.2024.10730301-sandybrown?style=flat-square)](https://doi.org/10.1109/IAI63275.2024.10730301)
+
+
+**Improving Transformer Inference Through Optimized Non-Linear Operations With Quantization-Approximation-Based Strategy**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3488572-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3488572)
+
+
 ---
 ## Analysis
 
