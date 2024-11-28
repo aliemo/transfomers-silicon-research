@@ -2504,6 +2504,36 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3488572-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3488572)
 
 
+**HyCTor: A Hybrid CNN-Transformer Network Accelerator With Flexible Weight/Output Stationary Dataflow and Multi-Core Extension**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3490173-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3490173)
+
+
+**Shrinking the Giant : Quasi-Weightless Transformers for Low Energy Inference**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.01818-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.01818)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.01818)
+
+**Multilayer Dataflow based Butterfly Sparsity Orchestration to Accelerate Attention Workloads**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.00734-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.00734)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.00734)
+
+**TATAA: Programmable Mixed-Precision Transformer Acceleration with a Transformable Arithmetic Architecture**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.03697-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.03697)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.03697)
+
+**Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SOCC62300.2024.10737793-sandybrown?style=flat-square)](https://doi.org/10.1109/SOCC62300.2024.10737793)
+
+
 ---
 ## Analysis
 

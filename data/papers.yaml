@@ -6919,6 +6919,91 @@
   pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
   reserved: DEADBEEF
 
+407:
+  title: "HyCTor: A Hybrid CNN-Transformer Network Accelerator With Flexible Weight/Output Stationary Dataflow and Multi-Core Extension"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TCAD.2024.3490173
+  url: https://doi.org/10.1109/TCAD.2024.3490173
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: ""
+  pubname: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"
+  reserved: DEADBEEF
+
+408:
+  title: "Shrinking the Giant : Quasi-Weightless Transformers for Low Energy Inference"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.01818
+  url: https://arxiv.org/abs/2411.01818
+  pdf: https://arxiv.org/pdf/2411.01818
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+409:
+  title: "Multilayer Dataflow based Butterfly Sparsity Orchestration to Accelerate Attention Workloads"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.00734
+  url: https://arxiv.org/abs/2411.00734
+  pdf: https://arxiv.org/pdf/2411.00734
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+410:
+  title: "TATAA: Programmable Mixed-Precision Transformer Acceleration with a Transformable Arithmetic Architecture"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.03697
+  url: https://arxiv.org/abs/2411.03697
+  pdf: https://arxiv.org/pdf/2411.03697
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+411:
+  title: "Exploring Approximation and Dataflow Co-Optimization for Scalable Transformer Inference Architecture on the Edge"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/SOCC62300.2024.10737793
+  url: https://doi.org/10.1109/SOCC62300.2024.10737793
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "SOCC"
+  pubname: "International System-on-Chip Conference"
+  reserved: DEADBEEF
+
 # 40x:
 #   title:
 #   year:
