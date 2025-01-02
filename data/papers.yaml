@@ -7123,6 +7123,23 @@
   pubname: "IEEE/ACM International Symposium on Microarchitecture"
   reserved: DEADBEEF
 
+419:
+  title: "Hardware Accelerated Vision Transformer via Heterogeneous Architecture Design and Adaptive Dataflow Mapping"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751
+  url: https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'ViT']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: "TC"
+  pubname: "IEEE Transactions on Computers"
+  reserved: DEADBEEF
+
 # 40x:
 #   title:
 #   year:

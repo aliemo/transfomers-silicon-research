@@ -2576,6 +2576,12 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106)
 
 
+**Hardware Accelerated Vision Transformer via Heterogeneous Architecture Design and Adaptive Dataflow Mapping**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751)
+
+
 ---
 ## Analysis
 
