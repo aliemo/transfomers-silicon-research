@@ -2534,6 +2534,48 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SOCC62300.2024.10737793-sandybrown?style=flat-square)](https://doi.org/10.1109/SOCC62300.2024.10737793)
 
 
+**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.17309-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.17309)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.17309)
+
+**Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.17966-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.17966)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.17966)
+
+**A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.18148-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.18148)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.18148)
+
+**A Dataflow Compiler for Efficient LLM Inference using Custom Microscaling Formats**
+
+![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2307.15517-sandybrown?style=flat-square)](https://arxiv.org/abs/2307.15517)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2307.15517)
+
+**MR-Transformer: FPGA Accelerated Deep Learning Attention Model for Modulation Recognition**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TWC.2024.3506743-sandybrown?style=flat-square)](https://doi.org/10.1109/TWC.2024.3506743)
+
+
+**ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1145/3707205-sandybrown?style=flat-square)](https://doi.org/10.1145/3707205)
+
+
+**VGA: Hardware Accelerator for Scalable Long Sequence Model Inference**
+
+![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106)
+
+
 ---
 ## Analysis
 

@@ -7004,6 +7004,125 @@
   pubname: "International System-on-Chip Conference"
   reserved: DEADBEEF
 
+412:
+  title: "PIM-AI: A Novel Architecture for High-Efficiency LLM Inference"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.17309
+  url: https://arxiv.org/abs/2411.17309
+  pdf: https://arxiv.org/pdf/2411.17309
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['PIM', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+413:
+  title: "Addressing Architectural Obstacles for Overlay with Stream Network Abstraction"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.17966
+  url: https://arxiv.org/abs/2411.17966
+  pdf: https://arxiv.org/pdf/2411.17966
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+414:
+  title: "A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2411.18148
+  url: https://arxiv.org/abs/2411.18148
+  pdf: https://arxiv.org/pdf/2411.18148
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+415:
+  title: "A Dataflow Compiler for Efficient LLM Inference using Custom Microscaling Formats"
+  year: 2024
+  type: article
+  doi: https://arxiv.org/abs/2307.15517
+  url: https://arxiv.org/abs/2307.15517
+  pdf: https://arxiv.org/pdf/2307.15517
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "Arxive"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+416:
+  title: "MR-Transformer: FPGA Accelerated Deep Learning Attention Model for Modulation Recognition"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1109/TWC.2024.3506743
+  url: https://doi.org/10.1109/TWC.2024.3506743
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLM']
+  method: __no_data__
+  publisher: "IEEE"
+  pubkey: "SOCC"
+  pubname: "IEEE Transactions on Wireless Communications"
+  reserved: DEADBEEF
+
+417:
+  title: "ISOAcc: In-situ Shift Operation-based Accelerator For Efficient in-SRAM Multiplication"
+  year: 2024
+  type: article
+  doi: https://doi.org/10.1145/3707205
+  url: https://doi.org/10.1145/3707205
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['PIM', 'LLM']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: ""
+  pubname: "ACM Transactions on Design Automation of Electronic Systems"
+  reserved: DEADBEEF
+
+418:
+  title: "VGA: Hardware Accelerator for Scalable Long Sequence Model Inference"
+  year: 2024
+  type: article
+  doi: https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106
+  url: https://doi.ieeecomputersociety.org/10.1109/MICRO61859.2024.00106
+  pdf: false
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['PIM', 'LLM']
+  method: __no_data__
+  publisher: "ACM"
+  pubkey: "MICRO"
+  pubname: "IEEE/ACM International Symposium on Microarchitecture"
+  reserved: DEADBEEF
+
 # 40x:
 #   title:
 #   year:
