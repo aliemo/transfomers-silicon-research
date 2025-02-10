@@ -2534,11 +2534,11 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/SOCC62300.2024.10737793-sandybrown?style=flat-square)](https://doi.org/10.1109/SOCC62300.2024.10737793)
 
 
-**PIM-AI: A Novel Architecture for High-Efficiency LLM Inference**
+**Vision Transformer Inference on a CNN Accelerator**
 
-![](https://img.shields.io/badge/Arxive-2024-skyblue?colorstyle=flat-square)
-[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2411.17309-sandybrown?style=flat-square)](https://arxiv.org/abs/2411.17309)
-[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2411.17309)
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICCD63220.2024.00101-sandybrown?style=flat-square)](https://doi.org/10.1109/ICCD63220.2024.00101)
+
 
 **Addressing Architectural Obstacles for Overlay with Stream Network Abstraction**
 
@@ -2580,6 +2580,86 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/ACM-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751-sandybrown?style=flat-square)](https://doi.ieeecomputersociety.org/10.1109/TC.2024.3517751)
+
+
+**IMTP: Search-based Code Generation for In-memory Tensor Programs**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2412.19630-sandybrown?style=flat-square)](https://arxiv.org/abs/2412.19630)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2412.19630)
+
+**Debunking the CUDA Myth Towards GPU-based AI Systems**
+
+![](https://img.shields.io/badge/Arxiv-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.00210-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.00210)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.00210)
+
+**A Fully-Integrated Energy-Scalable Transformer Accelerator for Language Understanding on Edge Devices**
+
+![](https://img.shields.io/badge/IEEE-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/OJSSCS.2024.3524359-sandybrown?style=flat-square)](https://doi.org/10.1109/OJSSCS.2024.3524359)
+
+
+**AxLaM: energy-efficient accelerator design for language models for edge computing**
+
+![](https://img.shields.io/badge/Royal Society-2024-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1098/rsta.2023.0395-sandybrown?style=flat-square)](https://doi.org/10.1098/rsta.2023.0395)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://doi.org/10.1098/rsta.2023.0395)
+
+---
+### 2025
+**MixGCN: Scalable GCN Training by Mixture of Parallelism and Mixture of Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.01951-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.01951)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.01951)
+
+**Ultra Memory-Efficient On-FPGA Training of Transformers via Tensor-Compressed Optimization**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.06663-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.06663)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.06663)
+
+**An Efficient Sparse Hardware Accelerator for Spike-Driven Transformer**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.07825-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.07825)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.07825)
+
+**MPTorch-FPGA: a Custom Mixed-Precision Framework for FPGA-based DNN Training**
+
+![](https://img.shields.io/badge/IEEE-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://hal.science/hal--04882989v2-sandybrown?style=flat-square)](https://hal.science/hal-04882989v2)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://hal.science/hal-04882989v2)
+
+**Atleus: Accelerating Transformers on the Edge Enabled by 3D Heterogeneous Manycore Architectures**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.09588-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.09588)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.09588)
+
+**Stream-HLS: Towards Automatic Dataflow Acceleration**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.09118-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.09118)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.09118)
+
+**An Efficient Window-Based Vision Transformer Accelerator via Mixed-Granularity Sparsity**
+
+![](https://img.shields.io/badge/IEEE-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCSI.2025.3527541-sandybrown?style=flat-square)](https://doi.org/10.1109/TCSI.2025.3527541)
+
+
+**Hardware Accelerator for Bidirectional Encoder Representations from Transformers (BERT)**
+
+![](https://img.shields.io/badge/IEEE-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/ICM63406.2024.10815822-sandybrown?style=flat-square)](https://doi.org/10.1109/ICM63406.2024.10815822)
+
+
+**Fine-Grained Structured Sparse Computing for FPGA-Based AI Inference**
+
+![](https://img.shields.io/badge/IEEE-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3524356-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3524356)
 
 
 ---
