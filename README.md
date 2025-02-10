@@ -2602,7 +2602,7 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 **AxLaM: energy-efficient accelerator design for language models for edge computing**
 
-![](https://img.shields.io/badge/Royal Society-2024-skyblue?colorstyle=flat-square)
+![](https://img.shields.io/badge/RoyalSociety-2024-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1098/rsta.2023.0395-sandybrown?style=flat-square)](https://doi.org/10.1098/rsta.2023.0395)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://doi.org/10.1098/rsta.2023.0395)
 
@@ -2660,6 +2660,48 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 
 ![](https://img.shields.io/badge/IEEE-2025-skyblue?colorstyle=flat-square)
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1109/TCAD.2024.3524356-sandybrown?style=flat-square)](https://doi.org/10.1109/TCAD.2024.3524356)
+
+
+**An ultra-low-power CGRA for accelerating Transformers at the edge**
+
+![](https://img.shields.io/badge/HAL-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://hal.science/hal--04914400v1-sandybrown?style=flat-square)](https://hal.science/hal-04914400v1)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://hal.science/hal-04914400v1)
+
+**A Tensor-Train Decomposition based Compression of LLMs on Group Vector Systolic Accelerator**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.19135-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.19135)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.19135)
+
+**Towards Efficient LUT-based PIM: A Scalable and Low-Power Approach for Modern Workloads**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.02142-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.02142)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.02142)
+
+**Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.03763-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.03763)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.03763)
+
+**Hybrid Photonic-digital Accelerator for Attention Mechanism**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.11286-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.11286)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.11286)
+
+**HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs platform with Heterogeneous AI Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2501.14794-sandybrown?style=flat-square)](https://arxiv.org/abs/2501.14794)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2501.14794)
+
+**DRViT: A dynamic redundancy-aware vision transformer accelerator via algorithm and architecture co-design on FPGA**
+
+![](https://img.shields.io/badge/Elsevier-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.jpdc.2025.105042-sandybrown?style=flat-square)](https://doi.org/10.1016/j.jpdc.2025.105042)
 
 
 ---

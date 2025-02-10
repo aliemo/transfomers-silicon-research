@@ -7379,11 +7379,129 @@
   platform: Design
   model: ['FPGA', 'LLM']
   method: __no_data__
-  publisher: "Royal Society"
+  publisher: "RoyalSociety"
   pubkey: ""
   pubname: "Emerging technologies for future secure computing platforms"
   reserved: DEADBEEF
 
+434:
+  title: "An ultra-low-power CGRA for accelerating Transformers at the edge"
+  year: 2025
+  type: article
+  doi: https://hal.science/hal--04914400v1
+  url: https://hal.science/hal-04914400v1
+  pdf: https://hal.science/hal-04914400v1
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'LLM']
+  method: __no_data__
+  publisher: "HAL"
+  pubkey: "DATE"
+  pubname: "HAL open science"
+  reserved: DEADBEEF
+
+435:
+  title: "A Tensor-Train Decomposition based Compression of LLMs on Group Vector Systolic Accelerator"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2501.19135
+  url: https://arxiv.org/abs/2501.19135
+  pdf: https://arxiv.org/pdf/2501.19135
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DLA', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+436:
+  title: "Towards Efficient LUT-based PIM: A Scalable and Low-Power Approach for Modern Workloads"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.02142
+  url: https://arxiv.org/abs/2502.02142
+  pdf: https://arxiv.org/pdf/2502.02142
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['PIM', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+437:
+  title: "Systolic Sparse Tensor Slices: FPGA Building Blocks for Sparse and Dense AI Acceleration"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.03763
+  url: https://arxiv.org/abs/2502.03763
+  pdf: https://arxiv.org/pdf/2502.03763
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DLA', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+438:
+  title: "Hybrid Photonic-digital Accelerator for Attention Mechanism"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2501.11286
+  url: https://arxiv.org/abs/2501.11286
+  pdf: https://arxiv.org/pdf/2501.11286
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['Optoc', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+439:
+  title: "HeteroLLM: Accelerating Large Language Model Inference on Mobile SoCs platform with Heterogeneous AI Accelerators"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2501.14794
+  url: https://arxiv.org/abs/2501.14794
+  pdf: https://arxiv.org/pdf/2501.14794
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['SoC', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+440:
+  title: "DRViT: A dynamic redundancy-aware vision transformer accelerator via algorithm and architecture co-design on FPGA"
+  year: 2025
+  type: article
+  doi: https://doi.org/10.1016/j.jpdc.2025.105042
+  url: https://doi.org/10.1016/j.jpdc.2025.105042
+  pdf: False
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['SoC', 'ViT']
+  method: __no_data__
+  publisher: "Elsevier"
+  pubkey: ""
+  pubname: "Journal of Parallel and Distributed Computing"
+  reserved: DEADBEEF
 
 # 40x:
 #   title:
