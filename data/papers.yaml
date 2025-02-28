@@ -7503,6 +7503,74 @@
   pubname: "Journal of Parallel and Distributed Computing"
   reserved: DEADBEEF
 
+441:
+  title: "StreamDCIM: A Tile-based Streaming Digital CIM Accelerator with Mixed-stationary Cross-forwarding Dataflow for Multimodal Transformer"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.05798
+  url: https://arxiv.org/abs/2502.05798
+  pdf: https://arxiv.org/pdf/2502.05798
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'Transformer']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
+442:
+  title: "StreamDCIM: A Tile-based Streaming Digital CIM Accelerator with Mixed-stationary Cross-forwarding Dataflow for Multimodal Transformer"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.04563
+  url: https://arxiv.org/abs/2502.04563
+  pdf: https://arxiv.org/pdf/2502.04563
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+443:
+  title: "Data-aware Dynamic Execution of Irregular Workloads on Heterogeneous Systems"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.06304
+  url: https://arxiv.org/abs/2502.06304
+  pdf: https://arxiv.org/pdf/2502.06304
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['DSA', 'LLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Machine Learning"
+  reserved: DEADBEEF
+
+444:
+  title: "UbiMoE: A Ubiquitous Mixture-of-Experts Vision Transformer Accelerator With Hybrid Computation Pattern on FPGA"
+  year: 2025
+  type: article
+  doi: https://arxiv.org/abs/2502.05602
+  url: https://arxiv.org/abs/2502.05602
+  pdf: https://arxiv.org/pdf/2502.05602
+  ignore: False
+  silicon: True
+  platform: Design
+  model: ['FPGA', 'VLM']
+  method: __no_data__
+  publisher: "Arxiv"
+  pubkey: ""
+  pubname: "Computer Science > Hardware Architecture"
+  reserved: DEADBEEF
+
 # 40x:
 #   title:
 #   year:

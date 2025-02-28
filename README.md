@@ -2704,6 +2704,30 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 [![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1016/j.jpdc.2025.105042-sandybrown?style=flat-square)](https://doi.org/10.1016/j.jpdc.2025.105042)
 
 
+**StreamDCIM: A Tile-based Streaming Digital CIM Accelerator with Mixed-stationary Cross-forwarding Dataflow for Multimodal Transformer**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.05798-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.05798)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.05798)
+
+**StreamDCIM: A Tile-based Streaming Digital CIM Accelerator with Mixed-stationary Cross-forwarding Dataflow for Multimodal Transformer**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.04563-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.04563)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.04563)
+
+**Data-aware Dynamic Execution of Irregular Workloads on Heterogeneous Systems**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.06304-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.06304)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.06304)
+
+**UbiMoE: A Ubiquitous Mixture-of-Experts Vision Transformer Accelerator With Hybrid Computation Pattern on FPGA**
+
+![](https://img.shields.io/badge/Arxiv-2025-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2502.05602-sandybrown?style=flat-square)](https://arxiv.org/abs/2502.05602)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2502.05602)
+
 ---
 ## Analysis
 
