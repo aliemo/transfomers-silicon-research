@@ -1,0 +1,277 @@
+{
+  "source": "Unread Google Scholar Alert Papers.md.docx",
+  "as_of": "2026-10-05",
+  "added": [
+    {
+      "id": 445,
+      "title": "A Fully Reconfigurable and Programmable VLIW Architecture for Nonlinear Function Acceleration",
+      "doi": "https://doi.org/10.1109/tvlsi.2026.3729817",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "ASIC",
+      "model": [
+        "Transformer",
+        "ASIC"
+      ]
+    },
+    {
+      "id": 446,
+      "title": "MorphAtt: A Neuromorphic Accelerator for Efficient Multi-Head Attention Processing in Spiking Vision Transformers",
+      "doi": "https://arxiv.org/abs/2609.33207",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "ASIC",
+      "model": [
+        "ViT",
+        "ASIC"
+      ]
+    },
+    {
+      "id": 447,
+      "title": "From Acceleration to Accelerating Acceleration: Applications and Tools for Democratizing Hardware Design",
+      "doi": "https://doi.org/10.1109/fccm68464.2026.00082",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "ViT",
+        "FPGA"
+      ]
+    },
+    {
+      "id": 448,
+      "title": "Defending Side-Channel Attacks in FPGA-based Convolutional Layers and Multi-Head Attention Layers with Channel-Level Parallelization",
+      "doi": "https://doi.org/10.1145/3847663",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "FPGA",
+      "model": [
+        "Transformer",
+        "FPGA"
+      ]
+    },
+    {
+      "id": 449,
+      "title": "HiS-CIM: A 72.65-TOPS/W Hetero-CIM-Based LLM Accelerator Exploiting Hierarchical Weight Compression and Multi-Granular Sparsity",
+      "doi": "https://doi.org/10.1109/jssc.2026.3734350",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "PIM",
+      "model": [
+        "LLM",
+        "CIM"
+      ]
+    },
+    {
+      "id": 450,
+      "title": "A Novel Projection-Wise Quantization Method and A Custom Accelerator Design for Efficient Sub-4-Bit Large Language Model Inference",
+      "doi": "__no_data__",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "FPGA"
+      ]
+    },
+    {
+      "id": 451,
+      "title": "HeteroReason: Heterogeneous FPGA-GPU Acceleration for Disaggregated Speculative Reasoning",
+      "doi": "__no_data__",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "FPGA"
+      ]
+    },
+    {
+      "id": 452,
+      "title": "Reinforcement Learning-Guided High-Level Synthesis Optimization for Energy-Efficient Operator Fusion in Systolic Arrays: An Analytical Evaluation",
+      "doi": "__no_data__",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
+      "model": [
+        "ViT",
+        "Design"
+      ]
+    },
+    {
+      "id": 453,
+      "title": "RVBSCop: A RISC-V-Based Coprocessor With 229.53 GOPS/W and 92.19 GOPS/mm\n                    <sup>2</sup>\n                    for LLM Inference",
+      "doi": "https://doi.org/10.1109/tvlsi.2026.3733137",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "ASIC",
+      "model": [
+        "LLM",
+        "ASIC"
+      ]
+    },
+    {
+      "id": 454,
+      "title": "A Comprehensive Analysis and Chip Implementation of Hybrid-Bonding-Based 3D-DRAM Process-Near-Memory Design for LLM Inference",
+      "doi": "https://doi.org/10.1109/jssc.2026.3733213",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "3D",
+      "model": [
+        "LLM",
+        "PNM"
+      ]
+    },
+    {
+      "id": 455,
+      "title": "GRADE-RTL: Evaluating LLM-Generated RTL Beyond Compilation",
+      "doi": "https://arxiv.org/abs/2609.25335",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "EDA",
+      "model": [
+        "LLM",
+        "EDA"
+      ]
+    },
+    {
+      "id": 456,
+      "title": "LUT-DiT: A LUT-Based Diffusion Transformer Accelerator for Scalable LUT Inference",
+      "doi": "https://doi.org/10.1109/tvlsi.2026.3732472",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "ASIC",
+      "model": [
+        "Transformer",
+        "DiT"
+      ]
+    },
+    {
+      "id": 457,
+      "title": "A Dual-Precision MX Datapath for Layer-Adaptive RLHF Quantization on FPGAs",
+      "doi": "__no_data__",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "FPGA"
+      ]
+    },
+    {
+      "id": 458,
+      "title": "Lockstep: Bit-Exact, Verifiable Transformer Inference at Parity Across Devices, for Dense and Mixture-of-Experts Models",
+      "doi": "__no_data__",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "framework",
+      "model": [
+        "Transformer",
+        "MoE"
+      ]
+    },
+    {
+      "id": 459,
+      "title": "Hermes \\({}^{+}\\) : Adaptive Memory-Efficient Pipeline Inference for Large Models on Edge Devices",
+      "doi": "https://doi.org/10.1145/3845607",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "framework",
+      "model": [
+        "BERT",
+        "GPT",
+        "ViT"
+      ]
+    },
+    {
+      "id": 460,
+      "title": "Can Agents Design Better Chips with a Higher Level Abstraction?",
+      "doi": "https://arxiv.org/abs/2609.21157",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "EDA",
+      "model": [
+        "LLM",
+        "EDA"
+      ]
+    },
+    {
+      "id": 461,
+      "title": "ViT-CIM: A Computing-in-Memory based Vision Transformer Accelerator Featuring Multi-Head Self Attention and Token-Level Optimization",
+      "doi": "https://doi.org/10.1109/isset70600.2026.11682578",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "PIM",
+      "model": [
+        "ViT",
+        "CIM"
+      ]
+    },
+    {
+      "id": 462,
+      "title": "HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference",
+      "doi": "https://arxiv.org/abs/2609.00450",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "ASIC",
+      "model": [
+        "LLM",
+        "ASIC"
+      ]
+    },
+    {
+      "id": 463,
+      "title": "Hardware/software co-design and compiler techniques for efficient hardware\n               acceleration of dense linear algebra kernels and machine learning applications:",
+      "doi": "https://doi.org/10.17760/d20699019",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
+      "model": [
+        "ViT",
+        "ASIC"
+      ]
+    },
+    {
+      "id": 464,
+      "title": "Cerium: A Multi-GPU Framework for Terabyte-Scale Encrypted Inference",
+      "doi": "https://doi.org/10.1145/3830418.3843864",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "GPU",
+      "model": [
+        "LLM",
+        "GPU"
+      ]
+    },
+    {
+      "id": 465,
+      "title": "Silicon Photonics for Short\u2010Reach Interconnects: Progress in High\u2010Bandwidth and Energy\u2010Efficient Optical I/O",
+      "doi": "https://doi.org/10.1002/lpor.71894",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
+      "model": [
+        "LLM",
+        "Photonics"
+      ]
+    }
+  ],
+  "excluded": [
+    "THE EVOLUTION OF LARGE LANGUAGE MODEL ARCHITECTURES: FROM THE TRANSFORMER TO HYBRID MODELS (2017\u20132026)",
+    "AVP-GPT2: Prompt-Conditioned Fine-Tuning of a GPT-2 Protein Language Model for Antiviral Peptide Identification",
+    "SCALE: Simulation-Calibrated Amortized Learning for Energy Materials",
+    "Evaluating the Role of Provider on Safety Alignment in Large Language Models",
+    "Recurrent Looped Transformer",
+    "Scalable Packet Tracking on FPGAs for Erasure-Coded RDMA over Lossy WANs",
+    "18-2: Research on Lightweight Super-Resolution GAN Model on Low-Cost FPGA for Automotive Application",
+    "The Athena Project\u2013Energy-Sparing Agentic Microcomputer-Based Platform Advancing the Wheel of Reincarnation",
+    "Performance Optimization and Scalability of LLM-Based Enterprise AI Under High-Load and Adversarial Conditions",
+    "The Efficiency-Decentralization-Security Trilemma: A Co-Design Framework for Lightweight, Decentralized AI in Cyber-Physical Systems",
+    "Transformer-Based Small Object Detection in UAV Aerial Imagery Using Edge Artificial Intelligence"
+  ],
+  "notes": [
+    "All new entries use ignore: check for manual finalization.",
+    "silicon: check means hardware relevance is borderline or not a fabricated silicon chip.",
+    "Missing DOI/url left as __no_data__ when Crossref/arXiv did not resolve."
+  ]
+}
