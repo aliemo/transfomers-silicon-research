@@ -1,0 +1,60 @@
+# Website build / UI settings
+
+site:
+  title: Transformers on Silicon
+  tagline: A curated niche catalog of ASIC, FPGA, CIM/PIM, and accelerator papers for Transformer, BERT, LLM, and ViT hardware
+  base_url: "."
+
+filters:
+  - id: q
+    type: search
+    label: Search
+    placeholder: Title, authors, venue, DOI, model…
+  - id: category
+    type: select
+    label: Category
+    source: categories
+  - id: year
+    type: select
+    label: Year
+    source: years
+  - id: platform
+    type: select
+    label: Platform
+    source: platforms
+  - id: model
+    type: select
+    label: Model
+    source: models
+  - id: status
+    type: chips
+    label: Status
+    options: [silicon, no, pass1, pass2, pass3]
+  - id: publisher
+    type: select
+    label: Publisher
+    source: publishers
+
+card:
+  show_badges: true
+  show_venue_subtitle: true
+  show_doi: true
+  show_pdf: true
+  show_platform: true
+  show_models: true
+  show_authors: true
+  show_status: true
+
+build:
+  # Single source of truth
+  papers_yaml: data/papers.yaml
+  categories_file: configs/categories.yaml
+  out_dir: website/dist
+  include_ignored: false
+  max_papers: 0   # 0 = all
+
+admin:
+  enabled: true
+  host: 127.0.0.1
+  port: 8787
+  command: python scripts/admin_server.py

@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
+/dist/
 downloads/
 eggs/
 .eggs/
@@ -159,6 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+/dist/
+# website/dist is committed so weekly CI PRs ship a browsable catalog
+data/pipeline/candidates_raw.json
+data/pipeline/candidates_deep_*.json
 .venv
 .wip
 out/*

@@ -1,0 +1,39 @@
+# Pipeline runtime settings (queries live in configs/queries.yaml)
+# Weekly CI uses lookback_days (recent window). Deep backfill:
+#   python scripts/pipeline/fetch_papers.py --from-year 2017 --to-year 2026 --max-per-query 200
+
+fetch:
+  # Omit from_year for weekly mode (lookback_days controls the window)
+  lookback_days: 21
+  max_per_query: 80
+  sources: [openalex, arxiv]
+  mailto: "transformers-silicon-research@users.noreply.github.com"
+  queries_file: configs/queries.yaml
+  categories_file: configs/categories.yaml
+
+analyze:
+  providers: [groq, gemini, heuristic]
+  groq_model: "llama-3.1-8b-instant"
+  gemini_model: "gemini-2.0-flash"
+  related_threshold: 0.55
+  require_hardware: true
+
+catalog:
+  papers_yaml: data/papers.yaml
+  papers_csv: data/papers.csv
+  readme: README.md
+  plot: data/img/publications.png
+  new_ignore: check
+  new_silicon_default: check
+
+ci:
+  open_pr: true
+  branch_prefix: auto/papers
+  schedule: "Every Monday 06:00 UTC"
+
+paths:
+  queries: configs/queries.yaml
+  categories: configs/categories.yaml
+  website: configs/website.yaml
+  review: configs/review.yaml
+  pipeline_out: data/pipeline

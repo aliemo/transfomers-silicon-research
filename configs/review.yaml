@@ -1,0 +1,105 @@
+# Multi-pass review workflow for transformer-on-silicon papers
+# Editable: enable/disable passes, rename, change statuses & actions
+
+enabled: true
+
+# Status values allowed on each pass
+statuses:
+  - id: pending
+    label: Pending
+    color: "#d4a15b"
+  - id: accepted
+    label: Accepted
+    color: "#3fbf8f"
+  - id: rejected
+    label: Rejected
+    color: "#d46b6b"
+  - id: skipped
+    label: Skipped
+    color: "#93a0b4"
+
+passes:
+  - id: pass1
+    label: Pass 1 — Relevance
+    short: P1
+    description: Is this paper about Transformers/BERT/LLM/ViT on hardware/silicon?
+    order: 1
+    checklist:
+      - Mentions Transformer / BERT / LLM / ViT / attention hardware
+      - Mentions accelerator / FPGA / ASIC / CIM / PIM / chip
+      - Not off-topic (protein LM, pure NLP app, networking-only, etc.)
+    on_accepted:
+      next_pass: pass2
+      set:
+        ignore: check
+    on_rejected:
+      next_pass: done
+      set:
+        ignore: True
+        silicon: False
+    on_skipped:
+      next_pass: pass2
+      set:
+        ignore: check
+
+  - id: pass2
+    label: Pass 2 — Metadata
+    short: P2
+    description: Fix DOI/URL/venue/platform/model/category and silicon flag.
+    order: 2
+    checklist:
+      - DOI / URL valid
+      - Publisher + venue (pubname) filled
+      - Platform set (FPGA / ASIC / PIM / …)
+      - Model tags set (Transformer / LLM / ViT / …)
+      - Category correct (journal / conference / arxiv / thesis)
+      - Silicon flag reviewed
+    on_accepted:
+      next_pass: pass3
+      set: {}
+    on_rejected:
+      next_pass: done
+      set:
+        ignore: True
+    on_skipped:
+      next_pass: pass3
+      set: {}
+
+  - id: pass3
+    label: Pass 3 — Final include
+    short: P3
+    description: Final accept into public catalog (ignore=False) or drop.
+    order: 3
+    checklist:
+      - Enough signal for the public website/README
+      - Duplicate check done
+      - ignore set to False if keeping
+    on_accepted:
+      next_pass: done
+      set:
+        ignore: False
+    on_rejected:
+      next_pass: done
+      set:
+        ignore: True
+    on_skipped:
+      next_pass: done
+      set:
+        ignore: check
+
+# Current-pass value when workflow is complete
+done_pass: done
+
+defaults:
+  # Applied to newly ingested / newly added papers
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+# How to infer review state for older papers missing review_* fields
+infer:
+  ignore_check: { review_pass: pass1, review_pass1: pending }
+  ignore_true: { review_pass: done, review_pass1: rejected }
+  ignore_false: { review_pass: done, review_pass1: accepted, review_pass2: accepted, review_pass3: accepted }

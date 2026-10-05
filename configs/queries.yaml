@@ -1,0 +1,91 @@
+# Search / alert queries for transformer-on-silicon ingest
+# Used by: scripts/pipeline/*, Scholar alert sync docs
+
+queries:
+  - id: core
+    name: Core silicon + Transformer family
+    enabled: true
+    scholar: >-
+      (BERT OR GPT OR LLM OR LLMs OR Transformer OR Transformers OR ViT OR "vision transformer")
+      AND (Accelerator OR Accelerators OR Overlay OR FPGA OR ASIC OR PIM OR CIM
+      OR "Systolic Array" OR "in-memory computing" OR VLSI OR "hardware accelerator")
+    openalex: >-
+      (BERT OR GPT OR LLM OR Transformer OR ViT)
+      AND (accelerator OR FPGA OR ASIC OR PIM OR CIM)
+    arxiv: >-
+      ("transformer accelerator" OR "BERT accelerator" OR "LLM accelerator"
+      OR "ViT accelerator" OR "FPGA transformer" OR "ASIC transformer")
+
+  - id: attention_hw
+    name: Attention / Softmax hardware
+    enabled: true
+    scholar: >-
+      ("self-attention" OR "multi-head attention" OR MHSA OR Softmax OR "KV cache")
+      AND (accelerator OR ASIC OR FPGA OR "hardware architecture" OR "TOPS/W")
+    openalex: >-
+      (attention OR Softmax OR "KV cache")
+      AND (accelerator OR FPGA OR ASIC OR hardware)
+    arxiv: >-
+      ("self-attention" accelerator OR Softmax accelerator
+      OR "multi-head attention" FPGA OR ASIC)
+
+  - id: llm_silicon
+    name: LLM / GPT silicon
+    enabled: true
+    scholar: >-
+      ("large language model" OR LLM OR LLMs OR GPT OR MoE OR "mixture-of-experts")
+      AND (Accelerator OR FPGA OR ASIC OR PIM OR CIM OR "KV cache" OR quantization OR sparsity)
+    openalex: >-
+      (LLM OR "large language model" OR GPT OR MoE)
+      AND (accelerator OR FPGA OR ASIC OR CIM OR chip)
+    arxiv: >-
+      ("LLM accelerator" OR "GPT accelerator" OR "large language model" FPGA
+      OR "large language model" ASIC OR "MoE accelerator")
+
+  - id: vit_hw
+    name: Vision Transformer hardware
+    enabled: true
+    scholar: >-
+      ("vision transformer" OR ViT OR Swin OR "diffusion transformer" OR DiT)
+      AND (accelerator OR FPGA OR ASIC OR CIM OR "hardware accelerator" OR "edge AI")
+    openalex: >-
+      ("vision transformer" OR ViT OR DiT)
+      AND (accelerator OR FPGA OR ASIC OR CIM)
+    arxiv: >-
+      ("vision transformer" accelerator OR "ViT accelerator"
+      OR "diffusion transformer" accelerator OR DiT FPGA)
+
+  - id: deep_fpga_transformer
+    name: Deep FPGA Transformer accelerators
+    enabled: true
+    scholar: >-
+      (Transformer OR BERT OR LLM OR ViT) AND FPGA AND (accelerator OR overlay OR HLS OR systolic)
+    openalex: >-
+      (Transformer OR BERT OR LLM OR "vision transformer")
+      AND FPGA AND (accelerator OR systolic OR overlay)
+    arxiv: >-
+      (FPGA AND (Transformer OR BERT OR LLM OR ViT) AND (accelerator OR systolic OR overlay))
+
+  - id: deep_asic_cim
+    name: Deep ASIC / CIM / PIM silicon
+    enabled: true
+    scholar: >-
+      (Transformer OR LLM OR BERT OR ViT) AND (ASIC OR CIM OR PIM OR "in-memory computing" OR "near-memory" OR TOPS/W OR tapeout)
+    openalex: >-
+      (Transformer OR LLM OR BERT OR ViT)
+      AND (ASIC OR "computing-in-memory" OR CIM OR PIM OR "near-memory" OR tapeout)
+    arxiv: >-
+      ((Transformer OR LLM OR BERT OR ViT) AND (ASIC OR CIM OR PIM OR "in-memory" OR "near-memory" OR TOPS))
+
+  - id: deep_softmax_kv
+    name: Deep Softmax / KV-cache / attention engines
+    enabled: true
+    scholar: >-
+      (Softmax OR "KV cache" OR "self-attention" OR "multi-head attention") AND (accelerator OR ASIC OR FPGA OR hardware)
+    openalex: >-
+      (Softmax OR "KV cache" OR "self-attention") AND (accelerator OR ASIC OR FPGA OR VLSI)
+    arxiv: >-
+      ((Softmax OR "KV cache" OR "self-attention") AND (accelerator OR ASIC OR FPGA OR VLSI))
+
+excludes:
+  scholar_suffix: "-protein -peptide -sentiment -chemistry -genome"

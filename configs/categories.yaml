@@ -1,0 +1,93 @@
+# Venue / publication categories for catalog + website filters
+# Matching is case-insensitive against publisher, pubname, doi, url
+
+categories:
+  - id: journal
+    label: Journal
+    description: Peer-reviewed journals (JSSC, TVLSI, TCAD, …)
+    color: "#3d9cf0"
+    match_any:
+      - journal
+      - transactions
+      - letters
+      - jssc
+      - tvlsi
+      - tcad
+      - tcas
+      - access
+      - nature
+      - science
+      - elsevier
+      - wiley
+      - springer
+      - mdpi
+      - laser & photonics
+
+  - id: conference
+    label: Conference
+    description: Conferences & symposia (ISSCC, MICRO, ISCA, FCCM, …)
+    color: "#46c38b"
+    match_any:
+      - conference
+      - symposium
+      - workshop
+      - isscc
+      - esscirc
+      - micro
+      - isca
+      - hpca
+      - dac
+      - iccad
+      - fccm
+      - asap
+      - date
+      - isvlsi
+      - iscas
+      - asp-dac
+      - fpga
+      - hot chips
+      - usenix
+      - neurips
+      - nips
+      - aaai
+      - acl
+      - mlSys
+      - proceedings of the acm
+      - proceedings of the ieee
+
+  - id: arxiv
+    label: arXiv
+    description: Preprints on arXiv
+    color: "#e0a45c"
+    match_any:
+      - arxiv
+      - arxiv.org
+      - 10.48550/arxiv
+
+  - id: thesis
+    label: Thesis / Report
+    description: Dissertations, theses, tech reports, repositories
+    color: "#b388ff"
+    match_any:
+      - dissertation
+      - thesis
+      - repository
+      - tech report
+      - technical report
+      - scholarship
+      - escholarship
+
+  - id: other
+    label: Other
+    description: Uncategorized or mixed venues
+    color: "#9aa7b8"
+    match_any: []
+
+# First matching category wins; evaluated in list order above.
+# Explicit overrides by publisher short-name (optional)
+publisher_overrides:
+  Arxiv: arxiv
+  Arxive: arxiv
+  arXiv: arxiv
+  IEEE: null   # resolve via pubname
+  ACM: null
