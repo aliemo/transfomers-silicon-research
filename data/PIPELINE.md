@@ -79,11 +79,10 @@ python website/build.py
 ```
 
 One-time GitHub setup:
-1. Merge/push this workflow, wait for **Deploy GitHub Pages** to create the `gh-pages` branch
-2. **Settings → Pages → Build and deployment**
-   - Source: **Deploy from a branch**
-   - Branch: **gh-pages** / **/ (root)**
-3. Open https://aliemo.github.io/transfomers-silicon-research/
+1. **Settings → Pages → Build and deployment → Source: GitHub Actions**
+2. Do **not** add the suggested "Jekyll" or "Static HTML" workflows — this repo already has `.github/workflows/pages.yml`
+3. Open **Actions → Deploy GitHub Pages → Run workflow**
+4. Site: https://aliemo.github.io/transfomers-silicon-research/
 
 Status chips: **Silicon · Non-silicon · Pass 1 · Pass 2 · Pass 3**
 

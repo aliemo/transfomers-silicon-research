@@ -8,8 +8,8 @@ https://aliemo.github.io/transfomers-silicon-research/
 
 Deployed by `.github/workflows/pages.yml` whenever `papers.yaml` / website / configs change on `main`.
 
-Enable once: after the first successful deploy creates `gh-pages`, set  
-**Settings → Pages → Source: Deploy from a branch → `gh-pages` / root**.
+Enable once: **Settings → Pages → Source: GitHub Actions**  
+(Do not install the suggested Jekyll/Static HTML templates — use this repo's `pages.yml`.)
 
 ## Build locally
 
