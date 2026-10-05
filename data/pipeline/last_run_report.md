@@ -1,0 +1,59 @@
+# Historical fetch report (2017-now)
+
+- Source: OpenAlex + arXiv (Scholar-equivalent queries; Google Scholar has no public API)
+- Fetched candidates: **761**
+- Related after filter: **53**
+- Newly added: **49** (IDs 466-514)
+- Status: ignore=check, review Pass 1 pending
+
+## Added titles
+
+- **466** — The Particle Accelerator Principle in AI Research Forensics: Event Reconstruction, Epistemic Pile-Up, and Invariant Verification in Large Language Model Scientific Inferences
+- **467** — balmame7-mld/fpga-transformer-ccontrol-flow: Release — FPGA Transformer accelerator artifact
+- **468** — ShatterQuant: Breaking Uniform Precision with Block-Wise Mixed-Precision on a Systolic Transformer Hardware Accelerator
+- **469** — FlexPosit: Tunable Fractional Precision for LLM Inference Accelerators
+- **470** — AI Hardware Accelerators for Large Language Models: Architectures and the Memory Wall
+- **471** — FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications
+- **472** — Interpolation of Non-Linear Functions for LLMs using Partial Reconfiguration in FPGAs
+- **473** — MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar
+- **474** — Opto-ViT-v2: Noise-Resilient On-Chip Fine-Tuning for Photonic Near-Sensor Vision Transformer Accelerators
+- **475** — ELiTeFormer: An Efficient Transformer for FPGAs
+- **476** — DxPTA: An Architecture Design Space Exploration with Optical Dataflow-guided Strategy for HW/SW Co-Design of Photonic Transformer Accelerators
+- **477** — CHIMERA: A Flexible and Scalable 3.1 TOPS/W AI-MCU with Transformer Accelerator and 563 Gb/s Shared-L2 Memory Subsystem with QoS Guarantees
+- **478** — Implementation of an Adaptive Transformer Accelerator for Accurate Outdoor Localization with Massive MIMO
+- **479** — 31.1 A 14.08-to-135.69Token/s ReRAM-on-Logic Stacked Outlier-Free Large-Language-Model Accelerator with Block-Clustered Weight-Compression and Adaptive Parallel-Speculative-Decoding
+- **480** — VitaLLM: A Versatile and Tiny Accelerator for Mixed-Precision LLM Inference on Edge Devices
+- **481** — VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling
+- **482** — RCW-CIM: A Digital CIM-based LLM Accelerator with Read-Compute/Write
+- **483** — A Full-Stack Performance Evaluation Infrastructure for 3D-DRAM-based LLM Accelerators
+- **484** — MXFormer: A Microscaling Floating-Point Charge-Trap Transistor Compute-in-Memory Transformer Accelerator
+- **485** — FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design
+- **486** — CD-PIM: A High-Bandwidth and Compute-Efficient LPDDR5-Based PIM for Low-Batch LLM Acceleration on Edge-Device
+- **487** — A 28nm 0.22μJ/token memory-compute-intensity-aware CNN-Transformer accelerator with hybrid-attention-based layer-fusion and cascaded pruning for semantic-segmentation
+- **488** — SeVeDo: A Heterogeneous Transformer Accelerator for Low-Bit Inference via Hierarchical Group Quantization and SVD-Guided Mixed Precision
+- **489** — PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration
+- **490** — RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning
+- **491** — DCO: Dynamic Cache Orchestration for LLM Accelerators through Predictive Management
+- **492** — BitStopper: An Efficient Transformer Attention Accelerator via Stage-fusion and Early Termination
+- **493** — P3-LLM: An Integrated NPU-PIM Accelerator for Edge LLM Inference Using Hybrid Numerical Formats
+- **494** — Low Power Vision Transformer Accelerator with Hardware-Aware Pruning and Optimized Dataflow
+- **495** — TeLLMe v2: An Efficient End-to-End Ternary LLM Prefill and Decode Accelerator with Table-Lookup Matmul on Edge FPGAs
+- **496** — SnipSnap: A Joint Compression Format and Dataflow Co-Optimization Framework for Efficient Sparse LLM Accelerator Design
+- **497** — CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration
+- **498** — StreamTensor: Make Tensors Stream in Dataflow Accelerators for LLMs
+- **499** — MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness
+- **500** — Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics
+- **501** — COBRA: Algorithm-Architecture Co-optimized Binary Transformer Accelerator for Edge Inference
+- **502** — TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs
+- **503** — UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference
+- **504** — PIM-LLM: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs
+- **505** — VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers
+- **506** — An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators
+- **507** — NeCTAr: A Heterogeneous RISC-V SoC for Language Model Inference in Intel 16
+- **508** — A Review on Proprietary Accelerators for Large Language Models
+- **509** — T-REX: A 68-567 μs/token, 0.41-3.95 μJ/token Transformer Accelerator with Reduced External Memory Access and Enhanced Hardware Utilization in 16nm FinFET
+- **510** — Vision Transformer Accelerator ASIC for Real-Time Low-Power Sleep Staging
+- **511** — LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design
+- **512** — The Particle Accelerator Principle in AI Research Forensics
+- **513** — EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems
+- **514** — AdaptViT: Runtime-Adaptive Vision Transformer Deployment on Custom RISC-V

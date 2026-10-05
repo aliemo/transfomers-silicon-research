@@ -1,0 +1,904 @@
+{
+  "added_count": 69,
+  "added_ids": [
+    515,
+    516,
+    517,
+    518,
+    519,
+    520,
+    521,
+    522,
+    523,
+    524,
+    525,
+    526,
+    527,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583
+  ],
+  "added": [
+    {
+      "id": 515,
+      "title": "FLARE: FP-Less PTQ and Low-ENOB ADC Based AMS-PiM for Error-Resilient, Fast, and Efficient Transformer Acceleration",
+      "doi": "https://arxiv.org/abs/2411.14733",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['pim'] model=['transformer', 'transformers', 'self-attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 516,
+      "title": "Optimized Spatial Architecture Mapping Flow for Transformer Accelerators",
+      "doi": "https://arxiv.org/abs/2410.07407",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'hardware accelerator'] model=['transformer', 'transformers', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 517,
+      "title": "OPAL: Outlier-Preserved Microscaling Quantization Accelerator for Generative Large Language Models",
+      "doi": "https://arxiv.org/abs/2409.05902",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 518,
+      "title": "Research on LLM Acceleration Using the High-Performance RISC-V Processor \"Xiangshan\" (Nanhu Version) Based on the Open-Source Matrix Instruction Set Extension (Vector Dot Product)",
+      "doi": "https://arxiv.org/abs/2409.00661",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga', 'risc-v'] model=['transformer', 'gpt', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 519,
+      "title": "Designing Efficient LLM Accelerators for Edge Devices",
+      "doi": "https://arxiv.org/abs/2408.00462",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 520,
+      "title": "SWAT: Scalable and Efficient Window Attention-based Transformers Acceleration on FPGAs",
+      "doi": "https://arxiv.org/abs/2405.17025",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers', 'self-attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 521,
+      "title": "ME-ViT: A Single-Load Memory-Efficient FPGA Accelerator for Vision Transformers",
+      "doi": "https://arxiv.org/abs/2402.09709",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 522,
+      "title": "Lightening-Transformer: A Dynamically-operated Optically-interconnected Photonic Transformer Accelerator",
+      "doi": "https://arxiv.org/abs/2305.19533",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'hardware accelerator'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 523,
+      "title": "vidax: A Unified JAX Framework for Video Generative Models on Accelerator Meshes",
+      "doi": "__no_data__",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator'] model=['transformer', 'transformers', 'diffusion transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 524,
+      "title": "The World Model Hardware Accelerator",
+      "doi": "https://doi.org/10.48550/arxiv.2609.16244",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'hardware accelerator'] model=['transformer', 'transformers', 'diffusion transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 525,
+      "title": "Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign",
+      "doi": "https://doi.org/10.48550/arxiv.2609.10970",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'asic'] model=['llm']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 526,
+      "title": "Constraint-guided generative AI for gate-level VLSI design with early physical awareness",
+      "doi": "https://doi.org/10.1016/j.vlsi.2026.102888",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['vlsi'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 527,
+      "title": "MeshKV: A Network-on-Chip KV Cache Fabric for Scalable Transformer Decoding Accelerators",
+      "doi": "https://doi.org/10.48550/arxiv.2609.19207",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 528,
+      "title": "UNISON: A Co-Designed Near-Memory Scheduler of Session KV Residency for LLM Agents",
+      "doi": "https://doi.org/10.48550/arxiv.2609.09643",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['near-memory'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 529,
+      "title": "An energy-efficient FPGA accelerator for transformer inference using layer-wise precision optimization",
+      "doi": "https://doi.org/10.1016/j.rineng.2026.112807",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'bert']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 530,
+      "title": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study",
+      "doi": "https://doi.org/10.48550/arxiv.2609.04058",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['accelerator'] model=['large language model']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 531,
+      "title": "Adaptive Memory-Centric Hardware Accelerator for Long-Context Transformer Inference Using Predictive Dataflow Optimization",
+      "doi": "__no_data__",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 532,
+      "title": "Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems",
+      "doi": "https://doi.org/10.48550/arxiv.2608.28160",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['fpga'] model=['llm']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 533,
+      "title": "Helios: Scalable Multi-accelerator FPGA Architecture for Efficient Inference of Transformer-Based Models",
+      "doi": "https://doi.org/10.1007/978-981-92-4805-6_23",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 534,
+      "title": "Survey of FPGA-based accelerators for large language models",
+      "doi": "https://doi.org/10.1016/j.jpdc.2026.105349",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['large language model']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 535,
+      "title": "On-chip non-volatile all-optical residual neural network accelerator",
+      "doi": "https://doi.org/10.1038/s41377-026-02325-2",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['accelerator'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 536,
+      "title": "Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey",
+      "doi": "https://arxiv.org/abs/2609.01212",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 537,
+      "title": "ATLAS: Automated HLS for DL-Optimized FPGAs",
+      "doi": "https://arxiv.org/abs/2607.07643",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 538,
+      "title": "FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers",
+      "doi": "https://arxiv.org/abs/2606.31938",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 539,
+      "title": "Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA",
+      "doi": "https://arxiv.org/abs/2606.11117",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 540,
+      "title": "Triple-Hoisted Baby-Step Giant-Step Linear Transformation over CKKS Homomorphic Encryption and Hardware Accelerator",
+      "doi": "https://arxiv.org/abs/2605.17222",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 541,
+      "title": "LLM-Driven Design Space Exploration of FPGA-based Accelerators",
+      "doi": "https://arxiv.org/abs/2605.05920",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 542,
+      "title": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours",
+      "doi": "https://arxiv.org/abs/2605.05170",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'risc-v'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 543,
+      "title": "ViM-Q: Scalable Algorithm-Hardware Co-Design for Vision Mamba Model Inference on FPGA",
+      "doi": "https://arxiv.org/abs/2605.01935",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 544,
+      "title": "GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA",
+      "doi": "https://arxiv.org/abs/2604.21290",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 545,
+      "title": "TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI",
+      "doi": "https://arxiv.org/abs/2603.22867",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 546,
+      "title": "SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation",
+      "doi": "https://arxiv.org/abs/2603.14785",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 547,
+      "title": "A Persistent-State Dataflow Accelerator for Memory-Bound Linear Attention Decode on FPGA",
+      "doi": "https://arxiv.org/abs/2603.05931",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 548,
+      "title": "FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill",
+      "doi": "https://arxiv.org/abs/2602.20515",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model', 'self-attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 549,
+      "title": "LAAFD: LLM-based Agents for Accelerated FPGA Design",
+      "doi": "https://arxiv.org/abs/2602.06085",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 550,
+      "title": "HFRWKV: A High-Performance Fully On-Chip Hardware Accelerator for RWKV",
+      "doi": "https://arxiv.org/abs/2601.02135",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 551,
+      "title": "FPGA Co-Design for Efficient N:M Sparse and Quantized Model Inference",
+      "doi": "https://arxiv.org/abs/2512.24713",
+      "analysis": {
+        "related": true,
+        "confidence": 0.85,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 552,
+      "title": "CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving",
+      "doi": "https://arxiv.org/abs/2512.11920",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 553,
+      "title": "LUT-LLM: Efficient Large Language Model Inference with Memory-based Computations on FPGAs",
+      "doi": "https://arxiv.org/abs/2511.06174",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 554,
+      "title": "FaRAccel: FPGA-Accelerated Defense Architecture for Efficient Bit-Flip Attack Resilience in Transformer Models",
+      "doi": "https://arxiv.org/abs/2510.24985",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 555,
+      "title": "ISAAC: Intelligent, Scalable, Agile, and Accelerated CPU Verification via LLM-aided FPGA Parallelism",
+      "doi": "https://arxiv.org/abs/2510.10225",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 556,
+      "title": "TrackCore-F: Deploying Transformer-Based Subatomic Particle Tracking on FPGAs",
+      "doi": "https://arxiv.org/abs/2509.26335",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 557,
+      "title": "Real Time FPGA Based Transformers &amp; VLMs for Vision Tasks: SOTA Designs and Optimizations",
+      "doi": "https://arxiv.org/abs/2509.04162",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga', 'overlay'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 558,
+      "title": "Systolic Array-based Architecture for Low-Bit Integerized Vision Transformers",
+      "doi": "https://arxiv.org/abs/2508.20334",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 559,
+      "title": "DiffAxE: Diffusion-driven Hardware Accelerator Generation and Design Space Exploration",
+      "doi": "https://arxiv.org/abs/2508.10303",
+      "analysis": {
+        "related": true,
+        "confidence": 0.85,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'asic'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 560,
+      "title": "Hummingbird: A Smaller and Faster Large Language Model Accelerator on Embedded FPGA",
+      "doi": "https://arxiv.org/abs/2507.03308",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 561,
+      "title": "CoQMoE: Co-Designed Quantization and Computation Orchestration for Mixture-of-Experts Vision Transformer on FPGA",
+      "doi": "https://arxiv.org/abs/2506.08496",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 562,
+      "title": "Dataflow &amp; Tiling Strategies in Edge-AI FPGA Accelerators: A Comprehensive Literature Review",
+      "doi": "https://arxiv.org/abs/2505.08992",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 563,
+      "title": "Design and Implementation of an FPGA-Based Hardware Accelerator for Transformer",
+      "doi": "https://arxiv.org/abs/2503.16731",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['transformer', 'bert', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 564,
+      "title": "TerEffic: Highly Efficient Ternary LLM Inference on FPGA",
+      "doi": "https://arxiv.org/abs/2502.16473",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 565,
+      "title": "Pushing up to the Limit of Memory Bandwidth and Capacity Utilization for Efficient LLM Decoding on Embedded FPGA",
+      "doi": "https://arxiv.org/abs/2502.10659",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 566,
+      "title": "IANUS: Integrated Accelerator based on NPU-PIM Unified Memory System",
+      "doi": "https://arxiv.org/abs/2410.15008",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'gpt', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 567,
+      "title": "LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs",
+      "doi": "https://arxiv.org/abs/2409.11424",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 568,
+      "title": "EdgeLLM: A Highly Efficient CPU-FPGA Heterogeneous Edge Accelerator for Large Language Models",
+      "doi": "https://arxiv.org/abs/2407.21325",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['llm', 'large language model', 'multi-head attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 569,
+      "title": "Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT",
+      "doi": "https://arxiv.org/abs/2407.11041",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 570,
+      "title": "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design",
+      "doi": "https://arxiv.org/abs/2405.01775",
+      "analysis": {
+        "related": true,
+        "confidence": 0.9,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 571,
+      "title": "An FPGA-Based Accelerator Enabling Efficient Support for CNNs with Arbitrary Kernel Sizes",
+      "doi": "https://arxiv.org/abs/2402.14307",
+      "analysis": {
+        "related": true,
+        "confidence": 0.85,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 572,
+      "title": "Chameleon: a Heterogeneous and Disaggregated Accelerator System for Retrieval-Augmented Language Models",
+      "doi": "https://arxiv.org/abs/2310.09949",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 573,
+      "title": "An Efficient FPGA-Based Accelerator for Swin Transformer",
+      "doi": "https://arxiv.org/abs/2308.13922",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 574,
+      "title": "Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition",
+      "doi": "https://arxiv.org/abs/2306.05021",
+      "analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 575,
+      "title": "IMC-CLINIC: Coupled Loss-Informed Newton Iterations for Clipping in Analog In-Memory Computing",
+      "doi": "https://doi.org/10.48550/arxiv.2609.35586",
+      "analysis": {
+        "related": true,
+        "confidence": 0.7,
+        "reason": "heuristic hw=['in-memory computing'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 576,
+      "title": "SPIMOE: Exploiting Hybrid Sparsity for Reasoning MoE Inference on Heterogeneous PIM Architectures",
+      "doi": "https://doi.org/10.48550/arxiv.2609.34612",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'pim'] model=['mixture-of-experts']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 577,
+      "title": "Torch-PIM: Automated Profile-Guided PIM Offloading for PyTorch",
+      "doi": "__no_data__",
+      "analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['pim'] model=['gpt']",
+        "provider": "heuristic",
+        "source": "openalex"
+      }
+    },
+    {
+      "id": 578,
+      "title": "PATTON: Enabling Commodity PIM for Production LLM Serving",
+      "doi": "https://arxiv.org/abs/2609.11392",
+      "analysis": {
+        "related": true,
+        "confidence": 0.95,
+        "reason": "heuristic hw=['pim'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 579,
+      "title": "Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
+      "doi": "https://arxiv.org/abs/2608.03555",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'pim', 'near-memory'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 580,
+      "title": "Automatic Model-Hardware Co-Adaptation for Heterogeneous AI Accelerators",
+      "doi": "https://arxiv.org/abs/2607.12875",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 581,
+      "title": "FastTPS: An Optimized Method for LLM Token Phase for AI accelerators",
+      "doi": "https://arxiv.org/abs/2607.11211",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 582,
+      "title": "Approximate Attention Weighting for Sustainable FPGA-Based Vision Transformer Inference",
+      "doi": "https://arxiv.org/abs/2607.01798",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 583,
+      "title": "HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators",
+      "doi": "https://arxiv.org/abs/2606.29986",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    }
+  ]
+}
