@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Papers Admin</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="layout">
+    <aside class="side">
+      <div class="brand">
+        <h1>Papers Admin</h1>
+        <p>Edit <code>data/papers.yaml</code> locally</p>
+      </div>
+
+      <div class="side-actions">
+        <button id="btn-new" type="button">+ Add paper</button>
+        <button id="btn-rebuild" type="button" class="ghost">Rebuild website</button>
+      </div>
+
+      <div class="side-filters">
+        <input id="q" type="search" placeholder="Search…" />
+        <select id="f-review-pass">
+          <option value="">Review pass: all</option>
+          <option value="pass1" selected>Pass 1</option>
+          <option value="pass2">Pass 2</option>
+          <option value="pass3">Pass 3</option>
+          <option value="done">Done</option>
+        </select>
+        <select id="f-review-status">
+          <option value="">Pass status: all</option>
+          <option value="pending" selected>Pending</option>
+          <option value="accepted">Accepted</option>
+          <option value="rejected">Rejected</option>
+          <option value="skipped">Skipped</option>
+        </select>
+        <select id="f-ignore">
+          <option value="">Ignore: all</option>
+          <option value="False">False</option>
+          <option value="check">check</option>
+          <option value="True">True</option>
+        </select>
+        <select id="f-silicon">
+          <option value="">Silicon: all</option>
+          <option value="True">True</option>
+          <option value="check">check</option>
+          <option value="False">False</option>
+        </select>
+        <select id="f-category">
+          <option value="">Category: all</option>
+        </select>
+      </div>
+
+      <div id="list" class="list"></div>
+      <p class="count"><span id="count">0</span> papers</p>
+    </aside>
+
+    <main class="main">
+      <div id="empty" class="empty">Select a paper or add a new one.</div>
+
+      <form id="editor" class="editor hidden">
+        <div class="editor-head">
+          <div>
+            <p class="eyebrow">Paper <span id="paper-id">—</span></p>
+            <h2 id="editor-title">Edit paper</h2>
+          </div>
+          <div class="editor-actions">
+            <button type="button" id="btn-analyze" class="ghost">Analyze</button>
+            <button type="button" id="btn-analyze-apply" class="ghost">Analyze + apply</button>
+            <button type="button" id="btn-soft-delete" class="warn">Ignore</button>
+            <button type="button" id="btn-hard-delete" class="danger">Delete</button>
+            <button type="submit">Save</button>
+          </div>
+        </div>
+
+        <div id="analysis" class="analysis hidden"></div>
+        <div id="review-box" class="review-box hidden"></div>
+
+        <div class="review-actions">
+          <button type="button" id="btn-pass-accept" class="ok">Accept pass</button>
+          <button type="button" id="btn-pass-reject" class="warn">Reject pass</button>
+          <button type="button" id="btn-pass-skip" class="ghost">Skip pass</button>
+        </div>
+
+        <div class="grid">
+          <label class="full">Title
+            <input name="title" required />
+          </label>
+          <label>Year <input name="year" type="number" /></label>
+          <label>Type
+            <select name="type">
+              <option>article</option>
+              <option>inproceedings</option>
+              <option>thesis</option>
+              <option>preprint</option>
+            </select>
+          </label>
+          <label>Category
+            <select name="category" id="category"></select>
+          </label>
+          <label>Current review pass
+            <select name="review_pass" id="review_pass">
+              <option value="pass1">Pass 1 — Relevance</option>
+              <option value="pass2">Pass 2 — Metadata</option>
+              <option value="pass3">Pass 3 — Final include</option>
+              <option value="done">Done</option>
+            </select>
+          </label>
+          <label>Pass 1 status
+            <select name="review_pass1" id="review_pass1">
+              <option>pending</option>
+              <option>accepted</option>
+              <option>rejected</option>
+              <option>skipped</option>
+            </select>
+          </label>
+          <label>Pass 2 status
+            <select name="review_pass2" id="review_pass2">
+              <option>pending</option>
+              <option>accepted</option>
+              <option>rejected</option>
+              <option>skipped</option>
+            </select>
+          </label>
+          <label>Pass 3 status
+            <select name="review_pass3" id="review_pass3">
+              <option>pending</option>
+              <option>accepted</option>
+              <option>rejected</option>
+              <option>skipped</option>
+            </select>
+          </label>
+          <label>Ignore
+            <select name="ignore">
+              <option>False</option>
+              <option>check</option>
+              <option>True</option>
+            </select>
+          </label>
+          <label>Silicon
+            <select name="silicon">
+              <option>True</option>
+              <option>check</option>
+              <option>False</option>
+            </select>
+          </label>
+          <label>Platform <input name="platform" /></label>
+          <label>Publisher <input name="publisher" /></label>
+          <label class="full">Venue / pubname <input name="pubname" /></label>
+          <label class="full">Authors (comma-separated) <input name="authors" placeholder="Alice, Bob, Carol" /></label>
+          <label class="full">Models (comma-separated) <input name="model" placeholder="Transformer, LLM, ViT" /></label>
+          <label class="full">DOI <input name="doi" /></label>
+          <label class="full">URL <input name="url" /></label>
+          <label class="full">PDF <input name="pdf" placeholder="False or https://..." /></label>
+          <label class="full">Review notes
+            <textarea name="review_notes" rows="3" placeholder="Optional notes for passes…"></textarea>
+          </label>
+        </div>
+      </form>
+    </main>
+  </div>
+  <div id="toast" class="toast hidden"></div>
+  <script src="./app.js"></script>
+</body>
+</html>

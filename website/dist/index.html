@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Transformers on Silicon</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,700;1,9..40,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="appbar">
+    <div class="wrap appbar-inner">
+      <div>
+        <p class="eyebrow">Hardware · Transformers · Silicon</p>
+        <h1>Transformers on Silicon</h1>
+        <p class="lead">A curated niche catalog of ASIC, FPGA, CIM/PIM, and accelerator papers for Transformer, BERT, LLM, and ViT hardware</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><strong id="visible-count">0</strong><span>shown</span></div>
+        <div class="stat"><strong id="total-count">542</strong><span>total</span></div>
+      </div>
+    </div>
+  </div>
+
+  <section class="toolbar" id="filters">
+    <div class="wrap">
+      <div class="search-row m3-field">
+        <input id="q" type="search" placeholder="Search title, authors, venue, DOI, keywords…" autocomplete="off" />
+      </div>
+      <div class="chips" id="category-chips"><button type="button" class="chip" data-filter-chip="category:journal" style="--chip:#3d9cf0">Journal</button><button type="button" class="chip" data-filter-chip="category:conference" style="--chip:#46c38b">Conference</button><button type="button" class="chip" data-filter-chip="category:arxiv" style="--chip:#e0a45c">arXiv</button><button type="button" class="chip" data-filter-chip="category:thesis" style="--chip:#b388ff">Thesis / Report</button><button type="button" class="chip" data-filter-chip="category:other" style="--chip:#9aa7b8">Other</button></div>
+      <div class="chips" id="status-chips"><button type="button" class="chip status-chip" data-filter-chip="status:silicon" style="--chip:#1f8f5f">Silicon</button><button type="button" class="chip status-chip" data-filter-chip="status:no" style="--chip:#8a8f98">Non-silicon</button><button type="button" class="chip status-chip" data-filter-chip="status:pass1" style="--chip:#c9892d">Pass 1</button><button type="button" class="chip status-chip" data-filter-chip="status:pass2" style="--chip:#d4a15b">Pass 2</button><button type="button" class="chip status-chip" data-filter-chip="status:pass3" style="--chip:#e0a45c">Pass 3</button></div>
+      <div class="filters">
+        <label class="m3-field">Year
+          <select id="year"><option value="">All years</option></select>
+        </label>
+        <label class="m3-field">Venue
+          <select id="venue"><option value="">All venues</option></select>
+        </label>
+        <label class="m3-field">Publisher
+          <select id="publisher"><option value="">All publishers</option></select>
+        </label>
+        <label class="m3-field">Platform
+          <select id="platform"><option value="">All platforms</option></select>
+        </label>
+        <label class="m3-field">Model
+          <select id="model"><option value="">All models</option></select>
+        </label>
+        <button id="reset" type="button" class="m3-btn tonal">Reset</button>
+      </div>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <div id="year-groups"></div>
+    <p id="empty" class="empty hidden">No papers match these filters.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <span>Source of truth: <code>data/papers.yaml</code></span>
+    <span class="foot-sep">·</span>
+    <span>Generated catalog</span>
+  </footer>
+  <script src="./app.js"></script>
+</body>
+</html>
