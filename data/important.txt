@@ -1,2 +1,5 @@
 
 # Hardware Research
+
+Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/papers.yaml). Prefer the [filterable website](https://aliemo.github.io/transfomers-silicon-research/) for browsing.
+

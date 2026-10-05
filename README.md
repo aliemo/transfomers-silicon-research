@@ -1,36 +1,120 @@
 # Transformer Models Silicon Research
 
-> **Research and Materials on Hardware implementation of Transformer Models**
+> **Curated research catalog of hardware implementations of Transformer, BERT, LLM, and ViT models**  
+> ASIC / FPGA / CIM-PIM / accelerators / edge silicon
 
 **Repository:** [github.com/aliemo/transfomers-silicon-research](https://github.com/aliemo/transfomers-silicon-research)
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliemo%2Ftransfomers--silicon--research-181717?logo=github&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research)
 [![Website](https://img.shields.io/badge/Website-GitHub%20Pages-0b6e56?style=flat-square)](https://aliemo.github.io/transfomers-silicon-research/)
-[![Pipeline](https://img.shields.io/badge/CI-weekly%20ingest-2088FF?logo=githubactions&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/actions/workflows/papers-pipeline.yml)
+[![Weekly CI](https://img.shields.io/badge/CI-weekly%20ingest-2088FF?logo=githubactions&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/actions/workflows/papers-pipeline.yml)
+[![Pages](https://img.shields.io/badge/Pages-auto%20deploy-222?logo=github&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/actions/workflows/pages.yml)
+[![License](https://img.shields.io/badge/License-see%20LICENSE-lightgrey?style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/blob/main/LICENSE)
 
-<!-- <p align="center">
-  <img src="https://img.shields.io/badge/-WIP-ff69b4?style=flat-square"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Progress-%2599-ef6c00?labelColor=1565c0&style=flat-square"/>
-</p> -->
+| | |
+|---|---|
+| **Live catalog** | [aliemo.github.io/transfomers-silicon-research](https://aliemo.github.io/transfomers-silicon-research/) |
+| **Source of truth** | [`data/papers.yaml`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/papers.yaml) (~580 papers; public site hides ignored) |
+| **Coverage** | Publication years **2018-2026** (and growing) |
+| **Pipeline docs** | [`data/PIPELINE.md`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/PIPELINE.md) |
+
+---
+
+## Overview
+
+This repository tracks **Transformers on silicon**: papers that map attention / BERT / LLM / ViT workloads onto real hardware - FPGAs, ASICs, processing-in-memory (CIM/PIM), and related accelerators.
+
+**What you get:**
+
+- A YAML catalog (`data/papers.yaml`) used as the **single source of truth**
+- A generated [`README`](https://github.com/aliemo/transfomers-silicon-research/blob/main/README.md) paper list (below)
+- A **filterable website** (search, category, Pass/silicon status, venue, year, ...)
+- **Weekly GitHub Actions** ingest (OpenAlex + arXiv) that opens a review PR
+- A **local admin** UI for Pass 1 / Pass 2 / Pass 3 curation
+
+```text
+data/papers.yaml
+      |
+      +-- scripts/generator.py   -> README.md + data/papers.csv + plot
+      +-- website/build.py       -> website/dist -> GitHub Pages
+```
+
+---
+
+## Website
+
+**Browse:** https://aliemo.github.io/transfomers-silicon-research/
+
+Filters include category (journal / conference / arXiv / ...), **Silicon / Non-silicon / Pass 1 / Pass 2 / Pass 3**, year, venue, publisher, platform, and model tags.
+
+Rebuild locally:
+
+```bash
+python website/build.py
+# open website/dist/index.html
+```
+
+GitHub Pages deploys automatically on relevant pushes to `main` (workflow: [pages.yml](https://github.com/aliemo/transfomers-silicon-research/blob/main/.github/workflows/pages.yml)).
+
+---
 
 ## How to Contribute
 
-**Catalog source of truth:** [`data/papers.yaml`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/papers.yaml)
+1. Check whether the paper is already in [`data/papers.yaml`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/papers.yaml)
+2. Add a new entry **or** fix metadata / review fields (`review_pass`, DOI, venue, platform, models, authors, ...)
+3. Open a pull request against [this repository](https://github.com/aliemo/transfomers-silicon-research)
 
-You can add or fix papers via pull request:
+### Local admin (Pass 1 / 2 / 3)
 
-1. Check whether the paper is already in `data/papers.yaml`
-2. Append a new entry (or edit metadata / Pass 1/2/3 review fields)
-3. Open a PR against [this repository](https://github.com/aliemo/transfomers-silicon-research)
+```bash
+pip install -r requirements.txt
+python scripts/admin_server.py
+# http://127.0.0.1:8787/admin/
+```
 
-**Browse the live catalog:** [aliemo.github.io/transfomers-silicon-research](https://aliemo.github.io/transfomers-silicon-research/)  
-Or open local [`website/dist/index.html`](https://github.com/aliemo/transfomers-silicon-research/tree/main/website/dist) after `python website/build.py`.
+| Pass | Purpose |
+|---|---|
+| **Pass 1** | Relevance - transformer/LLM/ViT on hardware? |
+| **Pass 2** | Metadata - DOI, venue, platform, models, silicon |
+| **Pass 3** | Final include (`ignore: False`) or drop |
 
-**Local admin (Pass 1 / 2 / 3):** `python scripts/admin_server.py` → http://127.0.0.1:8787/admin/
+Accept / Reject / Skip in admin updates `review_pass*` in `papers.yaml`. **Commit and push** after review so weekly CI PRs merge cleanly on top of your decisions.
 
-**Weekly auto-ingest:** GitHub Actions opens a PR each Monday with new candidates (`ignore: check`, Pass 1). See [`data/PIPELINE.md`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/PIPELINE.md).
+### Weekly auto-ingest (CI/CD)
+
+Every **Monday 06:00 UTC**, [Papers Auto-Ingest](https://github.com/aliemo/transfomers-silicon-research/actions/workflows/papers-pipeline.yml):
+
+1. Searches recent OpenAlex + arXiv results (default lookback ~21 days)
+2. Filters related hardware/transformer papers
+3. Appends new entries with `ignore: check` and **Pass 1**
+4. Regenerates README / CSV / website assets
+5. Opens a PR (`auto/papers-ingest`) for you to merge
+
+Optional secrets for stronger AI triage: `GROQ_API_KEY`, `GEMINI_API_KEY` (heuristic fallback always works).
+
+Manual run: **Actions -> Papers Auto-Ingest -> Run workflow**.
+
+Deep historical fetch (local):
+
+```bash
+python scripts/pipeline/run_pipeline.py --lookback-days 21
+python scripts/pipeline/fetch_papers.py --from-year 2017 --to-year 2026 --max-per-query 200
+```
+
+---
+
+## Repository layout
+
+| Path | Role |
+|---|---|
+| `data/papers.yaml` | Catalog (edit this) |
+| `configs/` | Queries, categories, pipeline, review, website |
+| `scripts/pipeline/` | Fetch -> analyze -> update catalog |
+| `scripts/admin_server.py` | Local CRUD + review UI |
+| `website/` | Static site builder + admin UI assets |
+| `.github/workflows/` | Weekly ingest + Pages deploy |
+
+---
 
 ## Transformer and BERT Model
 
@@ -43,7 +127,7 @@ Or open local [`website/dist/index.html`](https://github.com/aliemo/transfomers-
 </p>
 
 * **BERT is a Transformer-based model.**
-    * The architecture of BERT is similar to the original Transformer model, except that BERT has two separate Transformer models: one for the left-to-right direction (the “encoder”) and one for the right-to-left direction (the “encoder”).
+    * The architecture of BERT is similar to the original Transformer model, except that BERT has two separate Transformer models: one for the left-to-right direction (the "encoder") and one for the right-to-left direction (the "encoder").
     * The output of each model is the hidden state output by the final Transformer layer. The two models are pre-trained jointly on a large corpus of unlabeled text. The pre-training task is a simple and straightforward masked language modeling objective.
     * The pre-trained BERT model can then be fine-tuned with just one additional output layer to create state-of-the-art models for a wide range of tasks, such as question answering and language inference, without substantial task-specific architecture modifications.
 
@@ -79,6 +163,9 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ---
 
 # Hardware Research
+
+Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/transfomers-silicon-research/blob/main/data/papers.yaml). Prefer the [filterable website](https://aliemo.github.io/transfomers-silicon-research/) for browsing.
+
 
 ### 2018
 **Algorithm-Hardware Co-Design of Single Shot Detector for Fast Object Detection on FPGAs**
@@ -3586,6 +3673,21 @@ improvement), SQuAD v1.1 question answering Test F1 to 93.2 (1.5 point absolute 
 ---
 ## Analysis
 
+Publication counts by year (regenerated from `data/papers.yaml`):
+
 <p align="center">
-  <img src="./data/figs/publication_year.png" width='300'/>
+  <img src="./data/img/publications.png" width='360' alt="Publications by year"/>
 </p>
+
+<p align="center">
+  <img src="./data/figs/publication_year.png" width='300' alt="Publication year chart"/>
+</p>
+
+---
+
+## Links
+
+- **Live website:** https://aliemo.github.io/transfomers-silicon-research/
+- **GitHub:** https://github.com/aliemo/transfomers-silicon-research
+- **Pipeline guide:** [`data/PIPELINE.md`](./data/PIPELINE.md)
+- **Website docs:** [`website/README.md`](./website/README.md)

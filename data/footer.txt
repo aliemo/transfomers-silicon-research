@@ -1,5 +1,20 @@
 ## Analysis
 
+Publication counts by year (regenerated from `data/papers.yaml`):
+
 <p align="center">
-  <img src="./data/figs/publication_year.png" width='300'/>
+  <img src="./data/img/publications.png" width='360' alt="Publications by year"/>
 </p>
+
+<p align="center">
+  <img src="./data/figs/publication_year.png" width='300' alt="Publication year chart"/>
+</p>
+
+---
+
+## Links
+
+- **Live website:** https://aliemo.github.io/transfomers-silicon-research/
+- **GitHub:** https://github.com/aliemo/transfomers-silicon-research
+- **Pipeline guide:** [`data/PIPELINE.md`](./data/PIPELINE.md)
+- **Website docs:** [`website/README.md`](./website/README.md)
