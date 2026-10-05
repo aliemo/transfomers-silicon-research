@@ -67,12 +67,20 @@ python scripts/pipeline/run_pipeline.py --dry-run --lookback-days 21
 python scripts/pipeline/fetch_papers.py --from-year 2017 --to-year 2026 --max-per-query 200
 ```
 
-## Website
+## Website (GitHub Pages)
+
+Live site: **https://aliemo.github.io/transfomers-silicon-research/**
+
+CI workflow: `.github/workflows/pages.yml` — rebuilds from `data/papers.yaml` on every relevant push to `main`.
 
 ```bash
 python website/build.py
 # open website/dist/index.html
 ```
+
+One-time GitHub setup:
+1. **Settings → Pages → Build and deployment → Source: GitHub Actions**
+2. Push / merge to `main` (or run *Deploy GitHub Pages* manually)
 
 Status chips: **Silicon · Non-silicon · Pass 1 · Pass 2 · Pass 3**
 

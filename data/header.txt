@@ -5,7 +5,7 @@
 **Repository:** [github.com/aliemo/transfomers-silicon-research](https://github.com/aliemo/transfomers-silicon-research)
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliemo%2Ftransfomers--silicon--research-181717?logo=github&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research)
-[![Website](https://img.shields.io/badge/Website-catalog-0b6e56?style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/tree/main/website/dist)
+[![Website](https://img.shields.io/badge/Website-GitHub%20Pages-0b6e56?style=flat-square)](https://aliemo.github.io/transfomers-silicon-research/)
 [![Pipeline](https://img.shields.io/badge/CI-weekly%20ingest-2088FF?logo=githubactions&style=flat-square)](https://github.com/aliemo/transfomers-silicon-research/actions/workflows/papers-pipeline.yml)
 
 <!-- <p align="center">
@@ -25,7 +25,8 @@ You can add or fix papers via pull request:
 2. Append a new entry (or edit metadata / Pass 1/2/3 review fields)
 3. Open a PR against [this repository](https://github.com/aliemo/transfomers-silicon-research)
 
-**Browse the filterable site:** open [`website/dist/index.html`](https://github.com/aliemo/transfomers-silicon-research/tree/main/website/dist) after cloning, or build with `python website/build.py`.
+**Browse the live catalog:** [aliemo.github.io/transfomers-silicon-research](https://aliemo.github.io/transfomers-silicon-research/)  
+Or open local [`website/dist/index.html`](https://github.com/aliemo/transfomers-silicon-research/tree/main/website/dist) after `python website/build.py`.
 
 **Local admin (Pass 1 / 2 / 3):** `python scripts/admin_server.py` → http://127.0.0.1:8787/admin/
 

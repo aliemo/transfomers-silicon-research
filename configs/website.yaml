@@ -4,6 +4,7 @@ site:
   title: Transformers on Silicon
   tagline: A curated niche catalog of ASIC, FPGA, CIM/PIM, and accelerator papers for Transformer, BERT, LLM, and ViT hardware
   base_url: "."
+  pages_url: "https://aliemo.github.io/transfomers-silicon-research/"
 
 filters:
   - id: q
