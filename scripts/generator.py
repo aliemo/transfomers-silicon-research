@@ -11,17 +11,34 @@ import seaborn as sns
 def write_csv(data, outf, header=None):
 
     if header is None:
-        header = ['year','publisher', 'type','platform','model','method','title', 'doi','url','pdf',
-                  'ignore','silicon','pubkey','pubname','reserved']
+        header = [
+            "year",
+            "publisher",
+            "type",
+            "platform",
+            "model",
+            "title",
+            "doi",
+            "url",
+            "pdf",
+            "ignore",
+            "silicon",
+            "pubname",
+            "category",
+            "review_pass",
+            "authors",
+        ]
+
+    def cell(v):
+        if isinstance(v, list):
+            return "; ".join(str(x) for x in v)
+        return v if v is not None else ""
 
     d = {}
-
     for h in header:
-        d[h] = [x[h] for _,x in data.items()]
-
+        d[h] = [cell(x.get(h, "")) for _, x in data.items()]
 
     df = pd.DataFrame.from_dict(d)
-
     df.to_csv(outf, index=False)
 
 def create_plot(csvfile, path):
@@ -41,15 +58,15 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
     if with_header:
         header = ''
-        with open('data/header.txt') as f:
+        with open('data/header.txt', encoding='utf-8') as f:
             lines = f.readlines()
             header += ''.join(lines)
 
-        with open('data/basic.txt') as f:
+        with open('data/basic.txt', encoding='utf-8') as f:
             lines = f.readlines()
             header += ''.join(lines)
 
-        with open('data/important.txt') as f:
+        with open('data/important.txt', encoding='utf-8') as f:
             lines = f.readlines()
             header += ''.join(lines)
 
@@ -69,7 +86,7 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
                 print()
         else:
-            with open(outf, 'w') as f:
+            with open(outf, 'w', encoding='utf-8') as f:
                 f.write(header)
                 f.write('\n')
                 for k, paper in data.items():
@@ -87,7 +104,7 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
                 if with_footer:
                     footer = ''
-                    with open('data/footer.txt') as ff:
+                    with open('data/footer.txt', encoding='utf-8') as ff:
                         lines = ff.readlines()
                         footer += ''.join(lines)
                         f.write(footer)
@@ -115,7 +132,7 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
                 print("---")
                 print()
         else:
-            with open(outf, 'w') as f:
+            with open(outf, 'w', encoding='utf-8') as f:
                 f.write(header)
                 f.write('\n')
                 for year, papers in data.items():
@@ -140,7 +157,7 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
                 if with_footer:
                     footer = ''
-                    with open('data/footer.txt') as ff:
+                    with open('data/footer.txt', encoding='utf-8') as ff:
                         lines = ff.readlines()
                         footer += ''.join(lines)
                         f.write(footer)
@@ -149,7 +166,7 @@ def write_md(data, outf, signle=True, with_header=True, with_footer=True):
 
 def read_yaml(inpf, ignore=False, silicon=False):
     data = {}
-    with open(inpf) as f:
+    with open(inpf, encoding='utf-8') as f:
         content = yaml.safe_load(f)
 
 

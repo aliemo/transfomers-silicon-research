@@ -1,100 +1,44 @@
-import yaml
+#!/usr/bin/env python
+"""Reformat papers.yaml using the canonical pipeline formatter."""
+
+from __future__ import annotations
+
 import argparse
+import sys
+from pathlib import Path
 
-def read_yaml(inpf):
-    data = {}
-    with open(inpf) as f:
-        content = yaml.safe_load(f)
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / "scripts" / "pipeline"))
 
-
-    for k, p in content.items():
-            data[k]=p
-
-    return data
-
-def write_yaml(src:dict, outdir):
-    title = ''
-    year = ''
-    doi = ''
-    url = ''
-    pdf = ''
-    m_model = ''
-    method = ''
-    platform = ''
-    publisher = ''
-    pub = ''
-    pubtype = ''
-    pubshort = ''
-    ignore = ''
-    silicon = ''
-    with open(outdir, 'w') as sf:
-        for inx, (key, value) in enumerate(src.items()):
-
-            title = value['title']
-            year = value['year']
-            doi = value['doi']
-            url = value['url']
-            pdf = value['pdf']
-            model = value['model']
-            method = value['method']
-            platform = value['platform']
-            publisher = value['publisher']
-            pubname = value['pubname']
-            pubtype = value['type']
-            pubkey = value['pubkey']
-            ignore = value['ignore']
-            silicon = value['silicon']
-            print(inx, key, inx+1 == key)
-
-            sf.write(f'{inx+1}:')
-            sf.write('\n')
-            sf.write(f'  title: "{title}"')
-            sf.write('\n')
-            sf.write(f'  year: {year}')
-            sf.write('\n')
-            sf.write(f'  type: {pubtype}')
-            sf.write('\n')
-            sf.write(f'  doi: {doi}')
-            sf.write('\n')
-            sf.write(f'  url: {url}')
-            sf.write('\n')
-            sf.write(f'  pdf: {pdf}')
-            sf.write('\n')
-            sf.write(f'  ignore: {ignore}')
-            sf.write('\n')
-            sf.write(f'  silicon: {silicon}')
-            sf.write('\n')
-            sf.write(f'  platform: {platform}')
-            sf.write('\n')
-            sf.write(f'  model: {model}')
-            sf.write('\n')
-            sf.write(f'  method: {method}')
-            sf.write('\n')
-            sf.write(f'  publisher: {publisher}')
-            sf.write('\n')
-            sf.write(f'  pubkey: "{pubshort}"')
-            sf.write('\n')
-            sf.write(f'  pubname: "{pubname}"')
-            sf.write('\n')
-            sf.write(f'  reserved: DEADBEEF')
-            sf.write('\n')
-            sf.write('\n')
+from common import format_paper_entry, load_papers_yaml  # noqa: E402
+from review import attach_review  # noqa: E402
 
 
-def main():
-    parser = argparse.ArgumentParser(description='Reformat Yaml File')
-    parser.add_argument('-i', '--input', type=str, default='papers.yaml', help='input yaml file')
-    parser.add_argument('-o', '--output', type=str, default='stdout', help='output README file')
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Normalize papers.yaml to canonical fields")
+    parser.add_argument("-i", "--input", default="data/papers.yaml")
+    parser.add_argument("-o", "--output", default="data/papers.yaml")
     args = parser.parse_args()
 
-    inpf = args.input
-    outf = args.output
+    path_in = ROOT / args.input
+    path_out = ROOT / args.output
+    papers = load_papers_yaml(path_in)
+    blocks = []
+    for idx in sorted(papers):
+        p = attach_review(papers[idx])
+        p.pop("_review", None)
+        for dead in ("method", "pubkey", "reserved"):
+            p.pop(dead, None)
+        if not p.get("authors"):
+            p["authors"] = []
+        if not p.get("category"):
+            from common import classify_venue
 
-    data = read_yaml(inpf)
+            p["category"] = classify_venue(p)
+        blocks.append(format_paper_entry(idx, p))
+    path_out.write_text("".join(blocks).rstrip() + "\n", encoding="utf-8")
+    print(f"normalized {len(papers)} papers -> {path_out}")
 
 
-    write_yaml(data, outf)
-    print(len(data))
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
