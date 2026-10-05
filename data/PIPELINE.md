@@ -79,8 +79,11 @@ python website/build.py
 ```
 
 One-time GitHub setup:
-1. **Settings → Pages → Build and deployment → Source: GitHub Actions**
-2. Push / merge to `main` (or run *Deploy GitHub Pages* manually)
+1. Merge/push this workflow, wait for **Deploy GitHub Pages** to create the `gh-pages` branch
+2. **Settings → Pages → Build and deployment**
+   - Source: **Deploy from a branch**
+   - Branch: **gh-pages** / **/ (root)**
+3. Open https://aliemo.github.io/transfomers-silicon-research/
 
 Status chips: **Silicon · Non-silicon · Pass 1 · Pass 2 · Pass 3**
 
