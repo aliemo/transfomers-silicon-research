@@ -1,0 +1,99 @@
+name: Papers Auto-Ingest
+
+on:
+  schedule:
+    # Every Monday 06:00 UTC (~weekly update)
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Fetch+analyze only (do not update papers.yaml / open PR)"
+        type: boolean
+        default: false
+      lookback_days:
+        description: "How many recent days to search (weekly default 21)"
+        type: number
+        default: 21
+
+concurrency:
+  group: papers-ingest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run weekly pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          LOOKBACK_DAYS: ${{ github.event.inputs.lookback_days || 21 }}
+        run: |
+          set -euo pipefail
+          ARGS=(--lookback-days "${LOOKBACK_DAYS}")
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.dry_run }}" = "true" ]; then
+            ARGS+=(--dry-run)
+          fi
+          python scripts/pipeline/run_pipeline.py "${ARGS[@]}"
+
+      - name: Ensure website is built
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
+        run: python website/build.py
+
+      - name: Upload run report
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-report
+          path: |
+            data/pipeline/last_run_report.json
+            data/pipeline/last_run_report.md
+            data/pipeline/candidates_related.json
+          if-no-files-found: warn
+
+      - name: Create Pull Request
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore(papers): weekly auto-ingest transformer-on-silicon papers"
+          title: "chore(papers): weekly auto-ingest update"
+          body: |
+            ## Weekly papers ingest
+
+            Automated OpenAlex + arXiv search for transformer / LLM / ViT hardware papers.
+
+            - New entries: `ignore: check`, **Pass 1** — review in local admin before public finalize
+            - Your existing Pass 1 / 2 / 3 decisions in `data/papers.yaml` are **preserved** (append-only)
+            - Regenerated: `README.md`, `data/papers.csv`, plot, `website/dist`
+
+            See `data/pipeline/last_run_report.md` for added titles.
+
+            Optional AI secrets (`GROQ_API_KEY`, `GEMINI_API_KEY`) improve analysis; heuristic fallback always works.
+          branch: auto/papers-ingest
+          delete-branch: true
+          add-paths: |
+            data/papers.yaml
+            data/papers.csv
+            data/img/publications.png
+            README.md
+            website/dist
+            data/pipeline/last_run_report.json
+            data/pipeline/last_run_report.md
+            data/pipeline/candidates_related.json
