@@ -1,29 +1,32 @@
 {
-  "count_in": 761,
-  "count_related": 53,
+  "count_in": 719,
+  "count_related": 49,
   "items": [
     {
-      "title": "The Particle Accelerator Principle in AI Research Forensics: Event Reconstruction, Epistemic Pile-Up, and Invariant Verification in Large Language Model Scientific Inferences",
+      "title": "Performance modeling of photonic accelerators for attention kernel",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.13140/rg.2.2.28406.56645",
-      "url": "https://doi.org/10.13140/rg.2.2.28406.56645",
+      "doi": "https://doi.org/10.1117/12.3118465",
+      "url": "https://doi.org/10.1117/12.3118465",
       "pdf": false,
       "ignore": "check",
       "silicon": "check",
-      "platform": "Design",
+      "platform": "PIM",
       "model": [
-        "LLM"
+        "Transformer",
+        "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "OpenAlex",
-      "pubkey": "",
       "pubname": "__no_data__",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Jebacyril Arockiaraj",
+        "Ajey Jacob",
+        "Viktor Prasanna"
+      ],
       "_analysis": {
         "related": true,
-        "confidence": 0.95,
-        "reason": "heuristic hw=['accelerator'] model=['large language model']",
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'in-memory computing'] model=['transformer', 'transformers']",
         "provider": "heuristic",
         "source": "openalex"
       },
@@ -35,24 +38,25 @@
       "review_notes": ""
     },
     {
-      "title": "balmame7-mld/fpga-transformer-ccontrol-flow: Release — FPGA Transformer accelerator artifact",
+      "title": "VLA-Traj: An Analytically Bounded FPGA Accelerator for Deterministic Transformer–GRU Trajectory Planning",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.5281/zenodo.21869283",
-      "url": "https://doi.org/10.5281/zenodo.21869283",
+      "doi": "https://doi.org/10.1007/978-981-92-6513-8_38",
+      "url": "https://doi.org/10.1007/978-981-92-6513-8_38",
       "pdf": false,
       "ignore": "check",
       "silicon": "check",
       "platform": "FPGA",
       "model": [
-        "ViT",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "OpenAlex",
-      "pubkey": "",
-      "pubname": "Zenodo (CERN European Organization for Nuclear Research)",
-      "reserved": "DEADBEEF",
+      "pubname": "Lecture notes in computer science",
+      "authors": [
+        "Vu Duc Anh Dinh",
+        "Tran Ngoc Thinh",
+        "Long Tan Le"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -60,7 +64,42 @@
         "provider": "heuristic",
         "source": "openalex"
       },
-      "category": "other",
+      "category": "journal",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "A Pipelined FPGA Architecture for Banded Sparse Matrix Dense Matrix Multiplication in Longformer",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.07301",
+      "url": "https://arxiv.org/abs/2610.07301",
+      "pdf": "https://arxiv.org/pdf/2610.07301",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Phillip Pramberger",
+        "Athanasios Tziouvaras",
+        "Shreejith Shanker",
+        "George Floros"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'self-attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
       "review_pass": "pass1",
       "review_pass1": "pending",
       "review_pass2": "pending",
@@ -82,11 +121,15 @@
         "Transformer",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Mikolaj Walczak",
+        "Edward Humes",
+        "Chao Fang",
+        "Marian Verhelst",
+        "Tinoosh Mohsenin"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -115,11 +158,15 @@
         "LLM",
         "ViT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Yimin Gao",
+        "Liangtao Dai",
+        "Jun Yin",
+        "Xinfei Guo",
+        "Mircea Stan"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -148,11 +195,12 @@
         "LLM",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Siddharth Patel",
+        "Rohit Singh"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -180,11 +228,13 @@
       "model": [
         "LLM"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Jay Zhe-An Mok",
+        "Qijun Zhang",
+        "Zhiyao Xie"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -212,11 +262,15 @@
       "model": [
         "LLM"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Roger Morales-Monge",
+        "Nazareth Jimenez-Chacon",
+        "Jose Gabriel Villalobos-Alvarado",
+        "Luis G. Leon-Vega",
+        "Jorge Castro-Godinez"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 0.95,
@@ -246,11 +300,15 @@
         "Transformer",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Solomon Micheal Serunjogi",
+        "Rachmad Vidya Wicaksana Putra",
+        "Ayat Taha",
+        "Muhammad Shafique",
+        "Mahmoud Rasras"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -280,11 +338,18 @@
         "Transformer",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Xuming Chen",
+        "Deniz Najafi",
+        "Mehrdad Morsali",
+        "Chengwei Zhou",
+        "Zahra Ghanaatianjobzari",
+        "Mahdi Nikdast",
+        "Shaahin Angizi",
+        "Gourav Datta"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -313,11 +378,13 @@
         "LLM",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Victor Agostinelli",
+        "Nicolas Bohm Agostini",
+        "Antonino Tumeo"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -346,11 +413,14 @@
         "BERT",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Rachmad Vidya Wicaksana Putra",
+        "Solomon Micheal Serunjogi",
+        "Mahmoud Rasras",
+        "Muhammad Shafique"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -378,11 +448,17 @@
       "model": [
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Lorenzo Leone",
+        "Philip Wiese",
+        "Gamze İslamoğlu",
+        "Michael Rogenmoser",
+        "Davide Rossi",
+        "Francesco Conti",
+        "Luca Benini"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -410,11 +486,14 @@
       "model": [
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Ilayda Yaman",
+        "Sijia Cheng",
+        "Ove Edfors",
+        "Liang Liu"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -442,11 +521,26 @@
       "model": [
         "LLM"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Pingcheng Dong",
+        "Yonghao Tan",
+        "Xuejiao Liu",
+        "Peng Luo",
+        "Yu Liu",
+        "Di Pang",
+        "Songchen Ma",
+        "Xijie Huang",
+        "Shih-Yang Liu",
+        "Dong Zhang",
+        "Zhichao Lu",
+        "Luhong Liang",
+        "Chi-Ying Tsui",
+        "Fengbin Tu",
+        "Liang Zhao",
+        "Kwang-Ting Cheng"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 0.65,
@@ -475,11 +569,12 @@
         "LLM",
         "ViT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Zi-Wei Lin",
+        "Tian-Sheuan Chang"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -508,11 +603,12 @@
         "LLM",
         "ViT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Zi-Wei Lin",
+        "Tian-Sheuan Chang"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -541,11 +637,13 @@
         "LLM",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Yan-Cheng Guo",
+        "Tian-Sheuan Chang",
+        "Jian-Wei Su"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -573,11 +671,24 @@
       "model": [
         "LLM"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Cong Li",
+        "Chenhao Xue",
+        "Yi Ren",
+        "Xiping Dong",
+        "Yu Cheng",
+        "Yinbo Hu",
+        "Fujun Bai",
+        "Yixin Guo",
+        "Xiping Jiang",
+        "Qiang Wu",
+        "Zhi Yang",
+        "Zhe Cheng",
+        "Yuan Xie",
+        "Guangyu Sun"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -606,11 +717,17 @@
         "ViT",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "George Karfakis",
+        "Samyak Chakrabarty",
+        "Vinod Kurian Jacob",
+        "Siyun Qiao",
+        "Subramanian S. Iyer",
+        "Sudhakar Pamarti",
+        "Puneet Gupta"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -639,11 +756,16 @@
         "LLM",
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Jiahao Zhang",
+        "Zifan He",
+        "Nicholas Fraser",
+        "Michaela Blott",
+        "Yizhou Sun",
+        "Jason Cong"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -671,11 +793,17 @@
       "model": [
         "LLM"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Ye Lin",
+        "Chao Fang",
+        "Xiaoyong Song",
+        "Qi Wu",
+        "Anying Jiang",
+        "Yichuan Bai",
+        "Li Du"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -691,941 +819,67 @@
       "review_notes": ""
     },
     {
-      "title": "A 28nm 0.22μJ/token memory-compute-intensity-aware CNN-Transformer accelerator with hybrid-attention-based layer-fusion and cascaded pruning for semantic-segmentation",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.17555",
-      "url": "https://arxiv.org/abs/2512.17555",
-      "pdf": "https://arxiv.org/pdf/2512.17555",
-      "ignore": "check",
-      "silicon": true,
-      "platform": "Design",
-      "model": [
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "eess.IV",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'tops/w'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "SeVeDo: A Heterogeneous Transformer Accelerator for Low-Bit Inference via Hierarchical Group Quantization and SVD-Guided Mixed Precision",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.12930",
-      "url": "https://arxiv.org/abs/2512.12930",
-      "pdf": "https://arxiv.org/pdf/2512.12930",
-      "ignore": "check",
-      "silicon": true,
-      "platform": "Design",
-      "model": [
-        "ViT",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.LG",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'tops/w'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.11550",
-      "url": "https://arxiv.org/abs/2512.11550",
-      "pdf": "https://arxiv.org/pdf/2512.11550",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.09829",
-      "url": "https://arxiv.org/abs/2512.09829",
-      "pdf": "https://arxiv.org/pdf/2512.09829",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "GPU",
-      "model": [
-        "LLM",
-        "ViT",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AI",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "DCO: Dynamic Cache Orchestration for LLM Accelerators through Predictive Management",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.07312",
-      "url": "https://arxiv.org/abs/2512.07312",
-      "pdf": "https://arxiv.org/pdf/2512.07312",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "LLM",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "BitStopper: An Efficient Transformer Attention Accelerator via Stage-fusion and Early Termination",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2512.06457",
-      "url": "https://arxiv.org/abs/2512.06457",
-      "pdf": "https://arxiv.org/pdf/2512.06457",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.LG",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "P3-LLM: An Integrated NPU-PIM Accelerator for Edge LLM Inference Using Hybrid Numerical Formats",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2511.06838",
-      "url": "https://arxiv.org/abs/2511.06838",
-      "pdf": "https://arxiv.org/pdf/2511.06838",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'pim'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Low Power Vision Transformer Accelerator with Hardware-Aware Pruning and Optimized Dataflow",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2510.14393",
-      "url": "https://arxiv.org/abs/2510.14393",
-      "pdf": "https://arxiv.org/pdf/2510.14393",
-      "ignore": "check",
-      "silicon": true,
-      "platform": "Design",
-      "model": [
-        "ViT",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'tops/w'] model=['transformer', 'transformers', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "TeLLMe v2: An Efficient End-to-End Ternary LLM Prefill and Decode Accelerator with Table-Lookup Matmul on Edge FPGAs",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2510.15926",
-      "url": "https://arxiv.org/abs/2510.15926",
-      "pdf": "https://arxiv.org/pdf/2510.15926",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "SnipSnap: A Joint Compression Format and Dataflow Co-Optimization Framework for Efficient Sparse LLM Accelerator Design",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2509.17072",
-      "url": "https://arxiv.org/abs/2509.17072",
-      "pdf": "https://arxiv.org/pdf/2509.17072",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "CompAir: Synergizing Complementary PIMs and In-Transit NoC Computation for Efficient LLM Acceleration",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2509.13710",
-      "url": "https://arxiv.org/abs/2509.13710",
-      "pdf": "https://arxiv.org/pdf/2509.13710",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['pim'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "StreamTensor: Make Tensors Stream in Dataflow Accelerators for LLMs",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2509.13694",
-      "url": "https://arxiv.org/abs/2509.13694",
-      "pdf": "https://arxiv.org/pdf/2509.13694",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "MCBP: A Memory-Compute Efficient LLM Inference Accelerator Leveraging Bit-Slice-enabled Sparsity and Repetitiveness",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2509.10372",
-      "url": "https://arxiv.org/abs/2509.10372",
-      "pdf": "https://arxiv.org/pdf/2509.10372",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "GPU",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Opto-ViT: Architecting a Near-Sensor Region of Interest-Aware Vision Transformer Accelerator with Silicon Photonics",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2507.07044",
-      "url": "https://arxiv.org/abs/2507.07044",
-      "pdf": "https://arxiv.org/pdf/2507.07044",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "ViT",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator'] model=['transformer', 'transformers', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "COBRA: Algorithm-Architecture Co-optimized Binary Transformer Accelerator for Edge Inference",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2504.16269",
-      "url": "https://arxiv.org/abs/2504.16269",
-      "pdf": "https://arxiv.org/pdf/2504.16269",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "TeLLMe: An Energy-Efficient Ternary LLM Accelerator for Prefilling and Decoding on Edge FPGAs",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2504.16266",
-      "url": "https://arxiv.org/abs/2504.16266",
-      "pdf": "https://arxiv.org/pdf/2504.16266",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2504.07479",
-      "url": "https://arxiv.org/abs/2504.07479",
-      "pdf": "https://arxiv.org/pdf/2504.07479",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'cim'] model=['transformer', 'llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "PIM-LLM: A High-Throughput Hybrid PIM Architecture for 1-bit LLMs",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2504.01994",
-      "url": "https://arxiv.org/abs/2504.01994",
-      "pdf": "https://arxiv.org/pdf/2504.01994",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'pim'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2503.20246",
-      "url": "https://arxiv.org/abs/2503.20246",
-      "pdf": "https://arxiv.org/pdf/2503.20246",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'hardware accelerator'] model=['transformer', 'transformers', 'self-attention']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "An Efficient Data Reuse with Tile-Based Adaptive Stationary for Transformer Accelerators",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2503.19640",
-      "url": "https://arxiv.org/abs/2503.19640",
-      "pdf": "https://arxiv.org/pdf/2503.19640",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "Transformer",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.LG",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'hardware accelerator'] model=['transformer', 'self-attention']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "NeCTAr: A Heterogeneous RISC-V SoC for Language Model Inference in Intel 16",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2503.14708",
-      "url": "https://arxiv.org/abs/2503.14708",
-      "pdf": "https://arxiv.org/pdf/2503.14708",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'near-memory'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "A Review on Proprietary Accelerators for Large Language Models",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2503.09650",
-      "url": "https://arxiv.org/abs/2503.09650",
-      "pdf": "https://arxiv.org/pdf/2503.09650",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.PF",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "T-REX: A 68-567 μs/token, 0.41-3.95 μJ/token Transformer Accelerator with Reduced External Memory Access and Enhanced Hardware Utilization in 16nm FinFET",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2503.00322",
-      "url": "https://arxiv.org/abs/2503.00322",
-      "pdf": "https://arxiv.org/pdf/2503.00322",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "Transformer",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 0.95,
-        "reason": "heuristic hw=['accelerator'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Vision Transformer Accelerator ASIC for Real-Time Low-Power Sleep Staging",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2502.16334",
-      "url": "https://arxiv.org/abs/2502.16334",
-      "pdf": "https://arxiv.org/pdf/2502.16334",
-      "ignore": "check",
-      "silicon": true,
-      "platform": "ASIC",
-      "model": [
-        "ViT",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "eess.SP",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'asic'] model=['transformer', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "LightMamba: Efficient Mamba Acceleration on FPGA with Quantization and Hardware Co-design",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2502.15260",
-      "url": "https://arxiv.org/abs/2502.15260",
-      "pdf": "https://arxiv.org/pdf/2502.15260",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.CL",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 0.85,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "UbiMoE: A Ubiquitous Mixture-of-Experts Vision Transformer Accelerator With Hybrid Computation Pattern on FPGA",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2502.05602",
-      "url": "https://arxiv.org/abs/2502.05602",
-      "pdf": "https://arxiv.org/pdf/2502.05602",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "ViT",
-        "Transformer",
-        "MoE",
-        "DiT"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "A Tensor-Train Decomposition based Compression of LLMs on Group Vector Systolic Accelerator",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2501.19135",
-      "url": "https://arxiv.org/abs/2501.19135",
-      "pdf": "https://arxiv.org/pdf/2501.19135",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "LLM"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Hybrid Photonic-digital Accelerator for Attention Mechanism",
-      "year": 2025,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2501.11286",
-      "url": "https://arxiv.org/abs/2501.11286",
-      "pdf": "https://arxiv.org/pdf/2501.11286",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "Transformer"
-      ],
-      "method": "__no_data__",
-      "publisher": "Arxiv",
-      "pubkey": "",
-      "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
-      "_analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'hardware accelerator'] model=['transformer', 'transformers']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "The Particle Accelerator Principle in AI Research Forensics",
+      "title": "AdaptViT: Runtime-Adaptive Vision Transformer Deployment on Custom RISC-V",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.5281/zenodo.23123163",
-      "url": "https://doi.org/10.5281/zenodo.23123163",
-      "pdf": false,
+      "doi": "https://doi.org/10.48550/arxiv.2610.02288",
+      "url": "https://arxiv.org/abs/2610.02288",
+      "pdf": "https://arxiv.org/pdf/2610.02288",
       "ignore": "check",
       "silicon": "check",
       "platform": "Design",
       "model": [
-        "LLM"
+        "ViT",
+        "Transformer",
+        "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "OpenAlex",
-      "pubkey": "",
-      "pubname": "Zenodo (CERN European Organization for Nuclear Research)",
-      "reserved": "DEADBEEF",
+      "pubname": "arXiv (Cornell University)",
+      "authors": [
+        "Vishnu PS",
+        "Ajay Kumar M",
+        "Yike Li",
+        "Robert Bogdan Staszewski",
+        "Deepu John"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['risc-v'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "openalex"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Constraint-guided generative AI for gate-level VLSI design with early physical awareness",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://doi.org/10.1016/j.vlsi.2026.102888",
+      "url": "https://doi.org/10.1016/j.vlsi.2026.102888",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S0167926026002439/pdf",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "__no_data__",
+      "model": [
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "OpenAlex",
+      "pubname": "Integration",
+      "authors": [
+        "Yadi Lin",
+        "Wendi Lin"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 0.65,
-        "reason": "heuristic hw=['accelerator'] model=['large language model']",
+        "reason": "heuristic hw=['vlsi'] model=['transformer']",
         "provider": "heuristic",
         "source": "openalex"
       },
@@ -1649,11 +903,14 @@
       "model": [
         "Transformer"
       ],
-      "method": "__no_data__",
       "publisher": "OpenAlex",
-      "pubkey": "",
       "pubname": "arXiv (Cornell University)",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Zhiheng Chen",
+        "Ye Qiao",
+        "Mohammad Abdullah Al Faruque",
+        "Sitao Huang"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 0.65,
@@ -1683,11 +940,13 @@
         "Transformer",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "OpenAlex",
-      "pubkey": "",
       "pubname": "arXiv (Cornell University)",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Rachmad Vidya Wicaksana Putra",
+        "Amirhesam Jafari Rad",
+        "Muhammad Shafique"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
@@ -1703,12 +962,735 @@
       "review_notes": ""
     },
     {
-      "title": "AdaptViT: Runtime-Adaptive Vision Transformer Deployment on Custom RISC-V",
+      "title": "Defending Side-Channel Attacks in FPGA-based Convolutional Layers and Multi-Head Attention Layers with Channel-Level Parallelization",
       "year": 2026,
       "type": "article",
-      "doi": "https://arxiv.org/abs/2610.02288",
-      "url": "https://arxiv.org/abs/2610.02288",
-      "pdf": "https://arxiv.org/pdf/2610.02288",
+      "doi": "https://doi.org/10.1145/3847663",
+      "url": "https://doi.org/10.1145/3847663",
+      "pdf": false,
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "OpenAlex",
+      "pubname": "ACM Transactions on Design Automation of Electronic Systems",
+      "authors": [
+        "Yankun Zhu",
+        "Ranxi Lin",
+        "Pingqiang Zhou"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'multi-head attention']",
+        "provider": "heuristic",
+        "source": "openalex"
+      },
+      "category": "journal",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "A Framework for Accelerating Transformer Inference on RISC-V for Edge AI",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.08688",
+      "url": "https://arxiv.org/abs/2610.08688",
+      "pdf": "https://arxiv.org/pdf/2610.08688",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "FPGA",
+      "model": [
+        "BERT",
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Ajay Kumar M",
+        "Vishnu PS",
+        "Yike Li",
+        "Shreejith Shanker",
+        "Dimitrios S. Nikolopoulos",
+        "Bo Ji",
+        "Hans Vandierendonck",
+        "Deepu John"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga', 'asic', 'risc-v'] model=['transformer', 'bert']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "MeshKV: A Network-on-Chip KV Cache Fabric for Scalable Transformer Decoding Accelerators",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.19207",
+      "url": "https://arxiv.org/abs/2609.19207",
+      "pdf": "https://arxiv.org/pdf/2609.19207",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Dong Liu",
+        "Yanxuan Yu"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Recent Developments in Transformer Inference Deployment on FPGA Platforms: A Survey",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.01212",
+      "url": "https://arxiv.org/abs/2609.01212",
+      "pdf": "https://arxiv.org/pdf/2609.01212",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.LG",
+      "authors": [
+        "Arjan Blankestijn",
+        "Uraz Odyurt",
+        "Amirreza Yousefzadeh"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2608.28160",
+      "url": "https://arxiv.org/abs/2608.28160",
+      "pdf": "https://arxiv.org/pdf/2608.28160",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Mary Kong",
+        "Yuqin Zhao",
+        "Semih Vazgecen",
+        "Cristian Sestito",
+        "Themis Prodromakis"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['fpga'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "ATLAS: Automated HLS for DL-Optimized FPGAs",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2607.07643",
+      "url": "https://arxiv.org/abs/2607.07643",
+      "pdf": "https://arxiv.org/pdf/2607.07643",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Ruthwik Reddy Sunketa",
+        "Aman Arora"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2606.31938",
+      "url": "https://arxiv.org/abs/2606.31938",
+      "pdf": "https://arxiv.org/pdf/2606.31938",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Hubert Dymarkowski",
+        "Xingjian Fu",
+        "Rappy Saha",
+        "Jude Haris",
+        "José Cano"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Towards Autonomous Accelerator Design: FPGA Accelerator Generation with SECDA",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2606.11117",
+      "url": "https://arxiv.org/abs/2606.11117",
+      "pdf": "https://arxiv.org/pdf/2606.11117",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Vinamra Sharma",
+        "Xingjian Fu",
+        "Jude Haris",
+        "José Cano"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Triple-Hoisted Baby-Step Giant-Step Linear Transformation over CKKS Homomorphic Encryption and Hardware Accelerator",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2605.17222",
+      "url": "https://arxiv.org/abs/2605.17222",
+      "pdf": "https://arxiv.org/pdf/2605.17222",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.CR",
+      "authors": [
+        "Sajjad Akherati",
+        "Xinmiao Zhang"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "LLM-Driven Design Space Exploration of FPGA-based Accelerators",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2605.05920",
+      "url": "https://arxiv.org/abs/2605.05920",
+      "pdf": "https://arxiv.org/pdf/2605.05920",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Vinamra Sharma",
+        "Xingjian Fu",
+        "Jude Haris",
+        "José Cano"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Design Conductor 2.0: An agent builds a TurboQuant inference accelerator in 80 hours",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2605.05170",
+      "url": "https://arxiv.org/abs/2605.05170",
+      "pdf": "https://arxiv.org/pdf/2605.05170",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "The Verkor Team",
+        "Ravi Krishna",
+        "Suresh Krishna",
+        "David Chin"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'risc-v'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "ViM-Q: Scalable Algorithm-Hardware Co-Design for Vision Mamba Model Inference on FPGA",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2605.01935",
+      "url": "https://arxiv.org/abs/2605.01935",
+      "pdf": "https://arxiv.org/pdf/2605.01935",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Shengzhe Lyu",
+        "Yuhan She",
+        "Patrick S. Y. Hung",
+        "Ray C. C. Cheung",
+        "Weitao Xu"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "GraphLeap: Decoupling Graph Construction and Convolution for Vision GNN Acceleration on FPGA",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2604.21290",
+      "url": "https://arxiv.org/abs/2604.21290",
+      "pdf": "https://arxiv.org/pdf/2604.21290",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.CV",
+      "authors": [
+        "Anvitha Ramachandran",
+        "Dhruv Parikh",
+        "Viktor Prasanna"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'vision transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2603.22867",
+      "url": "https://arxiv.org/abs/2603.22867",
+      "pdf": "https://arxiv.org/pdf/2603.22867",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Hyunwoo Oh",
+        "Hanning Chen",
+        "Sanggeon Yun",
+        "Yang Ni",
+        "Suyeon Jang",
+        "Behnam Khaleghi",
+        "Fei Wen",
+        "Mohsen Imani"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'systolic'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "SkipOPU: An FPGA-based Overlay Processor for Large Language Models with Dynamically Allocated Computation",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2603.14785",
+      "url": "https://arxiv.org/abs/2603.14785",
+      "pdf": "https://arxiv.org/pdf/2603.14785",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "ViT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Zicheng He",
+        "Anhao Zhao",
+        "Xiaoyu Shen",
+        "Chen Wu",
+        "Lei He"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "A Persistent-State Dataflow Accelerator for Memory-Bound Linear Attention Decode on FPGA",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2603.05931",
+      "url": "https://arxiv.org/abs/2603.05931",
+      "pdf": "https://arxiv.org/pdf/2603.05931",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Neelesh Gupta",
+        "Peter Wang",
+        "Rajgopal Kannan",
+        "Viktor K. Prasanna"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "FAST-Prefill: FPGA Accelerated Sparse Attention for Long Context LLM Prefill",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2602.20515",
+      "url": "https://arxiv.org/abs/2602.20515",
+      "pdf": "https://arxiv.org/pdf/2602.20515",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Rakshith Jayanth",
+        "Viktor Prasanna"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'large language model', 'self-attention']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "LAAFD: LLM-based Agents for Accelerated FPGA Design",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2602.06085",
+      "url": "https://arxiv.org/abs/2602.06085",
+      "pdf": "https://arxiv.org/pdf/2602.06085",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "LLM",
+        "ViT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.DC",
+      "authors": [
+        "Maxim Moraru",
+        "Kamalavasan Kamalakkannan",
+        "Jered Dominguez-Trujillo",
+        "Patrick Diehl",
+        "Atanu Barai",
+        "Julien Loiseau",
+        "Zachary Kent Baker",
+        "Howard Pritchard",
+        "Galen M Shipman"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "HFRWKV: A High-Performance Fully On-Chip Hardware Accelerator for RWKV",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2601.02135",
+      "url": "https://arxiv.org/abs/2601.02135",
+      "pdf": "https://arxiv.org/pdf/2601.02135",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Liu Shijie",
+        "Zeng Zhenghao",
+        "Jiao Han",
+        "Huang Yihua"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'fpga', 'hardware accelerator'] model=['transformer', 'transformers']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "SPIMOE: Exploiting Hybrid Sparsity for Reasoning MoE Inference on Heterogeneous PIM Architectures",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.34612",
+      "url": "https://arxiv.org/abs/2609.34612",
+      "pdf": "https://arxiv.org/pdf/2609.34612",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "PIM",
+      "model": [
+        "MoE"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Rubing Yang",
+        "Cenlin Duan",
+        "Yingjie Qi",
+        "Xiaolin He",
+        "Xiao Ma",
+        "Jianlei Yang"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'pim'] model=['mixture-of-experts']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "The World Model Hardware Accelerator",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.16244",
+      "url": "https://arxiv.org/abs/2609.16244",
+      "pdf": "https://arxiv.org/pdf/2609.16244",
       "ignore": "check",
       "silicon": "check",
       "platform": "Design",
@@ -1717,15 +1699,88 @@
         "Transformer",
         "DiT"
       ],
-      "method": "__no_data__",
       "publisher": "Arxiv",
-      "pubkey": "",
       "pubname": "cs.AR",
-      "reserved": "DEADBEEF",
+      "authors": [
+        "Shashank Chaurasia"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.8,
+        "reason": "heuristic hw=['accelerator', 'hardware accelerator'] model=['transformer', 'transformers', 'diffusion transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "PATTON: Enabling Commodity PIM for Production LLM Serving",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.11392",
+      "url": "https://arxiv.org/abs/2609.11392",
+      "pdf": "https://arxiv.org/pdf/2609.11392",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "PIM",
+      "model": [
+        "LLM",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Hangyeol Kim",
+        "Sanghyun Lee",
+        "Teokkyu Suh",
+        "Joo-Young Kim"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.95,
+        "reason": "heuristic hw=['pim'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2608.03555",
+      "url": "https://arxiv.org/abs/2608.03555",
+      "pdf": "https://arxiv.org/pdf/2608.03555",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "PIM",
+      "model": [
+        "LLM",
+        "MoE"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Hyungkyu Ham",
+        "Junhyeong Bae",
+        "Seungheon Lee",
+        "Myeongjae Jeon",
+        "Gwangsun Kim"
+      ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['risc-v'] model=['transformer', 'transformers', 'vision transformer']",
+        "reason": "heuristic hw=['accelerator', 'pim', 'near-memory'] model=['llm']",
         "provider": "heuristic",
         "source": "arxiv"
       },

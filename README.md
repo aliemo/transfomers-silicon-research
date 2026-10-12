@@ -3670,6 +3670,30 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2606.29986-sandybrown?style=flat-square)](https://arxiv.org/abs/2606.29986)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2606.29986)
 
+**Performance modeling of photonic accelerators for attention kernel**
+
+![](https://img.shields.io/badge/OpenAlex-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1117/12.3118465-sandybrown?style=flat-square)](https://doi.org/10.1117/12.3118465)
+
+
+**VLA-Traj: An Analytically Bounded FPGA Accelerator for Deterministic Transformer–GRU Trajectory Planning**
+
+![](https://img.shields.io/badge/OpenAlex-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://doi.org/10.1007/978-981-92-6513-8_38-sandybrown?style=flat-square)](https://doi.org/10.1007/978-981-92-6513-8_38)
+
+
+**A Pipelined FPGA Architecture for Banded Sparse Matrix Dense Matrix Multiplication in Longformer**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.07301-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.07301)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.07301)
+
+**A Framework for Accelerating Transformer Inference on RISC-V for Edge AI**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.08688-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.08688)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.08688)
+
 ---
 ## Analysis
 
