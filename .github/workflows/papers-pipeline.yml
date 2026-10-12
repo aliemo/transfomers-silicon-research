@@ -29,11 +29,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # Needed so create-pull-request can push a branch
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
           cache: pip
 
       - name: Install dependencies
@@ -69,9 +72,11 @@ jobs:
           if-no-files-found: warn
 
       - name: Create Pull Request
+        id: cpr
         if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "chore(papers): weekly auto-ingest transformer-on-silicon papers"
           title: "chore(papers): weekly auto-ingest update"
           body: |
@@ -97,3 +102,54 @@ jobs:
             data/pipeline/last_run_report.json
             data/pipeline/last_run_report.md
             data/pipeline/candidates_related.json
+
+      - name: Fallback open PR via gh (if needed)
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) && steps.cpr.outcome == 'failure' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          echo "::warning::create-pull-request action failed; trying gh pr create"
+          echo "If this also fails, enable: Settings → Actions → General → Workflow permissions"
+          echo "  • Read and write permissions"
+          echo "  • Allow GitHub Actions to create and approve pull requests"
+          echo "Compare URL: https://github.com/${{ github.repository }}/compare/main...auto/papers-ingest?expand=1"
+
+          # Branch may already exist from the previous step
+          if git ls-remote --exit-code --heads origin auto/papers-ingest; then
+            if gh pr list --head auto/papers-ingest --state open --json number --jq 'length' | grep -qx '0'; then
+              gh pr create \
+                --base main \
+                --head auto/papers-ingest \
+                --title "chore(papers): weekly auto-ingest update" \
+                --body "$(cat <<'EOF'
+          ## Weekly papers ingest
+
+          Automated OpenAlex + arXiv search for transformer / LLM / ViT hardware papers.
+
+          - New entries: \`ignore: check\`, **Pass 1**
+          - Existing Pass 1 / 2 / 3 decisions preserved (append-only)
+
+          See \`data/pipeline/last_run_report.md\`.
+          EOF
+          )"
+            else
+              echo "PR already open for auto/papers-ingest"
+              gh pr list --head auto/papers-ingest --state open
+            fi
+          else
+            echo "::error::Branch auto/papers-ingest was not pushed. Check contents: write permission."
+            exit 1
+          fi
+
+      - name: Summarize
+        if: ${{ always() && !(github.event_name == 'workflow_dispatch' && inputs.dry_run == true) }}
+        run: |
+          echo "### Weekly ingest" >> "$GITHUB_STEP_SUMMARY"
+          echo "- CPR outcome: \`${{ steps.cpr.outcome }}\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Branch: \`auto/papers-ingest\`" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Open PR / compare: https://github.com/${{ github.repository }}/compare/main...auto/papers-ingest?expand=1" >> "$GITHUB_STEP_SUMMARY"
+          if [ -f data/pipeline/last_run_report.md ]; then
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            cat data/pipeline/last_run_report.md >> "$GITHUB_STEP_SUMMARY"
+          fi

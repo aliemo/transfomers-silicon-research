@@ -37,9 +37,16 @@ Your Pass 1/2/3 admin decisions are **kept** (CI only appends).
 
 ### One-time GitHub setup
 1. Push this repo to GitHub
-2. **Settings → Actions → General** → allow Actions / allow creating PRs
-3. Optional secrets: `GROQ_API_KEY`, `GEMINI_API_KEY`
-4. After first push, open **Actions** and run *Papers Auto-Ingest* once (manual test)
+2. **Settings → Actions → General → Workflow permissions**
+   - **Read and write permissions**
+   - Check **Allow GitHub Actions to create and approve pull requests** (required for weekly PRs)
+3. **Settings → Pages → Source: GitHub Actions**
+4. Optional secrets: `GROQ_API_KEY`, `GEMINI_API_KEY`
+5. After first push, open **Actions** and run *Papers Auto-Ingest* once (manual test)
+
+If the weekly job pushes `auto/papers-ingest` but fails on "Create Pull Request", the checkbox in step 2 is almost always the cause. You can still open a PR manually from:
+https://github.com/aliemo/transfomers-silicon-research/compare/main...auto/papers-ingest?expand=1
+
 
 ## Config layout
 
