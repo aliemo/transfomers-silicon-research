@@ -1,69 +1,24 @@
 {
-  "ran_at": "2026-10-12T20:28:55.428767+00:00",
+  "ran_at": "2026-10-19T11:36:17.416818+00:00",
   "dry_run": false,
-  "fetched": 719,
-  "related": 49,
-  "added_count": 4,
+  "fetched": 397,
+  "related": 44,
+  "added_count": 1,
   "added_ids": [
-    584,
-    585,
-    586,
-    587
+    588
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 584,
-      "title": "Performance modeling of photonic accelerators for attention kernel",
-      "doi": "https://doi.org/10.1117/12.3118465",
-      "platform": "PIM",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'in-memory computing'] model=['transformer', 'transformers']",
-        "provider": "heuristic",
-        "source": "openalex"
-      }
-    },
-    {
-      "id": 585,
-      "title": "VLA-Traj: An Analytically Bounded FPGA Accelerator for Deterministic Transformer–GRU Trajectory Planning",
-      "doi": "https://doi.org/10.1007/978-981-92-6513-8_38",
+      "id": 588,
+      "title": "ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection",
+      "doi": "https://arxiv.org/abs/2610.19665",
       "platform": "FPGA",
       "silicon": "check",
       "analysis": {
         "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "openalex"
-      }
-    },
-    {
-      "id": 586,
-      "title": "A Pipelined FPGA Architecture for Banded Sparse Matrix Dense Matrix Multiplication in Longformer",
-      "doi": "https://arxiv.org/abs/2610.07301",
-      "platform": "FPGA",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'self-attention']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 587,
-      "title": "A Framework for Accelerating Transformer Inference on RISC-V for Edge AI",
-      "doi": "https://arxiv.org/abs/2610.08688",
-      "platform": "FPGA",
-      "silicon": true,
-      "analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['fpga', 'asic', 'risc-v'] model=['transformer', 'bert']",
+        "confidence": 0.95,
+        "reason": "heuristic hw=['fpga'] model=['transformer']",
         "provider": "heuristic",
         "source": "arxiv"
       }
