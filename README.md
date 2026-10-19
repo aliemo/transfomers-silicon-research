@@ -3694,6 +3694,12 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.08688-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.08688)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.08688)
 
+**ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.19665-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.19665)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.19665)
+
 ---
 ## Analysis
 

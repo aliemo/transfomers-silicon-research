@@ -12283,3 +12283,24 @@
   review_pass3: pending
   review_notes: ""
 
+588:
+  title: "ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2610.19665"
+  url: "https://arxiv.org/abs/2610.19665"
+  pdf: https://arxiv.org/pdf/2610.19665
+  ignore: check
+  silicon: check
+  platform: FPGA
+  model: ['Transformer']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Jun Yang", "Yumeng Cao", "Yingxuan Xiao", "Changhong Li", "Shangru Zhou"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
