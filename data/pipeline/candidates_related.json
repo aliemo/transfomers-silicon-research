@@ -1,70 +1,34 @@
 {
-  "count_in": 719,
+  "count_in": 410,
   "count_related": 49,
   "items": [
     {
-      "title": "Performance modeling of photonic accelerators for attention kernel",
+      "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.1117/12.3118465",
-      "url": "https://doi.org/10.1117/12.3118465",
-      "pdf": false,
+      "doi": "https://arxiv.org/abs/2610.27376",
+      "url": "https://arxiv.org/abs/2610.27376",
+      "pdf": "https://arxiv.org/pdf/2610.27376",
       "ignore": "check",
       "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "Transformer",
-        "DiT"
-      ],
-      "publisher": "OpenAlex",
-      "pubname": "__no_data__",
-      "authors": [
-        "Jebacyril Arockiaraj",
-        "Ajey Jacob",
-        "Viktor Prasanna"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'in-memory computing'] model=['transformer', 'transformers']",
-        "provider": "heuristic",
-        "source": "openalex"
-      },
-      "category": "other",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "VLA-Traj: An Analytically Bounded FPGA Accelerator for Deterministic Transformer–GRU Trajectory Planning",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://doi.org/10.1007/978-981-92-6513-8_38",
-      "url": "https://doi.org/10.1007/978-981-92-6513-8_38",
-      "pdf": false,
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
+      "platform": "GPU",
       "model": [
         "Transformer"
       ],
-      "publisher": "OpenAlex",
-      "pubname": "Lecture notes in computer science",
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
       "authors": [
-        "Vu Duc Anh Dinh",
-        "Tran Ngoc Thinh",
-        "Long Tan Le"
+        "Bharat Bhatta",
+        "Ishan Thakkar"
       ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer']",
         "provider": "heuristic",
-        "source": "openalex"
+        "source": "arxiv"
       },
-      "category": "journal",
+      "category": "arxiv",
       "review_pass": "pass1",
       "review_pass1": "pending",
       "review_pass2": "pending",
@@ -819,35 +783,34 @@
       "review_notes": ""
     },
     {
-      "title": "AdaptViT: Runtime-Adaptive Vision Transformer Deployment on Custom RISC-V",
+      "title": "TranSAGE: Automating Spatial Accelerator Generation for Large-Scale Transformer Models",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.48550/arxiv.2610.02288",
-      "url": "https://arxiv.org/abs/2610.02288",
-      "pdf": "https://arxiv.org/pdf/2610.02288",
+      "doi": "https://arxiv.org/abs/2610.32279",
+      "url": "https://arxiv.org/abs/2610.32279",
+      "pdf": "https://arxiv.org/pdf/2610.32279",
       "ignore": "check",
       "silicon": "check",
-      "platform": "Design",
+      "platform": "GPU",
       "model": [
-        "ViT",
-        "Transformer",
-        "DiT"
+        "LLM",
+        "Transformer"
       ],
-      "publisher": "OpenAlex",
-      "pubname": "arXiv (Cornell University)",
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
       "authors": [
-        "Vishnu PS",
-        "Ajay Kumar M",
-        "Yike Li",
-        "Robert Bogdan Staszewski",
-        "Deepu John"
+        "Chi Zhang",
+        "Yi Sun",
+        "Weichuang Zhang",
+        "Quan Chen",
+        "Jieru Zhao"
       ],
       "_analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['risc-v'] model=['transformer', 'transformers', 'vision transformer']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'transformers', 'llm']",
         "provider": "heuristic",
-        "source": "openalex"
+        "source": "arxiv"
       },
       "category": "arxiv",
       "review_pass": "pass1",
@@ -857,33 +820,37 @@
       "review_notes": ""
     },
     {
-      "title": "Constraint-guided generative AI for gate-level VLSI design with early physical awareness",
+      "title": "Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V Processors",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.1016/j.vlsi.2026.102888",
-      "url": "https://doi.org/10.1016/j.vlsi.2026.102888",
-      "pdf": "https://www.sciencedirect.com/science/article/pii/S0167926026002439/pdf",
+      "doi": "https://arxiv.org/abs/2610.32597",
+      "url": "https://arxiv.org/abs/2610.32597",
+      "pdf": "https://arxiv.org/pdf/2610.32597",
       "ignore": "check",
       "silicon": "check",
       "platform": "__no_data__",
       "model": [
-        "Transformer",
-        "DiT"
+        "LLM"
       ],
-      "publisher": "OpenAlex",
-      "pubname": "Integration",
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
       "authors": [
-        "Yadi Lin",
-        "Wendi Lin"
+        "Debleena Das",
+        "Chandan Kumar Jha",
+        "Muhammad Hassan",
+        "Rolf Drechsler",
+        "Ansuman Banerjee",
+        "Subhra K. Das",
+        "Amlan Chakrabarti"
       ],
       "_analysis": {
         "related": true,
-        "confidence": 0.65,
-        "reason": "heuristic hw=['vlsi'] model=['transformer']",
+        "confidence": 1.0,
+        "reason": "heuristic hw=['risc-v'] model=['llm', 'large language model']",
         "provider": "heuristic",
-        "source": "openalex"
+        "source": "arxiv"
       },
-      "category": "other",
+      "category": "arxiv",
       "review_pass": "pass1",
       "review_pass1": "pending",
       "review_pass2": "pending",
@@ -891,105 +858,35 @@
       "review_notes": ""
     },
     {
-      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems",
+      "title": "ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection",
       "year": 2026,
       "type": "article",
-      "doi": "https://doi.org/10.48550/arxiv.2610.00311",
-      "url": "https://arxiv.org/abs/2610.00311",
-      "pdf": "https://arxiv.org/pdf/2610.00311",
+      "doi": "https://arxiv.org/abs/2610.19665",
+      "url": "https://arxiv.org/abs/2610.19665",
+      "pdf": "https://arxiv.org/pdf/2610.19665",
       "ignore": "check",
       "silicon": "check",
       "platform": "FPGA",
       "model": [
         "Transformer"
       ],
-      "publisher": "OpenAlex",
-      "pubname": "arXiv (Cornell University)",
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
       "authors": [
-        "Zhiheng Chen",
-        "Ye Qiao",
-        "Mohammad Abdullah Al Faruque",
-        "Sitao Huang"
+        "Jun Yang",
+        "Yumeng Cao",
+        "Yingxuan Xiao",
+        "Changhong Li",
+        "Shangru Zhou"
       ],
       "_analysis": {
         "related": true,
-        "confidence": 0.65,
+        "confidence": 0.95,
         "reason": "heuristic hw=['fpga'] model=['transformer']",
         "provider": "heuristic",
-        "source": "openalex"
+        "source": "arxiv"
       },
       "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "MorphAtt: A Neuromorphic Accelerator for Efficient Multi-Head Attention Processing in Spiking Vision Transformers",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://doi.org/10.48550/arxiv.2609.33207",
-      "url": "https://arxiv.org/abs/2609.33207",
-      "pdf": "https://arxiv.org/pdf/2609.33207",
-      "ignore": "check",
-      "silicon": true,
-      "platform": "Design",
-      "model": [
-        "ViT",
-        "Transformer",
-        "DiT"
-      ],
-      "publisher": "OpenAlex",
-      "pubname": "arXiv (Cornell University)",
-      "authors": [
-        "Rachmad Vidya Wicaksana Putra",
-        "Amirhesam Jafari Rad",
-        "Muhammad Shafique"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'tops/w'] model=['transformer', 'transformers', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "openalex"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Defending Side-Channel Attacks in FPGA-based Convolutional Layers and Multi-Head Attention Layers with Channel-Level Parallelization",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://doi.org/10.1145/3847663",
-      "url": "https://doi.org/10.1145/3847663",
-      "pdf": false,
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "FPGA",
-      "model": [
-        "Transformer",
-        "DiT"
-      ],
-      "publisher": "OpenAlex",
-      "pubname": "ACM Transactions on Design Automation of Electronic Systems",
-      "authors": [
-        "Yankun Zhu",
-        "Ranxi Lin",
-        "Pingqiang Zhou"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer', 'transformers', 'multi-head attention']",
-        "provider": "heuristic",
-        "source": "openalex"
-      },
-      "category": "journal",
       "review_pass": "pass1",
       "review_pass1": "pending",
       "review_pass2": "pending",
@@ -1027,6 +924,41 @@
         "related": true,
         "confidence": 1.0,
         "reason": "heuristic hw=['fpga', 'asic', 'risc-v'] model=['transformer', 'bert']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "EdgeDAE: Acceleration of Diffusion Action Experts for Real-Time Physical AI with Tiny VLAs on Edge FPGA-GPU Systems",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.00311",
+      "url": "https://arxiv.org/abs/2610.00311",
+      "pdf": "https://arxiv.org/pdf/2610.00311",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "FPGA",
+      "model": [
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Zhiheng Chen",
+        "Ye Qiao",
+        "Mohammad Abdullah Al Faruque",
+        "Sitao Huang"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.65,
+        "reason": "heuristic hw=['fpga'] model=['transformer']",
         "provider": "heuristic",
         "source": "arxiv"
       },
@@ -1648,6 +1580,88 @@
       "review_notes": ""
     },
     {
+      "title": "Toward Open ISA Supercomputing: A Comparative Study of RISC-V, Arm, and x86 Architectures on HPC Workloads",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.32632",
+      "url": "https://arxiv.org/abs/2610.32632",
+      "pdf": "https://arxiv.org/pdf/2610.32632",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "PIM",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.DC",
+      "authors": [
+        "Emanuele Venieri",
+        "Giacomo Madella",
+        "Gabriele Ceccolini",
+        "Simone Manoni",
+        "Federico Ficarelli",
+        "Filippo Barbari",
+        "Jenny Lynn Almerol",
+        "Elisabetta Boella",
+        "Nitin Shukla",
+        "Simone Bnà",
+        "Luca Benini",
+        "Andrea bartolini"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.7,
+        "reason": "heuristic hw=['cim', 'risc-v'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.30480",
+      "url": "https://arxiv.org/abs/2610.30480",
+      "pdf": "https://arxiv.org/pdf/2610.30480",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "GPU",
+      "model": [
+        "LLM",
+        "GPT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Faraz Tahmasebi",
+        "Haocheng Xu",
+        "Andrew Trauger",
+        "Yomal Perera",
+        "Zhenyu Tang",
+        "Nael Chowdhury",
+        "Sitao Huang"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['gpt', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
       "title": "SPIMOE: Exploiting Hybrid Sparsity for Reasoning MoE Inference on Heterogeneous PIM Architectures",
       "year": 2026,
       "type": "article",
@@ -1674,6 +1688,42 @@
         "related": true,
         "confidence": 0.75,
         "reason": "heuristic hw=['accelerator', 'accelerators', 'pim'] model=['mixture-of-experts']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "MorphAtt: A Neuromorphic Accelerator for Efficient Multi-Head Attention Processing in Spiking Vision Transformers",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2609.33207",
+      "url": "https://arxiv.org/abs/2609.33207",
+      "pdf": "https://arxiv.org/pdf/2609.33207",
+      "ignore": "check",
+      "silicon": true,
+      "platform": "Design",
+      "model": [
+        "ViT",
+        "Transformer",
+        "DiT"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Rachmad Vidya Wicaksana Putra",
+        "Amirhesam Jafari Rad",
+        "Muhammad Shafique"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'tops/w'] model=['transformer', 'transformers', 'vision transformer']",
         "provider": "heuristic",
         "source": "arxiv"
       },
@@ -1744,43 +1794,6 @@
         "related": true,
         "confidence": 0.95,
         "reason": "heuristic hw=['pim'] model=['llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2608.03555",
-      "url": "https://arxiv.org/abs/2608.03555",
-      "pdf": "https://arxiv.org/pdf/2608.03555",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM",
-        "MoE"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.AR",
-      "authors": [
-        "Hyungkyu Ham",
-        "Junhyeong Bae",
-        "Seungheon Lee",
-        "Myeongjae Jeon",
-        "Gwangsun Kim"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'pim', 'near-memory'] model=['llm']",
         "provider": "heuristic",
         "source": "arxiv"
       },
