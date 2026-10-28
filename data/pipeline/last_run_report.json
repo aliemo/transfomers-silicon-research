@@ -1,69 +1,99 @@
 {
-  "ran_at": "2026-10-12T20:28:55.428767+00:00",
+  "ran_at": "2026-10-26T11:54:13.785049+00:00",
   "dry_run": false,
-  "fetched": 719,
+  "fetched": 410,
   "related": 49,
-  "added_count": 4,
+  "added_count": 6,
   "added_ids": [
-    584,
-    585,
-    586,
-    587
+    588,
+    589,
+    590,
+    591,
+    592,
+    593
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 584,
-      "title": "Performance modeling of photonic accelerators for attention kernel",
-      "doi": "https://doi.org/10.1117/12.3118465",
-      "platform": "PIM",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'in-memory computing'] model=['transformer', 'transformers']",
-        "provider": "heuristic",
-        "source": "openalex"
-      }
-    },
-    {
-      "id": 585,
-      "title": "VLA-Traj: An Analytically Bounded FPGA Accelerator for Deterministic Transformer–GRU Trajectory Planning",
-      "doi": "https://doi.org/10.1007/978-981-92-6513-8_38",
-      "platform": "FPGA",
+      "id": 588,
+      "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
+      "doi": "https://arxiv.org/abs/2610.27376",
+      "platform": "GPU",
       "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'fpga'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "openalex"
-      }
-    },
-    {
-      "id": 586,
-      "title": "A Pipelined FPGA Architecture for Banded Sparse Matrix Dense Matrix Multiplication in Longformer",
-      "doi": "https://arxiv.org/abs/2610.07301",
-      "platform": "FPGA",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['transformer', 'self-attention']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer']",
         "provider": "heuristic",
         "source": "arxiv"
       }
     },
     {
-      "id": 587,
-      "title": "A Framework for Accelerating Transformer Inference on RISC-V for Edge AI",
-      "doi": "https://arxiv.org/abs/2610.08688",
-      "platform": "FPGA",
-      "silicon": true,
+      "id": 589,
+      "title": "TranSAGE: Automating Spatial Accelerator Generation for Large-Scale Transformer Models",
+      "doi": "https://arxiv.org/abs/2610.32279",
+      "platform": "GPU",
+      "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['fpga', 'asic', 'risc-v'] model=['transformer', 'bert']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 590,
+      "title": "Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V Processors",
+      "doi": "https://arxiv.org/abs/2610.32597",
+      "platform": "__no_data__",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['risc-v'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 591,
+      "title": "ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection",
+      "doi": "https://arxiv.org/abs/2610.19665",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 0.95,
+        "reason": "heuristic hw=['fpga'] model=['transformer']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 592,
+      "title": "Toward Open ISA Supercomputing: A Comparative Study of RISC-V, Arm, and x86 Architectures on HPC Workloads",
+      "doi": "https://arxiv.org/abs/2610.32632",
+      "platform": "PIM",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 0.7,
+        "reason": "heuristic hw=['cim', 'risc-v'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 593,
+      "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
+      "doi": "https://arxiv.org/abs/2610.30480",
+      "platform": "GPU",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['gpt', 'llm']",
         "provider": "heuristic",
         "source": "arxiv"
       }

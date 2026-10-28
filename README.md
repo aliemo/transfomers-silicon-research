@@ -3694,6 +3694,42 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.08688-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.08688)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.08688)
 
+**Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.27376-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.27376)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.27376)
+
+**TranSAGE: Automating Spatial Accelerator Generation for Large-Scale Transformer Models**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.32279-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.32279)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.32279)
+
+**Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V Processors**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.32597-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.32597)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.32597)
+
+**ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.19665-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.19665)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.19665)
+
+**Toward Open ISA Supercomputing: A Comparative Study of RISC-V, Arm, and x86 Architectures on HPC Workloads**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.32632-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.32632)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.32632)
+
+**FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.30480-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.30480)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.30480)
+
 ---
 ## Analysis
 
