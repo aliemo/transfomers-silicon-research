@@ -1,7 +1,44 @@
 {
-  "count_in": 410,
-  "count_related": 49,
+  "count_in": 398,
+  "count_related": 46,
   "items": [
+    {
+      "title": "SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2610.34824",
+      "url": "https://arxiv.org/abs/2610.34824",
+      "pdf": "https://arxiv.org/pdf/2610.34824",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
+      "model": [
+        "LLM"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "Yanzhen Zhou",
+        "Zhengyu Han",
+        "Qunyou Liu",
+        "Zheyu Yan",
+        "Weihong Xu",
+        "Cheng Zhuo"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
     {
       "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
       "year": 2026,
@@ -783,49 +820,12 @@
       "review_notes": ""
     },
     {
-      "title": "TranSAGE: Automating Spatial Accelerator Generation for Large-Scale Transformer Models",
+      "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
       "year": 2026,
       "type": "article",
-      "doi": "https://arxiv.org/abs/2610.32279",
-      "url": "https://arxiv.org/abs/2610.32279",
-      "pdf": "https://arxiv.org/pdf/2610.32279",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "GPU",
-      "model": [
-        "LLM",
-        "Transformer"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.AR",
-      "authors": [
-        "Chi Zhang",
-        "Yi Sun",
-        "Weichuang Zhang",
-        "Quan Chen",
-        "Jieru Zhao"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'transformers', 'llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V Processors",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2610.32597",
-      "url": "https://arxiv.org/abs/2610.32597",
-      "pdf": "https://arxiv.org/pdf/2610.32597",
+      "doi": "https://arxiv.org/abs/2610.41037",
+      "url": "https://arxiv.org/abs/2610.41037",
+      "pdf": "https://arxiv.org/pdf/2610.41037",
       "ignore": "check",
       "silicon": "check",
       "platform": "__no_data__",
@@ -833,20 +833,17 @@
         "LLM"
       ],
       "publisher": "Arxiv",
-      "pubname": "cs.AR",
+      "pubname": "cs.CV",
       "authors": [
-        "Debleena Das",
-        "Chandan Kumar Jha",
-        "Muhammad Hassan",
-        "Rolf Drechsler",
-        "Ansuman Banerjee",
-        "Subhra K. Das",
-        "Amlan Chakrabarti"
+        "Jiannan Huang",
+        "Jerry Ding",
+        "Li Yu",
+        "Zhenting Li"
       ],
       "_analysis": {
         "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['risc-v'] model=['llm', 'large language model']",
+        "confidence": 0.7,
+        "reason": "heuristic hw=['overlay'] model=['llm', 'large language model']",
         "provider": "heuristic",
         "source": "arxiv"
       },
@@ -1580,88 +1577,6 @@
       "review_notes": ""
     },
     {
-      "title": "Toward Open ISA Supercomputing: A Comparative Study of RISC-V, Arm, and x86 Architectures on HPC Workloads",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2610.32632",
-      "url": "https://arxiv.org/abs/2610.32632",
-      "pdf": "https://arxiv.org/pdf/2610.32632",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.DC",
-      "authors": [
-        "Emanuele Venieri",
-        "Giacomo Madella",
-        "Gabriele Ceccolini",
-        "Simone Manoni",
-        "Federico Ficarelli",
-        "Filippo Barbari",
-        "Jenny Lynn Almerol",
-        "Elisabetta Boella",
-        "Nitin Shukla",
-        "Simone Bnà",
-        "Luca Benini",
-        "Andrea bartolini"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 0.7,
-        "reason": "heuristic hw=['cim', 'risc-v'] model=['llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2610.30480",
-      "url": "https://arxiv.org/abs/2610.30480",
-      "pdf": "https://arxiv.org/pdf/2610.30480",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "GPU",
-      "model": [
-        "LLM",
-        "GPT"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.AR",
-      "authors": [
-        "Faraz Tahmasebi",
-        "Haocheng Xu",
-        "Andrew Trauger",
-        "Yomal Perera",
-        "Zhenyu Tang",
-        "Nael Chowdhury",
-        "Sitao Huang"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['gpt', 'llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
       "title": "SPIMOE: Exploiting Hybrid Sparsity for Reasoning MoE Inference on Heterogeneous PIM Architectures",
       "year": 2026,
       "type": "article",
@@ -1758,42 +1673,6 @@
         "related": true,
         "confidence": 0.8,
         "reason": "heuristic hw=['accelerator', 'hardware accelerator'] model=['transformer', 'transformers', 'diffusion transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "PATTON: Enabling Commodity PIM for Production LLM Serving",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2609.11392",
-      "url": "https://arxiv.org/abs/2609.11392",
-      "pdf": "https://arxiv.org/pdf/2609.11392",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "PIM",
-      "model": [
-        "LLM",
-        "DiT"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.AR",
-      "authors": [
-        "Hangyeol Kim",
-        "Sanghyun Lee",
-        "Teokkyu Suh",
-        "Joo-Young Kim"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 0.95,
-        "reason": "heuristic hw=['pim'] model=['llm']",
         "provider": "heuristic",
         "source": "arxiv"
       },
