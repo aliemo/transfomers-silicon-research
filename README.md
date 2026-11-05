@@ -3730,6 +3730,18 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.30480-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.30480)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.30480)
 
+**SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.34824-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.34824)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.34824)
+
+**WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.41037-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.41037)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.41037)
+
 ---
 ## Analysis
 

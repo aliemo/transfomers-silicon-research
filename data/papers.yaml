@@ -12409,3 +12409,45 @@
   review_pass3: pending
   review_notes: ""
 
+594:
+  title: "SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2610.34824"
+  url: "https://arxiv.org/abs/2610.34824"
+  pdf: https://arxiv.org/pdf/2610.34824
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Yanzhen Zhou", "Zhengyu Han", "Qunyou Liu", "Zheyu Yan", "Weihong Xu", "Cheng Zhuo"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+595:
+  title: "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2610.41037"
+  url: "https://arxiv.org/abs/2610.41037"
+  pdf: https://arxiv.org/pdf/2610.41037
+  ignore: check
+  silicon: check
+  platform: __no_data__
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.CV
+  authors: ["Jiannan Huang", "Jerry Ding", "Li Yu", "Zhenting Li"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+

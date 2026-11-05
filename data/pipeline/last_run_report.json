@@ -1,99 +1,39 @@
 {
-  "ran_at": "2026-10-26T11:54:13.785049+00:00",
+  "ran_at": "2026-11-02T14:15:02.133965+00:00",
   "dry_run": false,
-  "fetched": 410,
-  "related": 49,
-  "added_count": 6,
+  "fetched": 398,
+  "related": 46,
+  "added_count": 2,
   "added_ids": [
-    588,
-    589,
-    590,
-    591,
-    592,
-    593
+    594,
+    595
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 588,
-      "title": "Green Light: Carbon-Aware Design of Photonic Transformer Accelerators at the Edge",
-      "doi": "https://arxiv.org/abs/2610.27376",
-      "platform": "GPU",
+      "id": 594,
+      "title": "SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference",
+      "doi": "https://arxiv.org/abs/2610.34824",
+      "platform": "Design",
       "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
         "provider": "heuristic",
         "source": "arxiv"
       }
     },
     {
-      "id": 589,
-      "title": "TranSAGE: Automating Spatial Accelerator Generation for Large-Scale Transformer Models",
-      "doi": "https://arxiv.org/abs/2610.32279",
-      "platform": "GPU",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['transformer', 'transformers', 'llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 590,
-      "title": "Automated Multi-Line Bug Repair Using Model Checker Aided LLMs: A Case Study on RISC-V Processors",
-      "doi": "https://arxiv.org/abs/2610.32597",
+      "id": 595,
+      "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
+      "doi": "https://arxiv.org/abs/2610.41037",
       "platform": "__no_data__",
       "silicon": "check",
       "analysis": {
         "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['risc-v'] model=['llm', 'large language model']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 591,
-      "title": "ESL-former: Event Sparse Linear Transformer for FPGA-Accelerated Malware Detection",
-      "doi": "https://arxiv.org/abs/2610.19665",
-      "platform": "FPGA",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.95,
-        "reason": "heuristic hw=['fpga'] model=['transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 592,
-      "title": "Toward Open ISA Supercomputing: A Comparative Study of RISC-V, Arm, and x86 Architectures on HPC Workloads",
-      "doi": "https://arxiv.org/abs/2610.32632",
-      "platform": "PIM",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
         "confidence": 0.7,
-        "reason": "heuristic hw=['cim', 'risc-v'] model=['llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 593,
-      "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
-      "doi": "https://arxiv.org/abs/2610.30480",
-      "platform": "GPU",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['gpt', 'llm']",
+        "reason": "heuristic hw=['overlay'] model=['llm', 'large language model']",
         "provider": "heuristic",
         "source": "arxiv"
       }
