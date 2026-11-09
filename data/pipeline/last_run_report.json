@@ -1,39 +1,54 @@
 {
-  "ran_at": "2026-11-02T14:15:02.133965+00:00",
+  "ran_at": "2026-11-09T14:44:17.148485+00:00",
   "dry_run": false,
-  "fetched": 398,
-  "related": 46,
-  "added_count": 2,
+  "fetched": 404,
+  "related": 47,
+  "added_count": 3,
   "added_ids": [
-    594,
-    595
+    596,
+    597,
+    598
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 594,
-      "title": "SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference",
-      "doi": "https://arxiv.org/abs/2610.34824",
+      "id": 596,
+      "title": "Atik: A Shared-Mesh Transformer Accelerator for RISC-V",
+      "doi": "https://arxiv.org/abs/2611.09522",
       "platform": "Design",
       "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
+        "reason": "heuristic hw=['accelerator', 'risc-v'] model=['transformer', 'bert', 'gpt']",
         "provider": "heuristic",
         "source": "arxiv"
       }
     },
     {
-      "id": 595,
-      "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
-      "doi": "https://arxiv.org/abs/2610.41037",
-      "platform": "__no_data__",
+      "id": 597,
+      "title": "Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators",
+      "doi": "https://arxiv.org/abs/2611.08693",
+      "platform": "PIM",
       "silicon": "check",
       "analysis": {
         "related": true,
-        "confidence": 0.7,
-        "reason": "heuristic hw=['overlay'] model=['llm', 'large language model']",
+        "confidence": 0.9,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'cim'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 598,
+      "title": "Should You Split Decode? Disaggregation Across Future Models and Accelerators",
+      "doi": "https://arxiv.org/abs/2611.08299",
+      "platform": "Design",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
         "provider": "heuristic",
         "source": "arxiv"
       }

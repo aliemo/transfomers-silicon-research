@@ -1,7 +1,43 @@
 {
-  "count_in": 398,
-  "count_related": 46,
+  "count_in": 404,
+  "count_related": 47,
   "items": [
+    {
+      "title": "Atik: A Shared-Mesh Transformer Accelerator for RISC-V",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2611.09522",
+      "url": "https://arxiv.org/abs/2611.09522",
+      "pdf": "https://arxiv.org/pdf/2611.09522",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
+      "model": [
+        "BERT",
+        "GPT",
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AI",
+      "authors": [
+        "Ahmed Zeer",
+        "Erkan Uslu"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'risc-v'] model=['transformer', 'bert', 'gpt']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
     {
       "title": "SPARTA: A Sparse Ternary LLM Accelerator with Adaptive Attention and Unified Datapath for Long-Context Edge Inference",
       "year": 2026,
@@ -820,30 +856,62 @@
       "review_notes": ""
     },
     {
-      "title": "WebOverlay: High-Throughput Vision-Only Distillation for Extreme Aspect-Ratio Web Overlay Detection",
+      "title": "Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators",
       "year": 2026,
       "type": "article",
-      "doi": "https://arxiv.org/abs/2610.41037",
-      "url": "https://arxiv.org/abs/2610.41037",
-      "pdf": "https://arxiv.org/pdf/2610.41037",
+      "doi": "https://arxiv.org/abs/2611.08693",
+      "url": "https://arxiv.org/abs/2611.08693",
+      "pdf": "https://arxiv.org/pdf/2611.08693",
       "ignore": "check",
       "silicon": "check",
-      "platform": "__no_data__",
+      "platform": "PIM",
+      "model": [
+        "LLM",
+        "ViT",
+        "Transformer"
+      ],
+      "publisher": "Arxiv",
+      "pubname": "cs.AR",
+      "authors": [
+        "George Karfakis",
+        "Puneet Gupta"
+      ],
+      "_analysis": {
+        "related": true,
+        "confidence": 0.9,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'cim'] model=['transformer', 'transformers', 'llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      },
+      "category": "arxiv",
+      "review_pass": "pass1",
+      "review_pass1": "pending",
+      "review_pass2": "pending",
+      "review_pass3": "pending",
+      "review_notes": ""
+    },
+    {
+      "title": "Should You Split Decode? Disaggregation Across Future Models and Accelerators",
+      "year": 2026,
+      "type": "article",
+      "doi": "https://arxiv.org/abs/2611.08299",
+      "url": "https://arxiv.org/abs/2611.08299",
+      "pdf": "https://arxiv.org/pdf/2611.08299",
+      "ignore": "check",
+      "silicon": "check",
+      "platform": "Design",
       "model": [
         "LLM"
       ],
       "publisher": "Arxiv",
-      "pubname": "cs.CV",
+      "pubname": "cs.AR",
       "authors": [
-        "Jiannan Huang",
-        "Jerry Ding",
-        "Li Yu",
-        "Zhenting Li"
+        "Ramyad Hadidi"
       ],
       "_analysis": {
         "related": true,
-        "confidence": 0.7,
-        "reason": "heuristic hw=['overlay'] model=['llm', 'large language model']",
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
         "provider": "heuristic",
         "source": "arxiv"
       },
@@ -1639,40 +1707,6 @@
         "related": true,
         "confidence": 1.0,
         "reason": "heuristic hw=['accelerator', 'tops/w'] model=['transformer', 'transformers', 'vision transformer']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      },
-      "category": "arxiv",
-      "review_pass": "pass1",
-      "review_pass1": "pending",
-      "review_pass2": "pending",
-      "review_pass3": "pending",
-      "review_notes": ""
-    },
-    {
-      "title": "The World Model Hardware Accelerator",
-      "year": 2026,
-      "type": "article",
-      "doi": "https://arxiv.org/abs/2609.16244",
-      "url": "https://arxiv.org/abs/2609.16244",
-      "pdf": "https://arxiv.org/pdf/2609.16244",
-      "ignore": "check",
-      "silicon": "check",
-      "platform": "Design",
-      "model": [
-        "ViT",
-        "Transformer",
-        "DiT"
-      ],
-      "publisher": "Arxiv",
-      "pubname": "cs.AR",
-      "authors": [
-        "Shashank Chaurasia"
-      ],
-      "_analysis": {
-        "related": true,
-        "confidence": 0.8,
-        "reason": "heuristic hw=['accelerator', 'hardware accelerator'] model=['transformer', 'transformers', 'diffusion transformer']",
         "provider": "heuristic",
         "source": "arxiv"
       },

@@ -3742,6 +3742,24 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2610.41037-sandybrown?style=flat-square)](https://arxiv.org/abs/2610.41037)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2610.41037)
 
+**Atik: A Shared-Mesh Transformer Accelerator for RISC-V**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.09522-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.09522)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.09522)
+
+**Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.08693-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.08693)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.08693)
+
+**Should You Split Decode? Disaggregation Across Future Models and Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.08299-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.08299)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.08299)
+
 ---
 ## Analysis
 
