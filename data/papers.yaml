@@ -12451,3 +12451,66 @@
   review_pass3: pending
   review_notes: ""
 
+596:
+  title: "Atik: A Shared-Mesh Transformer Accelerator for RISC-V"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.09522"
+  url: "https://arxiv.org/abs/2611.09522"
+  pdf: https://arxiv.org/pdf/2611.09522
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['BERT', 'GPT', 'ViT', 'Transformer']
+  publisher: Arxiv
+  pubname: cs.AI
+  authors: ["Ahmed Zeer", "Erkan Uslu"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+597:
+  title: "Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.08693"
+  url: "https://arxiv.org/abs/2611.08693"
+  pdf: https://arxiv.org/pdf/2611.08693
+  ignore: check
+  silicon: check
+  platform: PIM
+  model: ['LLM', 'ViT', 'Transformer']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["George Karfakis", "Puneet Gupta"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+598:
+  title: "Should You Split Decode? Disaggregation Across Future Models and Accelerators"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.08299"
+  url: "https://arxiv.org/abs/2611.08299"
+  pdf: https://arxiv.org/pdf/2611.08299
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Ramyad Hadidi"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
