@@ -1,54 +1,39 @@
 {
-  "ran_at": "2026-11-09T14:44:17.148485+00:00",
+  "ran_at": "2026-11-16T14:23:31.628294+00:00",
   "dry_run": false,
-  "fetched": 404,
-  "related": 47,
-  "added_count": 3,
+  "fetched": 291,
+  "related": 30,
+  "added_count": 2,
   "added_ids": [
-    596,
-    597,
-    598
+    599,
+    600
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 596,
-      "title": "Atik: A Shared-Mesh Transformer Accelerator for RISC-V",
-      "doi": "https://arxiv.org/abs/2611.09522",
+      "id": 599,
+      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
+      "doi": "https://arxiv.org/abs/2611.18527",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 0.75,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 600,
+      "title": "Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning",
+      "doi": "https://arxiv.org/abs/2611.18523",
       "platform": "Design",
       "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'risc-v'] model=['transformer', 'bert', 'gpt']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 597,
-      "title": "Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators",
-      "doi": "https://arxiv.org/abs/2611.08693",
-      "platform": "PIM",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.9,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'cim'] model=['transformer', 'transformers', 'llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 598,
-      "title": "Should You Split Decode? Disaggregation Across Future Models and Accelerators",
-      "doi": "https://arxiv.org/abs/2611.08299",
-      "platform": "Design",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.75,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
         "provider": "heuristic",
         "source": "arxiv"
       }
