@@ -3760,6 +3760,18 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.08299-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.08299)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.08299)
 
+**WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.18527-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.18527)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.18527)
+
+**Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.18523-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.18523)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.18523)
+
 ---
 ## Analysis
 
