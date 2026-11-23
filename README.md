@@ -3772,6 +3772,48 @@ Papers below are generated from [`data/papers.yaml`](https://github.com/aliemo/t
 [![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.18523-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.18523)
 [![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.18523)
 
+**Exploring the Potential of Ultra-Low-Bit Inference on LLM Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.27561-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.27561)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.27561)
+
+**Cruella: A Unified Microscaling and Floating-Point Dot-Product Unit for LLM Inference on FPGAs**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.27323-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.27323)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.27323)
+
+**CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.26857-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.26857)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.26857)
+
+**Kameleo: In-Situ Activation-Precision Selection for Bit-Serial LLM Accelerators**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.25971-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.25971)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.25971)
+
+**From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.25339-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.25339)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.25339)
+
+**HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.22086-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.22086)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.22086)
+
+**Chimera: A Configurable LLM Decode Accelerator Architecture with Compute-Memory-Floorplan Co-Design for HBM-Equipped Multi-Die FPGAs**
+
+![](https://img.shields.io/badge/Arxiv-2026-skyblue?colorstyle=flat-square)
+[![DOI-Link](https://img.shields.io/badge/DOI-https://arxiv.org/abs/2611.21677-sandybrown?style=flat-square)](https://arxiv.org/abs/2611.21677)
+[![PDF-Link](https://img.shields.io/badge/PDF-Download-darkgreen?logoColor=red&&style=flat-square&logo=adobe)](https://arxiv.org/pdf/2611.21677)
+
 ---
 ## Analysis
 

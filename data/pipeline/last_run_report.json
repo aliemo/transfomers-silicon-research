@@ -1,39 +1,114 @@
 {
-  "ran_at": "2026-11-16T14:23:31.628294+00:00",
+  "ran_at": "2026-11-23T16:52:49.218324+00:00",
   "dry_run": false,
-  "fetched": 291,
-  "related": 30,
-  "added_count": 2,
+  "fetched": 416,
+  "related": 52,
+  "added_count": 7,
   "added_ids": [
-    599,
-    600
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607
   ],
   "lookback_days": 21,
   "added": [
     {
-      "id": 599,
-      "title": "WaferTetris: Efficient Freeform Mapping on Wafer-Scale Accelerators",
-      "doi": "https://arxiv.org/abs/2611.18527",
-      "platform": "FPGA",
-      "silicon": "check",
-      "analysis": {
-        "related": true,
-        "confidence": 0.75,
-        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm']",
-        "provider": "heuristic",
-        "source": "arxiv"
-      }
-    },
-    {
-      "id": 600,
-      "title": "Mutable Inference: Architecting LLM Accelerators for Inference-Time Learning",
-      "doi": "https://arxiv.org/abs/2611.18523",
+      "id": 601,
+      "title": "Exploring the Potential of Ultra-Low-Bit Inference on LLM Accelerators",
+      "doi": "https://arxiv.org/abs/2611.27561",
       "platform": "Design",
       "silicon": "check",
       "analysis": {
         "related": true,
         "confidence": 1.0,
-        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm']",
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'systolic'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 602,
+      "title": "Cruella: A Unified Microscaling and Floating-Point Dot-Product Unit for LLM Inference on FPGAs",
+      "doi": "https://arxiv.org/abs/2611.27323",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 603,
+      "title": "CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache",
+      "doi": "https://arxiv.org/abs/2611.26857",
+      "platform": "Design",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 0.95,
+        "reason": "heuristic hw=['accelerator'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 604,
+      "title": "Kameleo: In-Situ Activation-Precision Selection for Bit-Serial LLM Accelerators",
+      "doi": "https://arxiv.org/abs/2611.25971",
+      "platform": "Design",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 605,
+      "title": "From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware",
+      "doi": "https://arxiv.org/abs/2611.25339",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 606,
+      "title": "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures",
+      "doi": "https://arxiv.org/abs/2611.22086",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'accelerators', 'fpga'] model=['llm', 'large language model']",
+        "provider": "heuristic",
+        "source": "arxiv"
+      }
+    },
+    {
+      "id": 607,
+      "title": "Chimera: A Configurable LLM Decode Accelerator Architecture with Compute-Memory-Floorplan Co-Design for HBM-Equipped Multi-Die FPGAs",
+      "doi": "https://arxiv.org/abs/2611.21677",
+      "platform": "FPGA",
+      "silicon": "check",
+      "analysis": {
+        "related": true,
+        "confidence": 1.0,
+        "reason": "heuristic hw=['accelerator', 'fpga'] model=['llm', 'mixture-of-experts']",
         "provider": "heuristic",
         "source": "arxiv"
       }
