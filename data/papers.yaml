@@ -12556,3 +12556,150 @@
   review_pass3: pending
   review_notes: ""
 
+601:
+  title: "Exploring the Potential of Ultra-Low-Bit Inference on LLM Accelerators"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.27561"
+  url: "https://arxiv.org/abs/2611.27561"
+  pdf: https://arxiv.org/pdf/2611.27561
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['LLM', 'DiT']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Hao Wang", "Yang Shi", "Jiageng Shi", "Qiuran Li", "Yaohua Wang"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+602:
+  title: "Cruella: A Unified Microscaling and Floating-Point Dot-Product Unit for LLM Inference on FPGAs"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.27323"
+  url: "https://arxiv.org/abs/2611.27323"
+  pdf: https://arxiv.org/pdf/2611.27323
+  ignore: check
+  silicon: check
+  platform: FPGA
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Jinho Yang", "Taehyeong Kim", "Mincheol Cha", "Hyeoncheol Kim", "Donggeun Kim", "Nahye Kim", "Yujin Lee", "Ryeowook Ko", "Woong Gyu Park", "Jiwoong Park", "Junsoo Kim", "Tae-Hyoung Kim", "Yongjun Park", "Seongmin Hong", "Joo-Young Kim"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+603:
+  title: "CarrierKV: An Edge LLM Accelerator with Positional Carrier Decomposition for Low-Bit KV Cache"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.26857"
+  url: "https://arxiv.org/abs/2611.26857"
+  pdf: https://arxiv.org/pdf/2611.26857
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Junyi Luo", "Xinting Jiang", "Ruichen Qi", "Gregory Kielian", "Quan Cheng", "Mehdi Saligane"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+604:
+  title: "Kameleo: In-Situ Activation-Precision Selection for Bit-Serial LLM Accelerators"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.25971"
+  url: "https://arxiv.org/abs/2611.25971"
+  pdf: https://arxiv.org/pdf/2611.25971
+  ignore: check
+  silicon: check
+  platform: Design
+  model: ['LLM']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Robin Geens", "Thomas Debelle", "Marian Verhelst", "Chao Fang"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+605:
+  title: "From FIPS to FPGA with LLM Agents: Measuring What Tests and Reviews Miss in Post-Quantum Cryptographic Hardware"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.25339"
+  url: "https://arxiv.org/abs/2611.25339"
+  pdf: https://arxiv.org/pdf/2611.25339
+  ignore: check
+  silicon: check
+  platform: FPGA
+  model: ['LLM', 'DiT']
+  publisher: Arxiv
+  pubname: cs.CR
+  authors: ["Jungmin Park", "Eunha Kim", "Wooseop Kim", "Seongjoon Cho", "Byungho Cha"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+606:
+  title: "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.22086"
+  url: "https://arxiv.org/abs/2611.22086"
+  pdf: https://arxiv.org/pdf/2611.22086
+  ignore: check
+  silicon: check
+  platform: FPGA
+  model: ['LLM', 'DiT']
+  publisher: Arxiv
+  pubname: cs.OS
+  authors: ["Zewen Huang", "Xiangwen Zhuge", "Yingkun Hu", "Zheng Yang", "Qiang Ma"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
+607:
+  title: "Chimera: A Configurable LLM Decode Accelerator Architecture with Compute-Memory-Floorplan Co-Design for HBM-Equipped Multi-Die FPGAs"
+  year: 2026
+  type: article
+  doi: "https://arxiv.org/abs/2611.21677"
+  url: "https://arxiv.org/abs/2611.21677"
+  pdf: https://arxiv.org/pdf/2611.21677
+  ignore: check
+  silicon: check
+  platform: FPGA
+  model: ['LLM', 'MoE', 'DiT']
+  publisher: Arxiv
+  pubname: cs.AR
+  authors: ["Zhiheng Chen", "Yifan Zhang", "Yu-An Chou", "Ye Qiao", "Sitao Huang"]
+  category: arxiv
+  review_pass: pass1
+  review_pass1: pending
+  review_pass2: pending
+  review_pass3: pending
+  review_notes: ""
+
